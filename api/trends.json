@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-22T06:21:28.450847+08:00",
-  "total_titles_processed": 624,
+  "generated_at": "2025-10-22T07:23:21.877573+08:00",
+  "total_titles_processed": 673,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 美债 美元 石油 战争",
-      "match_count": 74,
+      "match_count": 80,
       "titles": [
         {
           "title": "上千网站受影响！亚马逊云服务四年来最严重宕机：时长15小时，潜在损失或超百亿美元",
@@ -13,11 +13,12 @@
           "source": "澎湃新闻",
           "ranks": [
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时30分 ~ 06时21分]"
+          "appearance_count": 10,
+          "time_info": "[00时30分 ~ 07时23分]"
         },
         {
           "title": "太子集团150亿美元比特币被美国查获，是内鬼泄密还是暴力搜索？",
@@ -27,8 +28,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时30分 ~ 06时21分]"
+          "appearance_count": 10,
+          "time_info": "[00时30分 ~ 07时23分]"
         },
         {
           "title": "玄幻小说中，低等级修士参加战争的意义是什么？直接让高层修士打一场决定胜负不就行了吗？",
@@ -43,6 +44,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时30分 ~ 05时22分]"
+        },
+        {
+          "title": "美股涨跌互现，道指新高，金银暴跌，比特币盘中拉升",
+          "url": "https://wallstreetcn.com/articles/3757563",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
         },
         {
           "title": "NYMEX 11月汽油期货收报1.8253美元/加仑，NYMEX 11月取暖油期货收报2.2058美元/加仑。 中东Abu Dhabi Murban原油期货涨0.06%，报63.02美元/桶。",
@@ -78,17 +90,6 @@
           "time_info": "04时26分"
         },
         {
-          "title": "Anthropic与谷歌公司洽谈价值数十亿美元的云计算协议",
-          "url": "https://wallstreetcn.com/livenews/2991440",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时21分"
-        },
-        {
           "title": "金十图示：2025年10月21日（周二）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20251022040658696800",
           "source": "金十数据",
@@ -122,15 +123,43 @@
           "time_info": "04时26分"
         },
         {
-          "title": "微软CEO Satya Nadella的2025财年总薪酬达到9650万美元，为其自十多年前入职以来的最高。",
-          "url": "https://wallstreetcn.com/livenews/2991439",
+          "title": "周二（10月21日）纽约尾盘（周三北京时间04:59），离岸人民币（CNH）兑美元报7.1268元，较周一纽约尾盘跌27点，日内整体交投于7.1162-7.1271元区间。",
+          "url": "https://wallstreetcn.com/livenews/2991430",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            1,
+            11,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时21分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时22分 ~ 07时23分]"
+        },
+        {
+          "title": "美国总统特朗普：印度将不会大量购买俄罗斯石油。",
+          "url": "https://flash.jin10.com/detail/20251022050255539800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            17,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时22分 ~ 07时23分]"
+        },
+        {
+          "title": "周二（10月21日）纽约尾盘，美元兑日元涨0.79%，报151.93日元，日内交投区间为150.47-152.17日元，微幅下跌之中在北京时间08:54刷新日低，随后持续走高，20:49刷新日高，之后持续高位震荡。",
+          "url": "https://wallstreetcn.com/livenews/2991429",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            12,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时22分 ~ 07时23分]"
         },
         {
           "title": "阿根廷央行在市场售出了4550万美元来支持本币。",
@@ -157,18 +186,6 @@
           "time_info": "[03时19分 ~ 04时26分]"
         },
         {
-          "title": "周二（10月21日）纽约尾盘（周三北京时间04:59），离岸人民币（CNH）兑美元报7.1268元，较周一纽约尾盘跌27点，日内整体交投于7.1162-7.1271元区间。",
-          "url": "https://wallstreetcn.com/livenews/2991430",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时22分 ~ 06时21分]"
-        },
-        {
           "title": "阿根廷比索在非正式平行市场汇率下跌2.6%，跌至历史最低水平，报每美元兑1,545比索。",
           "url": "https://flash.jin10.com/detail/20251022030318977800",
           "source": "金十数据",
@@ -179,18 +196,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时19分 ~ 04时26分]"
-        },
-        {
-          "title": "美国总统特朗普：印度将不会大量购买俄罗斯石油。",
-          "url": "https://flash.jin10.com/detail/20251022050255539800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时22分 ~ 06时21分]"
         },
         {
           "title": "贝莱德集团旗下多只ETF从Meta Platforms的Hyperion买入超过30亿美元债券。（华尔街日报）",
@@ -205,18 +210,6 @@
           "time_info": "[03时19分 ~ 04时26分]"
         },
         {
-          "title": "周二（10月21日）纽约尾盘，美元兑日元涨0.79%，报151.93日元，日内交投区间为150.47-152.17日元，微幅下跌之中在北京时间08:54刷新日低，随后持续走高，20:49刷新日高，之后持续高位震荡。",
-          "url": "https://wallstreetcn.com/livenews/2991429",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时22分 ~ 06时21分]"
-        },
-        {
           "title": "波音(BA.N)：美国陆军订购了9架 CH-47F“奇努克”直升机Block II型号。第4批和第5批合同价值达4.61亿美元，使在签订单下的CH-47F Block II直升机总数增至18架。",
           "url": "https://flash.jin10.com/detail/20251022030253172800",
           "source": "金十数据",
@@ -227,6 +220,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时19分 ~ 04时26分]"
+        },
+        {
+          "title": "Anthropic与谷歌公司洽谈价值数十亿美元的云计算协议",
+          "url": "https://wallstreetcn.com/livenews/2991440",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时21分 ~ 07时23分]"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.1250元，较周一夜盘收盘跌20点。成交量405.58亿美元。",
@@ -251,6 +256,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时22分 ~ 06时21分]"
+        },
+        {
+          "title": "微软CEO Satya Nadella的2025财年总薪酬达到9650万美元，为其自十多年前入职以来的最高。",
+          "url": "https://wallstreetcn.com/livenews/2991439",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时21分 ~ 07时23分]"
         },
         {
           "title": "美国总统特朗普向司法部（DOJ）索要2.3亿美元，因为后者调查他。（纽约时报）",
@@ -337,6 +354,18 @@
           "time_info": "[03时19分 ~ 04时26分]"
         },
         {
+          "title": "市场消息：Anthropic正在洽谈一项价值数百亿美元的谷歌云合作协议。",
+          "url": "https://flash.jin10.com/detail/20251022054430700800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时21分 ~ 07时23分]"
+        },
+        {
           "title": "哥伦比亚美元债券价格上涨，至少创一个月新高。 哥伦比亚比索兑美元跌向3885比索下方的平盘，北京时间22:05还曾涨至3858.49比索。 此前，哥伦比亚政府召见驻该国Bogota的大使，讨论特朗普政府与其之间发生的外交危机。",
           "url": "https://wallstreetcn.com/livenews/2991337",
           "source": "华尔街见闻-快讯",
@@ -359,6 +388,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时26分 ~ 05时22分]"
+        },
+        {
+          "title": "周二（10月21日）纽约尾盘，CME比特币期货BTC主力合约较周一纽约尾盘涨0.25%，至11.1万美元上方。 CME以太币期货DCR主力合约跌0.71%，报3966.50美元。",
+          "url": "https://wallstreetcn.com/livenews/2991431",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时21分 ~ 07时23分]"
         },
         {
           "title": "IBM首席执行官：我们将在未来5年内在美国投资1500亿美元。",
@@ -481,6 +522,17 @@
           "time_info": "[05时22分 ~ 06时21分]"
         },
         {
+          "title": "美股收盘：三大指数涨跌不一 道指创历史新高",
+          "url": "https://www.cls.cn/detail/2176345",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
+        },
+        {
           "title": "奈飞(NFLX.O)美股盘后跌超6%。",
           "url": "https://flash.jin10.com/detail/20251022040513760800",
           "source": "金十数据",
@@ -536,6 +588,17 @@
           "time_info": "02时34分"
         },
         {
+          "title": "杠杆警报！美股这个“狂热指标”已经超过了1999年和2007年",
+          "url": "https://wallstreetcn.com/articles/3757528",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
+        },
+        {
           "title": "消息人士：华纳兄弟探索公司(WBD.O)董事会已拒绝派拉蒙-Skydance提出的每股23至24美元的收购报价。该报价主要以现金形式支付。",
           "url": "https://flash.jin10.com/detail/20251022024458000800",
           "source": "金十数据",
@@ -567,6 +630,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时22分"
+        },
+        {
+          "title": "港股市场迎来修复，短期震荡不改长期上行趋势",
+          "url": "https://wallstreetcn.com/livenews/2991455",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
         },
         {
           "title": "市场消息：埃及正与外国石油运营商洽谈，以增加液化天然气出口。",
@@ -602,17 +676,6 @@
           "time_info": "04时26分"
         },
         {
-          "title": "市场消息：Anthropic正在洽谈一项价值数百亿美元的谷歌云合作协议。",
-          "url": "https://flash.jin10.com/detail/20251022054430700800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时21分"
-        },
-        {
           "title": "特朗普政府将回填战略石油储备，美国油价昨日创五个月新低",
           "url": "https://wallstreetcn.com/livenews/2991351",
           "source": "华尔街见闻-快讯",
@@ -635,15 +698,15 @@
           "time_info": "05时22分"
         },
         {
-          "title": "周二（10月21日）纽约尾盘，CME比特币期货BTC主力合约较周一纽约尾盘涨0.25%，至11.1万美元上方。 CME以太币期货DCR主力合约跌0.71%，报3966.50美元。",
-          "url": "https://wallstreetcn.com/livenews/2991431",
-          "source": "华尔街见闻-快讯",
+          "title": "政府停摆促使资金避险 交易员押注美债收益率续跌",
+          "url": "https://flash.jin10.com/detail/20251022062303816800",
+          "source": "金十数据",
           "ranks": [
-            10
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时21分"
+          "time_info": "07时23分"
         },
         {
           "title": "美国能源部宣布新一轮100万桶原油采购招标，用于战略石油储备。",
@@ -679,6 +742,17 @@
           "time_info": "01时21分"
         },
         {
+          "title": "多只优质中概股“归巢”，港股迎科技企业生力军",
+          "url": "https://wallstreetcn.com/livenews/2991447",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
+        },
+        {
           "title": "市场消息：美国将购买100万桶石油作为战略石油储备。",
           "url": "https://flash.jin10.com/detail/20251022003938937800",
           "source": "金十数据",
@@ -696,7 +770,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
         },
@@ -850,7 +924,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
         }
@@ -858,7 +932,7 @@
     },
     {
       "keyword_group": "特朗普 马斯克 加密货币 美联储",
-      "match_count": 45,
+      "match_count": 46,
       "titles": [
         {
           "title": "特朗普：很快将访问日本",
@@ -868,8 +942,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时30分 ~ 06时21分]"
+          "appearance_count": 10,
+          "time_info": "[00时30分 ~ 07时23分]"
         },
         {
           "title": "特朗普又改口：从未说过乌克兰会赢",
@@ -879,8 +953,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时30分 ~ 06时21分]"
+          "appearance_count": 10,
+          "time_info": "[00时30分 ~ 07时23分]"
+        },
+        {
+          "title": "俄乌进程一波三折：“特普会”筹备遇阻，欧洲首次明确响应特朗普，呼吁“立即停火”",
+          "url": "https://wallstreetcn.com/articles/3757574",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时30分 ~ 07时23分]"
         },
         {
           "title": "特朗普暗示将承诺反对台独",
@@ -895,20 +982,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时30分 ~ 06时21分]"
-        },
-        {
-          "title": "俄乌进程一波三折：“特普会”筹备遇阻，欧洲首次明确响应特朗普，呼吁“立即停火”",
-          "url": "https://wallstreetcn.com/articles/3757574",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时30分 ~ 06时21分]"
+          "appearance_count": 10,
+          "time_info": "[00时30分 ~ 07时23分]"
         },
         {
           "title": "释疑｜俄美要连起来了？俄方提议花8年打通“普京-特朗普”隧道有谱吗？",
@@ -920,30 +995,20 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时30分 ~ 06时21分]"
+          "appearance_count": 10,
+          "time_info": "[00时30分 ~ 07时23分]"
         },
         {
           "title": "特朗普开飞机泼粪,美国再次味大",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345976&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%BC%80%E9%A3%9E%E6%9C%BA%E6%B3%BC%E7%B2%AA%2C%E7%BE%8E%E5%9B%BD%E5%86%8D%E6%AC%A1%E5%91%B3%E5%A4%A7",
           "source": "贴吧",
           "ranks": [
-            19
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时30分 ~ 06时21分]"
-        },
-        {
-          "title": "美联储10月降息25个基点的概率为98.9%",
-          "url": "https://flash.jin10.com/detail/20251022060147354800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时21分"
+          "appearance_count": 10,
+          "time_info": "[00时30分 ~ 07时23分]"
         },
         {
           "title": "美国参议院民主党领导人Schumer：10月21日与总统特朗普取得联系。",
@@ -955,6 +1020,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时19分"
+        },
+        {
+          "title": "美国总统特朗普：仍认为乌克兰有机会与俄罗斯实现停火。未来两天内，我们将就俄乌局势发布通知。",
+          "url": "https://flash.jin10.com/detail/20251022050509311800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            16,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时22分 ~ 07时23分]"
         },
         {
           "title": "美国总统特朗普：（在本轮政府关门期间）被关闭的那些民主党物业永远都不会重新开放。 可能会与民主党讨论纽约市的那些基建项目。",
@@ -995,16 +1073,16 @@
           "time_info": "[03时19分 ~ 04时26分]"
         },
         {
-          "title": "美国总统特朗普：仍认为乌克兰有机会与俄罗斯实现停火。未来两天内，我们将就俄乌局势发布通知。",
-          "url": "https://flash.jin10.com/detail/20251022050509311800",
+          "title": "美联储10月降息25个基点的概率为98.9%",
+          "url": "https://flash.jin10.com/detail/20251022060147354800",
           "source": "金十数据",
           "ranks": [
-            1,
-            16
+            4,
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时22分 ~ 06时21分]"
+          "time_info": "[06时21分 ~ 07时23分]"
         },
         {
           "title": "特朗普政府将发放在美国政府关门期间被冻结的农业救济。（华尔街日报）",
@@ -1152,6 +1230,18 @@
           "time_info": "[05时22分 ~ 06时21分]"
         },
         {
+          "title": "美国总统特朗普：将在较短时间内将关税资金分配给民众。",
+          "url": "https://flash.jin10.com/detail/20251022051319715800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时21分 ~ 07时23分]"
+        },
+        {
           "title": "美国总统特朗普：美联储主席鲍威尔即将离任，美联储里有个死硬派，利率太高了。",
           "url": "https://flash.jin10.com/detail/20251022044252344800",
           "source": "金十数据",
@@ -1162,6 +1252,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时22分 ~ 06时21分]"
+        },
+        {
+          "title": "美国总统特朗普：除非政府重新开放，否则不会与民主党领导人会面。",
+          "url": "https://flash.jin10.com/detail/20251022050702789800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时21分 ~ 07时23分]"
         },
         {
           "title": "评论员：泽连斯基再度被特朗普侮辱",
@@ -1219,17 +1321,6 @@
           "time_info": "02时34分"
         },
         {
-          "title": "美国总统特朗普：将在较短时间内将关税资金分配给民众。",
-          "url": "https://flash.jin10.com/detail/20251022051319715800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时21分"
-        },
-        {
           "title": "富国银行首席执行官：与特朗普政府的对话重点是经济增长，而非放松监管。",
           "url": "https://flash.jin10.com/detail/20251022004311706800",
           "source": "金十数据",
@@ -1239,17 +1330,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
-        },
-        {
-          "title": "美国总统特朗普：除非政府重新开放，否则不会与民主党领导人会面。",
-          "url": "https://flash.jin10.com/detail/20251022050702789800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时21分"
         },
         {
           "title": "MP材料跌超10%，特朗普团队支持美国与哈萨克斯坦谈判Tungsten矿场协议。",
@@ -1291,9 +1371,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
+        },
+        {
+          "title": "牛弹琴：特朗普被印度气坏了",
+          "url": "https://www.toutiao.com/trending/7563455829395902002/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
         },
         {
           "title": "美联储沃勒：美联储正在研究简化版“支付账户”",
@@ -1386,330 +1477,8 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek AI openai 机器人 小米 特斯拉 英伟达",
-      "match_count": 26,
-      "titles": [
-        {
-          "title": "DeepSeek OCR论文引爆网络！Andrej Karpathy：我很喜欢；马斯克：未来99%都是光子",
-          "url": "https://wallstreetcn.com/articles/3757552",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时30分 ~ 06时21分]"
-        },
-        {
-          "title": "DeepSeek新模型被硅谷夸疯了！用二维视觉压缩一维文字，单GPU能跑，“谷歌核心机密被开源”",
-          "url": "https://wallstreetcn.com/articles/3757530",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时30分 ~ 06时21分]"
-        },
-        {
-          "title": "DeepSeek新模型深度解读",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E6%B7%B1%E5%BA%A6%E8%A7%A3%E8%AF%BB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10,
-            12,
-            4,
-            3,
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时30分 ~ 06时21分]"
-        },
-        {
-          "title": "DeepSeek暂列AI炒币大赛榜首",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%9A%82%E5%88%97AI%E7%82%92%E5%B8%81%E5%A4%A7%E8%B5%9B%E6%A6%9C%E9%A6%96",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17,
-            24,
-            25,
-            20,
-            14,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时30分 ~ 06时21分]"
-        },
-        {
-          "title": "AI时代需要什么样的程序员",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31813433",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时30分 ~ 06时21分]"
-        },
-        {
-          "title": "AI“万亿闭环”内幕：Altman、黄仁勋、纳德拉、孙正义等当代科技巨头的“攻守道”",
-          "url": "https://wallstreetcn.com/articles/3757557",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时30分 ~ 06时21分]"
-        },
-        {
-          "title": "产量激增1.2倍！机器人核心部件国产化高歌猛进",
-          "url": "https://www.cls.cn/detail/2175766",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时30分 ~ 06时21分]"
-        },
-        {
-          "title": "马上评｜“用AI流浪汉骗老公”，家庭恶作剧逾越了边界",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31818525",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时30分 ~ 06时21分]"
-        },
-        {
-          "title": "iPhone Air评测",
-          "url": "https://search.bilibili.com/all?keyword=iPhone%20Air%E8%AF%84%E6%B5%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13,
-            16,
-            28,
-            20,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时30分 ~ 05时22分]"
-        },
-        {
-          "title": "如何评价「AI 就是美国的城投」的观点？",
-          "url": "https://www.zhihu.com/question/1963543399295579410",
-          "source": "知乎",
-          "ranks": [
-            8,
-            7,
-            13,
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时20分 ~ 06时21分]"
-        },
-        {
-          "title": "OpenAI推出网络浏览器ChatGPT Atlas，谷歌(GOOG.O)现跌3.3%。",
-          "url": "https://flash.jin10.com/detail/20251022010530861800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时21分"
-        },
-        {
-          "title": "OpenAI：推出基于ChatGPT构建的AI驱动网络浏览器ChatGPT Atlas。",
-          "url": "https://flash.jin10.com/detail/20251022010254471800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时21分"
-        },
-        {
-          "title": "Veeam Software同意，按17亿美元收购Securiti AI。",
-          "url": "https://wallstreetcn.com/livenews/2991379",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            14,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时34分 ~ 04时26分]"
-        },
-        {
-          "title": "“Take Back Tesla”网站在特斯拉发布业绩报告的前夜上线，一个由工会和企业观察组织构建的团体敦促股东们拒绝（董事会开出的）马斯克1万亿美元薪酬计划。",
-          "url": "https://wallstreetcn.com/livenews/2991400",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时26分 ~ 05时22分]"
-        },
-        {
-          "title": "广州机器人企业在广交会上意向成交超千万美元",
-          "url": "https://wallstreetcn.com/livenews/2991374",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时34分 ~ 03时19分]"
-        },
-        {
-          "title": "美股七巨头收盘播报｜谷歌A收跌约2.4%，特斯拉跌约1.1%，苹果继续创历史新高，亚马逊涨超2.5%",
-          "url": "https://wallstreetcn.com/livenews/2991418",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时22分 ~ 06时21分]"
-        },
-        {
-          "title": "Fal.ai按超过40亿美元估值融资2.5亿美元。（TechCrunch）",
-          "url": "https://wallstreetcn.com/livenews/2991416",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时22分 ~ 06时21分]"
-        },
-        {
-          "title": "美国白宫国家经济委员会主任哈塞特（Hassett）：人工智能（AI）生产力繁荣全部来自数据。（福克斯商业新闻）",
-          "url": "https://wallstreetcn.com/livenews/2991412",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时22分 ~ 06时21分]"
-        },
-        {
-          "title": "赛力斯和小米有多赚钱",
-          "url": "https://www.toutiao.com/trending/7563591736841211433/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时30分 ~ 00时31分]"
-        },
-        {
-          "title": "AI军备竞赛继续 Anthropic寻求百亿美元云服务支持",
-          "url": "https://flash.jin10.com/detail/20251022055052334800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时21分"
-        },
-        {
-          "title": "报道：OpenAI将推出新款浏览器ChatGPT Atlas",
-          "url": "https://wallstreetcn.com/livenews/2991350",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时21分"
-        },
-        {
-          "title": "反对马斯克万亿美元薪酬方案 工会与机构发起“夺回特斯拉”行动",
-          "url": "https://flash.jin10.com/detail/20251022034124189800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时26分"
-        },
-        {
-          "title": "据CNBC：在特斯拉(TSLA.O)周三发布财报之前，一群工会和企业监管机构推出网站Take Back Tesla，反对马斯克的新薪酬计划。",
-          "url": "https://flash.jin10.com/detail/20251022033630953800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时26分"
-        },
-        {
-          "title": "OpenAI推出新浏览器ChatGPT Atlas，内置Agent代理模式",
-          "url": "https://flash.jin10.com/detail/20251022012656788800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时34分"
-        },
-        {
-          "title": "市场消息：OpenAI将发布新浏览器ChatGPT ATLAS。",
-          "url": "https://flash.jin10.com/detail/20251022003437397800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时21分"
-        },
-        {
-          "title": "英伟达最强AI芯片“美国造”背后",
-          "url": "https://www.toutiao.com/trending/7562742844079882276/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时26分"
-        }
-      ]
-    },
-    {
       "keyword_group": "黄金 白银 铜 铝 稀土",
-      "match_count": 26,
+      "match_count": 32,
       "titles": [
         {
           "title": "美股盘初三大股指涨跌不一，现货黄金跌破4200美元，白银跌破49美元，加密货币下挫",
@@ -1741,8 +1510,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时30分 ~ 06时21分]"
+          "appearance_count": 10,
+          "time_info": "[00时30分 ~ 07时23分]"
         },
         {
           "title": "现货黄金创4年来最大跌幅",
@@ -1752,8 +1521,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时30分 ~ 06时21分]"
+          "appearance_count": 10,
+          "time_info": "[00时30分 ~ 07时23分]"
         },
         {
           "title": "黄金",
@@ -1764,8 +1533,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时30分 ~ 06时21分]"
+          "appearance_count": 10,
+          "time_info": "[00时30分 ~ 07时23分]"
         },
         {
           "title": "现货黄金失守4100美元",
@@ -1782,28 +1551,6 @@
           "time_info": "[00时30分 ~ 04时26分]"
         },
         {
-          "title": "现货白银向下触及48美元/盎司，日内跌1.38%。",
-          "url": "https://flash.jin10.com/detail/20251022060654353800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时21分"
-        },
-        {
-          "title": "亚太盘初，现货黄金5分钟内上涨5.47美元/盎司，报4131.51美元/盎司。 COMEX白银期货日内涨幅达0.5%，报48.13美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/2991443",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时21分"
-        },
-        {
           "title": "现货黄金大跌",
           "url": "https://www.douyin.com/hot/2278030",
           "source": "抖音",
@@ -1815,26 +1562,64 @@
           "time_info": "[00时30分 ~ 03时19分]"
         },
         {
+          "title": "黄金、白银又现震荡 “东南亚小腾讯”剑指万亿市值 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2176123",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时19分 ~ 07时23分]"
+        },
+        {
+          "title": "现货白银向下触及48美元/盎司，日内跌1.38%。",
+          "url": "https://flash.jin10.com/detail/20251022060654353800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时21分 ~ 07时23分]"
+        },
+        {
+          "title": "亚太盘初，现货黄金5分钟内上涨5.47美元/盎司，报4131.51美元/盎司。 COMEX白银期货日内涨幅达0.5%，报48.13美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/2991443",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时21分 ~ 07时23分]"
+        },
+        {
           "title": "现货白银日内跌幅一度达1.00%，现报48.15美元/盎司。",
           "url": "https://flash.jin10.com/detail/20251022060546958800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时21分 ~ 07时23分]"
         },
         {
           "title": "现货黄金回落至4120美元/盎司下方，日内跌0.14%。",
           "url": "https://flash.jin10.com/detail/20251022060512308800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时21分 ~ 07时23分]"
         },
         {
           "title": "周二（10月21日）纽约尾盘，现货黄金跌5.18%，报4130.41美元/盎司，日内交投区间为4375.38-4082.03美元，北京时间15:00-22:45加速下行。 COMEX黄金期货跌4.94%，报4144.10美元/盎司，日内交投于4393.60-4093.00美元区间。",
@@ -1861,28 +1646,17 @@
           "time_info": "[01时21分 ~ 02时34分]"
         },
         {
-          "title": "黄金、白银又现震荡 “东南亚小腾讯”剑指万亿市值 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2176123",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时19分 ~ 06时21分]"
-        },
-        {
           "title": "现货黄金向下跌破4200美元",
           "url": "https://www.baidu.com/s?wd=%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%E5%90%91%E4%B8%8B%E8%B7%8C%E7%A0%B44200%E7%BE%8E%E5%85%83",
           "source": "百度热搜",
           "ranks": [
             27,
-            25
+            25,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时26分 ~ 06时21分]"
+          "appearance_count": 4,
+          "time_info": "[04时26分 ~ 07时23分]"
         },
         {
           "title": "LME期铜收跌68美元，报10624美元/吨。 LME期铝收涨4美元，报2781美元/吨。 LME期锌收涨10美元，报2988美元/吨。 LME期铅收跌4美元，报1985美元/吨。 LME期镍收跌47美元，报15175美元/吨。 LME期锡收涨96美元，报35400美元/吨。 LME期钴收涨1460美元，报47110美元/吨。",
@@ -1897,6 +1671,40 @@
           "time_info": "[01时21分 ~ 02时34分]"
         },
         {
+          "title": "淡水河谷第三季度铜产量9.08万吨，第三季度铜销量9万吨。",
+          "url": "https://flash.jin10.com/detail/20251022054707857800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时21分 ~ 07时23分]"
+        },
+        {
+          "title": "黄金从高位急剧回落 分析师预计有资金将入场抄底",
+          "url": "https://flash.jin10.com/detail/20251022065943209800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
+        },
+        {
+          "title": "金银多年来罕见暴跌！盘中黄金跌超6%、白银跌近9%，华尔街拉响回调警报",
+          "url": "https://wallstreetcn.com/articles/3757589",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
+        },
+        {
           "title": "黄金日内暴跌6%引市场恐慌，花旗：4000美元目标价位已由多转空",
           "url": "https://flash.jin10.com/detail/20251021235915002800",
           "source": "金十数据",
@@ -1908,15 +1716,48 @@
           "time_info": "00时31分"
         },
         {
-          "title": "淡水河谷第三季度铜产量9.08万吨，第三季度铜销量9万吨。",
-          "url": "https://flash.jin10.com/detail/20251022054707857800",
+          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少93.14吨，当前持仓量为15676.64吨。欢迎点击查看数据中心…",
+          "url": "https://flash.jin10.com/detail/20251022063844385800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
+        },
+        {
+          "title": "全球最大的黄金ETF SPDR Gold Trust持仓量为1058.66吨，较前一个交易日维持不变。",
+          "url": "https://flash.jin10.com/detail/20251022063736700800",
           "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时21分"
+          "time_info": "07时23分"
+        },
+        {
+          "title": "亚太盘初，道指期货涨0.11%。 墨西哥经济部长Ebrard称，所有迹象表明，美国墨西哥加拿大贸易协议（USMCA）将保持三边方式。 在评估USMCA之前的讨论已经完成90%。 墨西哥和美国仍然在处理（特朗普挑起的）钢铁和铝关税问题。",
+          "url": "https://wallstreetcn.com/livenews/2991453",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
+        },
+        {
+          "title": "白银交易热度居高不下，资金涌入背后波动风险隐现",
+          "url": "https://wallstreetcn.com/livenews/2991451",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
         },
         {
           "title": "金价创2013年以来最大跌幅 美股黄金矿商股集体重挫",
@@ -2009,6 +1850,369 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek AI openai 机器人 小米 特斯拉 英伟达",
+      "match_count": 29,
+      "titles": [
+        {
+          "title": "DeepSeek OCR论文引爆网络！Andrej Karpathy：我很喜欢；马斯克：未来99%都是光子",
+          "url": "https://wallstreetcn.com/articles/3757552",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时30分 ~ 07时23分]"
+        },
+        {
+          "title": "DeepSeek新模型被硅谷夸疯了！用二维视觉压缩一维文字，单GPU能跑，“谷歌核心机密被开源”",
+          "url": "https://wallstreetcn.com/articles/3757530",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时30分 ~ 07时23分]"
+        },
+        {
+          "title": "DeepSeek新模型深度解读",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E6%B7%B1%E5%BA%A6%E8%A7%A3%E8%AF%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            12,
+            4,
+            3,
+            15,
+            14,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时30分 ~ 07时23分]"
+        },
+        {
+          "title": "DeepSeek暂列AI炒币大赛榜首",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%9A%82%E5%88%97AI%E7%82%92%E5%B8%81%E5%A4%A7%E8%B5%9B%E6%A6%9C%E9%A6%96",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17,
+            24,
+            25,
+            20,
+            14,
+            4,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时30分 ~ 07时23分]"
+        },
+        {
+          "title": "AI“万亿闭环”内幕：Altman、黄仁勋、纳德拉、孙正义等当代科技巨头的“攻守道”",
+          "url": "https://wallstreetcn.com/articles/3757557",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时30分 ~ 07时23分]"
+        },
+        {
+          "title": "AI时代需要什么样的程序员",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31813433",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时30分 ~ 07时23分]"
+        },
+        {
+          "title": "产量激增1.2倍！机器人核心部件国产化高歌猛进",
+          "url": "https://www.cls.cn/detail/2175766",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时30分 ~ 07时23分]"
+        },
+        {
+          "title": "马上评｜“用AI流浪汉骗老公”，家庭恶作剧逾越了边界",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31818525",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时30分 ~ 07时23分]"
+        },
+        {
+          "title": "如何评价「AI 就是美国的城投」的观点？",
+          "url": "https://www.zhihu.com/question/1963543399295579410",
+          "source": "知乎",
+          "ranks": [
+            8,
+            7,
+            13,
+            12,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时20分 ~ 07时23分]"
+        },
+        {
+          "title": "iPhone Air评测",
+          "url": "https://search.bilibili.com/all?keyword=iPhone%20Air%E8%AF%84%E6%B5%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            16,
+            28,
+            20,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时30分 ~ 05时22分]"
+        },
+        {
+          "title": "OpenAI推出网络浏览器ChatGPT Atlas，谷歌(GOOG.O)现跌3.3%。",
+          "url": "https://flash.jin10.com/detail/20251022010530861800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时21分"
+        },
+        {
+          "title": "OpenAI：推出基于ChatGPT构建的AI驱动网络浏览器ChatGPT Atlas。",
+          "url": "https://flash.jin10.com/detail/20251022010254471800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时21分"
+        },
+        {
+          "title": "宇树科技发布 H2 仿生机器人，该产品有哪些技术突破？未来最有可能在哪个行业率先实现大规模商业化应用？",
+          "url": "https://www.zhihu.com/question/1963602333607916311",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
+        },
+        {
+          "title": "Veeam Software同意，按17亿美元收购Securiti AI。",
+          "url": "https://wallstreetcn.com/livenews/2991379",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            14,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时34分 ~ 04时26分]"
+        },
+        {
+          "title": "AI军备竞赛继续 Anthropic寻求百亿美元云服务支持",
+          "url": "https://flash.jin10.com/detail/20251022055052334800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时21分 ~ 07时23分]"
+        },
+        {
+          "title": "“Take Back Tesla”网站在特斯拉发布业绩报告的前夜上线，一个由工会和企业观察组织构建的团体敦促股东们拒绝（董事会开出的）马斯克1万亿美元薪酬计划。",
+          "url": "https://wallstreetcn.com/livenews/2991400",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时26分 ~ 05时22分]"
+        },
+        {
+          "title": "广州机器人企业在广交会上意向成交超千万美元",
+          "url": "https://wallstreetcn.com/livenews/2991374",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时34分 ~ 03时19分]"
+        },
+        {
+          "title": "美股七巨头收盘播报｜谷歌A收跌约2.4%，特斯拉跌约1.1%，苹果继续创历史新高，亚马逊涨超2.5%",
+          "url": "https://wallstreetcn.com/livenews/2991418",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时22分 ~ 06时21分]"
+        },
+        {
+          "title": "Fal.ai按超过40亿美元估值融资2.5亿美元。（TechCrunch）",
+          "url": "https://wallstreetcn.com/livenews/2991416",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时22分 ~ 06时21分]"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特（Hassett）：人工智能（AI）生产力繁荣全部来自数据。（福克斯商业新闻）",
+          "url": "https://wallstreetcn.com/livenews/2991412",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时22分 ~ 06时21分]"
+        },
+        {
+          "title": "赛力斯和小米有多赚钱",
+          "url": "https://www.toutiao.com/trending/7563591736841211433/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时30分 ~ 00时31分]"
+        },
+        {
+          "title": "马斯克：人工智能和机器人将取代所有工作。工作将成为可选项，就像自己种植蔬菜而不是从商店购买一样。",
+          "url": "https://flash.jin10.com/detail/20251022064158770800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
+        },
+        {
+          "title": "创业板涨超3%，AI算力硬件爆发，“易中天”大涨，恒科指涨逾1%，苹果概念股走强，国债上涨，商品分化",
+          "url": "https://wallstreetcn.com/articles/3757538",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
+        },
+        {
+          "title": "报道：OpenAI将推出新款浏览器ChatGPT Atlas",
+          "url": "https://wallstreetcn.com/livenews/2991350",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时21分"
+        },
+        {
+          "title": "反对马斯克万亿美元薪酬方案 工会与机构发起“夺回特斯拉”行动",
+          "url": "https://flash.jin10.com/detail/20251022034124189800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
+        {
+          "title": "据CNBC：在特斯拉(TSLA.O)周三发布财报之前，一群工会和企业监管机构推出网站Take Back Tesla，反对马斯克的新薪酬计划。",
+          "url": "https://flash.jin10.com/detail/20251022033630953800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
+        {
+          "title": "OpenAI推出新浏览器ChatGPT Atlas，内置Agent代理模式",
+          "url": "https://flash.jin10.com/detail/20251022012656788800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时34分"
+        },
+        {
+          "title": "市场消息：OpenAI将发布新浏览器ChatGPT ATLAS。",
+          "url": "https://flash.jin10.com/detail/20251022003437397800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时21分"
+        },
+        {
+          "title": "英伟达最强AI芯片“美国造”背后",
+          "url": "https://www.toutiao.com/trending/7562742844079882276/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        }
+      ]
+    },
+    {
       "keyword_group": "外交部 商务部 证监会 央行",
       "match_count": 17,
       "titles": [
@@ -2020,8 +2224,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时30分 ~ 06时21分]"
+          "appearance_count": 10,
+          "time_info": "[00时30分 ~ 07时23分]"
         },
         {
           "title": "美国针对中国合作方出台签证限制 外交部回应",
@@ -2033,8 +2237,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时30分 ~ 06时21分]"
+          "appearance_count": 10,
+          "time_info": "[00时30分 ~ 07时23分]"
         },
         {
           "title": "美威胁对华断供飞机零部件，外交部：贸易战不符合任何一方利益",
@@ -2057,11 +2261,12 @@
             8,
             10,
             2,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时30分 ~ 06时21分]"
+          "appearance_count": 10,
+          "time_info": "[00时30分 ~ 07时23分]"
         },
         {
           "title": "特朗普称将于明年初访问中国 外交部回应",
@@ -2084,8 +2289,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时34分 ~ 06时21分]"
+          "appearance_count": 6,
+          "time_info": "[02时34分 ~ 07时23分]"
         },
         {
           "title": "美国与澳大利亚签署关键矿产协议，外交部表态",
