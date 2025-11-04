@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-05T03:19:21.388297+08:00",
-  "total_titles_processed": 460,
+  "generated_at": "2025-11-05T04:28:44.325357+08:00",
+  "total_titles_processed": 506,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 美债 美元 石油 战争",
-      "match_count": 25,
+      "match_count": 33,
       "titles": [
         {
           "title": "全球风险资产下挫：纳指100期货跌超1%，加密货币继续崩盘，金银油齐跌，美元重返100大关",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时30分 ~ 03时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时30分 ~ 04时28分]"
         },
         {
           "title": "美国前副总统切尼去世，被认为曾鼓动小布什发动伊拉克战争",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时30分 ~ 03时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时30分 ~ 04时28分]"
         },
         {
           "title": "算力协议力挺Mag 7，亚马逊股价新高，美股分化加剧，加密货币大跌，以太坊重挫",
@@ -38,19 +38,30 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时30分 ~ 03时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时30分 ~ 04时28分]"
         },
         {
-          "title": "比特币跌穿10万美元整数位心理关口，为6月份以来首次，跌幅超过6.5%。 加密货币概念股中，Bakkt跌17.4%，ProShares跌10.5%，Galaxy Digital跌8.3%，BTCS跌7.6%，Bit Digital跌6.6%，Coinbase跌6.2%，Circle跌6%。",
-          "url": "https://wallstreetcn.com/livenews/2999358",
+          "title": "阿布扎比国家石油钻井公司（ADNOC Drilling Co. PJSC）：将收购MB Petroleum Services 80%的股权。",
+          "url": "https://wallstreetcn.com/livenews/2999381",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时19分"
+          "time_info": "04时28分"
+        },
+        {
+          "title": "美元兑加元USD/CAD站上1.41，日内涨0.32%。",
+          "url": "https://flash.jin10.com/detail/20251105035246237800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
         },
         {
           "title": "比特币日内跌幅达5.0%，报102130美元。",
@@ -100,6 +111,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时19分 ~ 02时33分]"
+        },
+        {
+          "title": "比特币跌穿10万美元整数位心理关口，为6月份以来首次，跌幅超过6.5%。 加密货币概念股中，Bakkt跌17.4%，ProShares跌10.5%，Galaxy Digital跌8.3%，BTCS跌7.6%，Bit Digital跌6.6%，Coinbase跌6.2%，Circle跌6%。",
+          "url": "https://wallstreetcn.com/livenews/2999358",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时19分 ~ 04时28分]"
         },
         {
           "title": "市场消息：苹果(AAPL.O)计划于2026年上半年推出其首款低价Mac笔记本电脑。代号为J700的新款Mac售价将远低于1000美元。",
@@ -162,6 +185,18 @@
           "time_info": "[01时19分 ~ 02时33分]"
         },
         {
+          "title": "周二（11月4日），美联储隔夜逆回购协议（RRP）使用规模为169.83亿美元，上个交易日报237.92亿美元。",
+          "url": "https://wallstreetcn.com/livenews/2999352",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时19分 ~ 04时28分]"
+        },
+        {
           "title": "A股走弱是何原因",
           "url": "https://www.toutiao.com/trending/7568867556233055771/",
           "source": "今日头条",
@@ -171,6 +206,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时32分 ~ 02时33分]"
+        },
+        {
+          "title": "纽元兑美元NZD/USD日内跌幅达1.00%，现报0.5650。",
+          "url": "https://flash.jin10.com/detail/20251105035231294800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
+        },
+        {
+          "title": "纽元/美元日内跌幅达1.0%，报0.5648。",
+          "url": "https://wallstreetcn.com/livenews/2999378",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
+        },
+        {
+          "title": "以太坊日内大跌10.00%，现报3243美元/枚。",
+          "url": "https://flash.jin10.com/detail/20251105035210276800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
         },
         {
           "title": "比特币向下触及101000美元/枚，日内跌5.26%。",
@@ -184,15 +252,26 @@
           "time_info": "02时33分"
         },
         {
-          "title": "周二（11月4日），美联储隔夜逆回购协议（RRP）使用规模为169.83亿美元，上个交易日报237.92亿美元。",
-          "url": "https://wallstreetcn.com/livenews/2999352",
-          "source": "华尔街见闻-快讯",
+          "title": "民生宏观：美元指数再破100 但升值周期未至",
+          "url": "https://flash.jin10.com/detail/20251105033633355800",
+          "source": "金十数据",
           "ranks": [
-            9
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时19分"
+          "time_info": "04时28分"
+        },
+        {
+          "title": "电动飞机制造“独角兽”Beta Technologies（BETA）美国IPO首日平开，报34美元。",
+          "url": "https://wallstreetcn.com/livenews/2999368",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
         },
         {
           "title": "比特币失守10万美元关口",
@@ -201,7 +280,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时19分"
         },
@@ -217,13 +296,24 @@
           "time_info": "00时30分"
         },
         {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.1300元，较周一夜盘收盘跌95点。成交量452.53亿美元。",
+          "url": "https://wallstreetcn.com/livenews/2999367",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
+        },
+        {
           "title": "以太坊向下触及3300美元/枚，日内跌8.47%。",
           "url": "https://flash.jin10.com/detail/20251105023317031800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时19分"
         },
@@ -234,7 +324,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时19分"
         },
@@ -297,7 +387,7 @@
     },
     {
       "keyword_group": "特朗普 马斯克 加密货币 美联储",
-      "match_count": 23,
+      "match_count": 26,
       "titles": [
         {
           "title": "民主党人领跑市长选战，特朗普威胁或对纽约“断供”",
@@ -307,19 +397,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时30分 ~ 03时19分]"
-        },
-        {
-          "title": "Egan-Jones评级公司：基于财富导向的政策，建议投票支持马斯克的薪酬方案。",
-          "url": "https://flash.jin10.com/detail/20251105030955942800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时19分"
+          "appearance_count": 6,
+          "time_info": "[00时30分 ~ 04时28分]"
         },
         {
           "title": "加密货币周一继续“血崩”，部分代币已跌回10月闪崩低点，“比特币的机构需求7个月来首次低于挖矿速度”",
@@ -329,30 +408,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时30分 ~ 03时19分]"
-        },
-        {
-          "title": "美媒：特朗普政府考虑控制委内瑞拉油田",
-          "url": "https://flash.jin10.com/detail/20251105030659180800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时19分"
-        },
-        {
-          "title": "白宫新闻秘书Leavitt在新闻发布会上表示：美国总统特朗普的政府在联邦食品救济项目“补充营养援助计划”（SNAP）问题上完全尊重法庭命令。 为SNAP救济金获取资金需要时间。 特朗普在自己社交媒体平台上披露了应急资金的信息。",
-          "url": "https://wallstreetcn.com/livenews/2999357",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时19分"
+          "appearance_count": 6,
+          "time_info": "[00时30分 ~ 04时28分]"
         },
         {
           "title": "佩洛西：特朗普是地表最坏的家伙",
@@ -360,11 +417,12 @@
           "source": "今日头条",
           "ranks": [
             13,
-            14
+            14,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时30分 ~ 03时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时30分 ~ 04时28分]"
         },
         {
           "title": "美国总统特朗普：只有当激进左翼民主党人重新开放政府时，才会发放SNAP福利。",
@@ -418,6 +476,30 @@
           "time_info": "[00时30分 ~ 02时33分]"
         },
         {
+          "title": "Egan-Jones评级公司：基于财富导向的政策，建议投票支持马斯克的薪酬方案。",
+          "url": "https://flash.jin10.com/detail/20251105030955942800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时19分 ~ 04时28分]"
+        },
+        {
+          "title": "美媒：特朗普政府考虑控制委内瑞拉油田",
+          "url": "https://flash.jin10.com/detail/20251105030659180800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时19分 ~ 04时28分]"
+        },
+        {
           "title": "美国劳工部长Lori Chavez-Deremer：将在（总统特朗普的）政府关门事件结束时发布劳工统计局（BLS）的数据。 在那之前，是无法发布数据的。 政府停摆正影响到劳动力。",
           "url": "https://wallstreetcn.com/livenews/2999304",
           "source": "华尔街见闻-快讯",
@@ -454,6 +536,18 @@
           "time_info": "[02时33分 ~ 03时19分]"
         },
         {
+          "title": "白宫新闻秘书Leavitt在新闻发布会上表示：美国总统特朗普的政府在联邦食品救济项目“补充营养援助计划”（SNAP）问题上完全尊重法庭命令。 为SNAP救济金获取资金需要时间。 特朗普在自己社交媒体平台上披露了应急资金的信息。",
+          "url": "https://wallstreetcn.com/livenews/2999357",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时19分 ~ 04时28分]"
+        },
+        {
           "title": "美国众议长约翰逊：如果参议院（针对总统特朗普的政府关门事件相关的融资立法草案）批准一些东西，众议院就会重返谈判桌。",
           "url": "https://wallstreetcn.com/livenews/2999301",
           "source": "华尔街见闻-快讯",
@@ -478,6 +572,42 @@
           "time_info": "[01时19分 ~ 02时33分]"
         },
         {
+          "title": "白宫：（谈美印关系）贸易团队仍在进行认真磋商。特朗普与印度总理莫迪经常通话。",
+          "url": "https://flash.jin10.com/detail/20251105024546546800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时19分 ~ 04时28分]"
+        },
+        {
+          "title": "白宫：（谈美印关系）特朗普对两国关系持积极态度。",
+          "url": "https://flash.jin10.com/detail/20251105024520582800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时19分 ~ 04时28分]"
+        },
+        {
+          "title": "白宫：特朗普正在密切关注尼日利亚。",
+          "url": "https://flash.jin10.com/detail/20251105024507839800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时19分 ~ 04时28分]"
+        },
+        {
           "title": "美国法官要求迫使特朗普政府支付全额补充营养协助计划（SNAP）福利。",
           "url": "https://flash.jin10.com/detail/20251104234509311800",
           "source": "金十数据",
@@ -488,6 +618,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时30分 ~ 01时19分]"
+        },
+        {
+          "title": "白宫：美国总统特朗普将于下周一与叙利亚总统会面。",
+          "url": "https://flash.jin10.com/detail/20251105024210324800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时19分 ~ 04时28分]"
         },
         {
           "title": "美国总统特朗普：（谈加州选区重划）违宪投票是一场巨大的骗局。所有邮寄选票正接受非常严肃的法律和刑事审查。",
@@ -502,48 +644,49 @@
           "time_info": "[01时19分 ~ 02时33分]"
         },
         {
-          "title": "白宫：（谈美印关系）贸易团队仍在进行认真磋商。特朗普与印度总理莫迪经常通话。",
-          "url": "https://flash.jin10.com/detail/20251105024546546800",
-          "source": "金十数据",
+          "title": "美财长被问和马斯克打架揪衣领没",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%B4%A2%E9%95%BF%E8%A2%AB%E9%97%AE%E5%92%8C%E9%A9%AC%E6%96%AF%E5%85%8B%E6%89%93%E6%9E%B6%E6%8F%AA%E8%A1%A3%E9%A2%86%E6%B2%A1",
+          "source": "百度热搜",
           "ranks": [
-            9
+            27,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时19分 ~ 04时28分]"
         },
         {
-          "title": "白宫：（谈美印关系）特朗普对两国关系持积极态度。",
-          "url": "https://flash.jin10.com/detail/20251105024520582800",
+          "title": "据华尔街日报：特朗普政府正与礼来公司和诺和诺德谈判，计划通过TrumpRx（特朗普药房）处方药直销平台以优惠价格提供减肥药物。",
+          "url": "https://flash.jin10.com/detail/20251105032507471800",
           "source": "金十数据",
           "ranks": [
-            10
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时19分"
+          "time_info": "04时28分"
         },
         {
-          "title": "白宫：特朗普正在密切关注尼日利亚。",
-          "url": "https://flash.jin10.com/detail/20251105024507839800",
-          "source": "金十数据",
+          "title": "华尔街策略师建议，美联储可在国债结算日或关键支付日等流动性紧张时段临时向市场注入流动性。 纽约梅隆银行宏观策略师John Velis表示，“如果这种资金市场压力持续下去，且相关利率持续高于美联储政策利率，我们认为进行此类临时公开市场操作并非不可能。”",
+          "url": "https://wallstreetcn.com/livenews/2999364",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时19分"
+          "time_info": "04时28分"
         },
         {
-          "title": "白宫：美国总统特朗普将于下周一与叙利亚总统会面。",
-          "url": "https://flash.jin10.com/detail/20251105024210324800",
-          "source": "金十数据",
+          "title": "货币市场资金压力高企，华尔街押注美联储临时加大流动性投放",
+          "url": "https://wallstreetcn.com/livenews/2999362",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时19分"
+          "time_info": "04时28分"
         },
         {
           "title": "尼日利亚无视特朗普武力威胁，推进发行欧洲债券的计划",
@@ -555,23 +698,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时30分"
-        },
-        {
-          "title": "美财长被问和马斯克打架揪衣领没",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%B4%A2%E9%95%BF%E8%A2%AB%E9%97%AE%E5%92%8C%E9%A9%AC%E6%96%AF%E5%85%8B%E6%89%93%E6%9E%B6%E6%8F%AA%E8%A1%A3%E9%A2%86%E6%B2%A1",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时19分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek AI openai 机器人 小米 特斯拉 英伟达",
-      "match_count": 19,
+      "match_count": 24,
       "titles": [
         {
           "title": "看空AI泡沫！“大空头”用钱说话：80%仓位做空Palantir和英伟达",
@@ -582,19 +714,49 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时30分 ~ 03时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时30分 ~ 04时28分]"
         },
         {
-          "title": "特斯拉CEO马斯克：AI6芯片将采用相同的晶圆厂，但性能将提升约2倍。",
-          "url": "https://flash.jin10.com/detail/20251105031111963800",
-          "source": "金十数据",
+          "title": "AI泡沫忧虑升温 美股期指集体走低 Palantir盘前重挫8% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2191076",
+          "source": "财联社热门",
           "ranks": [
-            1
+            8,
+            7,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时19分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时30分 ~ 04时28分]"
+        },
+        {
+          "title": "韩国总统警告“国家生存危机”，要求将AI支出规模增至3倍",
+          "url": "https://www.cls.cn/detail/2190917",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时30分 ~ 04时28分]"
+        },
+        {
+          "title": "原神AI重制短片",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8E%9F%E7%A5%9EAI%E9%87%8D%E5%88%B6%E7%9F%AD%E7%89%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            9,
+            19,
+            20,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时30分 ~ 04时28分]"
         },
         {
           "title": "亚马逊发函，要求Perplexity AI停止用AI agent进行购物。",
@@ -608,55 +770,6 @@
           "time_info": "02时33分"
         },
         {
-          "title": "特斯拉CEO马斯克：特斯拉AI5芯片的略微不同版本将由台积电和三星代工生产。",
-          "url": "https://flash.jin10.com/detail/20251105031017939800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时19分"
-        },
-        {
-          "title": "AI泡沫忧虑升温 美股期指集体走低 Palantir盘前重挫8% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2191076",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时30分 ~ 03时19分]"
-        },
-        {
-          "title": "原神AI重制短片",
-          "url": "https://search.bilibili.com/all?keyword=%E5%8E%9F%E7%A5%9EAI%E9%87%8D%E5%88%B6%E7%9F%AD%E7%89%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            9,
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时30分 ~ 03时19分]"
-        },
-        {
-          "title": "韩国总统警告“国家生存危机”，要求将AI支出规模增至3倍",
-          "url": "https://www.cls.cn/detail/2190917",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时30分 ~ 03时19分]"
-        },
-        {
           "title": "美国一特斯拉打不开车门 5人被烧死",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%80%E7%89%B9%E6%96%AF%E6%8B%89%E6%89%93%E4%B8%8D%E5%BC%80%E8%BD%A6%E9%97%A8+5%E4%BA%BA%E8%A2%AB%E7%83%A7%E6%AD%BB",
           "source": "百度热搜",
@@ -664,8 +777,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时30分 ~ 03时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时30分 ~ 04时28分]"
         },
         {
           "title": "美ICU宰客19万,AI揭底秒修复",
@@ -675,8 +788,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时30分 ~ 03时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时30分 ~ 04时28分]"
         },
         {
           "title": "AI养老的真正任务：让老人不必退场",
@@ -687,8 +800,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时30分 ~ 03时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时30分 ~ 04时28分]"
         },
         {
           "title": "AI还原福建舰电磁弹射全过程",
@@ -697,11 +810,35 @@
           "ranks": [
             17,
             18,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时30分 ~ 03时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时30分 ~ 04时28分]"
+        },
+        {
+          "title": "OpenAI针对安卓设备推出Sora，美国、加拿大、日本、泰国等地的Google Play用户将能够首先使用。",
+          "url": "https://wallstreetcn.com/livenews/2999380",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
+        },
+        {
+          "title": "特斯拉CEO马斯克：AI6芯片将采用相同的晶圆厂，但性能将提升约2倍。",
+          "url": "https://flash.jin10.com/detail/20251105031111963800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时19分 ~ 04时28分]"
         },
         {
           "title": "谷歌(GOOG.O)：与Vitality宣布合作推出Vitality AI。",
@@ -717,6 +854,18 @@
           "time_info": "[00时30分 ~ 02时33分]"
         },
         {
+          "title": "特斯拉CEO马斯克：特斯拉AI5芯片的略微不同版本将由台积电和三星代工生产。",
+          "url": "https://flash.jin10.com/detail/20251105031017939800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时19分 ~ 04时28分]"
+        },
+        {
           "title": "据天空新闻：英伟达CEO黄仁勋将与英国科技大臣莉兹·肯德尔会面。",
           "url": "https://flash.jin10.com/detail/20251105012807101800",
           "source": "金十数据",
@@ -727,6 +876,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时33分 ~ 03时19分]"
+        },
+        {
+          "title": "根据提交给美国贸易代表办公室的文件，通用汽车(GM.N)、特斯拉(TSLA.O)、丰田敦促特朗普政府延长美墨加协定。",
+          "url": "https://flash.jin10.com/detail/20251105030214488800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时19分 ~ 04时28分]"
         },
         {
           "title": "英伟达CEO黄仁勋将会见英国科技大臣Liz Kendall。（英国天空新闻）",
@@ -753,26 +914,60 @@
           "time_info": "[01时19分 ~ 02时33分]"
         },
         {
-          "title": "根据提交给美国贸易代表办公室的文件，通用汽车(GM.N)、特斯拉(TSLA.O)、丰田敦促特朗普政府延长美墨加协定。",
-          "url": "https://flash.jin10.com/detail/20251105030214488800",
-          "source": "金十数据",
+          "title": "亚马逊发函，要求Perplexity AI停止用AI agent进行购物",
+          "url": "https://wallstreetcn.com/livenews/2999349",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时19分 ~ 04时28分]"
+        },
+        {
+          "title": "纳指跌幅扩大至2%，标普500指数跌1.2%——科技板块跌2.2%，可选消费、电信、工业板块至多跌1.89%，半导体指数跌3.3%。特斯拉跌4.7%，苹果目前涨0.48%。 纳斯达克100指数的成分股中，Palantir跌9.4%，CDW跌8.6%，汤森路透跌6.3%，美光科技跌6.2%，新思科技和MSTR跌6.1%，英特尔跌5.6%，特斯拉跌4.9%，英伟达跌3.8%，安森美半导体跌3.6%，Linde则涨1.7%，VRSK涨2%，万豪国际涨3.7%。",
+          "url": "https://wallstreetcn.com/livenews/2999377",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时19分"
+          "time_info": "04时28分"
         },
         {
-          "title": "亚马逊发函，要求Perplexity AI停止用AI agent进行购物",
-          "url": "https://wallstreetcn.com/livenews/2999349",
-          "source": "华尔街见闻-快讯",
+          "title": "纳指尾盘跌幅扩大至2%，英伟达(NVDA.O)跌近4%，特斯拉(TSLA.O)跌4.7%。",
+          "url": "https://flash.jin10.com/detail/20251105034345980800",
+          "source": "金十数据",
           "ranks": [
-            11
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时19分"
+          "time_info": "04时28分"
+        },
+        {
+          "title": "马斯克：（AI5）芯片样品预计将于2026年推出，计划于2027年量产。",
+          "url": "https://wallstreetcn.com/livenews/2999372",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
+        },
+        {
+          "title": "特斯拉CEO马斯克：（AI5）芯片样品预计将于2026年推出，计划于2027年量产。",
+          "url": "https://flash.jin10.com/detail/20251105031420233800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
         },
         {
           "title": "Palantir的CEO Alex Karp反击，称“大空头”Michael Burry做空该公司和英伟达“是疯狂的”。",
@@ -799,6 +994,131 @@
       ]
     },
     {
+      "keyword_group": "外交部 商务部 证监会 央行",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "中国外交部严厉正告后，日本外相最新涉台表态",
+          "url": "https://news.ifeng.com/c/8o0b2FeKggq",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时30分 ~ 04时28分]"
+        },
+        {
+          "title": "商务部回应安世半导体磋商进展，称全球半导体产供链的动荡混乱，荷方应承担全部责任，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/1969042065313726709",
+          "source": "知乎",
+          "ranks": [
+            7,
+            8,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时30分 ~ 04时28分]"
+        },
+        {
+          "title": "商务部回应安世半导体磋商进展：荷方应承担全部责任",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31889089",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时30分 ~ 04时28分]"
+        },
+        {
+          "title": "金永南逝世，外交部：他生前多次率团访华，为推动中朝友好作出重要贡献",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31890082",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时30分 ~ 04时28分]"
+        },
+        {
+          "title": "匈牙利外交部长Peter Szijjarto：匈牙利计划与美国加强核合作。 总理Viktor Orban将于周五会见美国总统特朗普，匈牙利计划届时提高这方面的合作水平。",
+          "url": "https://wallstreetcn.com/livenews/2999310",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            18,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时30分 ~ 02时33分]"
+        },
+        {
+          "title": "阿根廷外交部长Quirno：下周将恢复与美国之间的贸易磋商。",
+          "url": "https://wallstreetcn.com/livenews/2999326",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            20,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时19分 ~ 03时19分]"
+        },
+        {
+          "title": "伊朗外交部发言人表示，两名被扣押在伊朗的法国公民已获保释。",
+          "url": "https://flash.jin10.com/detail/20251105032950258800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
+        },
+        {
+          "title": "欧洲央行管委Stournaras：欧元区经济增长前景面临下行风险。",
+          "url": "https://wallstreetcn.com/livenews/2999290",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时30分"
+        },
+        {
+          "title": "欧洲央行管委斯图纳拉斯：欧元区增长前景面临下行风险。",
+          "url": "https://flash.jin10.com/detail/20251104231014797800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时30分"
+        },
+        {
+          "title": "土耳其央行：月度通胀的主要趋势环比有所减弱。",
+          "url": "https://flash.jin10.com/detail/20251104230714044800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时30分"
+        }
+      ]
+    },
+    {
       "keyword_group": "黄金 白银 铜 铝 稀土",
       "match_count": 9,
       "titles": [
@@ -810,8 +1130,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时30分 ~ 03时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时30分 ~ 04时28分]"
         },
         {
           "title": "美政府又签了一份稀土协议，试图“削弱中国对供应链的控制”",
@@ -821,8 +1141,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时30分 ~ 03时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时30分 ~ 04时28分]"
         },
         {
           "title": "【焦点复盘】三大指数再陷缩量调整，黄金等资源股持续低迷，资金逆势抱团银行等红利股",
@@ -832,8 +1152,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时30分 ~ 03时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时30分 ~ 04时28分]"
         },
         {
           "title": "藏3万黄金的旧电器被老伴100元卖了",
@@ -843,11 +1163,12 @@
             23,
             18,
             15,
-            13
+            13,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时30分 ~ 03时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时30分 ~ 04时28分]"
         },
         {
           "title": "黄金投资突然上了枷锁，关于黄金税收对老百姓来说是好是坏呢？",
@@ -857,8 +1178,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时30分 ~ 03时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时30分 ~ 04时28分]"
         },
         {
           "title": "国际铜夜盘收跌0.92%，沪铜收跌0.86%，沪铝收跌0.35%，沪锌收跌0.20%，沪铅收跌0.06%，沪镍收跌0.20%，沪锡收跌0.39%。 氧化铝夜盘收跌0.36%，铝合金收跌0.40%。 不锈钢夜盘收跌0.04%。",
@@ -892,7 +1213,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时19分"
         },
@@ -902,119 +1223,6 @@
           "source": "金十数据",
           "ranks": [
             30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时30分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "外交部 商务部 证监会 央行",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "中国外交部严厉正告后，日本外相最新涉台表态",
-          "url": "https://news.ifeng.com/c/8o0b2FeKggq",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时30分 ~ 03时19分]"
-        },
-        {
-          "title": "商务部回应安世半导体磋商进展，称全球半导体产供链的动荡混乱，荷方应承担全部责任，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/1969042065313726709",
-          "source": "知乎",
-          "ranks": [
-            7,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时30分 ~ 03时19分]"
-        },
-        {
-          "title": "商务部回应安世半导体磋商进展：荷方应承担全部责任",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31889089",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时30分 ~ 03时19分]"
-        },
-        {
-          "title": "金永南逝世，外交部：他生前多次率团访华，为推动中朝友好作出重要贡献",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31890082",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时30分 ~ 03时19分]"
-        },
-        {
-          "title": "匈牙利外交部长Peter Szijjarto：匈牙利计划与美国加强核合作。 总理Viktor Orban将于周五会见美国总统特朗普，匈牙利计划届时提高这方面的合作水平。",
-          "url": "https://wallstreetcn.com/livenews/2999310",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            18,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时30分 ~ 02时33分]"
-        },
-        {
-          "title": "阿根廷外交部长Quirno：下周将恢复与美国之间的贸易磋商。",
-          "url": "https://wallstreetcn.com/livenews/2999326",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            20,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时19分 ~ 03时19分]"
-        },
-        {
-          "title": "欧洲央行管委Stournaras：欧元区经济增长前景面临下行风险。",
-          "url": "https://wallstreetcn.com/livenews/2999290",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时30分"
-        },
-        {
-          "title": "欧洲央行管委斯图纳拉斯：欧元区增长前景面临下行风险。",
-          "url": "https://flash.jin10.com/detail/20251104231014797800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时30分"
-        },
-        {
-          "title": "土耳其央行：月度通胀的主要趋势环比有所减弱。",
-          "url": "https://flash.jin10.com/detail/20251104230714044800",
-          "source": "金十数据",
-          "ranks": [
-            21
           ],
           "is_new": false,
           "appearance_count": 1,
