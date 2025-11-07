@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-08T01:20:34.784727+08:00",
-  "total_titles_processed": 369,
+  "generated_at": "2025-11-08T02:32:16.905085+08:00",
+  "total_titles_processed": 433,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 美债 美元 石油 战争",
-      "match_count": 19,
+      "match_count": 33,
       "titles": [
         {
           "title": "美国裁员数创20年新高，Mag7重挫领跌美股，美债大涨，加密货币重回跌势",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 01时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 02时32分]"
         },
         {
           "title": "Meta Platforms(META.O)：到2028年，将在美国投入超过6000亿美元，以支持人工智能技术、基础设施和员工队伍的扩展。",
@@ -25,9 +25,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
+        },
+        {
+          "title": "周五（11月7日），美联储隔夜逆回购协议（RRP）使用规模为49.03亿美元，上个交易日报107.54亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3001357",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时32分"
         },
         {
           "title": "美股延续跌势，纳指日内跌幅扩大至2%。",
@@ -36,9 +47,43 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
+        },
+        {
+          "title": "WTI原油期货涨约0.3%，报59.59美元。 据媒体报道，美国支持欧盟利用被冻结的俄罗斯资产来支持乌克兰。",
+          "url": "https://wallstreetcn.com/livenews/3001355",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时32分"
+        },
+        {
+          "title": "美国11月7日当周石油钻井数 414，前值 414。",
+          "url": "https://wallstreetcn.com/livenews/3001353",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时32分"
+        },
+        {
+          "title": "市场情绪依然疲弱 美股三大期指继续走低 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2194710",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 02时32分]"
         },
         {
           "title": "美国政府：总统特朗普将于12月10日拍卖大约8000万英亩的墨西哥湾石油与天然气开采权益。",
@@ -83,17 +128,6 @@
           "ranks": [
             10,
             23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 01时20分]"
-        },
-        {
-          "title": "市场情绪依然疲弱 美股三大期指继续走低 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2194710",
-          "source": "财联社热门",
-          "ranks": [
-            13
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -148,6 +182,94 @@
           "time_info": "[00时26分 ~ 01时20分]"
         },
         {
+          "title": "美国至11月7日当周石油钻井总数 414口，前值414口。",
+          "url": "https://flash.jin10.com/detail/20251108020114108800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时32分"
+        },
+        {
+          "title": "美国总统特朗普：考虑在“制裁俄罗斯石油”方面实施豁免。 考虑对匈牙利实施豁免。",
+          "url": "https://wallstreetcn.com/livenews/3001347",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时32分"
+        },
+        {
+          "title": "消息人士称，美国支持欧盟使用冻结的俄罗斯资产来支持乌克兰并帮助结束战争。",
+          "url": "https://flash.jin10.com/detail/20251108015520183800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时32分"
+        },
+        {
+          "title": "美国法官宣布：First Brands可以获取11亿美元破产贷款中剩余的6亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3001346",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时32分"
+        },
+        {
+          "title": "周五（11月7日），韩元兑美元最终下跌0.83%，报1461.29韩元。 本周，韩元累计下跌2.22%，整体持续、平滑地震荡下行，交投区间为1425.91-1462.58韩元。",
+          "url": "https://wallstreetcn.com/livenews/3001345",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时32分"
+        },
+        {
+          "title": "美国至11月7日当周石油钻井总数将于十分钟后公布。",
+          "url": "https://flash.jin10.com/detail/20251108015000000800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时32分"
+        },
+        {
+          "title": "波音公司对位于美国南卡罗莱那州787梦想客机工厂投资超过01亿美元，希望将单月产量翻倍。 未来五年，这笔投资将给当地带来超过1000个新增就业机会。",
+          "url": "https://wallstreetcn.com/livenews/3001341",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时32分"
+        },
+        {
+          "title": "匈牙利总理欧尔班：我们将就俄罗斯石油问题进行谈判。",
+          "url": "https://flash.jin10.com/detail/20251108014649360800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时32分"
+        },
+        {
           "title": "美国银行：预计到2026年垃圾债券供应量将达到3600亿美元，杠杆贷款将达到4250亿美元。",
           "url": "https://flash.jin10.com/detail/20251107234822667800",
           "source": "金十数据",
@@ -157,6 +279,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时26分"
+        },
+        {
+          "title": "美国总统特朗普：正在考虑给予匈牙利豁免，使其免受针对俄罗斯石油的制裁。",
+          "url": "https://flash.jin10.com/detail/20251108014609928800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时32分"
         },
         {
           "title": "盖茨基金会表示，未来四年将投资14亿美元，帮助农民适应极端天气。",
@@ -192,6 +325,17 @@
           "time_info": "00时26分"
         },
         {
+          "title": "金十图示：2025年11月07日（周五）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251108013150953800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时32分"
+        },
+        {
           "title": "美国能源公司EOG：预计未来几个季度石油市场将供过于求。",
           "url": "https://flash.jin10.com/detail/20251107233425878800",
           "source": "金十数据",
@@ -201,6 +345,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时26分"
+        },
+        {
+          "title": "金十图示：2025年11月07日（周五）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251108013139801800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时32分"
         },
         {
           "title": "行业ETF美股盘初普跌，半导体ETF跌1.3%",
@@ -227,8 +382,327 @@
       ]
     },
     {
+      "keyword_group": "特朗普 马斯克 加密货币 美联储",
+      "match_count": 28,
+      "titles": [
+        {
+          "title": "特朗普痛骂佩洛西",
+          "url": "https://www.douyin.com/hot/2297374",
+          "source": "抖音",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 02时32分]"
+        },
+        {
+          "title": "美科学家：有人调侃，特朗普干一辈子，对中国科研是大好事",
+          "url": "https://news.ifeng.com/c/8o5IuV0EIi3",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 02时32分]"
+        },
+        {
+          "title": "一图看懂 | 万亿薪酬！马斯克若想拿满所有奖励，还需要再“卷”十年",
+          "url": "https://www.cls.cn/detail/2194534",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 02时32分]"
+        },
+        {
+          "title": "人类史上最贵CEO诞生！马斯克 “万亿薪酬”背后的“十年对赌协议”",
+          "url": "https://wallstreetcn.com/articles/3758872",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 02时32分]"
+        },
+        {
+          "title": "美国总统特朗普：没有哪个国家在经济方面能接近美国。",
+          "url": "https://flash.jin10.com/detail/20251108021224420800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时32分"
+        },
+        {
+          "title": "美国总统特朗普：通胀处于一个完美的水平。",
+          "url": "https://flash.jin10.com/detail/20251108021030096800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时32分"
+        },
+        {
+          "title": "美国总统特朗普：我们一致认为，俄乌冲突将在不久的将来结束。",
+          "url": "https://flash.jin10.com/detail/20251108020524732800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时32分"
+        },
+        {
+          "title": "特朗普：美国通胀处于完美水平",
+          "url": "https://wallstreetcn.com/livenews/3001354",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时32分"
+        },
+        {
+          "title": "美国总统特朗普：希望继续在布达佩斯与俄罗斯总统普京会晤。",
+          "url": "https://flash.jin10.com/detail/20251108020350624800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时32分"
+        },
+        {
+          "title": "特朗普真想对委内瑞拉开战吗？",
+          "url": "https://v.ifeng.com/c/8o61H5snkCE",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 02时32分]"
+        },
+        {
+          "title": "马斯克万亿薪酬方案获批准",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E4%B8%87%E4%BA%BF%E8%96%AA%E9%85%AC%E6%96%B9%E6%A1%88%E8%8E%B7%E6%89%B9%E5%87%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 02时32分]"
+        },
+        {
+          "title": "85岁佩洛西将退休，回顾她与特朗普交锋历史：夸张鼓掌、手撕演讲稿...",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31914607",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 02时32分]"
+        },
+        {
+          "title": "今晚非农又没了？美国政府停摆持续，美联储12月降息“难上加难”",
+          "url": "https://wallstreetcn.com/articles/3758939",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时20分 ~ 02时32分]"
+        },
+        {
+          "title": "特朗普：美国人正为关税付出代价",
+          "url": "https://www.toutiao.com/trending/7569021464603901971/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时20分 ~ 02时32分]"
+        },
+        {
+          "title": "马斯克或成万亿富豪凸显美贫富分化",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E6%88%96%E6%88%90%E4%B8%87%E4%BA%BF%E5%AF%8C%E8%B1%AA%E5%87%B8%E6%98%BE%E7%BE%8E%E8%B4%AB%E5%AF%8C%E5%88%86%E5%8C%96",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时20分 ~ 02时32分]"
+        },
+        {
+          "title": "美联储：美国10月一年期通胀预期降至3.24%，前值3.38%。 10月三年期和五年期通胀预期持稳于3%。",
+          "url": "https://wallstreetcn.com/livenews/3001318",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 01时20分]"
+        },
+        {
+          "title": "据纽约时报：康奈尔大学与特朗普政府达成协议，将恢复研究经费。",
+          "url": "https://flash.jin10.com/detail/20251108004617809800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时20分"
+        },
+        {
+          "title": "美国总统特朗普：与俄罗斯的根本分歧在于，他们不愿停止俄乌冲突。",
+          "url": "https://flash.jin10.com/detail/20251108015909151800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时32分"
+        },
+        {
+          "title": "美国总统特朗普：谈及会见俄罗斯总统普京的事宜。 若有可能，我愿意在匈牙利布达佩斯会见普京。",
+          "url": "https://wallstreetcn.com/livenews/3001349",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时32分"
+        },
+        {
+          "title": "美国总统特朗普：如果共和党废除阻挠议事（冗长辩论）规则，他们将在未来多年赢得胜利；如果他们不这样做，灾难将不可避免！",
+          "url": "https://flash.jin10.com/detail/20251108001852404800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时20分"
+        },
+        {
+          "title": "美国总统特朗普：认为欧盟应尊重匈牙利。",
+          "url": "https://flash.jin10.com/detail/20251108015141021800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时32分"
+        },
+        {
+          "title": "美国总统特朗普：我们正在讨论有关与俄罗斯总统普京会晤的问题。",
+          "url": "https://flash.jin10.com/detail/20251108015002431800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时32分"
+        },
+        {
+          "title": "美国总统特朗普：匈牙利总理欧尔班在移民问题上没有犯错。",
+          "url": "https://flash.jin10.com/detail/20251108014816104800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时32分"
+        },
+        {
+          "title": "特朗普称佩洛西在股市“非法敛财”",
+          "url": "https://flash.jin10.com/detail/20251107234753828800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时26分"
+        },
+        {
+          "title": "美国总统特朗普：将与匈牙利总理欧尔班讨论贸易、能源和乌克兰问题。",
+          "url": "https://flash.jin10.com/detail/20251108014233004800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时32分"
+        },
+        {
+          "title": "特朗普政府要求暂停执行全额支付食品援助金裁定",
+          "url": "https://wallstreetcn.com/livenews/3001317",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时26分"
+        },
+        {
+          "title": "美国总统特朗普欢迎匈牙利总理访问白宫。",
+          "url": "https://flash.jin10.com/detail/20251108012705456800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时32分"
+        },
+        {
+          "title": "CNH Industrial NV跌11%，恐创2020年以来最差单日表现，特朗普关税冲击到该公司业绩展望。 迪尔农机/约翰迪尔（DE）跌3.7%。",
+          "url": "https://wallstreetcn.com/livenews/3001287",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时26分"
+        }
+      ]
+    },
+    {
       "keyword_group": "黄金 白银 铜 铝 稀土",
-      "match_count": 16,
+      "match_count": 19,
       "titles": [
         {
           "title": "两部门发布重磅公告 涉及超硬材料、稀土、锂电池等出口管制",
@@ -238,8 +712,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 01时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 02时32分]"
         },
         {
           "title": "女子带快递纸盒买黄金 店员立即报警",
@@ -249,19 +723,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 01时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 02时32分]"
         },
         {
-          "title": "国际铜夜盘收涨0.01%，沪铜收跌0.03%，沪铝收跌0.46%，沪锌收跌0.48%，沪铅收涨0.40%，沪镍收跌0.31%，沪锡收涨0.40%。 氧化铝夜盘收涨0.94%，铝合金收跌0.43%。 不锈钢夜盘收跌0.20%。",
-          "url": "https://wallstreetcn.com/livenews/3001338",
-          "source": "华尔街见闻-快讯",
+          "title": "美政府停摆担忧重燃，美股承压下跌，现货黄金涨幅收窄，比特币一度跌破10万美元",
+          "url": "https://wallstreetcn.com/articles/3758914",
+          "source": "华尔街见闻",
           "ranks": [
-            2
+            6,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时20分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时20分 ~ 02时32分]"
         },
         {
           "title": "连续第12个月增持！中国央行10月增持3万盎司黄金",
@@ -271,19 +746,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 01时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 02时32分]"
         },
         {
-          "title": "柬埔寨宣布在华存储黄金意味着什么",
-          "url": "https://www.toutiao.com/trending/7569973444196961828/",
-          "source": "今日头条",
+          "title": "国际铜夜盘收涨0.01%，沪铜收跌0.03%，沪铝收跌0.46%，沪锌收跌0.48%，沪铅收涨0.40%，沪镍收跌0.31%，沪锡收涨0.40%。 氧化铝夜盘收涨0.94%，铝合金收跌0.43%。 不锈钢夜盘收跌0.20%。",
+          "url": "https://wallstreetcn.com/livenews/3001338",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            2,
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时26分 ~ 01时20分]"
+          "time_info": "[01时20分 ~ 02时32分]"
         },
         {
           "title": "“获利了结”的机构正评估“重新入场黄金”时机：短期焦点是“黄金ETF”的粘性",
@@ -293,19 +769,44 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 01时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 02时32分]"
+        },
+        {
+          "title": "柬埔寨宣布在华存储黄金意味着什么",
+          "url": "https://www.toutiao.com/trending/7569973444196961828/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 02时32分]"
         },
         {
           "title": "中国科学家有涉稀土重要发现",
           "url": "https://www.cls.cn/detail/2194511",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 02时32分]"
+        },
+        {
+          "title": "现货黄金日内涨幅达1.0%，报4016.69美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3001328",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            26
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时26分 ~ 01时20分]"
+          "time_info": "[01时20分 ~ 02时32分]"
         },
         {
           "title": "稀土概念股涨跌各异，MP材料涨5.4%，UUUU涨1%，USAR则跌1%，NB跌2.4%。 巴西稀土生产商Serra Verde从美国国际开发金融公司获得高达4.65亿美元资金。 这笔融资将用于升级该公司位于巴西戈亚斯州的佩拉埃玛矿，根据美国国际开发金融公司网站8月15日的一份文档。美国国际开发金融公司在美国国务院外交政策指导下运作。",
@@ -343,17 +844,6 @@
           "time_info": "00时26分"
         },
         {
-          "title": "美政府停摆担忧重燃，美股承压下跌，现货黄金涨幅收窄，比特币一度跌破10万美元",
-          "url": "https://wallstreetcn.com/articles/3758914",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时20分"
-        },
-        {
           "title": "逢低买盘消退，美股指数集体低开，现货黄金涨幅收窄，比特币一度跌破10万美元",
           "url": "https://wallstreetcn.com/articles/3758914",
           "source": "华尔街见闻",
@@ -371,9 +861,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
+        },
+        {
+          "title": "LME期铜收涨34美元，报10716美元/吨。 LME期铝收涨4美元，报2848美元/吨。 LME期锌收涨10美元，报3056美元/吨。 LME期铅收涨16美元，报2047美元/吨。 LME期镍收涨22美元，报15060美元/吨。 LME期锡收跌23美元，报35822美元/吨。 LME期钴收平，报48570美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3001350",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时32分"
         },
         {
           "title": "现货黄金日内涨幅扩大至1.00%，现报4017.09美元/盎司。",
@@ -382,20 +883,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
         },
         {
-          "title": "现货黄金日内涨幅达1.0%，报4016.69美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3001328",
+          "title": "铜价的巨额关税赌注重现：交易员抢购美国供应",
+          "url": "https://wallstreetcn.com/livenews/3001340",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时20分"
+          "time_info": "02时32分"
         },
         {
           "title": "巴西稀土生产商Serra Verde从美国国际开发金融公司获得高达4.65亿美元的资金。",
@@ -407,190 +908,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普 马斯克 加密货币 美联储",
-      "match_count": 16,
-      "titles": [
-        {
-          "title": "特朗普痛骂佩洛西",
-          "url": "https://www.douyin.com/hot/2297374",
-          "source": "抖音",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 01时20分]"
         },
         {
-          "title": "美科学家：有人调侃，特朗普干一辈子，对中国科研是大好事",
-          "url": "https://news.ifeng.com/c/8o5IuV0EIi3",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 01时20分]"
-        },
-        {
-          "title": "人类史上最贵CEO诞生！马斯克 “万亿薪酬”背后的“十年对赌协议”",
-          "url": "https://wallstreetcn.com/articles/3758872",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 01时20分]"
-        },
-        {
-          "title": "一图看懂 | 万亿薪酬！马斯克若想拿满所有奖励，还需要再“卷”十年",
-          "url": "https://www.cls.cn/detail/2194534",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 01时20分]"
-        },
-        {
-          "title": "特朗普真想对委内瑞拉开战吗？",
-          "url": "https://v.ifeng.com/c/8o61H5snkCE",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 01时20分]"
-        },
-        {
-          "title": "美联储：美国10月一年期通胀预期降至3.24%，前值3.38%。 10月三年期和五年期通胀预期持稳于3%。",
-          "url": "https://wallstreetcn.com/livenews/3001318",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 01时20分]"
-        },
-        {
-          "title": "马斯克万亿薪酬方案获批准",
-          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E4%B8%87%E4%BA%BF%E8%96%AA%E9%85%AC%E6%96%B9%E6%A1%88%E8%8E%B7%E6%89%B9%E5%87%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 01时20分]"
-        },
-        {
-          "title": "85岁佩洛西将退休，回顾她与特朗普交锋历史：夸张鼓掌、手撕演讲稿...",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31914607",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 01时20分]"
-        },
-        {
-          "title": "据纽约时报：康奈尔大学与特朗普政府达成协议，将恢复研究经费。",
-          "url": "https://flash.jin10.com/detail/20251108004617809800",
+          "title": "伦敦金银市场协会（LBMA）：10月伦敦金库的白银储备量增长了6.8%。",
+          "url": "https://flash.jin10.com/detail/20251108013419713800",
           "source": "金十数据",
           "ranks": [
-            6
+            25
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时20分"
-        },
-        {
-          "title": "今晚非农又没了？美国政府停摆持续，美联储12月降息“难上加难”",
-          "url": "https://wallstreetcn.com/articles/3758939",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时20分"
-        },
-        {
-          "title": "美国总统特朗普：如果共和党废除阻挠议事（冗长辩论）规则，他们将在未来多年赢得胜利；如果他们不这样做，灾难将不可避免！",
-          "url": "https://flash.jin10.com/detail/20251108001852404800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时20分"
-        },
-        {
-          "title": "特朗普称佩洛西在股市“非法敛财”",
-          "url": "https://flash.jin10.com/detail/20251107234753828800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
-        },
-        {
-          "title": "特朗普政府要求暂停执行全额支付食品援助金裁定",
-          "url": "https://wallstreetcn.com/livenews/3001317",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
-        },
-        {
-          "title": "马斯克或成万亿富豪凸显美贫富分化",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E6%88%96%E6%88%90%E4%B8%87%E4%BA%BF%E5%AF%8C%E8%B1%AA%E5%87%B8%E6%98%BE%E7%BE%8E%E8%B4%AB%E5%AF%8C%E5%88%86%E5%8C%96",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时20分"
-        },
-        {
-          "title": "CNH Industrial NV跌11%，恐创2020年以来最差单日表现，特朗普关税冲击到该公司业绩展望。 迪尔农机/约翰迪尔（DE）跌3.7%。",
-          "url": "https://wallstreetcn.com/livenews/3001287",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
-        },
-        {
-          "title": "特朗普：美国人正为关税付出代价",
-          "url": "https://www.toutiao.com/trending/7569021464603901971/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时20分"
+          "time_info": "02时32分"
         }
       ]
     },
@@ -606,19 +934,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 01时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 02时32分]"
         },
         {
           "title": "OpenAI“大而不能倒”？，Altman“不寻求财政支持”，“AI沙皇”：AI公司倒了就倒了，美国政府不会救",
           "url": "https://wallstreetcn.com/articles/3758853",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 01时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 02时32分]"
         },
         {
           "title": "何为进博｜从机器人到“空中专车”，科技成果向“新”见未来",
@@ -628,8 +957,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 01时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 02时32分]"
         },
         {
           "title": "美股费城半导体指数跌超4%，纳微半导体跌17.5%，英伟达两倍做多ETF跌8.2%，Coherent跌7.6%，Arm跌6.6%，英伟达、超微电脑、博通、AMD、格芯跌超4%。 标普500指数跌约1.2%，纳指跌约1.9%。",
@@ -637,11 +966,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            13
+            13,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 01时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 02时32分]"
         },
         {
           "title": "马斯克万亿美元天价薪酬激励方案通过，超七成股东支持，特斯拉市值要在十年内达到 8.5 万亿美元，如何解读？",
@@ -651,8 +981,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 01时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 02时32分]"
         },
         {
           "title": "黄仁勋“炸鸡啤酒会面”背后：韩国欲跻身“AI三大强国”，但须借力美国",
@@ -662,8 +992,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 01时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 02时32分]"
         },
         {
           "title": "马斯克何小鹏隔空互动：特斯拉和中国公司将主导市场",
@@ -673,8 +1003,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 01时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 02时32分]"
         },
         {
           "title": "太逼真,小鹏机器人被迫脱衣自证",
@@ -684,8 +1014,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 01时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 02时32分]"
         }
       ]
     },
@@ -700,7 +1030,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
         },
@@ -717,6 +1047,30 @@
           "time_info": "[00时26分 ~ 01时20分]"
         },
         {
+          "title": "日本扇贝已出口至中国，外交部：将继续加强对日本水产品输华监管",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31880787",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 02时32分]"
+        },
+        {
+          "title": "时隔两年日本水产品首次对华出口，外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31916151",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 02时32分]"
+        },
+        {
           "title": "英国央行首席经济学家皮尔：将强调英国央行政策的连续性，而非措辞上相对温和的调整。",
           "url": "https://flash.jin10.com/detail/20251107235853737800",
           "source": "金十数据",
@@ -729,35 +1083,12 @@
           "time_info": "[00时26分 ~ 01时20分]"
         },
         {
-          "title": "日本扇贝已出口至中国，外交部：将继续加强对日本水产品输华监管",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31880787",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 01时20分]"
-        },
-        {
           "title": "英国央行首席经济学家皮尔：（被问及英国央行“渐进且谨慎”措辞中删除“谨慎”一词时表示）不应过度解读。",
           "url": "https://flash.jin10.com/detail/20251107235624242800",
           "source": "金十数据",
           "ranks": [
             12,
             25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 01时20分]"
-        },
-        {
-          "title": "时隔两年日本水产品首次对华出口，外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31916151",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
           ],
           "is_new": false,
           "appearance_count": 2,
