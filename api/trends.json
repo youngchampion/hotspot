@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-08T07:20:39.040895+08:00",
-  "total_titles_processed": 579,
+  "generated_at": "2025-11-08T09:42:27.825350+08:00",
+  "total_titles_processed": 721,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 美债 美元 石油 战争",
-      "match_count": 56,
+      "match_count": 60,
       "titles": [
         {
           "title": "美国裁员数创20年新高，Mag7重挫领跌美股，美债大涨，加密货币重回跌势",
@@ -28,30 +28,32 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 07时20分]"
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 09时42分]"
         },
         {
           "title": "美联储理事米兰：稳定币的广泛使用可能会推高美元价值。",
           "url": "https://flash.jin10.com/detail/20251108040051217800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时24分 ~ 07时20分]"
+          "appearance_count": 5,
+          "time_info": "[04时24分 ~ 09时42分]"
         },
         {
           "title": "美联储理事米兰：稳定币的兴起或将推动美元更广泛地使用。",
           "url": "https://flash.jin10.com/detail/20251108040045147800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时24分 ~ 07时20分]"
+          "appearance_count": 5,
+          "time_info": "[04时24分 ~ 09时42分]"
         },
         {
           "title": "Meta Platforms(META.O)：到2028年，将在美国投入超过6000亿美元，以支持人工智能技术、基础设施和员工队伍的扩展。",
@@ -71,7 +73,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
         },
@@ -87,17 +89,6 @@
           "time_info": "01时20分"
         },
         {
-          "title": "航空业ETF收涨约2.2%，领跑美股行业ETF，本周全球科技股指数ETF跌4.7%",
-          "url": "https://wallstreetcn.com/livenews/3001428",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时20分"
-        },
-        {
           "title": "美联储理事米兰：稳定币可能会大幅压低R*利率。 当获取美元的渠道受限时，稳定币能满足需求。 稳定币增长应当提振可用于贷款的资金供应量。",
           "url": "https://wallstreetcn.com/livenews/3001383",
           "source": "华尔街见闻-快讯",
@@ -107,6 +98,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
+        },
+        {
+          "title": "美国9月消费信贷 130.9亿美元，预期100亿美元，前值3.63亿美元。",
+          "url": "https://flash.jin10.com/detail/20251108040036723800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时24分 ~ 09时42分]"
         },
         {
           "title": "周五（11月7日）纽约尾盘（周六北京时间04:59），离岸人民币（CNH）兑美元报7.1262元，较周四纽约尾盘跌49点，日内整体交投于7.1212-7.1274元区间。",
@@ -173,6 +176,18 @@
           "time_info": "[03时19分 ~ 05时19分]"
         },
         {
+          "title": "美股收盘：国会消息刺激V型反转 纳指仍创4月以来最大单周跌幅",
+          "url": "https://www.cls.cn/detail/2194839",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时20分 ~ 09时42分]"
+        },
+        {
           "title": "美国11月7日当周石油钻井数 414，前值 414。",
           "url": "https://wallstreetcn.com/livenews/3001353",
           "source": "华尔街见闻-快讯",
@@ -186,15 +201,16 @@
           "time_info": "[02时32分 ~ 04时24分]"
         },
         {
-          "title": "美国9月消费信贷 130.9亿美元，预期100亿美元，前值3.63亿美元。",
-          "url": "https://flash.jin10.com/detail/20251108040036723800",
-          "source": "金十数据",
+          "title": "航空业ETF收涨约2.2%，领跑美股行业ETF，本周全球科技股指数ETF跌4.7%",
+          "url": "https://wallstreetcn.com/livenews/3001428",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            3,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时24分 ~ 07时20分]"
+          "appearance_count": 2,
+          "time_info": "[07时20分 ~ 09时42分]"
         },
         {
           "title": "美国9月消费信贷变动 130.93亿美元，预期 102.3亿美元，前值 3.63亿美元。",
@@ -474,6 +490,17 @@
           "time_info": "[00时26分 ~ 01时20分]"
         },
         {
+          "title": "Meta确认6000亿美元投资计划 电力设备巨头上调订单指引 | 环球市场",
+          "url": "https://www.cls.cn/detail/2194848",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
+        },
+        {
           "title": "消息人士称，美国支持欧盟使用冻结的俄罗斯资产来支持乌克兰并帮助结束战争。",
           "url": "https://flash.jin10.com/detail/20251108015520183800",
           "source": "金十数据",
@@ -494,17 +521,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时19分"
-        },
-        {
-          "title": "美股收盘：国会消息刺激V型反转 纳指仍创4月以来最大单周跌幅",
-          "url": "https://www.cls.cn/detail/2194839",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时20分"
         },
         {
           "title": "美国至11月7日当周石油钻井总数将于十分钟后公布。",
@@ -551,6 +567,17 @@
           "time_info": "02时32分"
         },
         {
+          "title": "金十图示：2025年11月07日（周五）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251108080807908800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
+        },
+        {
           "title": "美联储在固定利率逆回购操作中总计接纳了9个对手方的49.03亿美元，上个交易日为107.54亿美元。",
           "url": "https://flash.jin10.com/detail/20251108021723516800",
           "source": "金十数据",
@@ -560,6 +587,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时19分"
+        },
+        {
+          "title": "金十图示：2025年11月07日（周五）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251108080805463800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
         },
         {
           "title": "盖茨基金会表示，未来四年将投资14亿美元，帮助农民适应极端天气。",
@@ -582,6 +620,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时19分"
+        },
+        {
+          "title": "美股周线结束三连涨，纳指本周累跌3%",
+          "url": "https://flash.jin10.com/detail/20251108080758770800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
         },
         {
           "title": "Expedia上涨17.6%，报258.50美元，创盘中历史新高。 该公司业绩和指引都强劲，带动Piper Sandler分析师上调评级。",
@@ -664,8 +713,19 @@
     },
     {
       "keyword_group": "特朗普 马斯克 加密货币 美联储",
-      "match_count": 44,
+      "match_count": 51,
       "titles": [
+        {
+          "title": "美科学家：有人调侃，特朗普干一辈子，对中国科研是大好事",
+          "url": "https://news.ifeng.com/c/8o5IuV0EIi3",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 09时42分]"
+        },
         {
           "title": "特朗普痛骂佩洛西",
           "url": "https://www.douyin.com/hot/2297374",
@@ -679,28 +739,18 @@
           "time_info": "[00时26分 ~ 07时20分]"
         },
         {
-          "title": "美科学家：有人调侃，特朗普干一辈子，对中国科研是大好事",
-          "url": "https://news.ifeng.com/c/8o5IuV0EIi3",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 07时20分]"
-        },
-        {
           "title": "人类史上最贵CEO诞生！马斯克 “万亿薪酬”背后的“十年对赌协议”",
           "url": "https://wallstreetcn.com/articles/3758872",
           "source": "华尔街见闻",
           "ranks": [
             5,
             6,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 07时20分]"
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 09时42分]"
         },
         {
           "title": "一图看懂 | 万亿薪酬！马斯克若想拿满所有奖励，还需要再“卷”十年",
@@ -711,8 +761,34 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 09时42分]"
+        },
+        {
+          "title": "今晚非农又没了？美国政府停摆持续，美联储12月降息“难上加难”",
+          "url": "https://wallstreetcn.com/articles/3758939",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
           "appearance_count": 9,
-          "time_info": "[00时26分 ~ 07时20分]"
+          "time_info": "[01时20分 ~ 09时42分]"
+        },
+        {
+          "title": "85岁佩洛西将退休，回顾她与特朗普交锋历史：夸张鼓掌、手撕演讲稿...",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31914607",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 09时42分]"
         },
         {
           "title": "特朗普真想对委内瑞拉开战吗？",
@@ -741,41 +817,6 @@
           "time_info": "[00时26分 ~ 07时20分]"
         },
         {
-          "title": "85岁佩洛西将退休，回顾她与特朗普交锋历史：夸张鼓掌、手撕演讲稿...",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31914607",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 07时20分]"
-        },
-        {
-          "title": "美联储理事米兰：稳定币的广泛使用可能会使美联储的利率降低。",
-          "url": "https://flash.jin10.com/detail/20251108040128305800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时24分 ~ 07时20分]"
-        },
-        {
-          "title": "今晚非农又没了？美国政府停摆持续，美联储12月降息“难上加难”",
-          "url": "https://wallstreetcn.com/articles/3758939",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时20分 ~ 07时20分]"
-        },
-        {
           "title": "马斯克或成万亿富豪凸显美贫富分化",
           "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E6%88%96%E6%88%90%E4%B8%87%E4%BA%BF%E5%AF%8C%E8%B1%AA%E5%87%B8%E6%98%BE%E7%BE%8E%E8%B4%AB%E5%AF%8C%E5%88%86%E5%8C%96",
           "source": "百度热搜",
@@ -792,6 +833,18 @@
           "time_info": "[01时20分 ~ 07时20分]"
         },
         {
+          "title": "美联储理事米兰：稳定币的广泛使用可能会使美联储的利率降低。",
+          "url": "https://flash.jin10.com/detail/20251108040128305800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时24分 ~ 09时42分]"
+        },
+        {
           "title": "特朗普：美国人正为关税付出代价",
           "url": "https://www.toutiao.com/trending/7569021464603901971/",
           "source": "今日头条",
@@ -804,37 +857,72 @@
           "time_info": "[01时20分 ~ 07时20分]"
         },
         {
-          "title": "惠誉：确认爱尔兰AA评级，前景展望稳定。 美国总统特朗普上调关税和（爱尔兰自身）近期税收立法的影响似乎有限。",
-          "url": "https://wallstreetcn.com/livenews/3001426",
-          "source": "华尔街见闻-快讯",
+          "title": "美政府停摆现转机，标普惊险收涨，科技股拖累纳指走低，微软八连跌，加密货币大反弹",
+          "url": "https://wallstreetcn.com/articles/3758914",
+          "source": "华尔街见闻",
           "ranks": [
-            5
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时20分"
+          "time_info": "09时42分"
+        },
+        {
+          "title": "死对头要走了，特朗普开心坏了",
+          "url": "https://news.ifeng.com/c/8o6hZy3wipk",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
+        },
+        {
+          "title": "美国法官裁定，特朗普下令国民警卫队前往俄勒冈州波特兰市属非法。",
+          "url": "https://flash.jin10.com/detail/20251108090128912800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
         },
         {
           "title": "美联储理事米兰：对稳定币融入金融体系感到鼓舞。",
           "url": "https://flash.jin10.com/detail/20251108040041138800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时24分 ~ 07时20分]"
+          "appearance_count": 5,
+          "time_info": "[04时24分 ~ 09时42分]"
+        },
+        {
+          "title": "惠誉：确认爱尔兰AA评级，前景展望稳定。 美国总统特朗普上调关税和（爱尔兰自身）近期税收立法的影响似乎有限。",
+          "url": "https://wallstreetcn.com/livenews/3001426",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时20分"
         },
         {
           "title": "美联储理事米兰：稳定币的广泛使用可能会增加触及零利率下限的风险。大量使用稳定币可能会降低中性利率。",
           "url": "https://flash.jin10.com/detail/20251108040037011800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时24分 ~ 07时20分]"
+          "appearance_count": 5,
+          "time_info": "[04时24分 ~ 09时42分]"
         },
         {
           "title": "美国总统特朗普：没有哪个国家在经济方面能接近美国。",
@@ -1018,6 +1106,17 @@
           "time_info": "01时20分"
         },
         {
+          "title": "美国总统特朗普：现在是共和党参议员停止与激进左派民主党人玩弄把戏的时候了，立即终止阻挠议事，立即开放政府，并通过一些具有常识的伟大立法！",
+          "url": "https://flash.jin10.com/detail/20251108084855810800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
+        },
+        {
           "title": "美国总统特朗普：如果共和党废除阻挠议事（冗长辩论）规则，他们将在未来多年赢得胜利；如果他们不这样做，灾难将不可避免！",
           "url": "https://flash.jin10.com/detail/20251108001852404800",
           "source": "金十数据",
@@ -1082,6 +1181,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时19分"
+        },
+        {
+          "title": "金十图示：2025年11月08日（周六）全网加密货币实时爆仓数据",
+          "url": "https://flash.jin10.com/detail/20251108080836401800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
         },
         {
           "title": "美国财长贝森特：波音公司上月授予特朗普年度最佳推销员奖。",
@@ -1150,6 +1260,17 @@
           "time_info": "00时26分"
         },
         {
+          "title": "美国上诉法院批准法官“强迫特朗普政府在关门期间全额发放‘补充营养援助计划’（SNAP）资金”的命令。",
+          "url": "https://wallstreetcn.com/livenews/3001433",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
+        },
+        {
           "title": "美国总统特朗普欢迎匈牙利总理访问白宫。",
           "url": "https://flash.jin10.com/detail/20251108012705456800",
           "source": "金十数据",
@@ -1172,13 +1293,24 @@
           "time_info": "00时26分"
         },
         {
+          "title": "特朗普又“改口”了 还是希望见普京",
+          "url": "https://www.toutiao.com/trending/7569877788476719113/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
+        },
+        {
           "title": "特朗普要求美国司法部调查肉类加工商，指责企业人为推高牛肉价格",
           "url": "https://wallstreetcn.com/livenews/3001393",
           "source": "华尔街见闻-快讯",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
         }
@@ -1186,7 +1318,7 @@
     },
     {
       "keyword_group": "黄金 白银 铜 铝 稀土",
-      "match_count": 21,
+      "match_count": 26,
       "titles": [
         {
           "title": "两部门发布重磅公告 涉及超硬材料、稀土、锂电池等出口管制",
@@ -1196,19 +1328,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 07时20分]"
-        },
-        {
-          "title": "女子带快递纸盒买黄金 店员立即报警",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%B8%A6%E5%BF%AB%E9%80%92%E7%BA%B8%E7%9B%92%E4%B9%B0%E9%BB%84%E9%87%91+%E5%BA%97%E5%91%98%E7%AB%8B%E5%8D%B3%E6%8A%A5%E8%AD%A6",
-          "source": "百度热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 07时20分]"
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 09时42分]"
         },
         {
           "title": "连续第12个月增持！中国央行10月增持3万盎司黄金",
@@ -1217,11 +1338,39 @@
           "ranks": [
             7,
             6,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 07时20分]"
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 09时42分]"
+        },
+        {
+          "title": "女子带快递纸盒买黄金 店员立即报警",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%B8%A6%E5%BF%AB%E9%80%92%E7%BA%B8%E7%9B%92%E4%B9%B0%E9%BB%84%E9%87%91+%E5%BA%97%E5%91%98%E7%AB%8B%E5%8D%B3%E6%8A%A5%E8%AD%A6",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 09时42分]"
+        },
+        {
+          "title": "中国科学家有涉稀土重要发现",
+          "url": "https://www.cls.cn/detail/2194511",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 09时42分]"
         },
         {
           "title": "美政府停摆担忧重燃，美股承压下跌，现货黄金涨幅收窄，比特币一度跌破10万美元",
@@ -1234,20 +1383,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时20分 ~ 06时22分]"
-        },
-        {
-          "title": "中国科学家有涉稀土重要发现",
-          "url": "https://www.cls.cn/detail/2194511",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 07时20分]"
         },
         {
           "title": "“获利了结”的机构正评估“重新入场黄金”时机：短期焦点是“黄金ETF”的粘性",
@@ -1373,6 +1508,17 @@
           "time_info": "00时26分"
         },
         {
+          "title": "官方：稀土锂电池等出口管制暂停实施",
+          "url": "https://www.toutiao.com/trending/7569874141709533222/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
+        },
+        {
           "title": "逢低买盘消退，美股指数集体低开，现货黄金涨幅收窄，比特币一度跌破10万美元",
           "url": "https://wallstreetcn.com/articles/3758914",
           "source": "华尔街见闻",
@@ -1395,6 +1541,17 @@
           "time_info": "01时20分"
         },
         {
+          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少25.4吨，当前持仓量为15088.63吨。欢迎点击查看数据中心…",
+          "url": "https://flash.jin10.com/detail/20251108084812786800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
+        },
+        {
           "title": "现货黄金日内涨幅扩大至1.00%，现报4017.09美元/盎司。",
           "url": "https://flash.jin10.com/detail/20251108003501505800",
           "source": "金十数据",
@@ -1404,6 +1561,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
+        },
+        {
+          "title": "美稀土“独苗”警告投资者：别盲目跟风 多数项目赚不到钱",
+          "url": "https://www.cls.cn/detail/2194813",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
+        },
+        {
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加1.71吨，当前持仓量为1042.06吨。",
+          "url": "https://flash.jin10.com/detail/20251108081213193800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
         },
         {
           "title": "上海黄金交易所黄金T+D 11月7日（周五）晚盘收盘上涨0.14%报917.42元/克；<br/>上海黄金交易所白银T+D 11月7日（周五）晚盘收盘下跌0.23%报11400.0元/千克。",
@@ -1428,6 +1607,17 @@
           "time_info": "00时26分"
         },
         {
+          "title": "除了稀土中国还有哪些王牌",
+          "url": "https://www.toutiao.com/trending/7569969949305736750/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
+        },
+        {
           "title": "伦敦金银市场协会（LBMA）：10月伦敦金库的白银储备量增长了6.8%。",
           "url": "https://flash.jin10.com/detail/20251108013419713800",
           "source": "金十数据",
@@ -1442,7 +1632,7 @@
     },
     {
       "keyword_group": "DeepSeek AI openai 机器人 小米 特斯拉 英伟达",
-      "match_count": 12,
+      "match_count": 21,
       "titles": [
         {
           "title": "特斯拉股东大会批准“万亿薪酬包”，十年达标后马斯克持股或增至25%",
@@ -1480,17 +1670,6 @@
           "time_info": "[00时26分 ~ 04时24分]"
         },
         {
-          "title": "黄仁勋“炸鸡啤酒会面”背后：韩国欲跻身“AI三大强国”，但须借力美国",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31909806",
-          "source": "澎湃新闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 07时20分]"
-        },
-        {
           "title": "马斯克何小鹏隔空互动：特斯拉和中国公司将主导市场",
           "url": "https://wallstreetcn.com/articles/3758924",
           "source": "华尔街见闻",
@@ -1498,6 +1677,28 @@
             10,
             8,
             7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 09时42分]"
+        },
+        {
+          "title": "太逼真,小鹏机器人被迫脱衣自证",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346808&amp;topic_name=%E5%A4%AA%E9%80%BC%E7%9C%9F%2C%E5%B0%8F%E9%B9%8F%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%A2%AB%E8%BF%AB%E8%84%B1%E8%A1%A3%E8%87%AA%E8%AF%81",
+          "source": "贴吧",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 09时42分]"
+        },
+        {
+          "title": "黄仁勋“炸鸡啤酒会面”背后：韩国欲跻身“AI三大强国”，但须借力美国",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31909806",
+          "source": "澎湃新闻",
+          "ranks": [
+            8
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -1516,15 +1717,15 @@
           "time_info": "[00时26分 ~ 07时20分]"
         },
         {
-          "title": "太逼真,小鹏机器人被迫脱衣自证",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346808&amp;topic_name=%E5%A4%AA%E9%80%BC%E7%9C%9F%2C%E5%B0%8F%E9%B9%8F%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%A2%AB%E8%BF%AB%E8%84%B1%E8%A1%A3%E8%87%AA%E8%AF%81",
-          "source": "贴吧",
+          "title": "特斯拉国产Model Y长续航后驱开售，28.85万元起",
+          "url": "https://flash.jin10.com/detail/20251108085940743800",
+          "source": "金十数据",
           "ranks": [
-            14
+            5
           ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 07时20分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
         },
         {
           "title": "美股费城半导体指数跌超4%，纳微半导体跌17.5%，英伟达两倍做多ETF跌8.2%，Coherent跌7.6%，Arm跌6.6%，英伟达、超微电脑、博通、AMD、格芯跌超4%。 标普500指数跌约1.2%，纳指跌约1.9%。",
@@ -1581,9 +1782,97 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
+        },
+        {
+          "title": "特斯拉国产Model Y长续航后驱开售，28.85万元起",
+          "url": "https://wallstreetcn.com/livenews/3001456",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
+        },
+        {
+          "title": "高盛：人们对AI交易不再是“买入一切”，而是“更有选择性”，是“零和游戏”",
+          "url": "https://wallstreetcn.com/articles/3758895",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
+        },
+        {
+          "title": "Rivian效仿特斯拉 推出CEO 46亿美元薪酬方案",
+          "url": "https://flash.jin10.com/detail/20251108084054402800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
+        },
+        {
+          "title": "如何评价 AI 教父辛顿「科技巨头需要裁员才能从 AI 中获利」的观点？",
+          "url": "https://www.zhihu.com/question/1968998396342792423",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
+        },
+        {
+          "title": "星展：美股AI股票的高估值问题非常值得担忧，尤其是所谓的美股“科技七巨头”",
+          "url": "https://wallstreetcn.com/livenews/3001443",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
+        },
+        {
+          "title": "马斯克点赞小鹏机器人",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%82%B9%E8%B5%9E%E5%B0%8F%E9%B9%8F%E6%9C%BA%E5%99%A8%E4%BA%BA",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
+        },
+        {
+          "title": "国内机器人走出惊艳“猫步”引发热议，专家解读：是不是越像人越好？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31921547",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
+        },
+        {
+          "title": "科技日报谈AI主播扎堆“上岗”：不能只为炫技",
+          "url": "https://wallstreetcn.com/livenews/3001439",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
         }
       ]
     },
@@ -1597,11 +1886,12 @@
           "source": "澎湃新闻",
           "ranks": [
             12,
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 07时20分]"
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 09时42分]"
         },
         {
           "title": "时隔两年日本水产品首次对华出口，外交部回应",
@@ -1609,11 +1899,12 @@
           "source": "澎湃新闻",
           "ranks": [
             19,
-            18
+            18,
+            16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 07时20分]"
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 09时42分]"
         },
         {
           "title": "俄外交部：俄密切关注美方在核领域的活动",
