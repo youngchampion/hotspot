@@ -1,8 +1,488 @@
 {
-  "generated_at": "2025-11-10T13:24:26.463058+08:00",
-  "total_titles_processed": 940,
+  "generated_at": "2025-11-10T14:37:21.198471+08:00",
+  "total_titles_processed": 1031,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "美股 A股 港股 美债 美元 石油 战争",
+      "match_count": 40,
+      "titles": [
+        {
+          "title": "A股并购重组活跃 本周披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2194975",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 06时21分]"
+        },
+        {
+          "title": "懂王胜选一周年，“川普2.0”与“1.0”市场走势高度相似，坏消息是第二年美股走势通常最差",
+          "url": "https://wallstreetcn.com/articles/3758989",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时25分 ~ 14时37分]"
+        },
+        {
+          "title": "美国交通部长Duffy：随着感恩节临近，美国空中交通将放缓至“一个缓慢的状态”。 各大机场缺少1000-2000名空管人员。 航空出行方式仍然是安全的，空管人员超时工作。 飞行员们抱怨空管人员响应不如以往那么积极。 战争部长Hegseth称可能会（从空军）抽调一些空管人员。",
+          "url": "https://wallstreetcn.com/livenews/3001706",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            14,
+            22,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时25分 ~ 06时21分]"
+        },
+        {
+          "title": "比特币突破104000美元/枚，日内涨1.66%。",
+          "url": "https://flash.jin10.com/detail/20251109223544425800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            12,
+            20,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时25分 ~ 06时21分]"
+        },
+        {
+          "title": "每人2000美元？特朗普扬言要撒“关税红利”，贝森特暗示通过减税实现！",
+          "url": "https://www.cls.cn/detail/2195415",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时51分 ~ 14时37分]"
+        },
+        {
+          "title": "以太坊向上触及3500美元/枚，日内涨近3%。",
+          "url": "https://flash.jin10.com/detail/20251109222710203800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            14,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时25分 ~ 05时20分]"
+        },
+        {
+          "title": "超万亿元资金南下，港股生态重塑进行时",
+          "url": "https://wallstreetcn.com/livenews/3001754",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
+          "title": "港股三桶油持续上涨行情，其中，中国石油股份涨超2％续刷阶段新高，并且录得7连涨行情，中国海洋石油涨1.13％，中国石油化工涨约1％。",
+          "url": "https://wallstreetcn.com/livenews/3001851",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时52分"
+        },
+        {
+          "title": "WTI原油、布伦特原油周一小幅高开，现分别报59.8美元/桶和63.65美元/桶。",
+          "url": "https://flash.jin10.com/detail/20251110070207442800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
+          "title": "美股股指期货周一高开，纳指期货涨0.7%。",
+          "url": "https://flash.jin10.com/detail/20251110070112567800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
+          "title": "纽约期金向上触及4050美元/盎司，日内涨1.01%。",
+          "url": "https://flash.jin10.com/detail/20251110092214052800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时52分"
+        },
+        {
+          "title": "万斯称美国会赢得未来250年战争",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%87%E6%96%AF%E7%A7%B0%E7%BE%8E%E5%9B%BD%E4%BC%9A%E8%B5%A2%E5%BE%97%E6%9C%AA%E6%9D%A5250%E5%B9%B4%E6%88%98%E4%BA%89",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            14,
+            17,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时51分 ~ 13时24分]"
+        },
+        {
+          "title": "伊拉克国家石油营销组织SOMO：将12月对亚洲的Basrah Medium Crude（巴士拉中质石油）官方销售价格较阿曼/迪拜均价设在贴水0.35美元/桶。 将12月对欧洲的Basrah Medium Crude官方销售价格较即期布伦特原油均价设在贴水2.95美元/桶。 对12月销往北美和南美的Basrah Medium Crude官方销售价格较阿曼/迪拜均价设在贴水1.35美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3001691",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 04时22分]"
+        },
+        {
+          "title": "伊拉克国家石油营销组织SOMO：伊拉克将12月巴士拉中质原油对欧洲的官方售价定为较即期布伦特原油贴水2.95美元；将12月巴士拉中质原油对北美和南美的官方售价定为较阿格斯含硫原油贴水1.35美元。",
+          "url": "https://flash.jin10.com/detail/20251109204253008800",
+          "source": "金十数据",
+          "ranks": [
+            17,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 04时22分]"
+        },
+        {
+          "title": "伊拉克国家石油营销组织SOMO：伊拉克将12月巴士拉中质原油对亚洲的官方售价定为较阿曼/迪拜原油平均价格贴水0.35美元。",
+          "url": "https://flash.jin10.com/detail/20251109204144076800",
+          "source": "金十数据",
+          "ranks": [
+            18,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 04时22分]"
+        },
+        {
+          "title": "比特币站上105000美元/枚，日内涨2.64%。",
+          "url": "https://flash.jin10.com/detail/20251110040537729800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            11,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时22分 ~ 06时21分]"
+        },
+        {
+          "title": "A股白酒股持续走强，舍得酒业触及涨停，酒鬼酒、泸州老窖涨超7%，山西汾酒、古井贡酒、迎驾贡酒涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3001944",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时24分 ~ 14时37分]"
+        },
+        {
+          "title": "比特币涨至10.5万美元，刷新日高，日内迄今涨幅超过2.4%。 北京时间18:00之前维持微幅下跌状态，维持在10.20万美元一线，之后持续走高。",
+          "url": "https://wallstreetcn.com/livenews/3001717",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            12,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时22分 ~ 06时21分]"
+        },
+        {
+          "title": "A股CPO概念午后回升，剑桥科技涨超8%，斯瑞新材涨超7%，徕木股份、本川智能、长电科技、杰普特等个股跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3001939",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时24分 ~ 14时37分]"
+        },
+        {
+          "title": "彭博汇编数据显示，埃及10外汇储备超过500亿美元，创历史新高。 埃及央行公告显示，10月外汇储备达到500.71亿美元（前值495.34亿美元），自2022年四季度以来持续增长。",
+          "url": "https://wallstreetcn.com/livenews/3001671",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 03时16分]"
+        },
+        {
+          "title": "特朗普称关税将使大多数美国人获得至少2000美元补助",
+          "url": "https://flash.jin10.com/detail/20251110042444036800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            15,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时20分 ~ 07时21分]"
+        },
+        {
+          "title": "周一悉尼盘初，美元兑日元一度上涨将近0.38%，至154日元。 欧元和英镑兑美元至多跌0.1%。",
+          "url": "https://wallstreetcn.com/livenews/3001724",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            11,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时20分 ~ 07时21分]"
+        },
+        {
+          "title": "港股新消费走强，沪上阿姨涨超10%，泡泡玛特涨超6%，卫龙美味、奈雪的茶、茶百道、蜜雪集团等个股跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3001887",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时22分 ~ 12时30分]"
+        },
+        {
+          "title": "贝森特称2000美元“关税补助”或通过减税实现",
+          "url": "https://flash.jin10.com/detail/20251110050930932800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时21分 ~ 07时21分]"
+        },
+        {
+          "title": "中国中免A股触及涨停，成交额53.32亿元。H股现涨超11％。",
+          "url": "https://wallstreetcn.com/livenews/3001883",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时22分 ~ 12时30分]"
+        },
+        {
+          "title": "A股大消费概念爆发",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23A%E8%82%A1%E5%A4%A7%E6%B6%88%E8%B4%B9%E6%A6%82%E5%BF%B5%E7%88%86%E5%8F%91%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26flag%3D1%26q%3D%2523A%25E8%2582%25A1%25E5%25A4%25A7%25E6%25B6%2588%25E8%25B4%25B9%25E6%25A6%2582%25E5%25BF%25B5%25E7%2588%2586%25E5%258F%2591%2523%26pos%3D30%26stream_entry_id%3D31%26realpos%3D29%26band_rank%3D29%26filter_type%3Drealtimehot%26lcate%3D5001%26c_type%3D31%26dgr%3D0%26display_time%3D1762749010%26pre_seqid%3D1762749010095097689004&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时30分 ~ 13时24分]"
+        },
+        {
+          "title": "现货钯金突破1400美元/盎司，日内涨2.52%。",
+          "url": "https://flash.jin10.com/detail/20251110091733204800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时52分"
+        },
+        {
+          "title": "美元兑马来西亚林吉特一度跌0.3%至4.161，为2024年10月2日以来低位。",
+          "url": "https://flash.jin10.com/detail/20251110141019131800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
+        },
+        {
+          "title": "A股文化传媒板块拉升，新华网直线拉升涨超7%，人民网涨超4%，吉视传媒、川网传媒、中信出版、无线传媒、欢瑞世纪等个股跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3001965",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
+        },
+        {
+          "title": "A股存储芯片板块反复活跃，英唐智控竞价涨停，普冉股份涨近7%，股价创历史新高，香农芯创、江波龙、开普云、朗科科技等集体高开。",
+          "url": "https://wallstreetcn.com/livenews/3001837",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时52分"
+        },
+        {
+          "title": "金十数据整理：每日港股市场要闻速递（2025-11-10）",
+          "url": "https://flash.jin10.com/detail/20251110090741139800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时52分"
+        },
+        {
+          "title": "A股券商股再度走强，东北证券封板，广发证券、湘财股份、东兴证券、华泰证券、长江证券等拉升涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3001952",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
+        },
+        {
+          "title": "金十数据整理：A股盘前市场要闻速递（2025-11-10）",
+          "url": "https://flash.jin10.com/detail/20251110090644256800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时52分"
+        },
+        {
+          "title": "多只持仓股大涨，外资机构积极布局A股",
+          "url": "https://wallstreetcn.com/livenews/3001741",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
+          "title": "A股主要指数午后拉升，沪指涨0.28%，深成指转涨，创业板指跌幅收窄至1.2%，早盘一度跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3001946",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
+        },
+        {
+          "title": "人民币兑美元中间价报7.0856，下调20点；上一交易日中间价7.0836，上一交易日官方收盘价7.1225，上日夜盘报收7.1210。",
+          "url": "https://wallstreetcn.com/livenews/3001821",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时52分"
+        },
+        {
+          "title": "澳元兑美元AUD/USD日内涨幅达0.50%，现报0.6528。",
+          "url": "https://flash.jin10.com/detail/20251110132223797800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
+        },
+        {
+          "title": "美元兑日元USD/JPY向上触及154，日内涨0.38%。",
+          "url": "https://flash.jin10.com/detail/20251110113133293800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时30分"
+        },
+        {
+          "title": "A股煤炭板块震荡走高，安泰集团触及涨停，大有能源、云煤能源、郑州煤电、新集能源、宝泰隆等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3001861",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时22分"
+        },
+        {
+          "title": "比特币升破106000美元。以太坊升破3600美元。",
+          "url": "https://wallstreetcn.com/livenews/3001801",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时52分"
+        }
+      ]
+    },
     {
       "keyword_group": "特朗普 马斯克 加密货币 美联储",
       "match_count": 38,
@@ -22,6 +502,18 @@
           "time_info": "[00时25分 ~ 11时22分]"
         },
         {
+          "title": "特朗普宣布一个大消息",
+          "url": "https://news.ifeng.com/c/8o9xDTJ6QQT",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时51分 ~ 14时37分]"
+        },
+        {
           "title": "拜登狠批特朗普",
           "url": "https://www.douyin.com/hot/2300132",
           "source": "抖音",
@@ -32,18 +524,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时25分 ~ 09时52分]"
-        },
-        {
-          "title": "特朗普宣布一个大消息",
-          "url": "https://news.ifeng.com/c/8o9xDTJ6QQT",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时51分 ~ 13时24分]"
         },
         {
           "title": "非农“没了”，下周的美国CPI也要“没了”，美联储12月还能“闭眼降息”吗？",
@@ -120,6 +600,31 @@
           "time_info": "[09时51分 ~ 11时22分]"
         },
         {
+          "title": "泽连斯基：全世界都怕特朗普但我不怕",
+          "url": "https://www.toutiao.com/trending/7569890031507144723/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时24分 ~ 14时37分]"
+        },
+        {
+          "title": "牛弹琴：特朗普宣布一个大消息",
+          "url": "https://www.toutiao.com/trending/7570877314167213595/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            9,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时51分 ~ 14时37分]"
+        },
+        {
           "title": "参议院公布三项立法草案，作为结束特朗普政府停摆提案的一部分",
           "url": "https://wallstreetcn.com/livenews/3001731",
           "source": "华尔街见闻-快讯",
@@ -168,29 +673,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时22分"
-        },
-        {
-          "title": "泽连斯基：全世界都怕特朗普但我不怕",
-          "url": "https://www.toutiao.com/trending/7569890031507144723/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时24分"
-        },
-        {
-          "title": "牛弹琴：特朗普宣布一个大消息",
-          "url": "https://www.toutiao.com/trending/7570877314167213595/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时51分 ~ 13时24分]"
         },
         {
           "title": "特朗普被严重警告",
@@ -377,6 +859,29 @@
           "time_info": "[04时22分 ~ 06时21分]"
         },
         {
+          "title": "专家：特朗普发钱一箭三雕",
+          "url": "https://www.toutiao.com/trending/7570931158150565427/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时24分 ~ 14时37分]"
+        },
+        {
+          "title": "上次访美不愉快？泽连斯基：全世界都怕特朗普，但我不怕他",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31930491",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时24分 ~ 14时37分]"
+        },
+        {
           "title": "美国政府停摆 特朗普享乐被痛批",
           "url": "https://www.toutiao.com/trending/7569948276263731251/",
           "source": "今日头条",
@@ -411,17 +916,6 @@
           "time_info": "11时22分"
         },
         {
-          "title": "专家：特朗普发钱一箭三雕",
-          "url": "https://www.toutiao.com/trending/7570931158150565427/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时24分"
-        },
-        {
           "title": "特朗普称政府停摆接近结束",
           "url": "https://flash.jin10.com/detail/20251110085906374800",
           "source": "金十数据",
@@ -444,17 +938,6 @@
           "time_info": "11时22分"
         },
         {
-          "title": "上次访美不愉快？泽连斯基：全世界都怕特朗普，但我不怕他",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31930491",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时24分"
-        },
-        {
           "title": "特朗普拟向民众发关税红利有何目的",
           "url": "https://www.toutiao.com/trending/7570900458852585002/",
           "source": "今日头条",
@@ -468,431 +951,8 @@
       ]
     },
     {
-      "keyword_group": "美股 A股 港股 美债 美元 石油 战争",
-      "match_count": 35,
-      "titles": [
-        {
-          "title": "A股并购重组活跃 本周披露并购重组进展的A股名单一览",
-          "url": "https://www.cls.cn/detail/2194975",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 06时21分]"
-        },
-        {
-          "title": "懂王胜选一周年，“川普2.0”与“1.0”市场走势高度相似，坏消息是第二年美股走势通常最差",
-          "url": "https://wallstreetcn.com/articles/3758989",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时25分 ~ 13时24分]"
-        },
-        {
-          "title": "美国交通部长Duffy：随着感恩节临近，美国空中交通将放缓至“一个缓慢的状态”。 各大机场缺少1000-2000名空管人员。 航空出行方式仍然是安全的，空管人员超时工作。 飞行员们抱怨空管人员响应不如以往那么积极。 战争部长Hegseth称可能会（从空军）抽调一些空管人员。",
-          "url": "https://wallstreetcn.com/livenews/3001706",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            14,
-            22,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 06时21分]"
-        },
-        {
-          "title": "比特币突破104000美元/枚，日内涨1.66%。",
-          "url": "https://flash.jin10.com/detail/20251109223544425800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            12,
-            20,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 06时21分]"
-        },
-        {
-          "title": "以太坊向上触及3500美元/枚，日内涨近3%。",
-          "url": "https://flash.jin10.com/detail/20251109222710203800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            14,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时25分 ~ 05时20分]"
-        },
-        {
-          "title": "超万亿元资金南下，港股生态重塑进行时",
-          "url": "https://wallstreetcn.com/livenews/3001754",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        },
-        {
-          "title": "港股三桶油持续上涨行情，其中，中国石油股份涨超2％续刷阶段新高，并且录得7连涨行情，中国海洋石油涨1.13％，中国石油化工涨约1％。",
-          "url": "https://wallstreetcn.com/livenews/3001851",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时52分"
-        },
-        {
-          "title": "A股白酒股持续走强，舍得酒业触及涨停，酒鬼酒、泸州老窖涨超7%，山西汾酒、古井贡酒、迎驾贡酒涨超5%。",
-          "url": "https://wallstreetcn.com/livenews/3001944",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时24分"
-        },
-        {
-          "title": "WTI原油、布伦特原油周一小幅高开，现分别报59.8美元/桶和63.65美元/桶。",
-          "url": "https://flash.jin10.com/detail/20251110070207442800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        },
-        {
-          "title": "美股股指期货周一高开，纳指期货涨0.7%。",
-          "url": "https://flash.jin10.com/detail/20251110070112567800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        },
-        {
-          "title": "纽约期金向上触及4050美元/盎司，日内涨1.01%。",
-          "url": "https://flash.jin10.com/detail/20251110092214052800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时52分"
-        },
-        {
-          "title": "A股CPO概念午后回升，剑桥科技涨超8%，斯瑞新材涨超7%，徕木股份、本川智能、长电科技、杰普特等个股跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3001939",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时24分"
-        },
-        {
-          "title": "每人2000美元？特朗普扬言要撒“关税红利”，贝森特暗示通过减税实现！",
-          "url": "https://www.cls.cn/detail/2195415",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时51分 ~ 13时24分]"
-        },
-        {
-          "title": "万斯称美国会赢得未来250年战争",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%87%E6%96%AF%E7%A7%B0%E7%BE%8E%E5%9B%BD%E4%BC%9A%E8%B5%A2%E5%BE%97%E6%9C%AA%E6%9D%A5250%E5%B9%B4%E6%88%98%E4%BA%89",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            14,
-            17,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时51分 ~ 13时24分]"
-        },
-        {
-          "title": "伊拉克国家石油营销组织SOMO：将12月对亚洲的Basrah Medium Crude（巴士拉中质石油）官方销售价格较阿曼/迪拜均价设在贴水0.35美元/桶。 将12月对欧洲的Basrah Medium Crude官方销售价格较即期布伦特原油均价设在贴水2.95美元/桶。 对12月销往北美和南美的Basrah Medium Crude官方销售价格较阿曼/迪拜均价设在贴水1.35美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3001691",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 04时22分]"
-        },
-        {
-          "title": "伊拉克国家石油营销组织SOMO：伊拉克将12月巴士拉中质原油对欧洲的官方售价定为较即期布伦特原油贴水2.95美元；将12月巴士拉中质原油对北美和南美的官方售价定为较阿格斯含硫原油贴水1.35美元。",
-          "url": "https://flash.jin10.com/detail/20251109204253008800",
-          "source": "金十数据",
-          "ranks": [
-            17,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 04时22分]"
-        },
-        {
-          "title": "伊拉克国家石油营销组织SOMO：伊拉克将12月巴士拉中质原油对亚洲的官方售价定为较阿曼/迪拜原油平均价格贴水0.35美元。",
-          "url": "https://flash.jin10.com/detail/20251109204144076800",
-          "source": "金十数据",
-          "ranks": [
-            18,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 04时22分]"
-        },
-        {
-          "title": "比特币站上105000美元/枚，日内涨2.64%。",
-          "url": "https://flash.jin10.com/detail/20251110040537729800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            11,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时22分 ~ 06时21分]"
-        },
-        {
-          "title": "比特币涨至10.5万美元，刷新日高，日内迄今涨幅超过2.4%。 北京时间18:00之前维持微幅下跌状态，维持在10.20万美元一线，之后持续走高。",
-          "url": "https://wallstreetcn.com/livenews/3001717",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            12,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时22分 ~ 06时21分]"
-        },
-        {
-          "title": "彭博汇编数据显示，埃及10外汇储备超过500亿美元，创历史新高。 埃及央行公告显示，10月外汇储备达到500.71亿美元（前值495.34亿美元），自2022年四季度以来持续增长。",
-          "url": "https://wallstreetcn.com/livenews/3001671",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 03时16分]"
-        },
-        {
-          "title": "特朗普称关税将使大多数美国人获得至少2000美元补助",
-          "url": "https://flash.jin10.com/detail/20251110042444036800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            15,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时20分 ~ 07时21分]"
-        },
-        {
-          "title": "周一悉尼盘初，美元兑日元一度上涨将近0.38%，至154日元。 欧元和英镑兑美元至多跌0.1%。",
-          "url": "https://wallstreetcn.com/livenews/3001724",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            11,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时20分 ~ 07时21分]"
-        },
-        {
-          "title": "港股新消费走强，沪上阿姨涨超10%，泡泡玛特涨超6%，卫龙美味、奈雪的茶、茶百道、蜜雪集团等个股跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3001887",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时22分 ~ 12时30分]"
-        },
-        {
-          "title": "贝森特称2000美元“关税补助”或通过减税实现",
-          "url": "https://flash.jin10.com/detail/20251110050930932800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时21分 ~ 07时21分]"
-        },
-        {
-          "title": "中国中免A股触及涨停，成交额53.32亿元。H股现涨超11％。",
-          "url": "https://wallstreetcn.com/livenews/3001883",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时22分 ~ 12时30分]"
-        },
-        {
-          "title": "A股大消费概念爆发",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23A%E8%82%A1%E5%A4%A7%E6%B6%88%E8%B4%B9%E6%A6%82%E5%BF%B5%E7%88%86%E5%8F%91%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26flag%3D1%26q%3D%2523A%25E8%2582%25A1%25E5%25A4%25A7%25E6%25B6%2588%25E8%25B4%25B9%25E6%25A6%2582%25E5%25BF%25B5%25E7%2588%2586%25E5%258F%2591%2523%26pos%3D30%26stream_entry_id%3D31%26realpos%3D29%26band_rank%3D29%26filter_type%3Drealtimehot%26lcate%3D5001%26c_type%3D31%26dgr%3D0%26display_time%3D1762749010%26pre_seqid%3D1762749010095097689004&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            29,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时30分 ~ 13时24分]"
-        },
-        {
-          "title": "现货钯金突破1400美元/盎司，日内涨2.52%。",
-          "url": "https://flash.jin10.com/detail/20251110091733204800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时52分"
-        },
-        {
-          "title": "A股存储芯片板块反复活跃，英唐智控竞价涨停，普冉股份涨近7%，股价创历史新高，香农芯创、江波龙、开普云、朗科科技等集体高开。",
-          "url": "https://wallstreetcn.com/livenews/3001837",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时52分"
-        },
-        {
-          "title": "金十数据整理：每日港股市场要闻速递（2025-11-10）",
-          "url": "https://flash.jin10.com/detail/20251110090741139800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时52分"
-        },
-        {
-          "title": "金十数据整理：A股盘前市场要闻速递（2025-11-10）",
-          "url": "https://flash.jin10.com/detail/20251110090644256800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时52分"
-        },
-        {
-          "title": "多只持仓股大涨，外资机构积极布局A股",
-          "url": "https://wallstreetcn.com/livenews/3001741",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        },
-        {
-          "title": "人民币兑美元中间价报7.0856，下调20点；上一交易日中间价7.0836，上一交易日官方收盘价7.1225，上日夜盘报收7.1210。",
-          "url": "https://wallstreetcn.com/livenews/3001821",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时52分"
-        },
-        {
-          "title": "美元兑日元USD/JPY向上触及154，日内涨0.38%。",
-          "url": "https://flash.jin10.com/detail/20251110113133293800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时30分"
-        },
-        {
-          "title": "A股煤炭板块震荡走高，安泰集团触及涨停，大有能源、云煤能源、郑州煤电、新集能源、宝泰隆等跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3001861",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时22分"
-        },
-        {
-          "title": "比特币升破106000美元。以太坊升破3600美元。",
-          "url": "https://wallstreetcn.com/livenews/3001801",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时52分"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek AI openai 机器人 小米 特斯拉 英伟达",
-      "match_count": 26,
+      "match_count": 31,
       "titles": [
         {
           "title": "高盛调研三花等“中国机器人供应链”：为2026年下半年“人形机器人”量产做准备，产能规划已达每年10万至100万台",
@@ -903,8 +963,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时25分 ~ 13时24分]"
+          "appearance_count": 15,
+          "time_info": "[00时25分 ~ 14时37分]"
         },
         {
           "title": "DeepSeek罕见公开发声，资深研究员陈德里：长期看，AI可能会取代绝大部分人类工作，这不是危言耸听",
@@ -916,6 +976,20 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时25分 ~ 07时21分]"
+        },
+        {
+          "title": "打破AI“用电荒”？太空算力争夺赛开打 科技巨头加速布局",
+          "url": "https://www.cls.cn/detail/2195310",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时21分 ~ 14时37分]"
         },
         {
           "title": "起猛了机器人敲上青铜器了",
@@ -944,20 +1018,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时25分 ~ 07时21分]"
-        },
-        {
-          "title": "打破AI“用电荒”？太空算力争夺赛开打 科技巨头加速布局",
-          "url": "https://www.cls.cn/detail/2195310",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时21分 ~ 13时24分]"
         },
         {
           "title": "黄仁勋亲赴台积电“要产能”，称“没有台积电、就没有英伟达”",
@@ -1004,6 +1064,22 @@
           "time_info": "[01时18分 ~ 07时21分]"
         },
         {
+          "title": "每天一个奇吧—novelai吧",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346920&amp;topic_name=%E6%AF%8F%E5%A4%A9%E4%B8%80%E4%B8%AA%E5%A5%87%E5%90%A7%E2%80%94novelai%E5%90%A7",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            8,
+            9,
+            11,
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时21分 ~ 14时37分]"
+        },
+        {
           "title": "GAI演唱会江湖流大合唱",
           "url": "https://www.douyin.com/hot/2300262",
           "source": "抖音",
@@ -1018,30 +1094,26 @@
           "time_info": "[00时25分 ~ 05时20分]"
         },
         {
-          "title": "每天一个奇吧—novelai吧",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346920&amp;topic_name=%E6%AF%8F%E5%A4%A9%E4%B8%80%E4%B8%AA%E5%A5%87%E5%90%A7%E2%80%94novelai%E5%90%A7",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            8,
-            9,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时21分 ~ 13时24分]"
-        },
-        {
           "title": "据Electrek：特斯拉Cybertruck项目负责人西丹特·阿瓦斯蒂即将离职。",
           "url": "https://flash.jin10.com/detail/20251110130452203800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
+        },
+        {
+          "title": "胸部设计擦边,小鹏机器人被批媚男",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346931&amp;topic_name=%E8%83%B8%E9%83%A8%E8%AE%BE%E8%AE%A1%E6%93%A6%E8%BE%B9%2C%E5%B0%8F%E9%B9%8F%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%A2%AB%E6%89%B9%E5%AA%9A%E7%94%B7",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
         },
         {
           "title": "创业板指跌超1%，沪指跌0.04%，深成指跌0.21%，船舶制造、机器人、铜缆高速连接、风电设备等方向跌幅居前，沪深京三市下跌个股超2000只。",
@@ -1108,11 +1180,23 @@
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E5%8F%A3%E6%B0%94%E7%9C%8B%E6%B8%85%E7%BE%8E%E8%82%A1AI%E6%B3%A1%E6%B2%AB",
           "source": "bilibili 热搜",
           "ranks": [
-            10
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时22分 ~ 14时37分]"
+        },
+        {
+          "title": "太空成为AI算力的新战场 相关产业链有望迎来爆发",
+          "url": "https://www.cls.cn/detail/2195390",
+          "source": "财联社热门",
+          "ranks": [
+            11
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时22分 ~ 13时24分]"
+          "time_info": "[12时30分 ~ 14时37分]"
         },
         {
           "title": "AI引爆“电荒” 韩国电池三巨头转向储能 在美总产能计划翻倍",
@@ -1149,15 +1233,15 @@
           "time_info": "[09时51分 ~ 09时52分]"
         },
         {
-          "title": "太空成为AI算力的新战场 相关产业链有望迎来爆发",
-          "url": "https://www.cls.cn/detail/2195390",
+          "title": "美联储下一次QE得买AI公司债？“华尔街最准分析师”又抛神论",
+          "url": "https://www.cls.cn/detail/2195609",
           "source": "财联社热门",
           "ranks": [
-            11
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时30分 ~ 13时24分]"
+          "time_info": "[13时24分 ~ 14时37分]"
         },
         {
           "title": "A股人形机器人概念震荡走弱，浙江荣泰逼近跌停，拓普集团、汉宇集团、力星股份、三花智控、豪恩汽电、大洋电机、伟创电气跟跌。",
@@ -1183,15 +1267,48 @@
           "time_info": "09时52分"
         },
         {
-          "title": "美联储下一次QE得买AI公司债？“华尔街最准分析师”又抛神论",
-          "url": "https://www.cls.cn/detail/2195609",
-          "source": "财联社热门",
+          "title": "中信建投：Meta确认6000亿美元AI投资计划，中科曙光发布640卡超节点",
+          "url": "https://wallstreetcn.com/livenews/3001963",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时24分"
+          "time_info": "14时37分"
+        },
+        {
+          "title": "韩国顶级高校曝作弊丑闻：数百学生涉嫌用AI参加考试",
+          "url": "https://flash.jin10.com/detail/20251110140226573800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
+        },
+        {
+          "title": "韩国顶级高校曝作弊丑闻：数百学生涉嫌用AI参加考试",
+          "url": "https://wallstreetcn.com/livenews/3001961",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
+        },
+        {
+          "title": "当机构约60%的持仓与AI相关",
+          "url": "https://wallstreetcn.com/articles/3758994",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
         },
         {
           "title": "英矽智能与礼来达成AI驱动药物研发合作，总额超过1亿美金",
@@ -1218,274 +1335,8 @@
       ]
     },
     {
-      "keyword_group": "黄金 白银 铜 铝 稀土",
-      "match_count": 23,
-      "titles": [
-        {
-          "title": "黄金新政的底层逻辑",
-          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E6%96%B0%E6%94%BF%E7%9A%84%E5%BA%95%E5%B1%82%E9%80%BB%E8%BE%91",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15,
-            4,
-            5,
-            16,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时25分 ~ 11时22分]"
-        },
-        {
-          "title": "英雄联盟黄金期结束了吗",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E9%BB%84%E9%87%91%E6%9C%9F%E7%BB%93%E6%9D%9F%E4%BA%86%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时51分 ~ 11时22分]"
-        },
-        {
-          "title": "现货白银站上49美元/盎司，日内涨1.5%。现货黄金涨超1%，现报4044.32美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20251110092528803800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时52分"
-        },
-        {
-          "title": "现货黄金站上4010美元/盎司，日内涨0.22%。",
-          "url": "https://flash.jin10.com/detail/20251110070233744800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        },
-        {
-          "title": "周一亚太盘初，美股三大指数期货高开，纳指期货涨0.7%。 现货黄金报4005美元/盎司，日内涨0.1%。 WTI原油、布伦特原油周一小幅高开。",
-          "url": "https://wallstreetcn.com/livenews/3001751",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        },
-        {
-          "title": "现货黄金周一低开5美元，现报3997.7美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20251110070049377800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        },
-        {
-          "title": "现货黄金站上4040美元/盎司，日内涨0.97%。",
-          "url": "https://flash.jin10.com/detail/20251110092204620800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时52分"
-        },
-        {
-          "title": "金十图示：2025年11月10日（周一）白银ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20251110064727250800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时21分 ~ 12时30分]"
-        },
-        {
-          "title": "金十图示：2025年11月10日（周一）黄金ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20251110064729556800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时21分 ~ 12时30分]"
-        },
-        {
-          "title": "美政府关门有望结束，美股期货、加密货币、黄金白银全线走高",
-          "url": "https://wallstreetcn.com/articles/3759018",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时30分 ~ 13时24分]"
-        },
-        {
-          "title": "美参议院据悉已有足够票数推动结束“停摆”的法案、特朗普称希望继续在布达佩斯与普京会晤、中国央行连续第12个月增持黄金......现货黄金亚盘重回4050美元上方，当前多头持续占优，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
-          "url": "https://flash.jin10.com/detail/20251110104051679800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时22分"
-        },
-        {
-          "title": "现货黄金站上4030美元/盎司，日内涨0.74%。",
-          "url": "https://flash.jin10.com/detail/20251110091717756800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时52分"
-        },
-        {
-          "title": "美国造出 25 年来首块稀土磁铁，美财长宣称结束中国「卡脖子」，美国能就此摆脱对中国的稀土依赖吗？",
-          "url": "https://www.zhihu.com/question/1970974205559416586",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时24分"
-        },
-        {
-          "title": "现货黄金短线走高7美元，现报4027美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20251110091423390800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时52分"
-        },
-        {
-          "title": "现货白银短线拉升，日内涨超1.00%，现报48.83美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20251110091212578800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时52分"
-        },
-        {
-          "title": "黄金税收新规落地首周观察：银行投资金条“价稳量足”",
-          "url": "https://wallstreetcn.com/livenews/3001744",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        },
-        {
-          "title": "现货黄金涨幅扩大至超1%，目前报4044美元/盎司。现货白银日内涨1.2%。",
-          "url": "https://wallstreetcn.com/livenews/3001830",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时52分"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 11月10日（周一）早盘盘初上涨0.58%报921.44元/克；<br/>上海黄金交易所白银T+D 11月10日（周一）早盘盘初上涨0.56%报11490.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20251110090128211800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时52分"
-        },
-        {
-          "title": "早盘开盘，国内期货主力合约跌多涨少，碳酸锂涨近2%，苹果、SC原油、氧化铝、液化石油气（LPG）、纸浆涨近1%。跌幅方面，焦煤跌近2%，沥青、焦炭、菜粕、玻璃跌超1%，甲醇、丁二烯橡胶跌近1%。",
-          "url": "https://flash.jin10.com/detail/20251110090001966800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时52分"
-        },
-        {
-          "title": "前三季度国内原料和进口原料共计生产黄金392.931吨 同比增长3.60%",
-          "url": "https://wallstreetcn.com/livenews/3001872",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时22分"
-        },
-        {
-          "title": "现货黄金站上4020美元/盎司，日内涨0.47%。",
-          "url": "https://flash.jin10.com/detail/20251110084750108800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时52分"
-        },
-        {
-          "title": "商品期货开盘，焦煤主力合约跌超2%，沥青、焦炭、菜籽粕、玻璃跌超1%。原油、氧化铝涨近1%。",
-          "url": "https://wallstreetcn.com/livenews/3001812",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时52分"
-        },
-        {
-          "title": "【前三季度国内黄金ETF增仓量为79.015吨，同比增长164.03%】据中国黄金协会最新统计数据显示：据中国黄金协会最新统计数据显示：2025年前三季度，国内黄金ETF增仓量为79.015吨，较2024年前三季度增仓量29.927吨，同比增长164.03%。至9月底，国内黄金ETF持仓量为193.749吨。全球央行持续增持黄金。从2024年11月至2025年9月止，我国已连续11个月增持黄金。2025年前三季度，我国增持黄金23.95吨，截至9月底，我国黄金储备为2303.52吨。",
-          "url": "https://wallstreetcn.com/livenews/3001866",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时22分"
-        }
-      ]
-    },
-    {
       "keyword_group": "外交部 商务部 证监会 央行",
-      "match_count": 23,
+      "match_count": 29,
       "titles": [
         {
           "title": "商务部：《关于加强相关两用物项对美国出口管制的公告》第二款暂停实施",
@@ -1548,15 +1399,71 @@
           "time_info": "[00时25分 ~ 06时21分]"
         },
         {
-          "title": "商务部：暂停对韩华海洋株式会社5家美国相关子公司实施反制措施一年",
-          "url": "https://wallstreetcn.com/livenews/3001937",
+          "title": "商务部：暂停对韩华海洋株式会社5家美国相关子公司实施反制措施",
+          "url": "https://news.ifeng.com/c/8oAMJ6eYW9J",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
+        },
+        {
+          "title": "日本首相高市早苗：政府对经济政策负最终责任，而日本央行的货币政策是其中的一部分。具体的货币政策手段由日本央行决定。",
+          "url": "https://flash.jin10.com/detail/20251110142142202800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
+        },
+        {
+          "title": "日本首相高市早苗：希望日本央行能持续与政府密切合作，在制定政策时关注经济、物价及金融情势的发展。",
+          "url": "https://flash.jin10.com/detail/20251110142104073800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
+        },
+        {
+          "title": "日本首相高市早苗：希望日本央行引导适当的货币政策，使日本能够可持续地实现2%的通胀目标，通胀目标不仅受成本推动因素驱动，还受益于工资增长。",
+          "url": "https://flash.jin10.com/detail/20251110141615972800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
+        },
+        {
+          "title": "日本首相高市早苗：经济政策的最终责任在于政府。 具体的货币政策方法由日本央行决定。",
+          "url": "https://wallstreetcn.com/livenews/3001968",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时24分"
+          "time_info": "14时37分"
+        },
+        {
+          "title": "商务部：暂停对韩华海洋株式会社5家美国相关子公司实施反制措施一年",
+          "url": "https://wallstreetcn.com/livenews/3001937",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时24分 ~ 14时37分]"
         },
         {
           "title": "商务部：造成当前全球半导体供应链混乱的源头和责任在荷方",
@@ -1646,6 +1553,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时30分"
+        },
+        {
+          "title": "日本首相经济顾问称日本央行应避免12月加息",
+          "url": "https://flash.jin10.com/detail/20251110133925945800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
         },
         {
           "title": "日本央行审议委员中川顺子：受关税影响，日本企业利润可能走弱，但随着海外经济复苏、实际工资上涨带动消费增加，企业利润随后将有所改善。",
@@ -1745,6 +1663,318 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时30分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金 白银 铜 铝 稀土",
+      "match_count": 27,
+      "titles": [
+        {
+          "title": "黄金新政的底层逻辑",
+          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E6%96%B0%E6%94%BF%E7%9A%84%E5%BA%95%E5%B1%82%E9%80%BB%E8%BE%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            4,
+            5,
+            16,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 11时22分]"
+        },
+        {
+          "title": "英雄联盟黄金期结束了吗",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E9%BB%84%E9%87%91%E6%9C%9F%E7%BB%93%E6%9D%9F%E4%BA%86%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时51分 ~ 11时22分]"
+        },
+        {
+          "title": "现货白银站上49美元/盎司，日内涨1.5%。现货黄金涨超1%，现报4044.32美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251110092528803800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时52分"
+        },
+        {
+          "title": "现货黄金站上4010美元/盎司，日内涨0.22%。",
+          "url": "https://flash.jin10.com/detail/20251110070233744800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
+          "title": "周一亚太盘初，美股三大指数期货高开，纳指期货涨0.7%。 现货黄金报4005美元/盎司，日内涨0.1%。 WTI原油、布伦特原油周一小幅高开。",
+          "url": "https://wallstreetcn.com/livenews/3001751",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
+          "title": "现货黄金周一低开5美元，现报3997.7美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251110070049377800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
+          "title": "现货黄金站上4040美元/盎司，日内涨0.97%。",
+          "url": "https://flash.jin10.com/detail/20251110092204620800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时52分"
+        },
+        {
+          "title": "金十图示：2025年11月10日（周一）白银ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20251110064727250800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时21分 ~ 12时30分]"
+        },
+        {
+          "title": "美政府关门有望结束，美股期货、加密货币、黄金白银全线走高",
+          "url": "https://wallstreetcn.com/articles/3759018",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时30分 ~ 14时37分]"
+        },
+        {
+          "title": "金十图示：2025年11月10日（周一）黄金ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20251110064729556800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时21分 ~ 12时30分]"
+        },
+        {
+          "title": "美国造出 25 年来首块稀土磁铁，美财长宣称结束中国「卡脖子」，美国能就此摆脱对中国的稀土依赖吗？",
+          "url": "https://www.zhihu.com/question/1970974205559416586",
+          "source": "知乎",
+          "ranks": [
+            7,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时24分 ~ 14时37分]"
+        },
+        {
+          "title": "美参议院据悉已有足够票数推动结束“停摆”的法案、特朗普称希望继续在布达佩斯与普京会晤、中国央行连续第12个月增持黄金......现货黄金亚盘重回4050美元上方，当前多头持续占优，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20251110104051679800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时22分"
+        },
+        {
+          "title": "现货黄金站上4030美元/盎司，日内涨0.74%。",
+          "url": "https://flash.jin10.com/detail/20251110091717756800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时52分"
+        },
+        {
+          "title": "现货黄金短线走高7美元，现报4027美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251110091423390800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时52分"
+        },
+        {
+          "title": "现货黄金短线持续上扬，突破4070美元/盎司，日内涨1.71%。",
+          "url": "https://flash.jin10.com/detail/20251110140051121800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
+        },
+        {
+          "title": "现货白银短线拉升，日内涨超1.00%，现报48.83美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251110091212578800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时52分"
+        },
+        {
+          "title": "黄金税收新规落地首周观察：银行投资金条“价稳量足”",
+          "url": "https://wallstreetcn.com/livenews/3001744",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
+          "title": "现货黄金涨幅扩大至超1%，目前报4044美元/盎司。现货白银日内涨1.2%。",
+          "url": "https://wallstreetcn.com/livenews/3001830",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时52分"
+        },
+        {
+          "title": "现货黄金突破4060美元/盎司，日内涨1.47%。",
+          "url": "https://wallstreetcn.com/livenews/3001950",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 11月10日（周一）早盘盘初上涨0.58%报921.44元/克；<br/>上海黄金交易所白银T+D 11月10日（周一）早盘盘初上涨0.56%报11490.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251110090128211800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时52分"
+        },
+        {
+          "title": "早盘开盘，国内期货主力合约跌多涨少，碳酸锂涨近2%，苹果、SC原油、氧化铝、液化石油气（LPG）、纸浆涨近1%。跌幅方面，焦煤跌近2%，沥青、焦炭、菜粕、玻璃跌超1%，甲醇、丁二烯橡胶跌近1%。",
+          "url": "https://flash.jin10.com/detail/20251110090001966800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时52分"
+        },
+        {
+          "title": "现货黄金短线持续走高，突破4060美元/盎司，日内上涨逾60美元，涨幅近1.5%。",
+          "url": "https://flash.jin10.com/detail/20251110133142135800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
+        },
+        {
+          "title": "现货白银日内涨幅扩大至2.00%，现报49.31美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251110132833132800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
+        },
+        {
+          "title": "前三季度国内原料和进口原料共计生产黄金392.931吨 同比增长3.60%",
+          "url": "https://wallstreetcn.com/livenews/3001872",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时22分"
+        },
+        {
+          "title": "现货黄金站上4020美元/盎司，日内涨0.47%。",
+          "url": "https://flash.jin10.com/detail/20251110084750108800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时52分"
+        },
+        {
+          "title": "商品期货开盘，焦煤主力合约跌超2%，沥青、焦炭、菜籽粕、玻璃跌超1%。原油、氧化铝涨近1%。",
+          "url": "https://wallstreetcn.com/livenews/3001812",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时52分"
+        },
+        {
+          "title": "【前三季度国内黄金ETF增仓量为79.015吨，同比增长164.03%】据中国黄金协会最新统计数据显示：据中国黄金协会最新统计数据显示：2025年前三季度，国内黄金ETF增仓量为79.015吨，较2024年前三季度增仓量29.927吨，同比增长164.03%。至9月底，国内黄金ETF持仓量为193.749吨。全球央行持续增持黄金。从2024年11月至2025年9月止，我国已连续11个月增持黄金。2025年前三季度，我国增持黄金23.95吨，截至9月底，我国黄金储备为2303.52吨。",
+          "url": "https://wallstreetcn.com/livenews/3001866",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时22分"
         }
       ]
     }
