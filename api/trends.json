@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-11-20T14:34:15.417057+08:00",
-  "total_titles_processed": 1191,
+  "generated_at": "2025-11-20T15:23:02.549935+08:00",
+  "total_titles_processed": 1281,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek AI openai 机器人 小米 特斯拉 英伟达",
-      "match_count": 145,
+      "match_count": 148,
       "titles": [
+        {
+          "title": "【早报】英伟达财报全面超预期；中金公司拟收购两家上市券商",
+          "url": "https://www.cls.cn/detail/2205635",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时46分 ~ 15时23分]"
+        },
         {
           "title": "科技股力撑美股反弹，英伟达绩后一度大涨6%，美元涨回100，加密货币盘中大跌",
           "url": "https://wallstreetcn.com/articles/3759700",
@@ -16,8 +27,19 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[07时21分 ~ 15时23分]"
+        },
+        {
+          "title": "英伟达上季营收加速增长62%，本季指引再超预期，黄仁勋称“Blackwell销量远超预期” | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3759751",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
           "appearance_count": 10,
-          "time_info": "[07时21分 ~ 14时34分]"
+          "time_info": "[09时46分 ~ 15时23分]"
         },
         {
           "title": "英伟达Q3财报全面超预期 盘后股价再冲高",
@@ -29,8 +51,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时21分 ~ 14时34分]"
+          "appearance_count": 12,
+          "time_info": "[07时21分 ~ 15时23分]"
         },
         {
           "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
@@ -55,8 +77,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[06时22分 ~ 14时34分]"
+          "appearance_count": 13,
+          "time_info": "[06时22分 ~ 15时23分]"
         },
         {
           "title": "欧莱雅中国x阿里云：以AI共启美妆行业数智化新篇章",
@@ -68,17 +90,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时31分 ~ 06时22分]"
-        },
-        {
-          "title": "【早报】英伟达财报全面超预期；中金公司拟收购两家上市券商",
-          "url": "https://www.cls.cn/detail/2205635",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时46分 ~ 14时34分]"
         },
         {
           "title": "英伟达财报前市场情绪谨慎，标普连跌四日，科技股重挫，比特币、现货黄金反弹",
@@ -93,17 +104,6 @@
           "time_info": "[00时31分 ~ 06时22分]"
         },
         {
-          "title": "英伟达上季营收加速增长62%，本季指引再超预期，黄仁勋称“Blackwell销量远超预期” | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3759751",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时46分 ~ 14时34分]"
-        },
-        {
           "title": "英伟达财报前夕，美股集体上涨，谷歌新高，日本股债汇三杀，现货黄金逼近4120美元",
           "url": "https://wallstreetcn.com/articles/3759700",
           "source": "华尔街见闻",
@@ -116,6 +116,32 @@
           "time_info": "[00时31分 ~ 06时22分]"
         },
         {
+          "title": "黄仁勋抨击“AI泡沫论”：英伟达产品需求爆棚 AI正给客户带来回报",
+          "url": "https://www.cls.cn/detail/2205653",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时46分 ~ 15时23分]"
+        },
+        {
+          "title": "英伟达财报会实录：三大转型驱动AI基建投资 5000亿美元收入目标有望再突破",
+          "url": "https://www.cls.cn/detail/2205700",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时46分 ~ 15时23分]"
+        },
+        {
           "title": "Gemini3是目前最强AI吗",
           "url": "https://search.bilibili.com/all?keyword=Gemini3%E6%98%AF%E7%9B%AE%E5%89%8D%E6%9C%80%E5%BC%BAAI%E5%90%97",
           "source": "bilibili 热搜",
@@ -126,11 +152,12 @@
             9,
             7,
             11,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时31分 ~ 14时34分]"
+          "appearance_count": 20,
+          "time_info": "[00时31分 ~ 15时23分]"
         },
         {
           "title": "“AI闭环”扩大：英伟达、微软联手150亿美元投资Anthropic，“OpenAI对手”的估值已达3500亿美元",
@@ -157,6 +184,19 @@
           "time_info": "[00时31分 ~ 07时22分]"
         },
         {
+          "title": "李彦宏人民日报撰文：内化AI能力，加快形成新质生产力",
+          "url": "https://www.cls.cn/detail/2205637",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时46分 ~ 15时23分]"
+        },
+        {
           "title": "段永平Q3持仓：大幅增持伯克希尔，英伟达持仓砍掉38%，减持苹果、拼多多、谷歌，建仓阿斯麦",
           "url": "https://wallstreetcn.com/articles/3759713",
           "source": "华尔街见闻",
@@ -167,8 +207,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[02时34分 ~ 14时34分]"
+          "appearance_count": 17,
+          "time_info": "[02时34分 ~ 15时23分]"
         },
         {
           "title": "美股三大期指小幅走高 市场紧盯英伟达盘后业绩 | 今夜看点",
@@ -193,11 +233,12 @@
             13,
             15,
             18,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时31分 ~ 14时34分]"
+          "appearance_count": 20,
+          "time_info": "[00时31分 ~ 15时23分]"
         },
         {
           "title": "高管养水军?小米舆论战炸锅全网",
@@ -214,30 +255,15 @@
           "time_info": "[00时31分 ~ 14时34分]"
         },
         {
-          "title": "黄仁勋抨击“AI泡沫论”：英伟达产品需求爆棚 AI正给客户带来回报",
-          "url": "https://www.cls.cn/detail/2205653",
-          "source": "财联社热门",
+          "title": "英伟达电话会：黄仁勋反击“我们看到的和AI泡沫截然相反”，公司订单能见度达5000亿美元，Rubin明年下半年推出",
+          "url": "https://wallstreetcn.com/articles/3759756",
+          "source": "华尔街见闻",
           "ranks": [
-            7,
-            6,
-            5
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时46分 ~ 14时34分]"
-        },
-        {
-          "title": "英伟达财报会实录：三大转型驱动AI基建投资 5000亿美元收入目标有望再突破",
-          "url": "https://www.cls.cn/detail/2205700",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时46分 ~ 14时34分]"
+          "appearance_count": 9,
+          "time_info": "[11时12分 ~ 15时23分]"
         },
         {
           "title": "如何看待对话挖孔事件起诉小米汽车车主，小米临时提交 84 页证据称「雷军反复提醒别买」？",
@@ -253,30 +279,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时31分 ~ 07时22分]"
-        },
-        {
-          "title": "李彦宏人民日报撰文：内化AI能力，加快形成新质生产力",
-          "url": "https://www.cls.cn/detail/2205637",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时46分 ~ 14时34分]"
-        },
-        {
-          "title": "英伟达电话会：黄仁勋反击“我们看到的和AI泡沫截然相反”，公司订单能见度达5000亿美元，Rubin明年下半年推出",
-          "url": "https://wallstreetcn.com/articles/3759756",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时12分 ~ 14时34分]"
         },
         {
           "title": "AI泡沫的“核心争议”：GPU真的能“用”6年吗？",
@@ -303,6 +305,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时34分 ~ 07时22分]"
+        },
+        {
+          "title": "机器人“进厂”先头部队绩效如何？Figure披露：已参与3万辆宝马汽车生产",
+          "url": "https://www.cls.cn/detail/2205843",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时23分 ~ 15时23分]"
         },
         {
           "title": "市场消息：Luma AI获得由Humain领投的9亿美元C轮融资，并将合作在沙特阿拉伯建设一个2吉瓦的AI超级集群。",
@@ -479,7 +492,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时34分"
         },
@@ -519,17 +532,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时34分 ~ 04时23分]"
-        },
-        {
-          "title": "机器人“进厂”先头部队绩效如何？Figure披露：已参与3万辆宝马汽车生产",
-          "url": "https://www.cls.cn/detail/2205843",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时23分 ~ 14时34分]"
         },
         {
           "title": "英伟达(NVDA.O)CEO黄仁勋：由于地缘政治问题等因素，本季度对H20 AI芯片的大额采购订单并未实现。",
@@ -630,6 +632,18 @@
           "time_info": "[09时46分 ~ 12时27分]"
         },
         {
+          "title": "大力推进美国AI发展，特朗普又有“新计划”！",
+          "url": "https://www.cls.cn/detail/2205764",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时33分 ~ 15时23分]"
+        },
+        {
           "title": "马斯克：xAI与沙特在做一个500 Megawatt的项目，英伟达有参与。 xAI将在沙特开发一个500 MW的数据中心。 沙特AI公司Humain和英伟达都将参与xAI在沙特的数据中心项目。",
           "url": "https://wallstreetcn.com/livenews/3007319",
           "source": "华尔街见闻-快讯",
@@ -665,6 +679,18 @@
           "time_info": "[12时26分 ~ 13时24分]"
         },
         {
+          "title": "UP主翻唱AI歌曲美猴亡",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%BF%BB%E5%94%B1AI%E6%AD%8C%E6%9B%B2%E7%BE%8E%E7%8C%B4%E4%BA%A1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时33分 ~ 15时23分]"
+        },
+        {
           "title": "英伟达送惊喜，上季营收加速增长62%，本季指引再超预期，黄仁勋称云GPU售罄 | 财报见闻",
           "url": "https://wallstreetcn.com/articles/3759751",
           "source": "华尔街见闻",
@@ -686,6 +712,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时23分 ~ 05时18分]"
+        },
+        {
+          "title": "英伟达业绩提振全球市场情绪，日经225涨超3%，纳指100期货涨1.9%，比特币升至9.2万美元，金价跌至4070美元",
+          "url": "https://wallstreetcn.com/articles/3759753",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时22分 ~ 15时23分]"
         },
         {
           "title": "市场消息：美国白宫要求国会否决限制英伟达出口的法案。",
@@ -771,17 +808,6 @@
           "time_info": "[12时27分 ~ 13时24分]"
         },
         {
-          "title": "大力推进美国AI发展，特朗普又有“新计划”！",
-          "url": "https://www.cls.cn/detail/2205764",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时33分 ~ 14时34分]"
-        },
-        {
           "title": "美国白宫要求国会否决限制英伟达芯片出口的法案",
           "url": "https://wallstreetcn.com/livenews/3007637",
           "source": "华尔街见闻-快讯",
@@ -818,15 +844,15 @@
           "time_info": "[00时31分 ~ 09时46分]"
         },
         {
-          "title": "UP主翻唱AI歌曲美猴亡",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%BF%BB%E5%94%B1AI%E6%AD%8C%E6%9B%B2%E7%BE%8E%E7%8C%B4%E4%BA%A1",
-          "source": "bilibili 热搜",
+          "title": "人形机器人为普京献舞后鞠躬",
+          "url": "https://www.toutiao.com/trending/7574374882659319827/",
+          "source": "今日头条",
           "ranks": [
-            27
+            30
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时33分 ~ 14时34分]"
+          "time_info": "[15时22分 ~ 15时23分]"
         },
         {
           "title": "马斯克：xAI 的沙特数据中心项目将有沙特人工智能公司Humain与英伟达参与。",
@@ -1016,6 +1042,17 @@
           "time_info": "11时12分"
         },
         {
+          "title": "英伟达欧股上涨6.5%",
+          "url": "https://flash.jin10.com/detail/20251120150522064800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
+        },
+        {
           "title": "英伟达：上个季度“是杰出的”。 重申5000亿美元收入承诺。",
           "url": "https://wallstreetcn.com/livenews/3007434",
           "source": "华尔街见闻-快讯",
@@ -1088,7 +1125,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时34分"
         },
@@ -1275,7 +1312,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时34分"
         },
@@ -1363,7 +1400,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时34分"
         },
@@ -1689,8 +1726,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时46分 ~ 14时34分]"
+          "appearance_count": 10,
+          "time_info": "[09时46分 ~ 15时23分]"
         },
         {
           "title": "特朗普称“已经知道我的美联储主席人选”，贝森特：可能在圣诞节前宣布",
@@ -1706,6 +1743,20 @@
           "time_info": "[00时31分 ~ 07时22分]"
         },
         {
+          "title": "美联储10月会议纪要：决策者对12月是否降息存在较大分歧",
+          "url": "https://www.cls.cn/detail/2205601",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时46分 ~ 15时23分]"
+        },
+        {
           "title": "被特朗普指鼻骂“猪”的女记者是谁？(图)",
           "url": "https://news.ifeng.com/c/8oPR2bxaXLd",
           "source": "凤凰网",
@@ -1715,6 +1766,42 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时31分 ~ 07时22分]"
+        },
+        {
+          "title": "特朗普签署法案，批准公布爱泼斯坦案档案",
+          "url": "https://news.ifeng.com/c/8oQjsLX6MqD",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时12分 ~ 15时23分]"
+        },
+        {
+          "title": "美联储12月降息概率降至三成 爱泼斯坦案卷宗将在30天内公布 | 环球市场",
+          "url": "https://www.cls.cn/detail/2205647",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时12分 ~ 15时23分]"
+        },
+        {
+          "title": "特朗普再炮轰鲍威尔：很想炒掉他，玩笑称贝森特“唯一搞砸的是美联储问题”",
+          "url": "https://wallstreetcn.com/articles/3759743",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时26分 ~ 15时23分]"
         },
         {
           "title": "马斯克C罗现身白宫参加晚宴",
@@ -1729,44 +1816,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时31分 ~ 05时18分]"
-        },
-        {
-          "title": "美联储10月会议纪要：决策者对12月是否降息存在较大分歧",
-          "url": "https://www.cls.cn/detail/2205601",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时46分 ~ 14时34分]"
-        },
-        {
-          "title": "特朗普签署法案，批准公布爱泼斯坦案档案",
-          "url": "https://news.ifeng.com/c/8oQjsLX6MqD",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时12分 ~ 14时34分]"
-        },
-        {
-          "title": "美联储12月降息概率降至三成 爱泼斯坦案卷宗将在30天内公布 | 环球市场",
-          "url": "https://www.cls.cn/detail/2205647",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时12分 ~ 14时34分]"
         },
         {
           "title": "C罗马斯克现身白宫 出席特朗普晚宴",
@@ -1798,17 +1847,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时31分 ~ 07时22分]"
-        },
-        {
-          "title": "特朗普再炮轰鲍威尔：很想炒掉他，玩笑称贝森特“唯一搞砸的是美联储问题”",
-          "url": "https://wallstreetcn.com/articles/3759743",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时26分 ~ 14时34分]"
         },
         {
           "title": "美国总统特朗普签署法案，批准公开爱泼斯坦档案。",
@@ -2792,8 +2830,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时31分 ~ 14时34分]"
+          "appearance_count": 20,
+          "time_info": "[00时31分 ~ 15时23分]"
         },
         {
           "title": "美股三大指数再次转涨，道琼斯指数涨0.03%，标普500指数涨0.35%，纳斯达克综合指数涨0.47%。",
@@ -3543,8 +3581,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时31分 ~ 14时34分]"
+          "appearance_count": 20,
+          "time_info": "[00时31分 ~ 15时23分]"
         },
         {
           "title": "中国暂停进口日本水产品？外交部回应",
@@ -3558,8 +3596,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时31分 ~ 14时34分]"
+          "appearance_count": 20,
+          "time_info": "[00时31分 ~ 15时23分]"
         },
         {
           "title": "商务部：中方对荷兰主动暂停安世半导体行政令表示欢迎",
@@ -3750,7 +3788,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时34分"
         },
@@ -3761,7 +3799,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时34分"
         },
@@ -3772,7 +3810,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时34分"
         },
@@ -3783,7 +3821,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时34分"
         },
@@ -3805,7 +3843,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时34分"
         },
@@ -3827,7 +3865,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时34分"
         },
@@ -3838,7 +3876,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时34分"
         },
@@ -3860,7 +3898,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时34分"
         },
@@ -3871,7 +3909,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时34分"
         },
@@ -3882,7 +3920,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时34分"
         },
@@ -3893,7 +3931,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时34分"
         },
@@ -3904,7 +3942,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时34分"
         },
@@ -3915,7 +3953,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时34分"
         },
@@ -3926,7 +3964,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时34分"
         }
@@ -3934,7 +3972,7 @@
     },
     {
       "keyword_group": "黄金 白银 铜 铝 稀土",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "40万的嫁衣是用黄金做的吗",
@@ -3949,11 +3987,12 @@
             13,
             14,
             18,
-            24
+            24,
+            20
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时31分 ~ 14时34分]"
+          "appearance_count": 20,
+          "time_info": "[00时31分 ~ 15时23分]"
         },
         {
           "title": "全球最大白银ETF--iShares Silver Trust持仓较上日增加8.46吨，当前持仓量为15226.88吨。欢迎点击查看数据中心...",
@@ -4048,6 +4087,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时26分 ~ 12时27分]"
+        },
+        {
+          "title": "瑞士10月黄金出口下降11%至128.2吨。",
+          "url": "https://flash.jin10.com/detail/20251120151003974800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
         },
         {
           "title": "上海黄金交易所黄金T+D 11月20日（周四）早盘盘初上涨0.7%报937.32元/克；<br/>上海黄金交易所白银T+D 11月20日（周四）早盘盘初上涨1.11%报12132.0元/千克。",
