@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-29T01:20:32.021124+08:00",
-  "total_titles_processed": 381,
+  "generated_at": "2025-11-29T02:32:43.115829+08:00",
+  "total_titles_processed": 428,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 美债 美元 石油 战争",
-      "match_count": 20,
+      "match_count": 26,
       "titles": [
         {
           "title": "涉及中际旭创、胜宏科技等，A股多条重要指数样本股调整",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 02时32分]"
         },
         {
           "title": "感恩节美股休市，美股指期货走平，欧股交投清淡，原油盘中闪跌",
@@ -27,8 +27,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 02时32分]"
+        },
+        {
+          "title": "美股三大股指收涨 英特尔涨超10%",
+          "url": "https://flash.jin10.com/detail/20251129020833506800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时32分"
         },
         {
           "title": "美元兑加元USD/CAD日内跌超0.50%，现报1.3955。",
@@ -67,6 +78,29 @@
           "time_info": "[00时29分 ~ 01时20分]"
         },
         {
+          "title": "马英九：赖清德形同宣布台湾进入“准战争状态”",
+          "url": "https://news.ifeng.com/c/8oe3cf5Tg9x",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 02时32分]"
+        },
+        {
+          "title": "美股三大期指小幅走高 CME交易中断引发关注 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2214556",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 02时32分]"
+        },
+        {
           "title": "纽约银日内涨幅达4.5%，报56.02美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3012325",
           "source": "华尔街见闻-快讯",
@@ -79,15 +113,16 @@
           "time_info": "[00时29分 ~ 01时20分]"
         },
         {
-          "title": "马英九：赖清德形同宣布台湾进入“准战争状态”",
-          "url": "https://news.ifeng.com/c/8oe3cf5Tg9x",
-          "source": "凤凰网",
+          "title": "11月份，伦敦可可期货累跌9.80%，周五（11月28日）欧市尾盘报4045美元/吨，11月5日涨至4864美元之后持续走低，11月25日跌至3650美元。",
+          "url": "https://wallstreetcn.com/livenews/3012343",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时20分]"
+          "time_info": "[01时20分 ~ 02时32分]"
         },
         {
           "title": "标普将 Tether 资产评级下调至最低等，质疑其挂钩美元能力，如何看待储备资产的配置风险？",
@@ -102,37 +137,84 @@
           "time_info": "[00时29分 ~ 01时20分]"
         },
         {
-          "title": "美股三大期指小幅走高 CME交易中断引发关注 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2214556",
-          "source": "财联社热门",
+          "title": "布伦特原油日内涨幅扩大至1.00%，现报63.28美元/桶；WTI原油现涨0.84%。",
+          "url": "https://flash.jin10.com/detail/20251129004322485800",
+          "source": "金十数据",
           "ranks": [
-            13
+            12,
+            30
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时20分]"
+          "time_info": "[01时20分 ~ 02时32分]"
         },
         {
-          "title": "11月份，伦敦可可期货累跌9.80%，周五（11月28日）欧市尾盘报4045美元/吨，11月5日涨至4864美元之后持续走低，11月25日跌至3650美元。",
-          "url": "https://wallstreetcn.com/livenews/3012343",
+          "title": "纽约金日内涨幅达1.0%，报4244.6美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3012338",
           "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时20分 ~ 02时32分]"
+        },
+        {
+          "title": "纽约银日内涨幅达5.0%，报56.29美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3012333",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时20分 ~ 02时32分]"
+        },
+        {
+          "title": "纽约期金突破4250美元/盎司，日内涨1.14%。",
+          "url": "https://flash.jin10.com/detail/20251129015400267800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时32分"
+        },
+        {
+          "title": "周五（11月28日），韩元兑美元最终跌0.37%，报1467.70韩元。 11月3-13日，韩元持续走低，略微回升之后，11月14-24日再度持续下挫——最低跌至1479.47韩元。",
+          "url": "https://wallstreetcn.com/livenews/3012353",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时32分"
+        },
+        {
+          "title": "金十图示：2025年11月28日（周五）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251129013457427800",
+          "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时20分"
+          "time_info": "02时32分"
         },
         {
-          "title": "布伦特原油日内涨幅扩大至1.00%，现报63.28美元/桶；WTI原油现涨0.84%。",
-          "url": "https://flash.jin10.com/detail/20251129004322485800",
+          "title": "金十图示：2025年11月28日（周五）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251129013346097800",
           "source": "金十数据",
           "ranks": [
-            12
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时20分"
+          "time_info": "02时32分"
         },
         {
           "title": "美国天然气期货涨5%，报4.77美元/百万英热。",
@@ -141,18 +223,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时20分"
-        },
-        {
-          "title": "纽约金日内涨幅达1.0%，报4244.6美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3012338",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
         },
@@ -163,9 +234,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
+        },
+        {
+          "title": "美国能源信息署（EIA）：9月份美国联邦政府管辖的墨西哥湾石油日产量升至198万桶，为2020年2月以来最高水平。",
+          "url": "https://flash.jin10.com/detail/20251129010952188800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时32分"
         },
         {
           "title": "纽约期银日内大涨5.00%，现报56.29美元/盎司。",
@@ -174,18 +256,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时20分"
-        },
-        {
-          "title": "纽约银日内涨幅达5.0%，报56.29美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3012333",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
         },
@@ -237,29 +308,18 @@
     },
     {
       "keyword_group": "黄金 白银 铜 铝 稀土",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
-          "title": "纽约银日内涨幅达6.0%，报56.85美元/盎司。 现货白银日内涨幅达5.5%，报56.32美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3012351",
+          "title": "伦铜11月涨超2.7%",
+          "url": "https://wallstreetcn.com/livenews/3012365",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时20分"
-        },
-        {
-          "title": "现货白银涨势不断，站上56美元/盎司，日内涨近5%。",
-          "url": "https://flash.jin10.com/detail/20251129010357466800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时20分"
+          "time_info": "02时32分"
         },
         {
           "title": "纽约期银向上触及56美元/盎司，日内涨4.46%。现货白银日内暴涨2美元，现报55.35美元/盎司，涨幅3.75%。",
@@ -286,6 +346,30 @@
           "time_info": "[00时29分 ~ 01时20分]"
         },
         {
+          "title": "纽约银日内涨幅达6.0%，报56.85美元/盎司。 现货白银日内涨幅达5.5%，报56.32美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3012351",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时20分 ~ 02时32分]"
+        },
+        {
+          "title": "现货白银涨势不断，站上56美元/盎司，日内涨近5%。",
+          "url": "https://flash.jin10.com/detail/20251129010357466800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时20分 ~ 02时32分]"
+        },
+        {
           "title": "芝商所重启交易，美股指集体上涨，“黑五购物节”提振零售板块，白银、LME期铜创新高",
           "url": "https://wallstreetcn.com/articles/3760330",
           "source": "华尔街见闻",
@@ -294,8 +378,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 02时32分]"
         },
         {
           "title": "数据中心“制冷问题”，芝商所“宕机”，各类期货交易停摆，网友戏言“白银新高有人压力太大？”",
@@ -306,8 +390,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 02时32分]"
         },
         {
           "title": "白银期货创新高，中国库存位于近十年低位",
@@ -317,30 +401,32 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 02时32分]"
         },
         {
           "title": "国际铜夜盘收涨1.97%，沪铜收涨1.75%，沪铝收涨1.26%，沪锌收涨0.51%，沪铅收涨0.26%，沪镍收跌0.13%，沪锡收涨1.49%。 氧化铝夜盘收跌1.73%，铝合金收涨1.04%。 不锈钢夜盘收平。",
           "url": "https://wallstreetcn.com/livenews/3012346",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时20分 ~ 02时32分]"
         },
         {
           "title": "铜矿企业SolGold表示：已拒绝中国企业的收购要约",
           "url": "https://wallstreetcn.com/livenews/3012344",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时20分 ~ 02时32分]"
         },
         {
           "title": "分析师：白银一路上扬 本周收盘水平是关键",
@@ -349,7 +435,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
         },
@@ -389,8 +475,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 02时32分]"
         },
         {
           "title": "外交部：高市涉台言论干涉中国内政 向“台独”分裂势力发出严重错误信号",
@@ -408,33 +494,24 @@
           "url": "https://flash.jin10.com/detail/20251129010549587800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时20分 ~ 02时32分]"
         },
         {
           "title": "欧洲央行行长拉加德：利率处于合适水平，形势良好。",
           "url": "https://flash.jin10.com/detail/20251129010520905800",
           "source": "金十数据",
           "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时20分"
-        },
-        {
-          "title": "台当局接二连三力挺高市早苗，外交部：媚日谋“独”，令人不齿",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32062706",
-          "source": "澎湃新闻",
-          "ranks": [
-            6
+            2,
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时20分]"
+          "time_info": "[01时20分 ~ 02时32分]"
         },
         {
           "title": "台湾当局接二连三“力挺”高市早苗，外交部：令人不齿！",
@@ -444,19 +521,32 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 02时32分]"
+        },
+        {
+          "title": "台当局接二连三力挺高市早苗，外交部：媚日谋“独”，令人不齿",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32062706",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 02时32分]"
         },
         {
           "title": "欧洲央行行长拉加德：利率处于合理的水平，（欧元区）形势不错。",
           "url": "https://wallstreetcn.com/livenews/3012347",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时20分 ~ 02时32分]"
         },
         {
           "title": "中俄正在就结束乌克兰危机进行磋商？外交部回应",
@@ -484,41 +574,30 @@
     },
     {
       "keyword_group": "DeepSeek AI openai 机器人 小米 特斯拉 英伟达",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "AI要“上天”！一图看懂哪些巨头在争抢“太空算力”高地",
           "url": "https://www.cls.cn/detail/2214152",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 02时32分]"
         },
         {
-          "title": "雷军发布小米购置税补贴重要提示",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E5%8F%91%E5%B8%83%E5%B0%8F%E7%B1%B3%E8%B4%AD%E7%BD%AE%E7%A8%8E%E8%A1%A5%E8%B4%B4%E9%87%8D%E8%A6%81%E6%8F%90%E7%A4%BA%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时20分]"
-        },
-        {
-          "title": "新兴市场股市料将面临2025年首次月度下跌，AI顾虑带来冲击",
-          "url": "https://wallstreetcn.com/livenews/3012331",
+          "title": "纳斯达克金龙中国指数初步收涨0.5%。 热门中概股里，小米ADR涨3.4%，小鹏涨3.2%，文远知行涨2.3%，京东涨1.2%，蔚来涨0.7%。",
+          "url": "https://wallstreetcn.com/livenews/3012362",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            21
+            3
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时20分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时32分"
         },
         {
           "title": "第1个获得数学奥赛金牌的开源模型！DeepSeek新模型获网友盛赞：公开技术文件，了不起！",
@@ -529,19 +608,56 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 02时32分]"
+        },
+        {
+          "title": "11月份，标普大致持平，道指涨0.2%，纳指跌1.7%。 周五当天，标普500指数初步收涨0.5%，能源板块涨1.3%，可选消费板块涨0.7%，电信板块涨0.5%。 纳斯达克100指数初步收涨0.7%，成分股中，英特尔涨约10%，吉利德科学则跌1.4%，英伟达跌2%。",
+          "url": "https://wallstreetcn.com/livenews/3012360",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时32分"
+        },
+        {
+          "title": "雷军发布小米购置税补贴重要提示",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E5%8F%91%E5%B8%83%E5%B0%8F%E7%B1%B3%E8%B4%AD%E7%BD%AE%E7%A8%8E%E8%A1%A5%E8%B4%B4%E9%87%8D%E8%A6%81%E6%8F%90%E7%A4%BA%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 02时32分]"
+        },
+        {
+          "title": "新兴市场股市料将面临2025年首次月度下跌，AI顾虑带来冲击",
+          "url": "https://wallstreetcn.com/livenews/3012331",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            21,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 02时32分]"
         },
         {
           "title": "【焦点复盘】市场再现缩量普涨反弹，成交金额创近4个月地量，锂电池、机器人概念表现亮眼",
           "url": "https://www.cls.cn/detail/2214176",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 02时32分]"
         },
         {
           "title": "雷军回应小米汽车续航测试",
@@ -549,11 +665,12 @@
           "source": "抖音",
           "ranks": [
             18,
-            21
+            21,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 02时32分]"
         }
       ]
     },
@@ -570,8 +687,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 02时32分]"
         },
         {
           "title": "特朗普：将永久停止第三世界国家移民",
@@ -581,8 +698,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 02时32分]"
         },
         {
           "title": "释疑｜美俄密谈录音泄露：美特使指点俄方如何逢迎特朗普，推销“28点方案”雏形",
@@ -592,8 +709,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 02时32分]"
         },
         {
           "title": "特朗普称将对委内瑞拉展开地面行动",
@@ -602,9 +719,9 @@
           "ranks": [
             19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时20分 ~ 02时32分]"
         }
       ]
     }
