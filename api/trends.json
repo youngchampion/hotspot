@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-30T22:20:49.338084+08:00",
-  "total_titles_processed": 1220,
+  "generated_at": "2025-11-30T23:21:55.622038+08:00",
+  "total_titles_processed": 1282,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 美债 美元 石油 战争",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "蓝箭航天朱雀三号即将首飞 火箭产业链价值量及其占比超5%的A股名单一览",
@@ -56,8 +56,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[09时59分 ~ 22时20分]"
+          "appearance_count": 19,
+          "time_info": "[09时59分 ~ 23时21分]"
         },
         {
           "title": "美战机在委海岸附近盘旋，委防长称“战争即将来临”",
@@ -165,6 +165,18 @@
           "time_info": "[14时34分 ~ 17时22分]"
         },
         {
+          "title": "A股需要内需的变化打开高度",
+          "url": "https://wallstreetcn.com/articles/3760402",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时18分 ~ 23时21分]"
+        },
+        {
           "title": "委内瑞拉防长：战争即将来临",
           "url": "https://www.baidu.com/s?wd=%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E9%98%B2%E9%95%BF%EF%BC%9A%E6%88%98%E4%BA%89%E5%8D%B3%E5%B0%86%E6%9D%A5%E4%B8%B4",
           "source": "百度热搜",
@@ -176,15 +188,15 @@
           "time_info": "[11时41分 ~ 11时42分]"
         },
         {
-          "title": "A股需要内需的变化打开高度",
-          "url": "https://wallstreetcn.com/articles/3760402",
-          "source": "华尔街见闻",
+          "title": "欧佩克+同意在2026年保持集团整体石油产量不变。",
+          "url": "https://flash.jin10.com/detail/20251130231244484800",
+          "source": "金十数据",
           "ranks": [
-            8
+            1
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时18分 ~ 22时20分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
         },
         {
           "title": "美战机在委海岸附近盘旋 委防长称“战争即将来临”",
@@ -233,6 +245,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时28分 ~ 17时22分]"
+        },
+        {
+          "title": "A股连续缩量说明了什么",
+          "url": "https://www.toutiao.com/trending/7578495650929577482/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时20分 ~ 23时21分]"
         },
         {
           "title": "A股成交创4个月新低释放什么信号",
@@ -290,17 +314,6 @@
           "time_info": "07时21分"
         },
         {
-          "title": "A股连续缩量说明了什么",
-          "url": "https://www.toutiao.com/trending/7578495650929577482/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时20分"
-        },
-        {
           "title": "A股下周能否延续反弹",
           "url": "https://www.toutiao.com/trending/7578289636359802411/",
           "source": "今日头条",
@@ -314,330 +327,8 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek AI openai 机器人 小米 特斯拉 英伟达",
-      "match_count": 23,
-      "titles": [
-        {
-          "title": "SemiAnalysis深度解读TPU--谷歌冲击“英伟达帝国”",
-          "url": "https://wallstreetcn.com/articles/3760377",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时27分 ~ 12时36分]"
-        },
-        {
-          "title": "OpenAI大溃败！GPT-5「换皮」GPT-4o，两年半预训练0突破",
-          "url": "https://wallstreetcn.com/articles/3760398",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时28分 ~ 22时20分]"
-        },
-        {
-          "title": "高盛点评“中国AI大厂之战”：阿里 vs 腾讯 vs 字节",
-          "url": "https://wallstreetcn.com/articles/3760379",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时27分 ~ 17时22分]"
-        },
-        {
-          "title": "弃帅保车?小米启动去雷军化",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347602&amp;topic_name=%E5%BC%83%E5%B8%85%E4%BF%9D%E8%BD%A6%3F%E5%B0%8F%E7%B1%B3%E5%90%AF%E5%8A%A8%E5%8E%BB%E9%9B%B7%E5%86%9B%E5%8C%96",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            6,
-            3,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时36分 ~ 22时20分]"
-        },
-        {
-          "title": "为什么 chatgpt 是收费的，我们的豆包和 deepseek 是完全免费的?",
-          "url": "https://www.zhihu.com/question/1923520417756321577",
-          "source": "知乎",
-          "ranks": [
-            5,
-            4,
-            3,
-            2,
-            11,
-            13,
-            16,
-            15,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时27分 ~ 22时20分]"
-        },
-        {
-          "title": "美国“黑五”销售额同比增4.1%，AI流量暴增600%，通胀和“K型经济”依旧是主题",
-          "url": "https://wallstreetcn.com/articles/3760389",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[11时41分 ~ 22时20分]"
-        },
-        {
-          "title": "华为苹果小米三台ProMax谁更耐摔",
-          "url": "https://www.douyin.com/hot/2321311",
-          "source": "抖音",
-          "ranks": [
-            4,
-            5,
-            6,
-            8,
-            9,
-            11,
-            12,
-            13,
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时59分 ~ 19时19分]"
-        },
-        {
-          "title": "“材”荒警报拉响！AI狂飙下PCB上游高阶品类缺货涨价",
-          "url": "https://www.cls.cn/detail/2215028",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[15时20分 ~ 22时20分]"
-        },
-        {
-          "title": "快手AI化提速：用户生态+广告变现双提升，可灵增长潜力巨大",
-          "url": "https://wallstreetcn.com/articles/3760382",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时41分 ~ 18时23分]"
-        },
-        {
-          "title": "碰撞轮毂飞!竟是小米保命绝招",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347587&amp;topic_name=%E7%A2%B0%E6%92%9E%E8%BD%AE%E6%AF%82%E9%A3%9E%21%E7%AB%9F%E6%98%AF%E5%B0%8F%E7%B1%B3%E4%BF%9D%E5%91%BD%E7%BB%9D%E6%8B%9B",
-          "source": "贴吧",
-          "ranks": [
-            9,
-            10,
-            13,
-            17,
-            18,
-            19,
-            16,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时27分 ~ 22时20分]"
-        },
-        {
-          "title": "华为“憨憨”开售即秒罄 AI玩具是“新蓝海”还是“伪需求”？",
-          "url": "https://www.cls.cn/detail/2214770",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时27分 ~ 17时22分]"
-        },
-        {
-          "title": "美企质疑中国机器人厂商发布造假视频，中企回应",
-          "url": "https://tech.ifeng.com/c/8ohHBVsgmTp",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时41分 ~ 18时23分]"
-        },
-        {
-          "title": "刘强东：未来机器人会完成所有工作",
-          "url": "https://www.baidu.com/s?wd=%E5%88%98%E5%BC%BA%E4%B8%9C%EF%BC%9A%E6%9C%AA%E6%9D%A5%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BC%9A%E5%AE%8C%E6%88%90%E6%89%80%E6%9C%89%E5%B7%A5%E4%BD%9C",
-          "source": "百度热搜",
-          "ranks": [
-            14,
-            13,
-            12,
-            16,
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 07时21分]"
-        },
-        {
-          "title": "“大空头”精准狙击！11月，Palantir跌16%，英伟达跌12%，甲骨文跌23%",
-          "url": "https://wallstreetcn.com/articles/3760362",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时27分 ~ 06时22分]"
-        },
-        {
-          "title": "浪潮已至，传媒行业如何以AI“弄潮”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32064201",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时27分 ~ 06时22分]"
-        },
-        {
-          "title": "2025全球开发者先锋大会暨国际具身智能技能大赛12月举行，将首次引入机器人裁判",
-          "url": "https://wallstreetcn.com/livenews/3012470",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时27分 ~ 09时59分]"
-        },
-        {
-          "title": "大摩中国CIO调查：B端对千问和阿里云兴趣显著增加，预计三年内千问超越DeepSeek",
-          "url": "https://wallstreetcn.com/articles/3760369",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时18分 ~ 09时59分]"
-        },
-        {
-          "title": "韩国一男子涉嫌借助AI无照行医被移送检察机关",
-          "url": "https://flash.jin10.com/detail/20251130160826101800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            5,
-            10,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时28分 ~ 19时19分]"
-        },
-        {
-          "title": "小米汽车：11月新增17家门店",
-          "url": "https://wallstreetcn.com/livenews/3012538",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            8,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时19分 ~ 22时20分]"
-        },
-        {
-          "title": "谷歌加冕“AI新王”之际 先进封装格局生变 EMIB何以接棒CoWoS？",
-          "url": "https://www.cls.cn/detail/2215087",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时42分 ~ 22时20分]"
-        },
-        {
-          "title": "特斯拉登陆印度2个多月仅卖出百辆",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E7%99%BB%E9%99%86%E5%8D%B0%E5%BA%A62%E4%B8%AA%E5%A4%9A%E6%9C%88%E4%BB%85%E5%8D%96%E5%87%BA%E7%99%BE%E8%BE%86",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时20分 ~ 15时21分]"
-        },
-        {
-          "title": "华为AI玩具“智能憨憨”开售即秒罄",
-          "url": "https://www.toutiao.com/trending/7578124515407970367/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时59分"
-        },
-        {
-          "title": "十八路芯片诸侯“围攻”英伟达",
-          "url": "https://www.toutiao.com/trending/7578178365832564274/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时59分"
-        }
-      ]
-    },
-    {
       "keyword_group": "特朗普 马斯克 加密货币 美联储",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "美联储“救市”成转折点！11月的最后一周，各类资产“强劲反弹”",
@@ -671,8 +362,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[14时34分 ~ 22时20分]"
+          "appearance_count": 14,
+          "time_info": "[14时34分 ~ 23时21分]"
         },
         {
           "title": "美媒：特朗普直接要求马杜罗下台",
@@ -682,8 +373,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时18分 ~ 22时20分]"
+          "appearance_count": 7,
+          "time_info": "[19时18分 ~ 23时21分]"
         },
         {
           "title": "高盛：美联储应该而且将会在12月降息",
@@ -696,8 +387,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[13时23分 ~ 22时20分]"
+          "appearance_count": 15,
+          "time_info": "[13时23分 ~ 23时21分]"
         },
         {
           "title": "特朗普长子成2028美国总统大选共和党热门候选人之一(图)",
@@ -835,11 +526,23 @@
           "ranks": [
             4,
             7,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时42分 ~ 22时20分]"
+          "appearance_count": 5,
+          "time_info": "[20时42分 ~ 23时21分]"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特：有一些消息已泄露。 若特朗普选我，我乐意出任美联储主席。",
+          "url": "https://wallstreetcn.com/livenews/3012550",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-30）",
@@ -861,11 +564,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            8
+            8,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时29分 ~ 22时20分]"
+          "appearance_count": 3,
+          "time_info": "[21时29分 ~ 23时21分]"
         },
         {
           "title": "特朗普感恩节威胁对乌无用",
@@ -892,6 +596,17 @@
           "time_info": "[21时29分 ~ 22时20分]"
         },
         {
+          "title": "美国白宫国家经济委员会主任哈塞特表示，如果美国总统特朗普提名他担任美联储主席，他“将非常乐意任职”。",
+          "url": "https://flash.jin10.com/detail/20251130222919146800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
+        },
+        {
           "title": "2025 年 12 月美联储会不会再次降息？",
           "url": "https://www.zhihu.com/question/1969383018671087806",
           "source": "知乎",
@@ -912,6 +627,343 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek AI openai 机器人 小米 特斯拉 英伟达",
+      "match_count": 24,
+      "titles": [
+        {
+          "title": "SemiAnalysis深度解读TPU--谷歌冲击“英伟达帝国”",
+          "url": "https://wallstreetcn.com/articles/3760377",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时27分 ~ 12时36分]"
+        },
+        {
+          "title": "OpenAI大溃败！GPT-5「换皮」GPT-4o，两年半预训练0突破",
+          "url": "https://wallstreetcn.com/articles/3760398",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[16时28分 ~ 23时21分]"
+        },
+        {
+          "title": "高盛点评“中国AI大厂之战”：阿里 vs 腾讯 vs 字节",
+          "url": "https://wallstreetcn.com/articles/3760379",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 20,
+          "time_info": "[00时27分 ~ 17时22分]"
+        },
+        {
+          "title": "美国“黑五”销售额同比增4.1%，AI流量暴增600%，通胀和“K型经济”依旧是主题",
+          "url": "https://wallstreetcn.com/articles/3760389",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[11时41分 ~ 23时21分]"
+        },
+        {
+          "title": "为什么 chatgpt 是收费的，我们的豆包和 deepseek 是完全免费的?",
+          "url": "https://www.zhihu.com/question/1923520417756321577",
+          "source": "知乎",
+          "ranks": [
+            5,
+            4,
+            3,
+            2,
+            11,
+            13,
+            16,
+            15,
+            19,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 29,
+          "time_info": "[00时27分 ~ 23时21分]"
+        },
+        {
+          "title": "弃帅保车?小米启动去雷军化",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347602&amp;topic_name=%E5%BC%83%E5%B8%85%E4%BF%9D%E8%BD%A6%3F%E5%B0%8F%E7%B1%B3%E5%90%AF%E5%8A%A8%E5%8E%BB%E9%9B%B7%E5%86%9B%E5%8C%96",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            6,
+            3,
+            7,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[12时36分 ~ 23时21分]"
+        },
+        {
+          "title": "华为苹果小米三台ProMax谁更耐摔",
+          "url": "https://www.douyin.com/hot/2321311",
+          "source": "抖音",
+          "ranks": [
+            4,
+            5,
+            6,
+            8,
+            9,
+            11,
+            12,
+            13,
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[09时59分 ~ 19时19分]"
+        },
+        {
+          "title": "“材”荒警报拉响！AI狂飙下PCB上游高阶品类缺货涨价",
+          "url": "https://www.cls.cn/detail/2215028",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[15时20分 ~ 23时21分]"
+        },
+        {
+          "title": "快手AI化提速：用户生态+广告变现双提升，可灵增长潜力巨大",
+          "url": "https://wallstreetcn.com/articles/3760382",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时41分 ~ 18时23分]"
+        },
+        {
+          "title": "碰撞轮毂飞!竟是小米保命绝招",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347587&amp;topic_name=%E7%A2%B0%E6%92%9E%E8%BD%AE%E6%AF%82%E9%A3%9E%21%E7%AB%9F%E6%98%AF%E5%B0%8F%E7%B1%B3%E4%BF%9D%E5%91%BD%E7%BB%9D%E6%8B%9B",
+          "source": "贴吧",
+          "ranks": [
+            9,
+            10,
+            13,
+            17,
+            18,
+            19,
+            16,
+            20,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 29,
+          "time_info": "[00时27分 ~ 23时21分]"
+        },
+        {
+          "title": "华为“憨憨”开售即秒罄 AI玩具是“新蓝海”还是“伪需求”？",
+          "url": "https://www.cls.cn/detail/2214770",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[00时27分 ~ 17时22分]"
+        },
+        {
+          "title": "美企质疑中国机器人厂商发布造假视频，中企回应",
+          "url": "https://tech.ifeng.com/c/8ohHBVsgmTp",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[11时41分 ~ 18时23分]"
+        },
+        {
+          "title": "刘强东：未来机器人会完成所有工作",
+          "url": "https://www.baidu.com/s?wd=%E5%88%98%E5%BC%BA%E4%B8%9C%EF%BC%9A%E6%9C%AA%E6%9D%A5%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BC%9A%E5%AE%8C%E6%88%90%E6%89%80%E6%9C%89%E5%B7%A5%E4%BD%9C",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            13,
+            12,
+            16,
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时27分 ~ 07时21分]"
+        },
+        {
+          "title": "“大空头”精准狙击！11月，Palantir跌16%，英伟达跌12%，甲骨文跌23%",
+          "url": "https://wallstreetcn.com/articles/3760362",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时27分 ~ 06时22分]"
+        },
+        {
+          "title": "浪潮已至，传媒行业如何以AI“弄潮”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32064201",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时27分 ~ 06时22分]"
+        },
+        {
+          "title": "2025全球开发者先锋大会暨国际具身智能技能大赛12月举行，将首次引入机器人裁判",
+          "url": "https://wallstreetcn.com/livenews/3012470",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时27分 ~ 09时59分]"
+        },
+        {
+          "title": "大摩中国CIO调查：B端对千问和阿里云兴趣显著增加，预计三年内千问超越DeepSeek",
+          "url": "https://wallstreetcn.com/articles/3760369",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[03时18分 ~ 09时59分]"
+        },
+        {
+          "title": "韩国一男子涉嫌借助AI无照行医被移送检察机关",
+          "url": "https://flash.jin10.com/detail/20251130160826101800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            5,
+            10,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时28分 ~ 19时19分]"
+        },
+        {
+          "title": "小米汽车：11月新增17家门店",
+          "url": "https://wallstreetcn.com/livenews/3012538",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            8,
+            10,
+            11,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时19分 ~ 23时21分]"
+        },
+        {
+          "title": "谷歌加冕“AI新王”之际 先进封装格局生变 EMIB何以接棒CoWoS？",
+          "url": "https://www.cls.cn/detail/2215087",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时42分 ~ 23时21分]"
+        },
+        {
+          "title": "特斯拉登陆印度2个多月仅卖出百辆",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E7%99%BB%E9%99%86%E5%8D%B0%E5%BA%A62%E4%B8%AA%E5%A4%9A%E6%9C%88%E4%BB%85%E5%8D%96%E5%87%BA%E7%99%BE%E8%BE%86",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时20分 ~ 15时21分]"
+        },
+        {
+          "title": "华为AI玩具“智能憨憨”开售即秒罄",
+          "url": "https://www.toutiao.com/trending/7578124515407970367/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        },
+        {
+          "title": "十八路芯片诸侯“围攻”英伟达",
+          "url": "https://www.toutiao.com/trending/7578178365832564274/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        },
+        {
+          "title": "机器人日租价格跳水式下跌",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%97%A5%E7%A7%9F%E4%BB%B7%E6%A0%BC%E8%B7%B3%E6%B0%B4%E5%BC%8F%E4%B8%8B%E8%B7%8C",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
         }
       ]
     },
@@ -958,8 +1010,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[09时59分 ~ 22时20分]"
+          "appearance_count": 19,
+          "time_info": "[09时59分 ~ 23时21分]"
         },
         {
           "title": "周末要闻汇总：沪深300等指数样本定期调整公布，央行：持续打击虚拟货币相关非法金融活动",
@@ -973,20 +1025,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时22分 ~ 22时20分]"
-        },
-        {
-          "title": "哥伦比亚外交部：美国在加勒比地区的军事存在旨在孤立该地区",
-          "url": "https://flash.jin10.com/detail/20251129214839470800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            24
-          ],
-          "is_new": false,
           "appearance_count": 9,
-          "time_info": "[00时27分 ~ 09时59分]"
+          "time_info": "[18时22分 ~ 23时21分]"
         },
         {
           "title": "东鹏饮料：发行境外上市股份（H股）获得中国证监会备案，公司拟发行不超过66,446,000股境外上市普通股并在香港联合交易所上市。",
@@ -999,23 +1039,24 @@
             16,
             18,
             20,
-            21
+            21,
+            25
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时28分 ~ 22时20分]"
+          "appearance_count": 8,
+          "time_info": "[16时28分 ~ 23时21分]"
         },
         {
-          "title": "俄外交部：黑海遇袭船只并非任何制裁对象",
-          "url": "https://flash.jin10.com/detail/20251130205041145800",
+          "title": "哥伦比亚外交部：美国在加勒比地区的军事存在旨在孤立该地区",
+          "url": "https://flash.jin10.com/detail/20251129214839470800",
           "source": "金十数据",
           "ranks": [
-            2,
-            5
+            14,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时29分 ~ 22时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时27分 ~ 09时59分]"
         },
         {
           "title": "哈萨克斯坦外交部：谴责乌克兰对里海管道联盟黑海终端的无人机袭击。乌克兰的袭击是其针对纯民用设施的第三次侵略行为。",
@@ -1039,11 +1080,25 @@
             4,
             6,
             8,
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时19分 ~ 22时20分]"
+          "appearance_count": 5,
+          "time_info": "[19时19分 ~ 23时21分]"
+        },
+        {
+          "title": "俄外交部：黑海遇袭船只并非任何制裁对象",
+          "url": "https://flash.jin10.com/detail/20251130205041145800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            5,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时29分 ~ 23时21分]"
         },
         {
           "title": "俄罗斯外交部就里海管道联盟（CPC）基础设施遭袭击发表声明：俄罗斯将向所有国际平台通报里海管道联盟（CPC）设施遭袭事件。",
@@ -1093,11 +1148,12 @@
             7,
             9,
             11,
-            12
+            12,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时19分 ~ 22时20分]"
+          "appearance_count": 5,
+          "time_info": "[19时19分 ~ 23时21分]"
         },
         {
           "title": "央行召开打击虚拟货币交易炒作工作协调机制会议，首次定调稳定币为非法金融！对此你怎么看？",
@@ -1108,8 +1164,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时42分 ~ 22时20分]"
+          "appearance_count": 5,
+          "time_info": "[20时42分 ~ 23时21分]"
         }
       ]
     },
@@ -1141,8 +1197,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[11时41分 ~ 22时20分]"
+          "appearance_count": 18,
+          "time_info": "[11时41分 ~ 23时21分]"
         },
         {
           "title": "知名“铜多头”预警：美国正成全球黑洞 铜价只会一路狂飙",
@@ -1179,11 +1235,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347606&amp;topic_name=%E7%97%B4%E4%BA%BA%E8%AF%B4%E6%A2%A6%2C%E6%97%A5%E6%9C%AC%E5%A6%84%E6%83%B3%E7%A8%80%E5%9C%9F%E5%8D%A1%E4%B8%AD%E5%9B%BD%E8%84%96%E5%AD%90",
           "source": "贴吧",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时29分 ~ 22时20分]"
+          "appearance_count": 3,
+          "time_info": "[21时29分 ~ 23时21分]"
         },
         {
           "title": "广州“铜钱大厦”降1.36亿元仍流拍",
