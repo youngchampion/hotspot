@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-12-04T11:22:52.926945+08:00",
-  "total_titles_processed": 900,
+  "generated_at": "2025-12-04T12:34:06.197638+08:00",
+  "total_titles_processed": 1033,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 美债 美元 石油 战争",
-      "match_count": 51,
+      "match_count": 62,
       "titles": [
+        {
+          "title": "A股震荡调整，创业板跌超1%，商业航天表现分化，超硬材料逆势大涨，港股恒科指跌超1%，30年期国债显著承压",
+          "url": "https://wallstreetcn.com/articles/3760597",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[05时21分 ~ 12时34分]"
+        },
         {
           "title": "美国11月ADP就业减少3.2万 美股三大期指集体上涨 | 今夜看点",
           "url": "https://www.cls.cn/detail/2218814",
@@ -18,17 +30,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时26分 ~ 09时51分]"
-        },
-        {
-          "title": "A股震荡调整，创业板跌超1%，商业航天表现分化，超硬材料逆势大涨，港股恒科指跌超1%，30年期国债显著承压",
-          "url": "https://wallstreetcn.com/articles/3760597",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[05时21分 ~ 11时22分]"
         },
         {
           "title": "比特币一度升破94000美元，日内涨超2%。",
@@ -184,6 +185,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时24分 ~ 07时21分]"
+        },
+        {
+          "title": "特朗普就美俄会谈表态：“相当不错”，普京想结束战争！",
+          "url": "https://www.cls.cn/detail/2219030",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时22分 ~ 12时34分]"
         },
         {
           "title": "TikTok开启首个拉美项目，将在巴西投资逾370亿美元建数据中心",
@@ -356,15 +369,37 @@
           "time_info": "09时51分"
         },
         {
-          "title": "特朗普就美俄会谈表态：“相当不错”，普京想结束战争！",
-          "url": "https://www.cls.cn/detail/2219030",
-          "source": "财联社热门",
+          "title": "澳新银行：对俄乌持续相互攻击能源基础设施的担忧，将使布伦特原油价格维持在每桶60美元以上。 随着2026年供应超过需求，将石油市场推向过剩，布伦特原油价格的进一步上涨空间将受到限制。 炼油厂开工率降低，再加上OPEC+产量增加，全球原油库存将会增加，这可能会使2026年上半年的油价保持在每桶65美元以下。 2026年下半年全球经济复苏可能会支撑油价，随后油价将朝着每桶70美元迈进。 预计今年年底油价将稳定在每桶62美元。",
+          "url": "https://wallstreetcn.com/livenews/3014888",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时22分"
+          "time_info": "12时34分"
+        },
+        {
+          "title": "澳新银行：我们预计对俄罗斯石油出口的任何冲击都将是相对短暂的。这应会限制油价的进一步上涨。",
+          "url": "https://flash.jin10.com/detail/20251204120109358800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时34分"
+        },
+        {
+          "title": "瑞银预计A股上涨行情将进一步延续",
+          "url": "https://wallstreetcn.com/livenews/3014887",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时34分"
         },
         {
           "title": "美元债务失宠 印度卢比债券市场成新蓝海",
@@ -384,9 +419,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时22分"
+        },
+        {
+          "title": "澳新银行：我们预计油价年底将达每桶62美元。",
+          "url": "https://flash.jin10.com/detail/20251204120016520800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时34分"
         },
         {
           "title": "戴尔夫妇豪捐62.5亿美元，为2500万儿童开设特朗普账户，特朗普：慷慨！",
@@ -398,6 +444,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
+        },
+        {
+          "title": "澳新银行：全球经济复苏有望在2026年下半年支撑油价，随后油价将向每桶70美元靠拢。",
+          "url": "https://flash.jin10.com/detail/20251204115647693800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时34分"
         },
         {
           "title": "NYMEX天然气期货涨至5美元，为2022年以来首次，日内当前涨超3%。",
@@ -417,9 +474,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时22分"
+        },
+        {
+          "title": "澳新银行：炼油厂开工率下降叠加欧佩克+增产，将导致全球原油库存增加，预计2026年上半年油价将维持在每桶65美元以下。",
+          "url": "https://flash.jin10.com/detail/20251204115638343800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时34分"
         },
         {
           "title": "尼日利亚在预算报告中将2026年油价预期设在64.85美元/桶。 预计石油产量206万桶/日。",
@@ -433,6 +501,17 @@
           "time_info": "00时34分"
         },
         {
+          "title": "澳新银行：对俄罗斯和乌克兰继续攻击对方能源基础设施的持续破坏的担忧，最终或将使布伦特原油价格保持在每桶60美元以上。",
+          "url": "https://flash.jin10.com/detail/20251204115614331800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时34分"
+        },
+        {
           "title": "美股七巨头收盘播报｜周三（12月3日），美国科技股七巨头（Magnificent 7）指数跌0.55%，报207.57点，全天绝大部分时间处于下跌状态，整体呈现出n形走势。 “超大”市值科技股指数涨0.09%，报402.08点。",
           "url": "https://wallstreetcn.com/livenews/3014642",
           "source": "华尔街见闻-快讯",
@@ -442,6 +521,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
+        },
+        {
+          "title": "印度卢比兑美元日内跌0.3%，报90.4175，刷新历史低点。",
+          "url": "https://wallstreetcn.com/livenews/3014876",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时34分"
         },
         {
           "title": "金十数据整理：每日港股市场要闻速递（2025-12-04）",
@@ -521,6 +611,17 @@
           "time_info": "06时24分"
         },
         {
+          "title": "国债拍卖后，美元兑日元USD/JPY日内上涨0.2%，报155.53。",
+          "url": "https://flash.jin10.com/detail/20251204114116128800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时34分"
+        },
+        {
           "title": "Snowflake三季度营收12.1亿美元，分析师预期11.9亿美元。 三季度产品收入11.6亿美元，分析师预期11.4亿美元。 预计全年产品收入44.5亿美元，分析师预期44.1亿美元，公司原本预计44.0亿美元。 预计四季度产品收入大约12.0亿美元，分析师预期11.9亿美元。",
           "url": "https://wallstreetcn.com/livenews/3014630",
           "source": "华尔街见闻-快讯",
@@ -530,6 +631,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
+        },
+        {
+          "title": "印度卢比兑美元盘初续刷历史新低，报90.41，日内下跌0.3%。",
+          "url": "https://flash.jin10.com/detail/20251204113559831800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时34分"
         },
         {
           "title": "Salesforce三季度营收102.6亿美元，分析师预期102.8亿美元。 预计全年营收414.5亿-415.5亿美元，公司原本预计411亿-413亿美元。 预计四季度营收111.3亿-112.3亿美元，分析师预期109.1亿美元。",
@@ -552,6 +664,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
+        },
+        {
+          "title": "金十图示：2025年12月04日（周四）富时中国A50指数成分股午盘收盘行情一览：半导体、石油板块较昨日反弹，酿酒行业领跌",
+          "url": "https://flash.jin10.com/detail/20251204113236691800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时34分"
         },
         {
           "title": "金十图示：2025年12月03日（周三）热门中概股行情一览（美股收盘）",
@@ -601,7 +724,7 @@
     },
     {
       "keyword_group": "DeepSeek AI openai 机器人 小米 特斯拉 英伟达",
-      "match_count": 46,
+      "match_count": 50,
       "titles": [
         {
           "title": "“长”出皮肤：人形机器人量产前夜的“触觉战争”",
@@ -665,11 +788,25 @@
           "source": "贴吧",
           "ranks": [
             27,
-            29
+            29,
+            28
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时34分 ~ 11时22分]"
+          "appearance_count": 14,
+          "time_info": "[00时34分 ~ 12时34分]"
+        },
+        {
+          "title": "美股收盘：三大指数艰难冲刺新高 有色、机器人板块走强",
+          "url": "https://www.cls.cn/detail/2218975",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时20分 ~ 12时34分]"
         },
         {
           "title": "小米辣涨到28元1斤 市民：顶两斤肉",
@@ -702,23 +839,12 @@
           "url": "https://www.cls.cn/detail/2218940",
           "source": "财联社热门",
           "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时51分 ~ 11时22分]"
-        },
-        {
-          "title": "美股收盘：三大指数艰难冲刺新高 有色、机器人板块走强",
-          "url": "https://www.cls.cn/detail/2218975",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            5
+            3,
+            2
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[07时20分 ~ 11时22分]"
+          "time_info": "[09时51分 ~ 12时34分]"
         },
         {
           "title": "标普500指数初步收涨0.3%，能源板块涨1.8%，金融板块涨1.2%，可选消费板块涨0.8%，电信板块涨0.2%，科技板块跌0.4%。 纳斯达克100指数初步收涨0.2%，成分股中，微芯科技初步收涨12.7%，安森美半导体涨10.8%，迈威尔科技涨7.6%，Strategy涨4%，Meta则跌1.1%，美光、微软跌2.3%，再生元制药跌2.5%，PayPal跌2.7%，TTD跌3.2%，奈飞跌4.9%。 联合健康初步收涨4.9%，高盛涨2.6%，麦当劳、美国运通、安进至少涨2%，领跑道指成分股，英伟达则跌1%，波音跌1.5%，和微软表现最差。",
@@ -752,6 +878,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
+        },
+        {
+          "title": "日本机器人与芯片股延续涨势，日经225指数涨幅扩大至1.8%。",
+          "url": "https://flash.jin10.com/detail/20251204121132840800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时34分"
         },
         {
           "title": "A股AI手机概念盘初调整，道明光学、福蓉科技触及跌停，美芯晟、天音控股、弘信电子、福日电子等跟跌。",
@@ -841,6 +978,19 @@
           "time_info": "[00时34分 ~ 01时26分]"
         },
         {
+          "title": "AI的钱太好赚！美光宣布“艰难决定”：退出零售存储业务",
+          "url": "https://www.cls.cn/detail/2218945",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时51分 ~ 12时34分]"
+        },
+        {
           "title": "美股机器人概念股走强",
           "url": "https://flash.jin10.com/detail/20251204010100994800",
           "source": "金十数据",
@@ -867,6 +1017,40 @@
           "time_info": "[01时26分 ~ 03时21分]"
         },
         {
+          "title": "中印边境疑现中国机器人在站岗，印方拍摄画面曝光(图)",
+          "url": "https://news.ifeng.com/c/8oo6W8VZydz",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时33分 ~ 12时34分]"
+        },
+        {
+          "title": "AI“外挂”引发入口之争！淘宝、微信等多款App“出招”应对",
+          "url": "https://www.cls.cn/detail/2219319",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时33分 ~ 12时34分]"
+        },
+        {
+          "title": "恒生科技指数日内涨幅扩大至1%。华虹半导体、地平线机器人涨超4%，携程涨近4%。",
+          "url": "https://wallstreetcn.com/livenews/3014848",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时22分 ~ 12时34分]"
+        },
+        {
           "title": "英伟达CEO黄仁勋：特朗普总统的促增长能源政策“拯救了人工智能产业”。",
           "url": "https://flash.jin10.com/detail/20251204032609838800",
           "source": "金十数据",
@@ -879,23 +1063,23 @@
           "time_info": "[04时28分 ~ 05时21分]"
         },
         {
+          "title": "创业板指涨超1%，沪指涨0.1%，深成指涨0.54%，机器人、商业航天、福建、大金融等方向领涨，沪深京三市上涨个股超2000只。",
+          "url": "https://wallstreetcn.com/livenews/3014846",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时22分 ~ 12时34分]"
+        },
+        {
           "title": "陈天桥发文：AI时代，企业管理退场认知上位，KPI体系要塌了！",
           "url": "https://wallstreetcn.com/articles/3760612",
           "source": "华尔街见闻",
           "ranks": [
             10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时51分 ~ 11时22分]"
-        },
-        {
-          "title": "AI的钱太好赚！美光宣布“艰难决定”：退出零售存储业务",
-          "url": "https://www.cls.cn/detail/2218945",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -961,17 +1145,6 @@
           "time_info": "05时21分"
         },
         {
-          "title": "恒生科技指数日内涨幅扩大至1%。华虹半导体、地平线机器人涨超4%，携程涨近4%。",
-          "url": "https://wallstreetcn.com/livenews/3014848",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时22分"
-        },
-        {
           "title": "OpenAI将收购AI模型训练工具初创公司Neptune",
           "url": "https://flash.jin10.com/detail/20251204042941294800",
           "source": "金十数据",
@@ -992,17 +1165,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
-        },
-        {
-          "title": "创业板指涨超1%，沪指涨0.1%，深成指涨0.54%，机器人、商业航天、福建、大金融等方向领涨，沪深京三市上涨个股超2000只。",
-          "url": "https://wallstreetcn.com/livenews/3014846",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时22分"
         },
         {
           "title": "Anthropic 宣布收购 Bun，这对 Node.js 冲击有多大？对 AI 编码生态意味着什么？",
@@ -1038,6 +1200,17 @@
           "time_info": "09时51分"
         },
         {
+          "title": "12月4日午间收评：创业板指半日涨0.76%，机器人概念股集体走强",
+          "url": "https://wallstreetcn.com/livenews/3014870",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时34分"
+        },
+        {
           "title": "如何评价众擎新发布的 T800 机器人？",
           "url": "https://www.zhihu.com/question/1979154184961033830",
           "source": "知乎",
@@ -1055,7 +1228,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时22分"
         },
@@ -1066,7 +1239,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时22分"
         },
@@ -1088,7 +1261,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时22分"
         },
@@ -1143,7 +1316,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时22分"
         }
@@ -1151,7 +1324,7 @@
     },
     {
       "keyword_group": "特朗普 马斯克 加密货币 美联储",
-      "match_count": 44,
+      "match_count": 46,
       "titles": [
         {
           "title": "美联储降息预期推动人民币升值 专家警示不宜押注单边行情",
@@ -1174,11 +1347,12 @@
             16,
             15,
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时34分 ~ 11时22分]"
+          "appearance_count": 14,
+          "time_info": "[00时34分 ~ 12时34分]"
         },
         {
           "title": "中方回应特朗普签署涉台法案",
@@ -1189,8 +1363,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时26分 ~ 11时22分]"
+          "appearance_count": 13,
+          "time_info": "[01时26分 ~ 12时34分]"
         },
         {
           "title": "特朗普称明年初将宣布美联储主席人选，强烈暗示哈塞特",
@@ -1405,6 +1579,18 @@
           "time_info": "[00时34分 ~ 02时36分]"
         },
         {
+          "title": "美银：新主席难撼美联储独立性 鲍威尔留任理事或成关键变量",
+          "url": "https://www.cls.cn/detail/2218910",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时22分 ~ 12时34分]"
+        },
+        {
           "title": "特朗普提议大幅削减燃油经济性要求",
           "url": "https://flash.jin10.com/detail/20251204033431474800",
           "source": "金十数据",
@@ -1439,6 +1625,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时24分 ~ 07时21分]"
+        },
+        {
+          "title": "哈塞特若出任美联储主席，贝森特或“一统”特朗普政府经济政策",
+          "url": "https://wallstreetcn.com/articles/3760676",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时33分 ~ 12时34分]"
         },
         {
           "title": "福特汽车CEO Farley：今天将会见美国总统特朗普和交通部长Duffy。",
@@ -1561,6 +1758,17 @@
           "time_info": "[06时24分 ~ 07时21分]"
         },
         {
+          "title": "观察｜特朗普的俄乌“和平计划”背后：生意，生意，还是生意",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32096930",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时33分 ~ 12时34分]"
+        },
+        {
           "title": "美国总统特朗普：将公布所有可获得的“船袭”事件相关视频。",
           "url": "https://flash.jin10.com/detail/20251204051559558800",
           "source": "金十数据",
@@ -1582,17 +1790,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
-        },
-        {
-          "title": "美银：新主席难撼美联储独立性 鲍威尔留任理事或成关键变量",
-          "url": "https://www.cls.cn/detail/2218910",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时22分"
         },
         {
           "title": "报道：特朗普亲信探讨哈塞特接掌美联储后的人事安排，贝森特或兼任NEC主任",
@@ -1667,9 +1864,322 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金 白银 铜 铝 稀土",
+      "match_count": 26,
+      "titles": [
+        {
+          "title": "美股涨，数字货币大体收复周一暴跌失地，离岸人民币迈向14个月高位，白银V形反转",
+          "url": "https://wallstreetcn.com/articles/3760523",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时34分 ~ 06时24分]"
+        },
+        {
+          "title": "小非农超预期降温，美股集体低开，美元短线跳水，伦铜涨破纪录，白银高位震荡，比特币短线V形反弹",
+          "url": "https://wallstreetcn.com/articles/3760624",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时34分 ~ 06时24分]"
+        },
+        {
+          "title": "坏消息即好消息回归，美国股债涨，美元失守50日均线，人民币升破7.06，伦铜新高",
+          "url": "https://wallstreetcn.com/articles/3760624",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时20分 ~ 12时34分]"
+        },
+        {
+          "title": "铜价再创历史新高，LME提货订单飙升至2013年以来最高水平，亚洲需求激增",
+          "url": "https://wallstreetcn.com/articles/3760641",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时51分 ~ 12时34分]"
+        },
+        {
+          "title": "受降息预期影响 亚洲早盘黄金小幅走高",
+          "url": "https://flash.jin10.com/detail/20251204094343079800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "铜价小幅回调 此前亚洲LME仓库提货量创2013年来新高",
+          "url": "https://flash.jin10.com/detail/20251204121213654800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时34分"
+        },
+        {
+          "title": "伦铜收涨将近3.1%，伦锡涨超4.4%",
+          "url": "https://wallstreetcn.com/livenews/3014591",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            12,
+            21,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时36分 ~ 05时21分]"
+        },
+        {
+          "title": "Codelco与嘉能可合作设计智利新铜冶炼厂",
+          "url": "https://flash.jin10.com/detail/20251204020900423800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            11,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时36分 ~ 04时28分]"
+        },
+        {
+          "title": "智利国家铜业公司与嘉能可达成谅解备忘录，以提升智利冶炼厂产能；下一个关键里程碑将是于2026年上半年达成最终协议。",
+          "url": "https://flash.jin10.com/detail/20251204010820393800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            15,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时26分 ~ 03时21分]"
+        },
+        {
+          "title": "智利国家铜业公司（Codelco）与嘉能可（智利分公司）就新建冶炼厂签署谅解备忘录。",
+          "url": "https://wallstreetcn.com/livenews/3014581",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时26分 ~ 02时36分]"
+        },
+        {
+          "title": "内盘国际铜夜市收涨约2.5%，沪锡涨超3.8%",
+          "url": "https://wallstreetcn.com/livenews/3014577",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            18,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时26分 ~ 03时21分]"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 12月3日（周三）晚盘收盘下跌0.3%报950.2元/克；<br/>上海黄金交易所白银T+D 12月3日（周三）晚盘收盘下跌0.54%报13568.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251204023019079800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            18,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时21分 ~ 05时21分]"
+        },
+        {
+          "title": "美元指数跌破50日均线 伦铜再创历史新高 | 环球市场",
+          "url": "https://www.cls.cn/detail/2219026",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时22分 ~ 12时34分]"
+        },
+        {
+          "title": "现货白银大致持平，报58.4880美元/盎司，日内交投于58.9789-57.5578美元区间。 COMEX白银期货涨0.49%，报58.990美元/盎司，日内交投于58.210-59.655美元区间。 COMEX铜期货涨2.87%，报5.3935美元/磅，全天处于上涨状态，北京时间00:00过后高位持稳。 现货铂金涨1.98%，现货钯金跌0.40%。",
+          "url": "https://wallstreetcn.com/livenews/3014647",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 07时21分]"
+        },
+        {
+          "title": "周三（12月3日）纽约尾盘，现货黄金大致持平，报4207.07美元/盎司，日内呈现出M形走势，交投于4241.50-4194.65美元区间。 COMEX黄金期货涨0.44%，报4239.30美元/盎司，交投于4273.30-4225.10美元区间。",
+          "url": "https://wallstreetcn.com/livenews/3014644",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 07时21分]"
+        },
+        {
+          "title": "抢铜浪潮延续！LME亚洲仓库提货订单激增 铜价新高之旅停不下来？",
+          "url": "https://www.cls.cn/detail/2219268",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时33分 ~ 12时34分]"
+        },
+        {
+          "title": "Ivanhoe下调刚果铜矿产量指引，加剧铜供应担忧",
+          "url": "https://wallstreetcn.com/livenews/3014564",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时26分 ~ 02时36分]"
+        },
+        {
+          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日增加135.4吨，当前持仓量为15998.55吨。欢迎点击查看数据中心……",
+          "url": "https://flash.jin10.com/detail/20251204064746305800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
+          "title": "摩根大通：继续看好铜价与中国铜业股表现 紫金矿业和洛阳钼业为首选",
+          "url": "https://wallstreetcn.com/livenews/3014757",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日增加135.4吨，当前持仓量为15998.55吨。",
+          "url": "https://flash.jin10.com/detail/20251204115114318800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时34分"
+        },
+        {
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日减少1.72吨，当前持仓量为1046.58吨。",
+          "url": "https://flash.jin10.com/detail/20251204115057390800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时34分"
+        },
+        {
+          "title": "高盛：铜价突破11000美元缺乏基本面支撑",
+          "url": "https://flash.jin10.com/detail/20251204114510155800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时34分"
+        },
+        {
+          "title": "Codelco与嘉能可合作设计智利新铜冶炼厂",
+          "url": "https://wallstreetcn.com/livenews/3014581",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时21分"
+        },
+        {
+          "title": "洪灏：已在4500美元高位清仓黄金",
+          "url": "https://www.toutiao.com/trending/7579431810869706793/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时28分"
+        },
+        {
+          "title": "早盘收盘，国内期货主力合约涨跌不一。沪锡、国际铜涨超3%，沪铜涨超2%，纸浆、硅铁涨超1%。跌幅方面，合成橡胶、碳酸锂、苹果、烧碱跌超2%，橡胶、玻璃、氧化铝跌超1%。",
+          "url": "https://flash.jin10.com/detail/20251204113030985800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时34分"
+        },
+        {
+          "title": "加拿大一公司拟在格陵兰岛开发稀土资源",
+          "url": "https://wallstreetcn.com/livenews/3014734",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时51分"
         }
       ]
     },
@@ -1736,8 +2246,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时20分 ~ 11时22分]"
+          "appearance_count": 6,
+          "time_info": "[07时20分 ~ 12时34分]"
         },
         {
           "title": "日本央行行长植田和男：该方案对通胀的影响很可能具有双向性。",
@@ -1746,7 +2256,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时22分"
         },
@@ -1757,7 +2267,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时22分"
         },
@@ -1792,7 +2302,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时22分"
         },
@@ -1803,7 +2313,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时22分"
         },
@@ -1814,7 +2324,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时22分"
         },
@@ -1836,7 +2346,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时22分"
         },
@@ -1847,7 +2357,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时22分"
         },
@@ -1938,252 +2448,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时34分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金 白银 铜 铝 稀土",
-      "match_count": 20,
-      "titles": [
-        {
-          "title": "美股涨，数字货币大体收复周一暴跌失地，离岸人民币迈向14个月高位，白银V形反转",
-          "url": "https://wallstreetcn.com/articles/3760523",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时34分 ~ 06时24分]"
-        },
-        {
-          "title": "小非农超预期降温，美股集体低开，美元短线跳水，伦铜涨破纪录，白银高位震荡，比特币短线V形反弹",
-          "url": "https://wallstreetcn.com/articles/3760624",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时34分 ~ 06时24分]"
-        },
-        {
-          "title": "坏消息即好消息回归，美国股债涨，美元失守50日均线，人民币升破7.06，伦铜新高",
-          "url": "https://wallstreetcn.com/articles/3760624",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时20分 ~ 11时22分]"
-        },
-        {
-          "title": "铜价再创历史新高，LME提货订单飙升至2013年以来最高水平，亚洲需求激增",
-          "url": "https://wallstreetcn.com/articles/3760641",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时51分 ~ 11时22分]"
-        },
-        {
-          "title": "受降息预期影响 亚洲早盘黄金小幅走高",
-          "url": "https://flash.jin10.com/detail/20251204094343079800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时51分"
-        },
-        {
-          "title": "伦铜收涨将近3.1%，伦锡涨超4.4%",
-          "url": "https://wallstreetcn.com/livenews/3014591",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            12,
-            21,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时36分 ~ 05时21分]"
-        },
-        {
-          "title": "Codelco与嘉能可合作设计智利新铜冶炼厂",
-          "url": "https://flash.jin10.com/detail/20251204020900423800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            11,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时36分 ~ 04时28分]"
-        },
-        {
-          "title": "智利国家铜业公司与嘉能可达成谅解备忘录，以提升智利冶炼厂产能；下一个关键里程碑将是于2026年上半年达成最终协议。",
-          "url": "https://flash.jin10.com/detail/20251204010820393800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            15,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时26分 ~ 03时21分]"
-        },
-        {
-          "title": "智利国家铜业公司（Codelco）与嘉能可（智利分公司）就新建冶炼厂签署谅解备忘录。",
-          "url": "https://wallstreetcn.com/livenews/3014581",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时26分 ~ 02时36分]"
-        },
-        {
-          "title": "内盘国际铜夜市收涨约2.5%，沪锡涨超3.8%",
-          "url": "https://wallstreetcn.com/livenews/3014577",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            18,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时26分 ~ 03时21分]"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 12月3日（周三）晚盘收盘下跌0.3%报950.2元/克；<br/>上海黄金交易所白银T+D 12月3日（周三）晚盘收盘下跌0.54%报13568.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20251204023019079800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            18,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时21分 ~ 05时21分]"
-        },
-        {
-          "title": "现货白银大致持平，报58.4880美元/盎司，日内交投于58.9789-57.5578美元区间。 COMEX白银期货涨0.49%，报58.990美元/盎司，日内交投于58.210-59.655美元区间。 COMEX铜期货涨2.87%，报5.3935美元/磅，全天处于上涨状态，北京时间00:00过后高位持稳。 现货铂金涨1.98%，现货钯金跌0.40%。",
-          "url": "https://wallstreetcn.com/livenews/3014647",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时24分 ~ 07时21分]"
-        },
-        {
-          "title": "周三（12月3日）纽约尾盘，现货黄金大致持平，报4207.07美元/盎司，日内呈现出M形走势，交投于4241.50-4194.65美元区间。 COMEX黄金期货涨0.44%，报4239.30美元/盎司，交投于4273.30-4225.10美元区间。",
-          "url": "https://wallstreetcn.com/livenews/3014644",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时24分 ~ 07时21分]"
-        },
-        {
-          "title": "Ivanhoe下调刚果铜矿产量指引，加剧铜供应担忧",
-          "url": "https://wallstreetcn.com/livenews/3014564",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时26分 ~ 02时36分]"
-        },
-        {
-          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日增加135.4吨，当前持仓量为15998.55吨。欢迎点击查看数据中心……",
-          "url": "https://flash.jin10.com/detail/20251204064746305800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        },
-        {
-          "title": "美元指数跌破50日均线 伦铜再创历史新高 | 环球市场",
-          "url": "https://www.cls.cn/detail/2219026",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时22分"
-        },
-        {
-          "title": "摩根大通：继续看好铜价与中国铜业股表现 紫金矿业和洛阳钼业为首选",
-          "url": "https://wallstreetcn.com/livenews/3014757",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时51分"
-        },
-        {
-          "title": "Codelco与嘉能可合作设计智利新铜冶炼厂",
-          "url": "https://wallstreetcn.com/livenews/3014581",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时21分"
-        },
-        {
-          "title": "洪灏：已在4500美元高位清仓黄金",
-          "url": "https://www.toutiao.com/trending/7579431810869706793/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时28分"
-        },
-        {
-          "title": "加拿大一公司拟在格陵兰岛开发稀土资源",
-          "url": "https://wallstreetcn.com/livenews/3014734",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时51分"
         }
       ]
     }
