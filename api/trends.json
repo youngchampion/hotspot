@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-08T09:52:39.720920+08:00",
-  "total_titles_processed": 614,
+  "generated_at": "2025-12-08T11:25:11.262706+08:00",
+  "total_titles_processed": 738,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 美债 美元 石油 战争",
-      "match_count": 19,
+      "match_count": 30,
       "titles": [
         {
           "title": "不只是降息？前纽约联储专家：鲍威尔下周三或宣布450亿美元购债计划",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时26分 ~ 09时52分]"
+          "appearance_count": 15,
+          "time_info": "[00时26分 ~ 11时25分]"
         },
         {
           "title": "周末要闻汇总：券商行业迎重磅利好，吴清称适度拓宽其杠杆上限；A股将迎超千亿增量资金",
@@ -100,13 +100,24 @@
           "time_info": "[02时31分 ~ 07时21分]"
         },
         {
+          "title": "市场消息：美国总统特朗普计划于当地时间周一宣布一项价值120亿美元的农业援助计划。",
+          "url": "https://flash.jin10.com/detail/20251208111302850800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时25分"
+        },
+        {
           "title": "大众汽车CEO：计划到2030年投资1860亿美元",
           "url": "https://wallstreetcn.com/livenews/3016587",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时52分"
         },
@@ -121,6 +132,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时27分 ~ 05时19分]"
+        },
+        {
+          "title": "中国11月出口同比（按美元计）同比 5.9%，预估为4%，前值为-1.1%。 中国11月进口同比（按美元计）同比 1.9%，前值为1%。 中国11月贸易顺差 1,116.8亿美元，预估为顺差 1,031亿美元，前值为顺差 900.7亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3016668",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时25分"
         },
         {
           "title": "阿联酋将明年1月的穆尔班原油官方售价定为65.53美元/桶",
@@ -191,9 +213,42 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时52分"
+        },
+        {
+          "title": "特朗普计划周一宣布一项120亿美元的农业援助计划。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3016665",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时25分"
+        },
+        {
+          "title": "据华尔街日报：消息人士称，IBM(IBM.N)正就收购数据流平台Confluent进行高级谈判，一项约110亿美元的交易可能于周一达成。",
+          "url": "https://flash.jin10.com/detail/20251208110341448800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时25分"
+        },
+        {
+          "title": "IBM接近达成收购数据流平台提供商Confluent的交易，估值约110亿美元。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3016662",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时25分"
         },
         {
           "title": "A股商业航天概念延续强势，顺灏股份7天6板，西部材料2连板，航天科技、广联航空、天箭科技、超捷股份等多股涨超6%。",
@@ -202,7 +257,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时52分"
         },
@@ -213,9 +268,31 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时52分"
+        },
+        {
+          "title": "港股泡泡玛特盘中跌超8%。",
+          "url": "https://wallstreetcn.com/livenews/3016650",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时25分"
+        },
+        {
+          "title": "高盛：我们维持2028/29年度NYMEX天然气价格预测为每百万英热单位2.70至2.75美元。",
+          "url": "https://flash.jin10.com/detail/20251208105345813800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时25分"
         },
         {
           "title": "人民币兑美元中间价报7.0764，下调15点；上一交易日中间价7.0749，上一交易日官方收盘价7.0706，上日夜盘报收7.0720。",
@@ -224,9 +301,42 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时52分"
+        },
+        {
+          "title": "Sensor Tower：11月共33个中国手游厂商合计吸金19.5亿美元",
+          "url": "https://wallstreetcn.com/livenews/3016645",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时25分"
+        },
+        {
+          "title": "高盛：我们维持2026年夏季NYMEX天然气价格每百万英热单位4.50美元的预测。",
+          "url": "https://flash.jin10.com/detail/20251208105205162800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时25分"
+        },
+        {
+          "title": "消息人士称，安特罗资源拟收购HG能源，接近达成价值数十亿美元交易。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3016638",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时25分"
         },
         {
           "title": "深交所：港股通标的证券名单调整，调入富卫集团、奥克斯电气、银诺医药-B、奇瑞汽车，12月08日起生效。",
@@ -235,15 +345,26 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时52分"
+        },
+        {
+          "title": "Yardeni建议低配美股科技七巨头 预测15年来的科技主线将生变",
+          "url": "https://wallstreetcn.com/livenews/3016623",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时25分"
         }
       ]
     },
     {
       "keyword_group": "特朗普 马斯克 加密货币 美联储",
-      "match_count": 19,
+      "match_count": 22,
       "titles": [
         {
           "title": "特朗普获国际足联和平奖",
@@ -257,11 +378,12 @@
             18,
             26,
             5,
-            17
+            17,
+            10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时26分 ~ 09时52分]"
+          "appearance_count": 15,
+          "time_info": "[00时26分 ~ 11时25分]"
         },
         {
           "title": "马斯克怒批欧盟1.2亿欧元罚单，发文称“欧盟应当被废除”",
@@ -286,19 +408,20 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时26分 ~ 09时52分]"
+          "appearance_count": 15,
+          "time_info": "[00时26分 ~ 11时25分]"
         },
         {
           "title": "特朗普长子批乌政府“送穷人上前线，窃取西方资金”",
           "url": "https://news.ifeng.com/c/8ou4WvyPNGq",
           "source": "凤凰网",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[04时24分 ~ 09时52分]"
+          "appearance_count": 9,
+          "time_info": "[04时24分 ~ 11时25分]"
         },
         {
           "title": "金十整理：下周重要事件与数据预告——美联储、澳大利亚、瑞士与加拿大利率决议接连登场；中国公布11月CPI与社融数据",
@@ -346,6 +469,17 @@
           "time_info": "[00时27分 ~ 04时25分]"
         },
         {
+          "title": "特朗普：我对泽连斯基有点失望",
+          "url": "https://news.ifeng.com/c/8ouaNf4xAJD",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时52分 ~ 11时25分]"
+        },
+        {
           "title": "特朗普长子：特朗普可能会因乌克兰的腐败丑闻而退出俄乌和平谈判",
           "url": "https://flash.jin10.com/detail/20251208041940775800",
           "source": "金十数据",
@@ -372,6 +506,29 @@
           "time_info": "[05时19分 ~ 07时21分]"
         },
         {
+          "title": "以总统拒绝特朗普“求情”",
+          "url": "https://news.ifeng.com/c/8ouFkJCiRc4",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时52分 ~ 11时25分]"
+        },
+        {
+          "title": "马斯克怒批欧盟1.2亿欧元罚单，发文称“欧盟应当被废除”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32125452",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时52分 ~ 11时25分]"
+        },
+        {
           "title": "贝森特：不会限制儿童使用“特朗普账户”的方式",
           "url": "https://flash.jin10.com/detail/20251208051409167800",
           "source": "金十数据",
@@ -382,6 +539,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时21分 ~ 07时21分]"
+        },
+        {
+          "title": "美国债市现“三十年罕见之分歧”：美联储降息前夜，美长债收益率却“不跌反涨”",
+          "url": "https://wallstreetcn.com/articles/3760885",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时24分 ~ 11时25分]"
         },
         {
           "title": "内塔尼亚胡：加沙停火第二阶段很快开始，将于本月与特朗普会面",
@@ -396,15 +564,15 @@
           "time_info": "[06时21分 ~ 07时21分]"
         },
         {
-          "title": "特朗普：我对泽连斯基有点失望",
-          "url": "https://news.ifeng.com/c/8ouaNf4xAJD",
+          "title": "网飞与华纳达成收购协议，特朗普警告",
+          "url": "https://news.ifeng.com/c/8oucdTKBlFd",
           "source": "凤凰网",
           "ranks": [
-            6
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时24分 ~ 11时25分]"
         },
         {
           "title": "特朗普将于美国东部时间周一下午2点（北京时间次日凌晨3点）参加圆桌会议。",
@@ -413,18 +581,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时52分"
-        },
-        {
-          "title": "以总统拒绝特朗普“求情”",
-          "url": "https://news.ifeng.com/c/8ouFkJCiRc4",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时52分"
         },
@@ -446,7 +603,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时52分"
         },
@@ -457,26 +614,26 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时52分"
         },
         {
-          "title": "马斯克怒批欧盟1.2亿欧元罚单，发文称“欧盟应当被废除”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32125452",
-          "source": "澎湃新闻",
+          "title": "波音：特朗普的政府参股计划不适用于美国大型国防企业",
+          "url": "https://flash.jin10.com/detail/20251208104857457800",
+          "source": "金十数据",
           "ranks": [
-            20
+            21
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时52分"
+          "time_info": "11时25分"
         }
       ]
     },
     {
       "keyword_group": "外交部 商务部 证监会 央行",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "外交部：不接受日方所谓交涉，已驳回并提出反交涉",
@@ -517,38 +674,51 @@
           "time_info": "[02时31分 ~ 07时21分]"
         },
         {
+          "title": "日方炒作所谓“雷达照射”问题，外交部：不接受日方所谓交涉，已当场驳回",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32126967",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时20分 ~ 11时25分]"
+        },
+        {
           "title": "人民海军、国防部、外交部分别发声",
           "url": "https://news.ifeng.com/c/8ouBD92rG1q",
           "source": "凤凰网",
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时52分"
-        },
-        {
-          "title": "日方炒作所谓“雷达照射”问题，外交部：不接受日方所谓交涉，已当场驳回",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32126967",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            5
-          ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[07时20分 ~ 09时52分]"
+          "time_info": "[09时52分 ~ 11时25分]"
         },
         {
           "title": "海军、国防部、外交部 严正批驳×3",
           "url": "https://www.baidu.com/s?wd=%E6%B5%B7%E5%86%9B%E3%80%81%E5%9B%BD%E9%98%B2%E9%83%A8%E3%80%81%E5%A4%96%E4%BA%A4%E9%83%A8+%E4%B8%A5%E6%AD%A3%E6%89%B9%E9%A9%B3%C3%973",
           "source": "百度热搜",
           "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时52分 ~ 11时25分]"
+        },
+        {
+          "title": "证监会主席的表态，“适当松绑”对券商意味着什么？",
+          "url": "https://wallstreetcn.com/articles/3760882",
+          "source": "华尔街见闻",
+          "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时24分 ~ 11时25分]"
         },
         {
           "title": "日本央行行长暗示加息 市场仍押注日元走弱",
@@ -568,7 +738,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时52分"
         },
@@ -579,7 +749,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时52分"
         },
@@ -601,7 +771,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时52分"
         }
@@ -609,7 +779,7 @@
     },
     {
       "keyword_group": "黄金 白银 铜 铝 稀土",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "中国11月外汇储备规模环比上涨0.09%，央行连续第13个月增持黄金",
@@ -695,15 +865,37 @@
           "time_info": "[04时24分 ~ 09时52分]"
         },
         {
+          "title": "“超级央行周”来袭，现货白银上周涨势强劲，剑指60美元整数大关，多头占比较高位略有回落；现货黄金维持高位震荡，多头占比升至70%以上，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20251208105315485800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时25分"
+        },
+        {
           "title": "商品期货开盘，焦煤主力合约跌超5%，焦炭跌超4%，乙二醇、淀粉、玉米、甲醇跌超1%。沪银涨超2%，LU燃油、沪铜涨超1%。",
           "url": "https://wallstreetcn.com/livenews/3016537",
           "source": "华尔街见闻-快讯",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时52分"
+        },
+        {
+          "title": "现货白银日内跌超1.00%，现报57.66美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251208103405329800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时25分"
         },
         {
           "title": "中信证券：预计12000美元将成为铜价的崭新起点 全面推荐铜板块配置",
@@ -712,7 +904,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时52分"
         }
@@ -720,7 +912,7 @@
     },
     {
       "keyword_group": "DeepSeek AI openai 机器人 小米 特斯拉 英伟达",
-      "match_count": 4,
+      "match_count": 10,
       "titles": [
         {
           "title": "机器人租赁市场趋于理性：昔日万元“日薪”遭膝斩 年末季节性需求注入动力",
@@ -750,13 +942,79 @@
           "time_info": "[00时26分 ~ 07时21分]"
         },
         {
+          "title": "详谈谷歌TPU芯片：如何与博通博弈？能否和英伟达竞争？",
+          "url": "https://wallstreetcn.com/articles/3760862",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时24分 ~ 11时25分]"
+        },
+        {
+          "title": "AI实力叠加低估值！外资集体押注：中国股市将延续涨势",
+          "url": "https://www.cls.cn/detail/2222232",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时24分 ~ 11时25分]"
+        },
+        {
+          "title": "华尔街一哥：AI明年或大量“吞噬”就业岗位 全社会应共同应对",
+          "url": "https://www.cls.cn/detail/2222209",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时24分 ~ 11时25分]"
+        },
+        {
+          "title": "机器人如何真正完成演化",
+          "url": "https://www.toutiao.com/trending/7581273115213172266/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时24分 ~ 11时25分]"
+        },
+        {
+          "title": "台湾电力供应担忧加剧 特斯拉Powerwall订单量激增三倍",
+          "url": "https://flash.jin10.com/detail/20251208110619289800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时25分"
+        },
+        {
+          "title": "标普全球：将小米集团(01810.HK)展望上调至正面；确认“BBB”评级。",
+          "url": "https://flash.jin10.com/detail/20251208105444448800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时25分"
+        },
+        {
           "title": "恒指低开0.07%，报26067.86点；恒生科技指数涨0.08%。百度涨3.3%，地平线机器人、小米涨近1%；海尔智家跌2%。",
           "url": "https://wallstreetcn.com/livenews/3016548",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时52分"
         },
@@ -767,7 +1025,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时52分"
         }
