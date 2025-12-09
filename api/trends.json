@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-09T15:26:07.713726+08:00",
-  "total_titles_processed": 1329,
+  "generated_at": "2025-12-09T16:35:12.385890+08:00",
+  "total_titles_processed": 1450,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 美债 美元 石油 战争",
-      "match_count": 67,
+      "match_count": 75,
       "titles": [
         {
           "title": "A股唯二！美的集团完成单次百亿回购",
@@ -41,8 +41,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时32分 ~ 15时26分]"
+          "appearance_count": 21,
+          "time_info": "[00时32分 ~ 16时35分]"
         },
         {
           "title": "外贸增速大幅回升！中国11月以美元计价出口同比转增5.9%，进口同比增1.9%",
@@ -108,13 +108,24 @@
           "time_info": "00时33分"
         },
         {
+          "title": "在岸人民币兑美元北京时间16:30官方收报7.0693，较上一交易日官方收盘价涨20点，较上日夜盘收盘涨37点。",
+          "url": "https://wallstreetcn.com/livenews/3017521",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        },
+        {
           "title": "金十数据整理：A股每日市场要闻回顾（2025-12-09）",
           "url": "https://flash.jin10.com/detail/20251209151138740800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
         },
@@ -279,6 +290,18 @@
           "time_info": "[04时28分 ~ 05时20分]"
         },
         {
+          "title": "A股收盘：创业板指冲高回落涨0.61%，算力硬件、福建板块持续走强",
+          "url": "https://wallstreetcn.com/livenews/3017466",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时26分 ~ 16时35分]"
+        },
+        {
           "title": "（美股）费城金银指数收跌2.34%，报311.01点。 （全球时段）纽约证交所ARCA金矿开采商指数收跌2.17%，刷新日低至2235.45点；美股开盘之前维持微跌状态——持稳于2280点附近，之后转而短暂地微幅上涨。",
           "url": "https://wallstreetcn.com/livenews/3017176",
           "source": "华尔街见闻-快讯",
@@ -360,6 +383,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时20分 ~ 06时30分]"
+        },
+        {
+          "title": "对赖清德不放心，台民众：我有小孩不要战争，最怕两岸擦枪走火",
+          "url": "https://v.ifeng.com/c/8owW0YWpiYM",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时34分 ~ 16时35分]"
         },
         {
           "title": "WTI原油日内下跌2.00%，现报58.77美元/桶；布伦特原油回落至63美元/桶下方，日内跌1.92%。",
@@ -504,15 +538,15 @@
           "time_info": "09时51分"
         },
         {
-          "title": "A股收盘：创业板指冲高回落涨0.61%，算力硬件、福建板块持续走强",
-          "url": "https://wallstreetcn.com/livenews/3017466",
+          "title": "美元对日元上涨0.2%至156.28，触及11月28日以来最高水平。",
+          "url": "https://wallstreetcn.com/livenews/3017512",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时26分"
+          "time_info": "16时35分"
         },
         {
           "title": "美国总统特朗普：我们将向农民提供120亿美元的援助。",
@@ -554,9 +588,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
+        },
+        {
+          "title": "阿塞拜疆总理：阿塞拜疆自2025年初以来，战略外汇储备已增加125亿美元，达到835亿美元。",
+          "url": "https://flash.jin10.com/detail/20251209154741760800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
         },
         {
           "title": "A股光伏设备板块尾盘拉升，通威股份、协鑫集成、双良节能纷纷冲高。",
@@ -565,9 +610,31 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
+        },
+        {
+          "title": "中国台湾11月贸易帐 160.9亿美元，预期185亿美元，前值225.8亿美元。",
+          "url": "https://flash.jin10.com/detail/20251209160018380800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        },
+        {
+          "title": "中投公司：截至去年末总资产1.57万亿美元 净资产1.37万亿美元",
+          "url": "https://wallstreetcn.com/livenews/3017501",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
         },
         {
           "title": "美元指数8日上涨",
@@ -614,6 +681,17 @@
           "time_info": "14时37分"
         },
         {
+          "title": "日本2025年IPO募资额达80亿美元 创七年新高",
+          "url": "https://wallstreetcn.com/livenews/3017493",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        },
+        {
           "title": "美国私营医疗保健公司Medline计划通过今年美国规模最大的IPO筹集53.7亿美元。",
           "url": "https://flash.jin10.com/detail/20251209041231164800",
           "source": "金十数据",
@@ -623,6 +701,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时20分"
+        },
+        {
+          "title": "消息人士：韩国国民年金公团疑似于周二开始进行货币对冲并抛售美元。",
+          "url": "https://flash.jin10.com/detail/20251209155229023800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
         },
         {
           "title": "老虎环球基金宣布成立最新风投基金，目标筹集20亿-30亿美元",
@@ -653,7 +742,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
         },
@@ -763,7 +852,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
         },
@@ -793,7 +882,7 @@
     },
     {
       "keyword_group": "特朗普 马斯克 加密货币 美联储",
-      "match_count": 62,
+      "match_count": 68,
       "titles": [
         {
           "title": "美国债市现“三十年罕见之分歧”：美联储降息前夜，美长债收益率却“不跌反涨”",
@@ -817,8 +906,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时22分 ~ 15时26分]"
+          "appearance_count": 11,
+          "time_info": "[07时22分 ~ 16时35分]"
         },
         {
           "title": "本周的美联储决议“剧本”：决议降息，鲍威尔“鹰派讲话”，哈塞特、贝森特“鸽派对冲”？",
@@ -880,6 +969,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时24分 ~ 15时26分]"
+        },
+        {
+          "title": "明晚美联储决议又将现三票反对？鲍威尔要“镇不住场子”了……",
+          "url": "https://www.cls.cn/detail/2223875",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时34分 ~ 16时35分]"
         },
         {
           "title": "据华尔街日报：甲骨文创始人拉里·埃里森在奈飞(NFLX.O)飞交易宣布后给美国总统特朗普打了电话，埃里森告诉特朗普奈飞交易将损害竞争。",
@@ -1179,6 +1279,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时28分 ~ 05时20分]"
+        },
+        {
+          "title": "美国总统特朗普：本周将针对人工智能发布单一规则行政命令",
+          "url": "https://wallstreetcn.com/articles/3760944",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时34分 ~ 16时35分]"
         },
         {
           "title": "美国总统特朗普：我对Paramount敌意收购华纳兄弟探索公司的情况了解得不够多。 必须看看Paramount的市场份额。 还没有与库什纳讨论过Paramount的交易问题。 奈飞和Paramount都不是我的好朋友。",
@@ -1482,6 +1593,17 @@
           "time_info": "00时33分"
         },
         {
+          "title": "特朗普为关税政策强硬辩护：最高法院若推翻关税政策将是美“历史性威胁”",
+          "url": "https://flash.jin10.com/detail/20251209154928270800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        },
+        {
           "title": "美联储：美国11月消费者通胀预期稳定，财务状况恶化",
           "url": "https://wallstreetcn.com/livenews/3017075",
           "source": "华尔街见闻-快讯",
@@ -1491,6 +1613,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
+        },
+        {
+          "title": "纽约梅隆银行：市场普遍预期美联储降息 投票分歧和点阵图将是关键",
+          "url": "https://flash.jin10.com/detail/20251209154746786800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
         },
         {
           "title": "白宫高级官员表示，美国总统特朗普致力于持续停止暴力，并期望柬埔寨和泰国政府充分履行其结束这场冲突的承诺。",
@@ -1504,6 +1637,17 @@
           "time_info": "06时30分"
         },
         {
+          "title": "美国总统特朗普：正是因为关税的便捷与快速实施，我们的国家安全才得到极大增强，我们也成为了当今世界金融实力最强的国家。",
+          "url": "https://flash.jin10.com/detail/20251209154623905800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        },
+        {
           "title": "特朗普下令：裁员、关闭办公室、利用人工智能提高政府效率",
           "url": "https://flash.jin10.com/detail/20251209025903477800",
           "source": "金十数据",
@@ -1513,13 +1657,36 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
+        },
+        {
+          "title": "美国总统特朗普：对美国国家安全最大的历史性威胁，将是美国最高法院就关税问题作出的不利裁决。届时，我们在经济上将毫无防御能力。",
+          "url": "https://flash.jin10.com/detail/20251209154605581800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek AI openai 机器人 小米 特斯拉 英伟达",
-      "match_count": 57,
+      "match_count": 64,
       "titles": [
+        {
+          "title": "三大美股指跌，H200消息刺激英伟达反弹，美债收益率两个月来新高，伦铜续创新高",
+          "url": "https://wallstreetcn.com/articles/3760903",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时51分 ~ 16时35分]"
+        },
         {
           "title": "如何看待各大 App 禁止豆包手机登陆，AI 手机会是「兵家必争之地」吗？",
           "url": "https://www.zhihu.com/question/1981321831689511959",
@@ -1534,16 +1701,18 @@
           "time_info": "[00时32分 ~ 09时51分]"
         },
         {
-          "title": "三大美股指跌，H200消息刺激英伟达反弹，美债收益率两个月来新高，伦铜续创新高",
-          "url": "https://wallstreetcn.com/articles/3760903",
-          "source": "华尔街见闻",
+          "title": "特朗普宣布：允许英伟达向中国出售H200芯片",
+          "url": "https://www.cls.cn/detail/2223487",
+          "source": "财联社热门",
           "ranks": [
-            2,
+            5,
+            4,
+            3,
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时51分 ~ 15时26分]"
+          "appearance_count": 8,
+          "time_info": "[11时22分 ~ 16时35分]"
         },
         {
           "title": "谷歌官宣：首款搭载Gemini的AI眼镜将于2026年推出",
@@ -1556,6 +1725,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时51分 ~ 15时26分]"
+        },
+        {
+          "title": "AI眼镜爆发前夜：多家巨头集体下注释放何种信号？光学显示、芯片等厂商望持续受益",
+          "url": "https://www.cls.cn/detail/2223631",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时22分 ~ 16时35分]"
         },
         {
           "title": "众擎 T800 人形机器人对战自家 CEO，一脚将其踹倒在地，机器人完成这一动作有哪些技术亮点？",
@@ -1572,17 +1754,32 @@
           "time_info": "[00时32分 ~ 04时28分]"
         },
         {
-          "title": "特朗普宣布：允许英伟达向中国出售H200芯片",
-          "url": "https://www.cls.cn/detail/2223487",
+          "title": "机器人产业加速量产 靠“数据飞轮”闯关真实世界",
+          "url": "https://www.cls.cn/detail/2223408",
           "source": "财联社热门",
           "ranks": [
             5,
-            4,
+            6,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时51分 ~ 16时35分]"
+        },
+        {
+          "title": "AI 冲击下多所大学停招、撤销外语类本科专业，怎样看待这一调整？外语专业未来前景的怎么样？",
+          "url": "https://www.zhihu.com/question/1980612606218756126",
+          "source": "知乎",
+          "ranks": [
+            10,
+            9,
+            7,
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时22分 ~ 15时26分]"
+          "appearance_count": 8,
+          "time_info": "[11时22分 ~ 16时35分]"
         },
         {
           "title": "「马斯克兵败印度」特斯拉 2 个月只卖出 100 多辆，印度市场有何商业特点，什么商品在印度才会有竞争力？",
@@ -1600,20 +1797,6 @@
           "time_info": "[00时32分 ~ 07时23分]"
         },
         {
-          "title": "机器人产业加速量产 靠“数据飞轮”闯关真实世界",
-          "url": "https://www.cls.cn/detail/2223408",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时51分 ~ 15时26分]"
-        },
-        {
           "title": "任正非最新讲话谈及 AI，称别盯着「发明」要盯着「应用」，算力过剩的时代一定会到来，如何理解这些观点？",
           "url": "https://www.zhihu.com/question/1980286689260900620",
           "source": "知乎",
@@ -1626,32 +1809,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时51分 ~ 15时26分]"
-        },
-        {
-          "title": "AI眼镜爆发前夜：多家巨头集体下注释放何种信号？光学显示、芯片等厂商望持续受益",
-          "url": "https://www.cls.cn/detail/2223631",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时22分 ~ 15时26分]"
-        },
-        {
-          "title": "AI 冲击下多所大学停招、撤销外语类本科专业，怎样看待这一调整？外语专业未来前景的怎么样？",
-          "url": "https://www.zhihu.com/question/1980612606218756126",
-          "source": "知乎",
-          "ranks": [
-            10,
-            9,
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时22分 ~ 15时26分]"
         },
         {
           "title": "谷歌AI眼镜将于2026年推出 多家航司在美警告下取消往返委航班 | 环球市场",
@@ -1685,6 +1842,18 @@
           "time_info": "[02时36分 ~ 06时30分]"
         },
         {
+          "title": "聚焦“AI+” 看各地“十五五”规划“+”什么？",
+          "url": "https://www.cls.cn/detail/2223769",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时25分 ~ 16时35分]"
+        },
+        {
           "title": "小米三款新车齐曝光",
           "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E4%B8%89%E6%AC%BE%E6%96%B0%E8%BD%A6%E9%BD%90%E6%9B%9D%E5%85%89%23&t=31&band_rank=2&Refer=top",
           "source": "微博",
@@ -1697,6 +1866,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时51分 ~ 14时37分]"
+        },
+        {
+          "title": "AI手机挑战大厂生态，谁会打赢这场“护城河”攻防战？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32130774",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时24分 ~ 16时35分]"
         },
         {
           "title": "蚂蚁旗下通用AI助手灵光上线网页版",
@@ -1730,6 +1912,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
+        },
+        {
+          "title": "欧盟就谷歌将在线内容用于AI相关用途一事发起反垄断调查",
+          "url": "https://flash.jin10.com/detail/20251209161413716800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
         },
         {
           "title": "贝莱德：涌入AI基础设施的资金浪潮远未见顶",
@@ -1783,6 +1976,18 @@
           "time_info": "[06时30分 ~ 07时23分]"
         },
         {
+          "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
+          "url": "https://wallstreetcn.com/articles/3760972",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时25分 ~ 16时35分]"
+        },
+        {
           "title": "仅仅成立两个月 这家AI计算机初创公司估值高达45亿美元",
           "url": "https://www.cls.cn/detail/2223334",
           "source": "财联社热门",
@@ -1796,17 +2001,16 @@
           "time_info": "[09时51分 ~ 14时37分]"
         },
         {
-          "title": "AI手机挑战大厂生态，谁会打赢这场“护城河”攻防战？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32130774",
+          "title": "马上评｜用AI写年度总结与职场人的“AI化”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32132203",
           "source": "澎湃新闻",
           "ranks": [
             20,
-            13,
-            12
+            19
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[13时24分 ~ 15时26分]"
+          "time_info": "[15时25分 ~ 16时35分]"
         },
         {
           "title": "美股三大指数集体收跌 特斯拉跌超3%",
@@ -1821,15 +2025,15 @@
           "time_info": "[07时22分 ~ 09时51分]"
         },
         {
-          "title": "聚焦“AI+” 看各地“十五五”规划“+”什么？",
-          "url": "https://www.cls.cn/detail/2223769",
-          "source": "财联社热门",
+          "title": "掀桌！豆包被“围攻”后，智谱把手机Agent开源，让人人皆可打造AI手机",
+          "url": "https://wallstreetcn.com/articles/3760976",
+          "source": "华尔街见闻",
           "ranks": [
-            6
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时25分 ~ 15时26分]"
+          "time_info": "[16时34分 ~ 16时35分]"
         },
         {
           "title": "特朗普宣布允许英伟达向中国出售 H200 芯片，如何评价这一政策转向？将带来哪些影响？",
@@ -1892,15 +2096,15 @@
           "time_info": "[14时37分 ~ 15时26分]"
         },
         {
-          "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
-          "url": "https://wallstreetcn.com/articles/3760972",
-          "source": "华尔街见闻",
+          "title": "美批准向中国出售英伟达H200人工智能芯片，中方回应",
+          "url": "https://news.ifeng.com/c/8owfgsEZQEu",
+          "source": "凤凰网",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时25分 ~ 15时26分]"
+          "time_info": "[16时34分 ~ 16时35分]"
         },
         {
           "title": "英伟达(NVDA.O)美股盘后涨幅扩大至2.2%。",
@@ -1915,6 +2119,17 @@
           "time_info": "[06时30分 ~ 07时23分]"
         },
         {
+          "title": "NMIXX翻唱UP主AI版大东北",
+          "url": "https://search.bilibili.com/all?keyword=NMIXX%E7%BF%BB%E5%94%B1UP%E4%B8%BBAI%E7%89%88%E5%A4%A7%E4%B8%9C%E5%8C%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时34分 ~ 16时35分]"
+        },
+        {
           "title": "美国食品药品监督管理局（FDA）：已批准首个基于人工智能的药物开发工具——基于人工智能的非酒精性脂肪性肝炎组织学测量工具（AIM-NASH）。",
           "url": "https://flash.jin10.com/detail/20251209054059438800",
           "source": "金十数据",
@@ -1925,6 +2140,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时30分 ~ 07时23分]"
+        },
+        {
+          "title": "美批准向中国出售英伟达H200人工智能芯片，外交部回应",
+          "url": "https://www.cls.cn/detail/2223956",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时34分 ~ 16时35分]"
         },
         {
           "title": "美国部分芯片股盘后走强，英伟达(NVDA.O)涨1.2%，AMD(AMD.O)涨近1%，英特尔(INTC.O)涨0.4%。",
@@ -1987,15 +2213,15 @@
           "time_info": "[06时30分 ~ 07时23分]"
         },
         {
-          "title": "马上评｜用AI写年度总结与职场人的“AI化”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32132203",
-          "source": "澎湃新闻",
+          "title": "中方回应美将对华出售英伟达H200芯片",
+          "url": "https://www.toutiao.com/trending/7581381032269021211/",
+          "source": "今日头条",
           "ranks": [
-            20
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时25分 ~ 15时26分]"
+          "time_info": "[16时34分 ~ 16时35分]"
         },
         {
           "title": "机器人产业链企业“排队”赴港上市",
@@ -2103,7 +2329,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
         },
@@ -2117,6 +2343,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
+        },
+        {
+          "title": "美批准向中国出售英伟达H200人工智能芯片，外交部回应",
+          "url": "https://wallstreetcn.com/livenews/3017485",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
         },
         {
           "title": "英伟达盘后涨1.2%",
@@ -2210,7 +2447,7 @@
     },
     {
       "keyword_group": "外交部 商务部 证监会 央行",
-      "match_count": 33,
+      "match_count": 39,
       "titles": [
         {
           "title": "外交部回应美国家安全战略涉台内容",
@@ -2248,8 +2485,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时32分 ~ 15时26分]"
+          "appearance_count": 21,
+          "time_info": "[00时32分 ~ 16时35分]"
         },
         {
           "title": "外交部回应德国外长涉华言论",
@@ -2277,6 +2514,28 @@
           "time_info": "[00时32分 ~ 03时20分]"
         },
         {
+          "title": "没接听日方“热线电话”？外交部回应",
+          "url": "https://www.toutiao.com/trending/7581703316376305683/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时34分 ~ 16时35分]"
+        },
+        {
+          "title": "外交部就所谓雷达照射反问日方：是否刻意滋扰中方制造紧张事态",
+          "url": "https://news.ifeng.com/c/8owfMQWaWXB",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时34分 ~ 16时35分]"
+        },
+        {
           "title": "报道：韩国央行行长Rhee将会见总统李在明，讨论外汇等问题。",
           "url": "https://wallstreetcn.com/livenews/3017195",
           "source": "华尔街见闻-快讯",
@@ -2286,6 +2545,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
+        },
+        {
+          "title": "商务部：推动零售业转向品质驱动、服务驱动",
+          "url": "https://wallstreetcn.com/livenews/3017516",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
         },
         {
           "title": "2/10年期德债收益率涨超6个基点，投资者关注欧洲央行执委释放鹰派论调带来的加息可能性",
@@ -2387,6 +2657,17 @@
           "time_info": "[09时51分 ~ 11时22分]"
         },
         {
+          "title": "外交部回应美批准对华出售H200芯片",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%BE%8E%E6%89%B9%E5%87%86%E5%AF%B9%E5%8D%8E%E5%87%BA%E5%94%AEH200%E8%8A%AF%E7%89%87",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时34分 ~ 16时35分]"
+        },
+        {
           "title": "英国央行货币政策委员泰勒：在自然利率（R*利率）偏低的环境下，实际利率可维持在低位。",
           "url": "https://flash.jin10.com/detail/20251209020704057800",
           "source": "金十数据",
@@ -2397,6 +2678,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时36分 ~ 03时20分]"
+        },
+        {
+          "title": "外交部就所谓“雷达照射”反问日方",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%B0%B1%E6%89%80%E8%B0%93%E2%80%9C%E9%9B%B7%E8%BE%BE%E7%85%A7%E5%B0%84%E2%80%9D%E5%8F%8D%E9%97%AE%E6%97%A5%E6%96%B9",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时34分 ~ 16时35分]"
         },
         {
           "title": "日本首相高市早苗：不就与植田和男的会谈发表评论，货币政策具体细节由日本央行决定。 日本央行需要与政府沟通。 期待日本央行实施适当的货币政策以实现物价目标。 政府对宏观经济政策负有最终责任。",
@@ -2430,6 +2722,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时37分"
+        },
+        {
+          "title": "外交部：各国有责任也有义务携手阻击任何复辟军国主义和法西斯的图谋",
+          "url": "https://wallstreetcn.com/livenews/3017495",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
         },
         {
           "title": "韩国总理金民锡呼吁央行和政府在汇率、通胀方面协同行动。",
@@ -2600,8 +2903,19 @@
     },
     {
       "keyword_group": "黄金 白银 铜 铝 稀土",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
+        {
+          "title": "铜陵广播电视台回应“获奖名单照搬人名大全”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32130869",
+          "source": "澎湃新闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时51分 ~ 16时35分]"
+        },
         {
           "title": "静待美联储决议，美股高开，10年期日债收益率创18年新高，铜价再创新高",
           "url": "https://wallstreetcn.com/articles/3760903",
@@ -2615,17 +2929,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时32分 ~ 07时23分]"
-        },
-        {
-          "title": "铜陵广播电视台回应“获奖名单照搬人名大全”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32130869",
-          "source": "澎湃新闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时51分 ~ 15时26分]"
         },
         {
           "title": "铜价疯涨正悄悄影响你的生活",
@@ -2655,6 +2958,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时51分 ~ 15时26分]"
+        },
+        {
+          "title": "中国向日本出口稀土出现延误？外交部回应",
+          "url": "https://news.ifeng.com/c/8owfgsEZQGb",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时34分 ~ 16时35分]"
         },
         {
           "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少36.67吨，当前持仓量为15888.54吨。欢迎点击查看数据中心...",
@@ -2825,9 +3139,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
+        },
+        {
+          "title": "中国向日本出口稀土出现延误？外交部：中方正依法依规处理有关问题",
+          "url": "https://wallstreetcn.com/livenews/3017491",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
         },
         {
           "title": "深交所：港股通标的证券名单发生调整并自2025年12月09日起生效，调入万国黄金集团。",
