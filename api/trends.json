@@ -1,12 +1,45 @@
 {
-  "generated_at": "2025-12-18T01:26:39.400693+08:00",
-  "total_titles_processed": 389,
+  "generated_at": "2025-12-18T02:37:49.682773+08:00",
+  "total_titles_processed": 465,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 美债 美元 石油 战争",
-      "match_count": 16,
+      "match_count": 27,
       "titles": [
+        {
+          "title": "美联储在固定利率逆回购操作中总计接纳了17个对手方的103.61亿美元。",
+          "url": "https://flash.jin10.com/detail/20251218021650883800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时37分"
+        },
+        {
+          "title": "周三（12月17日），美联储隔夜逆回购协议（RRP）使用规模为103.61亿美元，上个交易日报15.54亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3022561",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时37分"
+        },
+        {
+          "title": "美国财政部拍卖130亿美元20年期国债，得标利率4.798%（11月19日为4.706%），投标倍数2.67（前次为2.41）。",
+          "url": "https://wallstreetcn.com/livenews/3022560",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时37分"
+        },
         {
           "title": "美国参议院多数议员支持9010亿美元的年度国防政策法案，投票仍在进行中。",
           "url": "https://flash.jin10.com/detail/20251218010740016800",
@@ -14,9 +47,31 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时26分"
+        },
+        {
+          "title": "据两位消息人士透露，凯雷集团已聘请高盛为其竞购卢克石油公司部分资产提供顾问服务。",
+          "url": "https://flash.jin10.com/detail/20251218020723500800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时37分"
+        },
+        {
+          "title": "2025年最大规模IPO：Medline Inc.（MDLN）美国IPO首日涨21%，报35美元，此前给出的IPO发行价为29美元，融资62.6亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3022557",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时37分"
         },
         {
           "title": "美国财长贝森特：猜测瑞达利欧将对Trump Accounts出资大约1亿美元。",
@@ -38,8 +93,21 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 01时26分]"
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 02时37分]"
+        },
+        {
+          "title": "马岛战争的陆地决战",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E5%B2%9B%E6%88%98%E4%BA%89%E7%9A%84%E9%99%86%E5%9C%B0%E5%86%B3%E6%88%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            30,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 02时37分]"
         },
         {
           "title": "美国财长贝森特：预计达利欧对特朗普账户的贡献可能高达1亿美元，但尚未看到最终数据。",
@@ -52,6 +120,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时34分 ~ 01时26分]"
+        },
+        {
+          "title": "媒体称甲骨文100亿美元数据中心融资受阻，甲骨文：仍按计划进行，推进情况合预期",
+          "url": "https://wallstreetcn.com/articles/3761585",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时26分 ~ 02时37分]"
         },
         {
           "title": "比特币短线冲高回落，从87500美元下方涨至接近90500美元的走势昙花一现。",
@@ -78,18 +157,6 @@
           "time_info": "[00时34分 ~ 01时26分]"
         },
         {
-          "title": "马岛战争的陆地决战",
-          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E5%B2%9B%E6%88%98%E4%BA%89%E7%9A%84%E9%99%86%E5%9C%B0%E5%86%B3%E6%88%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 01时26分]"
-        },
-        {
           "title": "比特币短线从87500美元下方拉升，刷新日高至90315.75美元。",
           "url": "https://wallstreetcn.com/livenews/3022513",
           "source": "华尔街见闻-快讯",
@@ -100,17 +167,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时34分 ~ 01时26分]"
-        },
-        {
-          "title": "媒体称甲骨文100亿美元数据中心融资受阻，甲骨文：仍按计划进行，推进情况合预期",
-          "url": "https://wallstreetcn.com/articles/3761585",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时26分"
         },
         {
           "title": "创业板涨超3%，沐曦涨近700%，算力硬件爆发，金融股走强，宽基ETF放量，碳酸锂期货涨超7％，铂钯期货涨停，沪银涨超5%，港股科技股普涨",
@@ -124,13 +180,35 @@
           "time_info": "00时34分"
         },
         {
+          "title": "甲骨文信用风险指标恐创2009年以来收盘新高，媒体此前报道称，Blue Owl不再支持该公司位于美国密西根的100亿美元规模的数据中心交易。 甲骨文五年期信用违约掉期（CDS）达到155.27个基点——恐创2009年1月份（全球金融危机全面发酵）以来收盘新高，涨幅大约3.8个基点。",
+          "url": "https://wallstreetcn.com/livenews/3022552",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时37分"
+        },
+        {
+          "title": "纽约期银日内暴涨6.00%，现报67.13美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251218020019647800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时37分"
+        },
+        {
           "title": "乌克兰总统泽连斯基：呼吁各伙伴批准政治和财政决议。布鲁塞尔峰会应表明，俄罗斯继续战争毫无意义，因为乌克兰将拥有财政手段来保卫自己。",
           "url": "https://flash.jin10.com/detail/20251218003915900800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时26分"
         },
@@ -141,7 +219,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时26分"
         },
@@ -152,7 +230,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时26分"
         },
@@ -163,7 +241,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时26分"
         },
@@ -177,6 +255,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时34分"
+        },
+        {
+          "title": "美国参议院通过超9000亿美元国防授权法案",
+          "url": "https://flash.jin10.com/detail/20251218014139449800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时37分"
+        },
+        {
+          "title": "金十图示：2025年12月17日（周三）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251218013152524800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时37分"
+        },
+        {
+          "title": "金十图示：2025年12月17日（周三）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251218013016003800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时37分"
+        },
+        {
+          "title": "美国参议院正式通过总额达9006亿美元的2026财年国防授权法案，将送交特朗普签署成为法律。",
+          "url": "https://flash.jin10.com/detail/20251218012702878800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时37分"
         },
         {
           "title": "Paramount SkyDance（派拉蒙天舞）：确认将按每股30美元收购华纳兄弟探索公司（WBD）的要约。",
@@ -193,29 +315,42 @@
     },
     {
       "keyword_group": "特朗普 马斯克 加密货币 美联储",
-      "match_count": 15,
+      "match_count": 21,
       "titles": [
         {
           "title": "“新美联储通讯社”点评非农：不太可能显著改变美联储权衡是否再降息时的判断",
           "url": "https://wallstreetcn.com/articles/3761507",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 01时26分]"
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 02时37分]"
+        },
+        {
+          "title": "美国亚特兰大联储主席Bostic（2027年FOMC票委）：尽管很难下定论，但通胀形势比就业市场更令人担忧。 希望更加强劲的经济会缓和劳动力市场的压力。 美联储政策无助于化解结构性的就业变化。",
+          "url": "https://wallstreetcn.com/livenews/3022559",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时37分"
         },
         {
           "title": "网红券商Robinhood的CEO Tenev：目标是，继续成为一个金融“超级APP”。 已经与美国总统特朗普讨论过“Trump Accounts”的事宜，我们准备（出资）向这个东西提供帮助。",
           "url": "https://wallstreetcn.com/livenews/3022547",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时26分 ~ 02时37分]"
         },
         {
           "title": "美国财长贝森特：“哈塞特（可能会）担任美联储主席”的任何顾虑都是“荒诞的”。 哈塞特绝对有资格出任美联储主席，他（对FOMC货币政策立场）有自己的看法。",
@@ -238,8 +373,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 01时26分]"
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 02时37分]"
         },
         {
           "title": "打破沉默，冯德莱恩回应特朗普：不能让他人的世界观定义欧洲",
@@ -249,8 +384,21 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 01时26分]"
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 02时37分]"
+        },
+        {
+          "title": "特朗普称委内瑞拉政府“外国恐怖组织”，21世纪再现“大棒加胡萝卜”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32196119",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 02时37分]"
         },
         {
           "title": "特朗普政府第三次动用紧急权力，现在设法维持华盛顿州煤电厂运行",
@@ -265,25 +413,13 @@
           "time_info": "[00时34分 ~ 01时26分]"
         },
         {
-          "title": "特朗普称委内瑞拉政府“外国恐怖组织”，21世纪再现“大棒加胡萝卜”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32196119",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 01时26分]"
-        },
-        {
           "title": "联邦上诉法院暂允特朗普在华盛顿保留国民警卫队部署",
           "url": "https://flash.jin10.com/detail/20251218010257604800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时26分"
         },
@@ -305,7 +441,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时26分"
         },
@@ -327,9 +463,53 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时26分"
+        },
+        {
+          "title": "美联储博斯蒂克：美联储的政策对结构性就业变革无济于事。",
+          "url": "https://flash.jin10.com/detail/20251218020015213800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时37分"
+        },
+        {
+          "title": "美联储博斯蒂克：（降息）是“艰难选择”，但通胀比就业更令人担忧。",
+          "url": "https://flash.jin10.com/detail/20251218015942944800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时37分"
+        },
+        {
+          "title": "美联储博斯蒂克：希望经济走强能够缓解就业市场的压力。",
+          "url": "https://flash.jin10.com/detail/20251218015902729800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时37分"
+        },
+        {
+          "title": "美联储博斯蒂克：当前国内生产总值增长态势稳健，预计该态势将在2026年延续。",
+          "url": "https://flash.jin10.com/detail/20251218015522246800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时37分"
         },
         {
           "title": "巴西总统卢拉：已告知特朗普，巴西可协助他与委内瑞拉方面进行沟通。",
@@ -338,9 +518,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时26分"
+        },
+        {
+          "title": "特朗普经济施压下，委内瑞拉通胀飙升至500%以上",
+          "url": "https://flash.jin10.com/detail/20251218014918335800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时37分"
         },
         {
           "title": "据华尔街日报：上诉法院批准美国总统特朗普在华盛顿哥伦比亚特区部署国民警卫队。",
@@ -349,7 +540,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时26分"
         },
@@ -368,7 +559,7 @@
     },
     {
       "keyword_group": "DeepSeek AI openai 机器人 小米 特斯拉 英伟达",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "机器人年终盘点④：是谁，迈入量产大门？",
@@ -378,8 +569,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 01时26分]"
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 02时37分]"
         },
         {
           "title": "亚马逊：Peter DeSantis将主导一个新的人工智能（AI）模型架构。 Pieter Abbeel将主导Frontier（前沿）模型研究团队。",
@@ -388,7 +579,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时26分"
         },
@@ -399,7 +590,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时26分"
         },
@@ -416,6 +607,18 @@
           "time_info": "[00时34分 ~ 01时26分]"
         },
         {
+          "title": "小米开源自研AI大模型，罗福莉小米首秀：下一代智能体系统是理解世界并共存的“智能体”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32194390",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 02时37分]"
+        },
+        {
           "title": "纳斯达克100指数跌1%，核电股CEG跌6.4%，博通跌4.9%，阿斯麦ADR跌3.5%，AMD跌3.3%，英伟达跌3%、 费城半导体指数跌超2.2%，标普500指数目前跌0.5%，道指转跌。",
           "url": "https://wallstreetcn.com/livenews/3022516",
           "source": "华尔街见闻-快讯",
@@ -428,15 +631,16 @@
           "time_info": "[00时34分 ~ 01时26分]"
         },
         {
-          "title": "小米开源自研AI大模型，罗福莉小米首秀：下一代智能体系统是理解世界并共存的“智能体”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32194390",
-          "source": "澎湃新闻",
+          "title": "芯片初创公司Mythic融资1.25亿美元，意欲挑战英伟达",
+          "url": "https://wallstreetcn.com/livenews/3022534",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            13,
+            25
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时34分 ~ 01时26分]"
+          "time_info": "[01时26分 ~ 02时37分]"
         },
         {
           "title": "Atlas Cloud AI与纽约GreenCloud宣布启动一项价值60亿美元的可持续人工智能基础设施合作伙伴关系，该合作将基于英伟达Blackwell平台构建。",
@@ -445,20 +649,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时26分"
         },
         {
-          "title": "芯片初创公司Mythic融资1.25亿美元，意欲挑战英伟达",
-          "url": "https://wallstreetcn.com/livenews/3022534",
+          "title": "亚马逊：Peter DeSantis将主导一个新的人工智能（AI）模型架构，DeSantis将率领AGI团队。 AGI团队将驱动公司在AI、量子计算方面的努力。 Pieter Abbeel将主导Frontier（前沿）模型研究团队。 Rohit Prasad将在年底离职。",
+          "url": "https://wallstreetcn.com/livenews/3022549",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时26分"
+          "time_info": "02时37分"
         },
         {
           "title": "甲骨文AI光环褪色 股价较9月高点接近腰斩",
@@ -467,26 +671,38 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时26分"
+        },
+        {
+          "title": "ThaiSweet樱花舞MV",
+          "url": "https://s.weibo.com/weibo?q=ThaiSweet%E6%A8%B1%E8%8A%B1%E8%88%9EMV&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时37分"
         }
       ]
     },
     {
       "keyword_group": "黄金 白银 铜 铝 稀土",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "市场静待更多数据，美股早盘震荡下挫，地缘政治扰动，原油重新站上60美元，金银铜铂钯齐涨，白银飙涨近4%再创新高",
           "url": "https://wallstreetcn.com/articles/3761550",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时26分 ~ 02时37分]"
         },
         {
           "title": "今年全球最大IPO亮相 白银再创历史新高 | 今夜看点",
@@ -496,8 +712,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 01时26分]"
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 02时37分]"
         },
         {
           "title": "2025铜市年终盘点：供给失衡与结构性需求重塑定价逻辑",
@@ -507,8 +723,31 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 02时37分]"
+        },
+        {
+          "title": "男子喝酸奶喜中10克黄金",
+          "url": "https://www.toutiao.com/trending/7584360789675622410/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            24
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时34分 ~ 01时26分]"
+          "time_info": "[01时26分 ~ 02时37分]"
+        },
+        {
+          "title": "LME期铜收涨145美元，报11737美元/吨。 LME期铝收涨29美元，报2906美元/吨。 LME期锌收涨32美元，报3074美元/吨。 LME期铅收涨18美元，报1960美元/吨。 LME期镍收涨129美元，报14392美元/吨。 LME期锡收涨1250美元，报42275美元/吨。 LME期钴收平，报52790美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3022555",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时37分"
         },
         {
           "title": "市场静待更多数据，美股期货盘前上涨，地缘政治扰动，原油重新站上60美元，金银铜铂钯齐涨，白银飙涨近4%再创新高",
@@ -522,22 +761,44 @@
           "time_info": "00时34分"
         },
         {
-          "title": "男子喝酸奶喜中10克黄金",
-          "url": "https://www.toutiao.com/trending/7584360789675622410/",
-          "source": "今日头条",
+          "title": "波兰铜业集团公司（KGHM）预计2026年波兰铜销售59.47万吨。",
+          "url": "https://wallstreetcn.com/livenews/3022553",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时37分"
+        },
+        {
+          "title": "现货白银日内暴涨3.00美元，现报66.73美元/盎司，涨幅4.71%。纽约期银突破67美元/盎司，日内涨5.81%。",
+          "url": "https://flash.jin10.com/detail/20251218014200498800",
+          "source": "金十数据",
           "ranks": [
             20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时26分"
+          "time_info": "02时37分"
         }
       ]
     },
     {
       "keyword_group": "外交部 商务部 证监会 央行",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "据华尔街日报：玻利维亚押注锂资源以及与美国合作，以摆脱经济低迷。玻利维亚外交部长表示，玻利维亚正寻求从特朗普政府获得金融援助，将向外国投资者开放锂矿储备。",
+          "url": "https://flash.jin10.com/detail/20251218021529556800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时37分"
+        },
         {
           "title": "外交部：中方将再赴柬泰穿梭调停",
           "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%EF%BC%9A%E4%B8%AD%E6%96%B9%E5%B0%86%E5%86%8D%E8%B5%B4%E6%9F%AC%E6%B3%B0%E7%A9%BF%E6%A2%AD%E8%B0%83%E5%81%9C",
@@ -547,8 +808,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 01时26分]"
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 02时37分]"
         },
         {
           "title": "泰国在柬埔寨阵地缴获中国制造的装备，外交部回应",
@@ -558,8 +819,20 @@
             11
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 02时37分]"
+        },
+        {
+          "title": "外交部回应泰国缴获中国制造装备",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E6%B3%B0%E5%9B%BD%E7%BC%B4%E8%8E%B7%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%E8%A3%85%E5%A4%87%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30,
+            15
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时34分 ~ 01时26分]"
+          "time_info": "[01时26分 ~ 02时37分]"
         },
         {
           "title": "外交部发言人就外交部亚洲事务特使将再次赴柬埔寨、泰国穿梭调停答记者问",
@@ -573,6 +846,17 @@
           "time_info": "00时34分"
         },
         {
+          "title": "伊朗外交部：谴责美国对委内瑞拉的非法行径。美国奉行武力胁迫和系统性霸凌的政策，公然违反了国际法和《联合国宪章》的既定原则和规则，包括航行自由、海上安全和国际贸易自由。",
+          "url": "https://flash.jin10.com/detail/20251218012504616800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时37分"
+        },
+        {
           "title": "开发布会紧张吗？外交部发言人回应",
           "url": "https://www.baidu.com/s?wd=%E5%BC%80%E5%8F%91%E5%B8%83%E4%BC%9A%E7%B4%A7%E5%BC%A0%E5%90%97%EF%BC%9F%E5%A4%96%E4%BA%A4%E9%83%A8%E5%8F%91%E8%A8%80%E4%BA%BA%E5%9B%9E%E5%BA%94",
           "source": "百度热搜",
@@ -582,17 +866,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时34分"
-        },
-        {
-          "title": "外交部回应泰国缴获中国制造装备",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E6%B3%B0%E5%9B%BD%E7%BC%B4%E8%8E%B7%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%E8%A3%85%E5%A4%87%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时26分"
         }
       ]
     }
