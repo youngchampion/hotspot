@@ -1,12 +1,25 @@
 {
-  "generated_at": "2025-12-18T03:22:44.950541+08:00",
-  "total_titles_processed": 507,
+  "generated_at": "2025-12-18T04:29:28.295406+08:00",
+  "total_titles_processed": 547,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 美债 美元 石油 战争",
-      "match_count": 34,
+      "match_count": 39,
       "titles": [
+        {
+          "title": "美国务院批准 1 亿美元对日军售，支持「宙斯盾」驱逐舰系统，如何看待此次军售？此军舰配置如何？",
+          "url": "https://www.zhihu.com/question/1984546043069760250",
+          "source": "知乎",
+          "ranks": [
+            6,
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时34分 ~ 04时29分]"
+        },
         {
           "title": "美国参议院多数议员支持9010亿美元的年度国防政策法案，投票仍在进行中。",
           "url": "https://flash.jin10.com/detail/20251218010740016800",
@@ -25,9 +38,35 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
+        },
+        {
+          "title": "康卡斯特在华纳兄弟探索公司（WBD）交易中对旗下媒体部门估值810亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3022587",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
+        {
+          "title": "马岛战争的陆地决战",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E5%B2%9B%E6%88%98%E4%BA%89%E7%9A%84%E9%99%86%E5%9C%B0%E5%86%B3%E6%88%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            30,
+            17,
+            19,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时34分 ~ 04时29分]"
         },
         {
           "title": "周三（12月17日），美联储隔夜逆回购协议（RRP）使用规模为103.61亿美元，上个交易日报15.54亿美元。",
@@ -35,23 +74,25 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            8
+            8,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时37分 ~ 03时22分]"
+          "appearance_count": 3,
+          "time_info": "[02时37分 ~ 04时29分]"
         },
         {
-          "title": "美国务院批准 1 亿美元对日军售，支持「宙斯盾」驱逐舰系统，如何看待此次军售？此军舰配置如何？",
-          "url": "https://www.zhihu.com/question/1984546043069760250",
-          "source": "知乎",
+          "title": "美国财政部拍卖130亿美元20年期国债，得标利率4.798%（11月19日为4.706%），投标倍数2.67（前次为2.41）。",
+          "url": "https://wallstreetcn.com/livenews/3022560",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
-            7
+            2,
+            10,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时34分 ~ 03时22分]"
+          "appearance_count": 3,
+          "time_info": "[02时37分 ~ 04时29分]"
         },
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了17个对手方的103.61亿美元。",
@@ -60,18 +101,6 @@
           "ranks": [
             1,
             22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时37分 ~ 03时22分]"
-        },
-        {
-          "title": "美国财政部拍卖130亿美元20年期国债，得标利率4.798%（11月19日为4.706%），投标倍数2.67（前次为2.41）。",
-          "url": "https://wallstreetcn.com/livenews/3022560",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            10
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -88,6 +117,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时34分 ~ 01时26分]"
+        },
+        {
+          "title": "媒体称甲骨文100亿美元数据中心融资受阻，甲骨文：仍按计划进行，推进情况合预期",
+          "url": "https://wallstreetcn.com/articles/3761585",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时26分 ~ 04时29分]"
         },
         {
           "title": "据两位消息人士透露，凯雷集团已聘请高盛为其竞购卢克石油公司部分资产提供顾问服务。",
@@ -114,29 +155,16 @@
           "time_info": "[02时37分 ~ 03时22分]"
         },
         {
-          "title": "马岛战争的陆地决战",
-          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E5%B2%9B%E6%88%98%E4%BA%89%E7%9A%84%E9%99%86%E5%9C%B0%E5%86%B3%E6%88%98",
-          "source": "bilibili 热搜",
+          "title": "美国参议院通过9010亿美元国防授权法案",
+          "url": "https://wallstreetcn.com/livenews/3022564",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            15,
-            30,
-            17,
-            19
+            6,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时34分 ~ 03时22分]"
-        },
-        {
-          "title": "媒体称甲骨文100亿美元数据中心融资受阻，甲骨文：仍按计划进行，推进情况合预期",
-          "url": "https://wallstreetcn.com/articles/3761585",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时26分 ~ 03时22分]"
+          "appearance_count": 2,
+          "time_info": "[03时22分 ~ 04时29分]"
         },
         {
           "title": "美国财长贝森特：预计达利欧对特朗普账户的贡献可能高达1亿美元，但尚未看到最终数据。",
@@ -151,6 +179,29 @@
           "time_info": "[00时34分 ~ 01时26分]"
         },
         {
+          "title": "达拉斯联储能源调查：第四季度石油和天然气产量变化不大。",
+          "url": "https://flash.jin10.com/detail/20251218025255845800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时22分 ~ 04时29分]"
+        },
+        {
+          "title": "创业板涨超3%，沐曦涨近700%，算力硬件爆发，金融股走强，宽基ETF放量，碳酸锂期货涨超7％，铂钯期货涨停，沪银涨超5%，港股科技股普涨",
+          "url": "https://wallstreetcn.com/articles/3761532",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时34分 ~ 04时29分]"
+        },
+        {
           "title": "甲骨文信用风险指标恐创2009年以来收盘新高，媒体此前报道称，Blue Owl不再支持该公司位于美国密西根的100亿美元规模的数据中心交易。 甲骨文五年期信用违约掉期（CDS）达到155.27个基点——恐创2009年1月份（全球金融危机全面发酵）以来收盘新高，涨幅大约3.8个基点。",
           "url": "https://wallstreetcn.com/livenews/3022552",
           "source": "华尔街见闻-快讯",
@@ -161,6 +212,42 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时37分 ~ 03时22分]"
+        },
+        {
+          "title": "美股延续跌势，标普500指数下跌1%，纳指跌1.4%，道指跌0.4%。",
+          "url": "https://flash.jin10.com/detail/20251218024123307800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时22分 ~ 04时29分]"
+        },
+        {
+          "title": "纽约银日内涨幅达6.0%，报67.14美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3022563",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时22分 ~ 04时29分]"
+        },
+        {
+          "title": "秘鲁央行：在现货市场买入2.89亿美元。",
+          "url": "https://flash.jin10.com/detail/20251218024054721800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时22分 ~ 04时29分]"
         },
         {
           "title": "比特币短线冲高回落，从87500美元下方涨至接近90500美元的走势昙花一现。",
@@ -199,37 +286,26 @@
           "time_info": "[00时34分 ~ 01时26分]"
         },
         {
-          "title": "美国参议院通过9010亿美元国防授权法案",
-          "url": "https://wallstreetcn.com/livenews/3022564",
+          "title": "美国2025年CLO销售达到2015亿美元，创历史新高",
+          "url": "https://wallstreetcn.com/livenews/3022589",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时22分"
+          "time_info": "04时29分"
         },
         {
-          "title": "达拉斯联储能源调查：第四季度石油和天然气产量变化不大。",
-          "url": "https://flash.jin10.com/detail/20251218025255845800",
+          "title": "美媒：委内瑞拉海军护航运送石油副产品",
+          "url": "https://flash.jin10.com/detail/20251218031852003800",
           "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时22分"
-        },
-        {
-          "title": "创业板涨超3%，沐曦涨近700%，算力硬件爆发，金融股走强，宽基ETF放量，碳酸锂期货涨超7％，铂钯期货涨停，沪银涨超5%，港股科技股普涨",
-          "url": "https://wallstreetcn.com/articles/3761532",
-          "source": "华尔街见闻",
           "ranks": [
             10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时34分"
+          "time_info": "04时29分"
         },
         {
           "title": "纽约期银日内暴涨6.00%，现报67.13美元/盎司。",
@@ -243,37 +319,15 @@
           "time_info": "02时37分"
         },
         {
-          "title": "美股延续跌势，标普500指数下跌1%，纳指跌1.4%，道指跌0.4%。",
-          "url": "https://flash.jin10.com/detail/20251218024123307800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时22分"
-        },
-        {
-          "title": "纽约银日内涨幅达6.0%，报67.14美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3022563",
+          "title": "报道：委内瑞拉海军护航运送石油副产品",
+          "url": "https://wallstreetcn.com/livenews/3022583",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时22分"
-        },
-        {
-          "title": "秘鲁央行：在现货市场买入2.89亿美元。",
-          "url": "https://flash.jin10.com/detail/20251218024054721800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时22分"
+          "time_info": "04时29分"
         },
         {
           "title": "乌克兰总统泽连斯基：呼吁各伙伴批准政治和财政决议。布鲁塞尔峰会应表明，俄罗斯继续战争毫无意义，因为乌克兰将拥有财政手段来保卫自己。",
@@ -296,6 +350,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时26分"
+        },
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.0450元，较周二夜盘收盘跌18点。成交量377.88亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3022575",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
         },
         {
           "title": "乌克兰总统泽连斯基：俄罗斯将破坏结束战争的外交努力。",
@@ -348,7 +413,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
         },
@@ -400,7 +465,7 @@
     },
     {
       "keyword_group": "特朗普 马斯克 加密货币 美联储",
-      "match_count": 21,
+      "match_count": 25,
       "titles": [
         {
           "title": "“新美联储通讯社”点评非农：不太可能显著改变美联储权衡是否再降息时的判断",
@@ -415,6 +480,28 @@
           "time_info": "[00时34分 ~ 03时22分]"
         },
         {
+          "title": "消息人士：美联储已通知花旗集团，针对此前要求该行改进交易对手风险管理的监管通知，目前已正式结案。",
+          "url": "https://flash.jin10.com/detail/20251218035958141800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
+        {
+          "title": "亿万富翁Jared Isaacman被国会山确认为美国国家航空航天局（NASA）局长。 Isaacman是马斯克旗下SpaceX的宇航员，也是Shift4 Payments Inc.的创始人。",
+          "url": "https://wallstreetcn.com/livenews/3022593",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
+        {
           "title": "特朗普有“酒鬼性格”，万斯“阴谋论者”，马斯克“嗑药的怪人”...“白宫大管家”的炸裂采访爆了",
           "url": "https://wallstreetcn.com/articles/3761525",
           "source": "华尔街见闻",
@@ -423,8 +510,33 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时34分 ~ 03时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时34分 ~ 04时29分]"
+        },
+        {
+          "title": "特朗普称委内瑞拉政府“外国恐怖组织”，21世纪再现“大棒加胡萝卜”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32196119",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时34分 ~ 04时29分]"
+        },
+        {
+          "title": "打破沉默，冯德莱恩回应特朗普：不能让他人的世界观定义欧洲",
+          "url": "https://news.ifeng.com/c/8pAOQZMvAiO",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时34分 ~ 04时29分]"
         },
         {
           "title": "网红券商Robinhood的CEO Tenev：目标是，继续成为一个金融“超级APP”。 已经与美国总统特朗普讨论过“Trump Accounts”的事宜，我们准备（出资）向这个东西提供帮助。",
@@ -445,11 +557,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            12
+            12,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时37分 ~ 03时22分]"
+          "appearance_count": 3,
+          "time_info": "[02时37分 ~ 04时29分]"
         },
         {
           "title": "美国财长贝森特：“哈塞特（可能会）担任美联储主席”的任何顾虑都是“荒诞的”。 哈塞特绝对有资格出任美联储主席，他（对FOMC货币政策立场）有自己的看法。",
@@ -462,31 +575,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时34分 ~ 01时26分]"
-        },
-        {
-          "title": "特朗普称委内瑞拉政府“外国恐怖组织”，21世纪再现“大棒加胡萝卜”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32196119",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时34分 ~ 03时22分]"
-        },
-        {
-          "title": "打破沉默，冯德莱恩回应特朗普：不能让他人的世界观定义欧洲",
-          "url": "https://news.ifeng.com/c/8pAOQZMvAiO",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时34分 ~ 03时22分]"
         },
         {
           "title": "特朗普政府第三次动用紧急权力，现在设法维持华盛顿州煤电厂运行",
@@ -545,6 +633,17 @@
           "time_info": "00时34分"
         },
         {
+          "title": "特朗普考虑向国防企业施压，要求其削减回购",
+          "url": "https://wallstreetcn.com/livenews/3022585",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
+        {
           "title": "巴西总统卢拉：担忧美国总统特朗普对拉丁美洲的态度及其威胁。",
           "url": "https://flash.jin10.com/detail/20251218004201233800",
           "source": "金十数据",
@@ -576,6 +675,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时37分"
+        },
+        {
+          "title": "特朗普政府计划拆解主要气候研究中心",
+          "url": "https://wallstreetcn.com/livenews/3022577",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
         },
         {
           "title": "美联储博斯蒂克：希望经济走强能够缓解就业市场的压力。",
@@ -657,8 +767,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时34分 ~ 03时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时34分 ~ 04时29分]"
         },
         {
           "title": "亚马逊：Peter DeSantis将主导一个新的人工智能（AI）模型架构。 Pieter Abbeel将主导Frontier（前沿）模型研究团队。",
@@ -672,17 +782,6 @@
           "time_info": "01时26分"
         },
         {
-          "title": "标普500指数跌幅扩大至1%，科技板块跌1.87%，工业板块跌1.4%，电信板块跌1.2%，能源板块涨1.3%。 道指跌0.4%，纳指跌1.6%，半导体指数跌3.6%。 英伟达目前维持3.2%的跌幅，此前一度跌超4%。",
-          "url": "https://wallstreetcn.com/livenews/3022570",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时22分"
-        },
-        {
           "title": "Atlas Cloud AI：初始投资约2.5亿美元。",
           "url": "https://flash.jin10.com/detail/20251218010322438800",
           "source": "金十数据",
@@ -694,15 +793,40 @@
           "time_info": "01时26分"
         },
         {
+          "title": "小米开源自研AI大模型，罗福莉小米首秀：下一代智能体系统是理解世界并共存的“智能体”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32194390",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时34分 ~ 04时29分]"
+        },
+        {
+          "title": "标普500指数跌幅扩大至1%，科技板块跌1.87%，工业板块跌1.4%，电信板块跌1.2%，能源板块涨1.3%。 道指跌0.4%，纳指跌1.6%，半导体指数跌3.6%。 英伟达目前维持3.2%的跌幅，此前一度跌超4%。",
+          "url": "https://wallstreetcn.com/livenews/3022570",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时22分 ~ 04时29分]"
+        },
+        {
           "title": "英伟达就前工程师泄露自动驾驶商业机密案与法雷奥达成和解",
           "url": "https://flash.jin10.com/detail/20251218030517320800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时22分 ~ 04时29分]"
         },
         {
           "title": "谷歌在旗下产品中发布更高效的新版Gemini 3 AI模型",
@@ -717,16 +841,17 @@
           "time_info": "[00时34分 ~ 01时26分]"
         },
         {
-          "title": "小米开源自研AI大模型，罗福莉小米首秀：下一代智能体系统是理解世界并共存的“智能体”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32194390",
-          "source": "澎湃新闻",
+          "title": "ThaiSweet樱花舞MV",
+          "url": "https://s.weibo.com/weibo?q=ThaiSweet%E6%A8%B1%E8%8A%B1%E8%88%9EMV&t=31&band_rank=28&Refer=top",
+          "source": "微博",
           "ranks": [
-            15,
-            16
+            28,
+            23,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时34分 ~ 03时22分]"
+          "appearance_count": 3,
+          "time_info": "[02时37分 ~ 04时29分]"
         },
         {
           "title": "亚马逊：Peter DeSantis将主导一个新的人工智能（AI）模型架构，DeSantis将率领AGI团队。 AGI团队将驱动公司在AI、量子计算方面的努力。 Pieter Abbeel将主导Frontier（前沿）模型研究团队。 Rohit Prasad将在年底离职。",
@@ -739,6 +864,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时37分 ~ 03时22分]"
+        },
+        {
+          "title": "特斯拉(TSLA.O)下跌3.2%，前一交易日上涨3%。",
+          "url": "https://flash.jin10.com/detail/20251218023211737800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时22分 ~ 04时29分]"
         },
         {
           "title": "纳斯达克100指数跌1%，核电股CEG跌6.4%，博通跌4.9%，阿斯麦ADR跌3.5%，AMD跌3.3%，英伟达跌3%、 费城半导体指数跌超2.2%，标普500指数目前跌0.5%，道指转跌。",
@@ -765,18 +902,6 @@
           "time_info": "[01时26分 ~ 02时37分]"
         },
         {
-          "title": "ThaiSweet樱花舞MV",
-          "url": "https://s.weibo.com/weibo?q=ThaiSweet%E6%A8%B1%E8%8A%B1%E8%88%9EMV&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时37分 ~ 03时22分]"
-        },
-        {
           "title": "Atlas Cloud AI与纽约GreenCloud宣布启动一项价值60亿美元的可持续人工智能基础设施合作伙伴关系，该合作将基于英伟达Blackwell平台构建。",
           "url": "https://flash.jin10.com/detail/20251218010152851800",
           "source": "金十数据",
@@ -786,17 +911,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时26分"
-        },
-        {
-          "title": "特斯拉(TSLA.O)下跌3.2%，前一交易日上涨3%。",
-          "url": "https://flash.jin10.com/detail/20251218023211737800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时22分"
         },
         {
           "title": "甲骨文AI光环褪色 股价较9月高点接近腰斩",
@@ -824,8 +938,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时26分 ~ 03时22分]"
+          "appearance_count": 4,
+          "time_info": "[01时26分 ~ 04时29分]"
         },
         {
           "title": "今年全球最大IPO亮相 白银再创历史新高 | 今夜看点",
@@ -835,8 +949,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时34分 ~ 03时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时34分 ~ 04时29分]"
         },
         {
           "title": "2025铜市年终盘点：供给失衡与结构性需求重塑定价逻辑",
@@ -846,8 +960,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时34分 ~ 03时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时34分 ~ 04时29分]"
         },
         {
           "title": "LME期铜收涨145美元，报11737美元/吨。 LME期铝收涨29美元，报2906美元/吨。 LME期锌收涨32美元，报3074美元/吨。 LME期铅收涨18美元，报1960美元/吨。 LME期镍收涨129美元，报14392美元/吨。 LME期锡收涨1250美元，报42275美元/吨。 LME期钴收平，报52790美元/吨。",
@@ -874,6 +988,18 @@
           "time_info": "[02时37分 ~ 03时22分]"
         },
         {
+          "title": "上海黄金交易所黄金T+D 12月17日（周三）晚盘收盘上涨0.42%报977.2元/克；<br/>上海黄金交易所白银T+D 12月17日（周三）晚盘收盘上涨1.9%报15580.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251218023038231800",
+          "source": "金十数据",
+          "ranks": [
+            16,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时22分 ~ 04时29分]"
+        },
+        {
           "title": "男子喝酸奶喜中10克黄金",
           "url": "https://www.toutiao.com/trending/7584360789675622410/",
           "source": "今日头条",
@@ -895,17 +1021,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时34分"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 12月17日（周三）晚盘收盘上涨0.42%报977.2元/克；<br/>上海黄金交易所白银T+D 12月17日（周三）晚盘收盘上涨1.9%报15580.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20251218023038231800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时22分"
         },
         {
           "title": "现货白银日内暴涨3.00美元，现报66.73美元/盎司，涨幅4.71%。纽约期银突破67美元/盎司，日内涨5.81%。",
@@ -933,8 +1048,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时34分 ~ 03时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时34分 ~ 04时29分]"
+        },
+        {
+          "title": "泰国在柬埔寨阵地缴获中国制造的装备，外交部回应",
+          "url": "https://www.cls.cn/detail/2232432",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时34分 ~ 04时29分]"
         },
         {
           "title": "据华尔街日报：玻利维亚押注锂资源以及与美国合作，以摆脱经济低迷。玻利维亚外交部长表示，玻利维亚正寻求从特朗普政府获得金融援助，将向外国投资者开放锂矿储备。",
@@ -949,28 +1075,18 @@
           "time_info": "[02时37分 ~ 03时22分]"
         },
         {
-          "title": "泰国在柬埔寨阵地缴获中国制造的装备，外交部回应",
-          "url": "https://www.cls.cn/detail/2232432",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时34分 ~ 03时22分]"
-        },
-        {
           "title": "外交部回应泰国缴获中国制造装备",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E6%B3%B0%E5%9B%BD%E7%BC%B4%E8%8E%B7%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%E8%A3%85%E5%A4%87%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
           "ranks": [
             30,
             15,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时26分 ~ 03时22分]"
+          "appearance_count": 4,
+          "time_info": "[01时26分 ~ 04时29分]"
         },
         {
           "title": "外交部发言人就外交部亚洲事务特使将再次赴柬埔寨、泰国穿梭调停答记者问",
