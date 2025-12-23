@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-23T17:29:37.325281+08:00",
-  "total_titles_processed": 1538,
+  "generated_at": "2025-12-23T18:28:34.184004+08:00",
+  "total_titles_processed": 1631,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 美债 美元 石油 战争",
-      "match_count": 112,
+      "match_count": 120,
       "titles": [
         {
           "title": "“若美国封死委内瑞拉石油，这国将走向彻底崩溃”",
@@ -20,6 +20,20 @@
           "time_info": "[00时31分 ~ 09时55分]"
         },
         {
+          "title": "1970年以来第39次，美元出现“金叉”，还是极为罕见的那种",
+          "url": "https://wallstreetcn.com/articles/3761880",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时28分 ~ 18时28分]"
+        },
+        {
           "title": "“港股GPU第一股”壁仞科技确定IPO发售价格区间，预计明年1月2日上市交易",
           "url": "https://wallstreetcn.com/articles/3761811",
           "source": "华尔街见闻",
@@ -30,19 +44,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时31分 ~ 06时24分]"
-        },
-        {
-          "title": "1970年以来第39次，美元出现“金叉”，还是极为罕见的那种",
-          "url": "https://wallstreetcn.com/articles/3761880",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时28分 ~ 17时29分]"
         },
         {
           "title": "欧元兑美元EUR/USD升至一周高点1.1783。",
@@ -413,6 +414,17 @@
           "time_info": "[06时24分 ~ 07时23分]"
         },
         {
+          "title": "铂钯期货双双涨停，沪银新高，A股冲高回落，地产走强，商业航天跳水，N纳百川涨超400%，港股有色金属冲高回落",
+          "url": "https://wallstreetcn.com/articles/3761889",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时29分 ~ 18时28分]"
+        },
+        {
           "title": "挪威国家石油公司：我们正在评估该命令，并正向美国联邦政府寻求更多信息。",
           "url": "https://flash.jin10.com/detail/20251222235957957800",
           "source": "金十数据",
@@ -459,6 +471,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时31分 ~ 01时22分]"
+        },
+        {
+          "title": "诺和诺德美股盘前涨约7%，美国食品药品监督管理局（FDA）已批准Wegovy®口服片，用于长期减轻及维持体重。",
+          "url": "https://wallstreetcn.com/livenews/3025508",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时29分 ~ 18时28分]"
         },
         {
           "title": "离岸人民币兑美元盘中涨破7.02关口，创2024年10月来新高，日内涨逾110点。",
@@ -621,7 +645,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
         },
@@ -635,17 +659,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
-        },
-        {
-          "title": "铂钯期货双双涨停，沪银新高，A股冲高回落，地产走强，商业航天跳水，N纳百川涨超400%，港股有色金属冲高回落",
-          "url": "https://wallstreetcn.com/articles/3761889",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时29分"
         },
         {
           "title": "印尼盾兑美元汇率跌至16,795，为4月29日以来最低水平。",
@@ -665,9 +678,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
+        },
+        {
+          "title": "伦锡日内涨超2.00%，现报43570.00美元/吨。",
+          "url": "https://flash.jin10.com/detail/20251223180510339800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
         },
         {
           "title": "现货铂金上涨3%，报每盎司2,182.75美元。",
@@ -681,17 +705,6 @@
           "time_info": "13时28分"
         },
         {
-          "title": "诺和诺德美股盘前涨约7%，美国食品药品监督管理局（FDA）已批准Wegovy®口服片，用于长期减轻及维持体重。",
-          "url": "https://wallstreetcn.com/livenews/3025508",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时29分"
-        },
-        {
           "title": "铂钯期货双双涨停，沪银新高，A股冲高回落，地产走强，商业航天跳水，N纳百川涨超400%，港股快手下挫3.6%",
           "url": "https://wallstreetcn.com/articles/3761889",
           "source": "华尔街见闻",
@@ -701,6 +714,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时34分"
+        },
+        {
+          "title": "美元兑瑞典克朗USD/SEK下跌0.5%至9.1852，触及2022年2月以来最低。",
+          "url": "https://flash.jin10.com/detail/20251223180443241800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
         },
         {
           "title": "梅赛德斯-奔驰支付1.5亿美元 和解美国柴油车排放纠纷",
@@ -734,6 +758,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时39分"
+        },
+        {
+          "title": "美元兑瑞典克朗下跌0.5%至9.1852，触及2022年2月以来最低。",
+          "url": "https://wallstreetcn.com/livenews/3025543",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
         },
         {
           "title": "美国国防部：美国国务院批准向西班牙政府出售F-404发动机风扇，金额为2亿美元。",
@@ -874,7 +909,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
         },
@@ -923,6 +958,17 @@
           "time_info": "16时34分"
         },
         {
+          "title": "美元兑加元跌至近5个月低点报1.3706。",
+          "url": "https://wallstreetcn.com/livenews/3025529",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
+        },
+        {
           "title": "印度外交部长苏杰生周二表示，印度将向斯里兰卡提供价值4.5亿美元的援助，用于飓风灾后救援和重建工作。",
           "url": "https://flash.jin10.com/detail/20251223133254294800",
           "source": "金十数据",
@@ -940,9 +986,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
+        },
+        {
+          "title": "金价逐步朝4500美元迈进，分析师：市场逐渐适应金价高涨",
+          "url": "https://flash.jin10.com/detail/20251223175214274800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
         },
         {
           "title": "加密货币交易所交易产品（ETPs）最近一周资金外流8.913亿美元，结束之前连续三周流入的趋势。 ETPs投资者最近一个月资金流入18.2亿美元，过去一年流入467亿美元。",
@@ -1044,6 +1101,17 @@
           "time_info": "09时55分"
         },
         {
+          "title": "WTI原油向上触及58美元/桶，日内涨0.19%。",
+          "url": "https://flash.jin10.com/detail/20251223174813580800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
+        },
+        {
           "title": "A股三大指数集体翻绿，创业板指此前一度涨超1%，商业航天、旅游、房地产、数字货币等方向跌幅居前，沪深京三市下跌个股超4100只。",
           "url": "https://wallstreetcn.com/livenews/3025423",
           "source": "华尔街见闻-快讯",
@@ -1121,6 +1189,17 @@
           "time_info": "12时40分"
         },
         {
+          "title": "长荣海运：子公司以1.576亿美元收购五艘2500标准箱集装箱船。",
+          "url": "https://flash.jin10.com/detail/20251223174239794800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
+        },
+        {
           "title": "报道：字节跳动计划斥资230亿美元大举投资人工智能",
           "url": "https://wallstreetcn.com/livenews/3025235",
           "source": "华尔街见闻-快讯",
@@ -1152,6 +1231,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时36分"
+        },
+        {
+          "title": "美元兑加元USD/CAD跌至近5个月低点1.3706。",
+          "url": "https://flash.jin10.com/detail/20251223173521630800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
         },
         {
           "title": "人民币兑美元中间价创近15个月新高",
@@ -1300,7 +1390,7 @@
     },
     {
       "keyword_group": "特朗普 马斯克 加密货币 美联储",
-      "match_count": 65,
+      "match_count": 66,
       "titles": [
         {
           "title": "特朗普换大使细节披露：涉及全球近30国，均拜登时期上任",
@@ -1339,18 +1429,6 @@
           "time_info": "[00时31分 ~ 07时23分]"
         },
         {
-          "title": "特朗普将建特朗普级新型战舰",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E5%BB%BA%E7%89%B9%E6%9C%97%E6%99%AE%E7%BA%A7%E6%96%B0%E5%9E%8B%E6%88%98%E8%88%B0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时39分 ~ 17时29分]"
-        },
-        {
           "title": "爱泼斯坦案文件恢复 特朗普出镜两次",
           "url": "https://www.toutiao.com/trending/7586636403350556196/",
           "source": "今日头条",
@@ -1359,11 +1437,25 @@
             17,
             10,
             7,
-            15
+            15,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时55分 ~ 18时28分]"
+        },
+        {
+          "title": "特朗普将建特朗普级新型战舰",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E5%BB%BA%E7%89%B9%E6%9C%97%E6%99%AE%E7%BA%A7%E6%96%B0%E5%9E%8B%E6%88%98%E8%88%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            6,
+            11
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[09时55分 ~ 17时29分]"
+          "time_info": "[11时39分 ~ 18时28分]"
         },
         {
           "title": "特朗普叫停美国最大海上风电项目",
@@ -1383,9 +1475,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时29分 ~ 18时28分]"
         },
         {
           "title": "美国总统特朗普：我们将讨论生产计划，这些生产计划太慢了。",
@@ -1397,6 +1489,21 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
+        },
+        {
+          "title": "特朗普：美国“必须得到格陵兰岛”",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E5%9B%BD%E2%80%9C%E5%BF%85%E9%A1%BB%E5%BE%97%E5%88%B0%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            24,
+            18,
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时28分 ~ 18时28分]"
         },
         {
           "title": "美国总统特朗普：下周我将与国防主承包商会面。",
@@ -1478,20 +1585,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时39分 ~ 15时27分]"
-        },
-        {
-          "title": "特朗普：美国“必须得到格陵兰岛”",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E5%9B%BD%E2%80%9C%E5%BF%85%E9%A1%BB%E5%BE%97%E5%88%B0%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            24,
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时28分 ~ 17时29分]"
         },
         {
           "title": "特朗普提出中美G2概念 日本不安",
@@ -1684,6 +1777,18 @@
           "time_info": "[11时39分 ~ 12时40分]"
         },
         {
+          "title": "特朗普又自恋,新战舰用自己名",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348288&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%88%E8%87%AA%E6%81%8B%2C%E6%96%B0%E6%88%98%E8%88%B0%E7%94%A8%E8%87%AA%E5%B7%B1%E5%90%8D",
+          "source": "贴吧",
+          "ranks": [
+            27,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时29分 ~ 18时28分]"
+        },
+        {
           "title": "以色列总理内塔尼亚胡：将与美国总统特朗普讨论伊朗的核活动。",
           "url": "https://flash.jin10.com/detail/20251223014941682800",
           "source": "金十数据",
@@ -1740,6 +1845,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
+        },
+        {
+          "title": "泰国外长：上次停火谈判太仓促，就为了给特朗普面子",
+          "url": "https://news.ifeng.com/c/8pJycIBu5di",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
         },
         {
           "title": "美国总统特朗普活动现场的海报展示了新军舰的图像，并配有文字“特朗普级美国海军无畏号（Trump Class USS Defiant）”。",
@@ -2039,17 +2155,6 @@
           "time_info": "00时31分"
         },
         {
-          "title": "特朗普又自恋,新战舰用自己名",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348288&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%88%E8%87%AA%E6%81%8B%2C%E6%96%B0%E6%88%98%E8%88%B0%E7%94%A8%E8%87%AA%E5%B7%B1%E5%90%8D",
-          "source": "贴吧",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时29分"
-        },
-        {
           "title": "美国总统特朗普：将为新战舰使用美国钢铁。",
           "url": "https://flash.jin10.com/detail/20251223063925012800",
           "source": "金十数据",
@@ -2089,6 +2194,18 @@
           "time_info": "[00时31分 ~ 07时23分]"
         },
         {
+          "title": "\"圣诞行情\"开启，标普逼近历史高位，特斯拉盘中新高，金银铜齐新高，原油大涨",
+          "url": "https://wallstreetcn.com/articles/3761821",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时55分 ~ 18时28分]"
+        },
+        {
           "title": "科技股反弹引领市场！美股高开，“Mag7”普涨，特斯拉创盘中历史高位，油价反弹超2%",
           "url": "https://wallstreetcn.com/articles/3761821",
           "source": "华尔街见闻",
@@ -2098,18 +2215,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时31分 ~ 05时21分]"
-        },
-        {
-          "title": "\"圣诞行情\"开启，标普逼近历史高位，特斯拉盘中新高，金银铜齐新高，原油大涨",
-          "url": "https://wallstreetcn.com/articles/3761821",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时55分 ~ 17时29分]"
         },
         {
           "title": "旧金山大停电，谷歌无人车Waymo乱作一团，特斯拉赢麻了",
@@ -2123,8 +2228,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时21分 ~ 17时29分]"
+          "appearance_count": 18,
+          "time_info": "[01时21分 ~ 18时28分]"
         },
         {
           "title": "【焦点复盘】创业板指高开高走涨逾2%，半导体产业链“王者归来”，机器人概念午后异动",
@@ -2167,8 +2272,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时31分 ~ 17时29分]"
+          "appearance_count": 17,
+          "time_info": "[00时31分 ~ 18时28分]"
         },
         {
           "title": "AI大模型独角兽招股书深度拆解：MiniMax to C，智谱 to B",
@@ -2230,24 +2335,24 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时55分 ~ 17时29分]"
-        },
-        {
-          "title": "两男子用AI造谣中国女篮被刑拘",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%A4%E7%94%B7%E5%AD%90%E7%94%A8AI%E9%80%A0%E8%B0%A3%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E8%A2%AB%E5%88%91%E6%8B%98",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时55分 ~ 17时29分]"
+          "appearance_count": 9,
+          "time_info": "[09时55分 ~ 18时28分]"
         },
         {
           "title": "两男子用AI造谣中国女篮被刑拘",
           "url": "https://www.douyin.com/hot/2344497",
           "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时55分 ~ 18时28分]"
+        },
+        {
+          "title": "两男子用AI造谣中国女篮被刑拘",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%A4%E7%94%B7%E5%AD%90%E7%94%A8AI%E9%80%A0%E8%B0%A3%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E8%A2%AB%E5%88%91%E6%8B%98",
+          "source": "百度热搜",
           "ranks": [
             6
           ],
@@ -2568,7 +2673,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
         },
@@ -2634,7 +2739,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
         },
@@ -2675,7 +2780,7 @@
     },
     {
       "keyword_group": "黄金 白银 铜 铝 稀土",
-      "match_count": 48,
+      "match_count": 50,
       "titles": [
         {
           "title": "特朗普公布 \"黄金舰队\"计划，首艘舰艇预计在2028年完工",
@@ -2686,8 +2791,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时55分 ~ 17时29分]"
+          "appearance_count": 9,
+          "time_info": "[09时55分 ~ 18时28分]"
         },
         {
           "title": "降息预期+地缘冲突推动资金涌向贵金属 黄金白银同日改写历史",
@@ -2712,8 +2817,20 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时23分 ~ 18时28分]"
+        },
+        {
+          "title": "黄金巨头金雅福70亿理财爆雷",
+          "url": "https://finance.ifeng.com/c/8pIlbdnGl6q",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
           "appearance_count": 9,
-          "time_info": "[07时23分 ~ 17时29分]"
+          "time_info": "[09时55分 ~ 18时28分]"
         },
         {
           "title": "现货黄金首次站上4400美元/盎司，今年迄今累涨逾67%",
@@ -2727,18 +2844,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时31分 ~ 14时39分]"
-        },
-        {
-          "title": "黄金巨头金雅福70亿理财爆雷",
-          "url": "https://finance.ifeng.com/c/8pIlbdnGl6q",
-          "source": "凤凰网",
-          "ranks": [
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时55分 ~ 17时29分]"
         },
         {
           "title": "“圣诞老人行情”开启，美股普涨，黄金白银再创新高，原油大反弹",
@@ -2787,6 +2892,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
+        },
+        {
+          "title": "格力电器：公司暂时没有铝代铜计划",
+          "url": "https://wallstreetcn.com/livenews/3025550",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
         },
         {
           "title": "泰国央行行长称黄金交易推动泰铢上涨",
@@ -2850,6 +2966,18 @@
           "time_info": "[05时21分 ~ 06时24分]"
         },
         {
+          "title": "伦敦金属交易所（LME）：铜库存158575吨，增加825吨。 铝库存519600吨，持平。 镍库存254604吨，增加216吨。",
+          "url": "https://wallstreetcn.com/livenews/3025511",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时29分 ~ 18时28分]"
+        },
+        {
           "title": "波兰铜业集团公司（KGHM）11月铜产量6.03万吨，同比下滑2%。 11月铜销售6.21万吨，同比增长2%。",
           "url": "https://wallstreetcn.com/livenews/3025049",
           "source": "华尔街见闻-快讯",
@@ -2906,17 +3034,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时39分"
-        },
-        {
-          "title": "伦敦金属交易所（LME）：铜库存158575吨，增加825吨。 铝库存519600吨，持平。 镍库存254604吨，增加216吨。",
-          "url": "https://wallstreetcn.com/livenews/3025511",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时29分"
         },
         {
           "title": "全球最大黄金ETF持仓单日大增12吨",
@@ -3007,6 +3124,17 @@
           "time_info": "06时24分"
         },
         {
+          "title": "2025年黄金年终盘点：宏观环境一变再变 却全是金价上涨理由",
+          "url": "https://www.cls.cn/detail/2237629",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
+        },
+        {
           "title": "现货黄金站上4480美元/盎司，日内涨0.83%。",
           "url": "https://flash.jin10.com/detail/20251223090501434800",
           "source": "金十数据",
@@ -3046,7 +3174,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
         },
@@ -3230,7 +3358,7 @@
     },
     {
       "keyword_group": "外交部 商务部 证监会 央行",
-      "match_count": 41,
+      "match_count": 44,
       "titles": [
         {
           "title": "央行发布一次性信用修复政策，细则详解",
@@ -3316,11 +3444,12 @@
           "url": "https://news.ifeng.com/c/8pJqOz2mKCH",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时29分 ~ 18时28分]"
         },
         {
           "title": "中国央行逆回购操作当日实现净回笼760亿元",
@@ -3356,6 +3485,17 @@
           "time_info": "14时39分"
         },
         {
+          "title": "交易员：印度央行在对冲成本飙升之际进行了外汇掉期操作。",
+          "url": "https://flash.jin10.com/detail/20251223181702759800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
+        },
+        {
           "title": "欧洲央行执委Schnabel：（我）不曾说过应该加息。 在可预见的未来不存在加息预期。 利率可能会在相当一段时期内保持稳定。",
           "url": "https://wallstreetcn.com/livenews/3025070",
           "source": "华尔街见闻-快讯",
@@ -3377,6 +3517,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时22分 ~ 02时36分]"
+        },
+        {
+          "title": "美将大疆无人机列入“受管制清单”，外交部：坚决反对无理打压中国企业",
+          "url": "https://www.cls.cn/detail/2237566",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时34分 ~ 18时28分]"
         },
         {
           "title": "巴拿马外交部长：巴拿马将采取相应措施。",
@@ -3428,18 +3581,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时22分 ~ 02时36分]"
-        },
-        {
-          "title": "美将大疆无人机列入“受管制清单”，外交部：坚决反对无理打压中国企业",
-          "url": "https://www.cls.cn/detail/2237566",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时34分 ~ 17时29分]"
         },
         {
           "title": "欧洲央行执委Schnabel否认市场此前的鹰派解读，预计短期内不会加息",
@@ -3554,6 +3695,17 @@
           "time_info": "00时31分"
         },
         {
+          "title": "中国央行：2025年中央国库现金管理商业银行定期存款（十四期）进行招投标",
+          "url": "https://wallstreetcn.com/livenews/3025528",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
+        },
+        {
           "title": "欧洲央行执委施纳贝尔：我只认为目前起作用的通胀力量多于反通胀力量。",
           "url": "https://flash.jin10.com/detail/20251223003144993800",
           "source": "金十数据",
@@ -3640,6 +3792,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时34分"
+        },
+        {
+          "title": "外交部回应海南自贸港封关",
+          "url": "https://www.toutiao.com/trending/7586509269046935578/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
         },
         {
           "title": "外交部：坚决反对无理打压中国企业",
