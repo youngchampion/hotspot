@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-24T17:28:46.944556+08:00",
-  "total_titles_processed": 1428,
+  "generated_at": "2025-12-24T18:26:33.697146+08:00",
+  "total_titles_processed": 1507,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 美债 美元 石油 战争",
-      "match_count": 111,
+      "match_count": 113,
       "titles": [
         {
           "title": "1970年以来第39次，美元出现“金叉”，还是极为罕见的那种",
@@ -37,11 +37,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时53分 ~ 17时28分]"
+          "appearance_count": 12,
+          "time_info": "[09时53分 ~ 18时26分]"
         },
         {
           "title": "美新型战列舰造价或高达150亿美元",
@@ -80,6 +81,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时53分"
+        },
+        {
+          "title": "美元兑南非兰特USD/ZAR汇率跌至自8月22日以来的最低水平，报16.6317。",
+          "url": "https://flash.jin10.com/detail/20251224175735691800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
+        },
+        {
+          "title": "耐克美股盘前涨超2%，苹果首席执行官蒂姆·库克于12月22日购入价值295万美元的耐克股票。",
+          "url": "https://wallstreetcn.com/livenews/3026156",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
         },
         {
           "title": "美元指数跌至97.777，为10月3日以来最低水平。欧元兑美元升至三个月高点1.180575。",
@@ -190,7 +213,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         },
@@ -204,17 +227,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
-        },
-        {
-          "title": "Dynavax美股盘前涨近38%，赛诺菲以每股15.5美元的现金价格收购该公司。",
-          "url": "https://wallstreetcn.com/livenews/3026125",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时28分"
         },
         {
           "title": "博主：A股惊现结构性强势",
@@ -462,6 +474,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时34分 ~ 17时28分]"
+        },
+        {
+          "title": "Dynavax美股盘前涨近38%，赛诺菲以每股15.5美元的现金价格收购该公司。",
+          "url": "https://wallstreetcn.com/livenews/3026125",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时28分 ~ 18时26分]"
         },
         {
           "title": "NYMEX天然气期货涨9%，现报4.322美元/百万英热单位。",
@@ -768,6 +792,17 @@
           "time_info": "[04时27分 ~ 05时22分]"
         },
         {
+          "title": "A股喜提六连阳 还能涨吗",
+          "url": "https://www.toutiao.com/trending/7587319094953643556/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时28分 ~ 18时26分]"
+        },
+        {
           "title": "Prosus在12月15-19日当周按均价52.5667欧元回购股票270万股，合计1.414亿欧元（折合1.660亿美元）。 同期，Naspers按均价1094.1394南非兰特回购股票113.7117万股，合计12.441亿兰特（折合0.743亿美元）。",
           "url": "https://wallstreetcn.com/livenews/3025684",
           "source": "华尔街见闻-快讯",
@@ -890,7 +925,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         },
@@ -934,7 +969,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         },
@@ -992,17 +1027,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时27分"
-        },
-        {
-          "title": "A股喜提六连阳 还能涨吗",
-          "url": "https://www.toutiao.com/trending/7587319094953643556/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时28分"
         },
         {
           "title": "机构：三季度经济增速为美元带来短暂支撑 但投资者仍将带着疑惑步入明年",
@@ -1165,7 +1189,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         },
@@ -1305,7 +1329,7 @@
     },
     {
       "keyword_group": "特朗普 马斯克 加密货币 美联储",
-      "match_count": 48,
+      "match_count": 49,
       "titles": [
         {
           "title": "贝森特暗示美联储未来方向：通胀“区间制”，取消“点阵图”，支持财政部，回归“幕后”",
@@ -1317,8 +1341,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时53分 ~ 17时28分]"
+          "appearance_count": 12,
+          "time_info": "[09时53分 ~ 18时26分]"
         },
         {
           "title": "特朗普提必要条件：敢降息，“不同意永远不可能成为美联储主席”",
@@ -1331,8 +1355,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时27分 ~ 17时28分]"
+          "appearance_count": 11,
+          "time_info": "[11时27分 ~ 18时26分]"
         },
         {
           "title": "特朗普表示不同意其观点的人不会成为美联储主席 | 环球市场",
@@ -1390,11 +1414,12 @@
             19,
             21,
             23,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时32分 ~ 17时28分]"
+          "appearance_count": 22,
+          "time_info": "[00时32分 ~ 18时26分]"
         },
         {
           "title": "爱泼斯坦案文件恢复 特朗普出镜两次",
@@ -1468,6 +1493,18 @@
           "time_info": "[09时53分 ~ 13时28分]"
         },
         {
+          "title": "特朗普发小作文称《怦然心动》导演“精神错乱”招批评",
+          "url": "https://news.ifeng.com/c/8pLddKy6eAN",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时28分 ~ 18时26分]"
+        },
+        {
           "title": "特朗普再谈格陵兰问题 还提到中国",
           "url": "https://www.toutiao.com/trending/7586746209667239443/",
           "source": "今日头条",
@@ -1490,17 +1527,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时22分"
-        },
-        {
-          "title": "特朗普发小作文称《怦然心动》导演“精神错乱”招批评",
-          "url": "https://news.ifeng.com/c/8pLddKy6eAN",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时28分"
         },
         {
           "title": "美国白宫国家经济委员会主任凯文·哈塞特：总统特朗普有大量关于住房经适性（可担负能力）计划的选项。",
@@ -1790,6 +1816,17 @@
           "time_info": "[14时38分 ~ 14时39分]"
         },
         {
+          "title": "特朗普要建“特朗普级”战列舰，称战力爆棚，专家打出多个问号",
+          "url": "https://news.ifeng.com/c/8pLfVGV6nLv",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
+        },
+        {
           "title": "美联储明年1月维持利率不变的概率为86.7%",
           "url": "https://flash.jin10.com/detail/20251224060335768800",
           "source": "金十数据",
@@ -1807,7 +1844,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         },
@@ -1903,7 +1940,7 @@
     },
     {
       "keyword_group": "黄金 白银 铜 铝 稀土",
-      "match_count": 44,
+      "match_count": 46,
       "titles": [
         {
           "title": "科技股助标普收创新高，金银铜再新高，人民币强势逼近7.0，GDP强劲打击美债",
@@ -1913,8 +1950,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时53分 ~ 17时28分]"
+          "appearance_count": 12,
+          "time_info": "[09时53分 ~ 18时26分]"
         },
         {
           "title": "特朗普公布 \"黄金舰队\"计划，首艘舰艇预计在2028年完工",
@@ -1952,8 +1989,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[04时27分 ~ 17时28分]"
+          "appearance_count": 16,
+          "time_info": "[04时27分 ~ 18时26分]"
         },
         {
           "title": "伦铜，历史首次突破12000美元",
@@ -1994,8 +2031,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时27分 ~ 17时28分]"
+          "appearance_count": 11,
+          "time_info": "[11时27分 ~ 18时26分]"
         },
         {
           "title": "国投白银LOF高溢价风波内情调查：“小白套利指南”煽风，不对称限购引争议",
@@ -2054,7 +2091,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         },
@@ -2164,6 +2201,19 @@
           "time_info": "[05时22分 ~ 06时23分]"
         },
         {
+          "title": "狂奔、绞杀、崩盘！白银历史性疯牛背后 当前最需提防什么？",
+          "url": "https://www.cls.cn/detail/2238663",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时34分 ~ 18时26分]"
+        },
+        {
           "title": "金银铜携手创新高 强势GDP数据压制美股期指 | 今夜看点",
           "url": "https://www.cls.cn/detail/2238119",
           "source": "财联社热门",
@@ -2190,6 +2240,19 @@
           "time_info": "[02时36分 ~ 04时27分]"
         },
         {
+          "title": "金价银价铜价均创历史新高",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E9%93%9C%E4%BB%B7%E5%9D%87%E5%88%9B%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            30,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时34分 ~ 18时26分]"
+        },
+        {
           "title": "上海黄金交易所黄金T+D 12月23日（周二）晚盘收盘下跌0.06%报1005.21元/克；<br/>上海黄金交易所白银T+D 12月23日（周二）晚盘收盘上涨3.32%报16954.0元/千克。",
           "url": "https://flash.jin10.com/detail/20251224023152940800",
           "source": "金十数据",
@@ -2214,16 +2277,40 @@
           "time_info": "[11时27分 ~ 12时39分]"
         },
         {
-          "title": "狂奔、绞杀、崩盘！白银历史性疯牛背后 当前最需提防什么？",
-          "url": "https://www.cls.cn/detail/2238663",
-          "source": "财联社热门",
+          "title": "国投白银LOF：将于12月25日开市起至当日10:30停牌",
+          "url": "https://wallstreetcn.com/livenews/3026123",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11,
-            9
+            7,
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时34分 ~ 17时28分]"
+          "time_info": "[17时28分 ~ 18时26分]"
+        },
+        {
+          "title": "伦敦金属交易所（LME）：铜库存157025吨，减少1550吨。 铝库存521050吨，增加1450吨。 镍库存255696吨，增加1092吨。 锌库存106875吨，增加7900吨。 铅库存248900吨，减少4200吨。 锡库存4895吨，增加220吨。",
+          "url": "https://wallstreetcn.com/livenews/3026121",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时28分 ~ 18时26分]"
+        },
+        {
+          "title": "现货白银回吐日内涨幅转跌，现跌0.01%，盘中一度上涨1.7%。",
+          "url": "https://wallstreetcn.com/livenews/3026120",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时28分 ~ 18时26分]"
         },
         {
           "title": "纽约银日内涨幅达3.5%，报71.06美元/盎司。 现货白银日内涨幅达2.5%，报70.85美元/盎司。",
@@ -2262,18 +2349,6 @@
           "time_info": "[04时27分 ~ 05时22分]"
         },
         {
-          "title": "金价银价铜价均创历史新高",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E9%93%9C%E4%BB%B7%E5%9D%87%E5%88%9B%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时34分 ~ 17时28分]"
-        },
-        {
           "title": "美国商品期货交易委员会（CFTC）：截至12月16日当周，COMEX黄金投机者将净多头头寸增加9,493份合约，至134,130份合约；COMEX白银投机者将净多头头寸削减3,681份合约，至24,297份合约；COMEX铜投机者将净多头头寸增加4,904份合约，至75,987份合约。",
           "url": "https://flash.jin10.com/detail/20251224043300072800",
           "source": "金十数据",
@@ -2296,37 +2371,15 @@
           "time_info": "14时39分"
         },
         {
-          "title": "国投白银LOF：将于12月25日开市起至当日10:30停牌",
-          "url": "https://wallstreetcn.com/livenews/3026123",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时28分"
-        },
-        {
-          "title": "伦敦金属交易所（LME）：铜库存157025吨，减少1550吨。 铝库存521050吨，增加1450吨。 镍库存255696吨，增加1092吨。 锌库存106875吨，增加7900吨。 铅库存248900吨，减少4200吨。 锡库存4895吨，增加220吨。",
-          "url": "https://wallstreetcn.com/livenews/3026121",
-          "source": "华尔街见闻-快讯",
+          "title": "白银LOF斩获3连板！溢价率跃升至68%，场内基金扎堆涨停，这些溢价率同步飙涨",
+          "url": "https://www.cls.cn/detail/2239047",
+          "source": "财联社热门",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时28分"
-        },
-        {
-          "title": "现货白银回吐日内涨幅转跌，现跌0.01%，盘中一度上涨1.7%。",
-          "url": "https://wallstreetcn.com/livenews/3026120",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时28分"
+          "time_info": "18时26分"
         },
         {
           "title": "现货黄金跌破4480美元/盎司，短线跌幅扩大至逾30美元。",
@@ -2426,12 +2479,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时53分"
+        },
+        {
+          "title": "男子家中100克黄金被盗 小偷是发小",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%AE%B6%E4%B8%AD100%E5%85%8B%E9%BB%84%E9%87%91%E8%A2%AB%E7%9B%97+%E5%B0%8F%E5%81%B7%E6%98%AF%E5%8F%91%E5%B0%8F",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
         }
       ]
     },
     {
       "keyword_group": "外交部 商务部 证监会 央行",
-      "match_count": 42,
+      "match_count": 45,
       "titles": [
         {
           "title": "美“拉黑”所有外国生产的无人机，商务部回应",
@@ -2477,11 +2541,12 @@
           "ranks": [
             7,
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时53分 ~ 17时28分]"
+          "appearance_count": 12,
+          "time_info": "[09时53分 ~ 18时26分]"
         },
         {
           "title": "全年32次！G10央行“降息潮”已达巅峰 明年加息将被摆上桌面？",
@@ -2534,11 +2599,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时34分 ~ 17时28分]"
+          "appearance_count": 3,
+          "time_info": "[16时34分 ~ 18时26分]"
         },
         {
           "title": "美将大疆无人机列入“受管制清单”，外交部：坚决反对无理打压中国企业",
@@ -2550,17 +2616,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时32分 ~ 03时20分]"
-        },
-        {
-          "title": "中国央行：12月25日将开展4000亿元MLF操作，期限为1年期",
-          "url": "https://wallstreetcn.com/livenews/3026131",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时28分"
         },
         {
           "title": "美联储主席热门人选哈西特：降息节奏仍不够快 且落后其他央行",
@@ -2592,6 +2647,17 @@
           "time_info": "[03时20分 ~ 14时39分]"
         },
         {
+          "title": "外交部回应日本可能数人遭到辐射",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E5%8F%AF%E8%83%BD%E6%95%B0%E4%BA%BA%E9%81%AD%E5%88%B0%E8%BE%90%E5%B0%84",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
+        },
+        {
           "title": "加拿大央行将于十分钟后公布货币政策会议纪要。",
           "url": "https://flash.jin10.com/detail/20251224022000001800",
           "source": "金十数据",
@@ -2602,6 +2668,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时36分 ~ 03时20分]"
+        },
+        {
+          "title": "中国央行：12月25日将开展4000亿元MLF操作，期限为1年期",
+          "url": "https://wallstreetcn.com/livenews/3026131",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时28分 ~ 18时26分]"
         },
         {
           "title": "外交部回应日本可能数人遭到辐射：敦促日方充分汲取福岛核事故的教训",
@@ -2675,6 +2753,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时53分 ~ 11时27分]"
+        },
+        {
+          "title": "外交部回应美拟对华半导体征关税",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%BE%8E%E6%8B%9F%E5%AF%B9%E5%8D%8E%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%BE%81%E5%85%B3%E7%A8%8E",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            24,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时34分 ~ 18时26分]"
         },
         {
           "title": "央行新政：个人还清欠款征信自动修复",
@@ -2785,18 +2876,6 @@
           "time_info": "[03时20分 ~ 04时27分]"
         },
         {
-          "title": "外交部回应美拟对华半导体征关税",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%BE%8E%E6%8B%9F%E5%AF%B9%E5%8D%8E%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%BE%81%E5%85%B3%E7%A8%8E",
-          "source": "百度热搜",
-          "ranks": [
-            16,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时34分 ~ 17时28分]"
-        },
-        {
           "title": "中国央行公开市场今日净回笼208亿元",
           "url": "https://wallstreetcn.com/livenews/3025882",
           "source": "华尔街见闻-快讯",
@@ -2874,6 +2953,17 @@
           "time_info": "03时20分"
         },
         {
+          "title": "俄罗斯央行：俄罗斯银行1月至11月净利润为3.4万亿卢布，低于上年同期的3.6万亿卢布。俄罗斯银行11月净利润环比增长27%，达到3940亿卢布。",
+          "url": "https://flash.jin10.com/detail/20251224173053060800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
+        },
+        {
           "title": "央行等八部门：支持东盟国家投资者以人民币投资、境内再投资",
           "url": "https://wallstreetcn.com/livenews/3026077",
           "source": "华尔街见闻-快讯",
@@ -2938,12 +3028,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时27分"
+        },
+        {
+          "title": "美方拟自2027年起对华半导体产业征关税，外交部：损人害己",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32244733",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek AI openai 机器人 小米 特斯拉 英伟达",
-      "match_count": 23,
+      "match_count": 26,
       "titles": [
         {
           "title": "\"圣诞行情\"开启，标普逼近历史高位，特斯拉盘中新高，金银铜齐新高，原油大涨",
@@ -3119,6 +3220,18 @@
           "time_info": "[04时27分 ~ 05时22分]"
         },
         {
+          "title": "“杭州六小龙”云深处启动IPO 四足机器人紧追宇树科技",
+          "url": "https://www.cls.cn/detail/2238530",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时28分 ~ 18时26分]"
+        },
+        {
           "title": "市场消息：特斯拉(TSLA.O)、亚马逊(AMZN.O)、甲骨文(ORCL.N)拟投资玻利维亚数据中心建设。",
           "url": "https://flash.jin10.com/detail/20251224030840372800",
           "source": "金十数据",
@@ -3131,15 +3244,26 @@
           "time_info": "[04时27分 ~ 05时22分]"
         },
         {
-          "title": "“杭州六小龙”云深处启动IPO 四足机器人紧追宇树科技",
-          "url": "https://www.cls.cn/detail/2238530",
-          "source": "财联社热门",
+          "title": "腾讯元宝DeepSeek模式使用量较年初增长超100倍",
+          "url": "https://wallstreetcn.com/livenews/3026145",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时28分"
+          "time_info": "18时26分"
+        },
+        {
+          "title": "欧洲媒体巨头面临AI冲击与广告需求疲软的双重压力",
+          "url": "https://flash.jin10.com/detail/20251224173958645800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
         },
         {
           "title": "小米集团(01810.HK)于12月24日斥资1.489亿港元回购380万股B类股票。",
@@ -3151,6 +3275,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时27分"
+        },
+        {
+          "title": "投行2026关键词系列：汇丰看多元投资与AI生态丨Hi，今天怎么看？",
+          "url": "https://flash.jin10.com/detail/20251224173523204800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
         },
         {
           "title": "美股七巨头收盘播报｜英伟达收涨3%，亚马逊、谷歌A至多涨超1.6%，特斯拉回撤超0.6%",
