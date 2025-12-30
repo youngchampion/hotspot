@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-31T03:21:02.440508+08:00",
-  "total_titles_processed": 472,
+  "generated_at": "2025-12-31T04:28:31.587160+08:00",
+  "total_titles_processed": 504,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 马斯克 加密货币 美联储",
-      "match_count": 27,
+      "match_count": 37,
       "titles": [
         {
           "title": "普京通知特朗普自己官邸遇袭，泽连斯基：完全的捏造",
@@ -15,8 +15,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 03时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 04时28分]"
         },
         {
           "title": "得知普京官邸遭袭，特朗普：我很生气！",
@@ -27,8 +27,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 03时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 04时28分]"
         },
         {
           "title": "特朗普：正考虑以“严重失职”为由起诉鲍威尔，1月或公布下任美联储主席人选",
@@ -39,8 +39,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 03时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 04时28分]"
         },
         {
           "title": "特朗普称不担心解放军绕台军演",
@@ -50,52 +50,31 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 03时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 04时28分]"
         },
         {
-          "title": "美联储会议纪要：少数与会者认为，12月降息并不合理。",
-          "url": "https://flash.jin10.com/detail/20251231030301436800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时21分"
-        },
-        {
-          "title": "美联储会议纪要：政策制定者强调，必须明确传达国债购买的目的仅在于确保利率稳定，与货币政策无关。",
-          "url": "https://flash.jin10.com/detail/20251231030238280800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时21分"
-        },
-        {
-          "title": "美联储会议纪要：降息决策极度胶着，大部分官员认为随着时间的推移继续降息是适宜的",
-          "url": "https://wallstreetcn.com/livenews/3028897",
+          "title": "交易员们对美联储将在2026年降息两次的预期维持不变，此前发布了FOMC会议纪要。",
+          "url": "https://wallstreetcn.com/livenews/3028904",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时21分"
+          "time_info": "04时28分"
         },
         {
-          "title": "美联储会议纪要：多数与会者指出，转向更为中性的政策立场有助于防范可能出现的就业市场恶化。",
-          "url": "https://flash.jin10.com/detail/20251231030234112800",
-          "source": "金十数据",
+          "title": "美联储会议纪要：降息决策极度胶着，大部分官员认为随着时间的推移继续降息是适宜的",
+          "url": "https://wallstreetcn.com/livenews/3028897",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            4,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时21分 ~ 04时28分]"
         },
         {
           "title": "美联储会议纪要关注点",
@@ -103,11 +82,48 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            15
+            15,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时37分 ~ 04时28分]"
+        },
+        {
+          "title": "美联储会议纪要：少数与会者认为，12月降息并不合理。",
+          "url": "https://flash.jin10.com/detail/20251231030301436800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            22
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时37分 ~ 03时21分]"
+          "time_info": "[03时21分 ~ 04时28分]"
+        },
+        {
+          "title": "美联储会议纪要：政策制定者强调，必须明确传达国债购买的目的仅在于确保利率稳定，与货币政策无关。",
+          "url": "https://flash.jin10.com/detail/20251231030238280800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时21分 ~ 04时28分]"
+        },
+        {
+          "title": "美联储会议纪要：多数与会者指出，转向更为中性的政策立场有助于防范可能出现的就业市场恶化。",
+          "url": "https://flash.jin10.com/detail/20251231030234112800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时21分 ~ 04时28分]"
         },
         {
           "title": "市场分析：美联储2026年开年或将延续“灵活应对”立场",
@@ -122,6 +138,18 @@
           "time_info": "[01时24分 ~ 02时37分]"
         },
         {
+          "title": "提醒：北京时间03:00，美联储将发布12月FOMC货币政策会议的纪要文件。",
+          "url": "https://wallstreetcn.com/livenews/3028895",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时21分 ~ 04时28分]"
+        },
+        {
           "title": "乌克兰总统泽连斯基：如果美国总统特朗普访问乌克兰，这将“很有用”。",
           "url": "https://flash.jin10.com/detail/20251230235722002800",
           "source": "金十数据",
@@ -132,6 +160,66 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时32分 ~ 01时24分]"
+        },
+        {
+          "title": "美联储会议纪要：与会者认为，准备金余额已降至充足水平，并认为现在开始通过购买美国国债进行准备金管理是恰当的。",
+          "url": "https://flash.jin10.com/detail/20251231030138577800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时21分 ~ 04时28分]"
+        },
+        {
+          "title": "美联储会议纪要：多位与会者指出，通胀居高不下的风险可能变得根深蒂固，并暗示进一步降息可能被误认为美联储对2%通胀目标缺乏承诺。",
+          "url": "https://flash.jin10.com/detail/20251231030120206800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时21分 ~ 04时28分]"
+        },
+        {
+          "title": "美联储会议纪要：与会者认为准备金余额已降至充足水平。",
+          "url": "https://flash.jin10.com/detail/20251231030113848800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时21分 ~ 04时28分]"
+        },
+        {
+          "title": "美联储会议纪要：部分与会者称，在12月降息后，“在一段时间内”保持利率稳定是合适的。",
+          "url": "https://flash.jin10.com/detail/20251231030106839800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时21分 ~ 04时28分]"
+        },
+        {
+          "title": "美联储工作人员预测的经济增长前景略高于10月会议时的预期。",
+          "url": "https://flash.jin10.com/detail/20251231030101389800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时21分 ~ 04时28分]"
         },
         {
           "title": "希腊雅典证交所综合指数收跌0.13%，报2120.82点。 2025年以来，该国股市已经累计上涨超过44.30%，1-8月持续、相对平滑地上涨（特朗普关税威胁曾在4月份造成一波V型“插曲”），后续高位持稳——试探2010年（欧债危机期间）年初顶部。 年线上连续第五年走高——追平2007年所创最长年度连涨纪录。",
@@ -146,17 +234,6 @@
           "time_info": "[01时24分 ~ 02时37分]"
         },
         {
-          "title": "提醒：北京时间03:00，美联储将发布12月FOMC货币政策会议的纪要文件。",
-          "url": "https://wallstreetcn.com/livenews/3028895",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时21分"
-        },
-        {
           "title": "美军首次袭击委内瑞拉陆地目标？特朗普称美军摧毁一“大型设施”",
           "url": "https://wallstreetcn.com/articles/3762270",
           "source": "华尔街见闻",
@@ -168,59 +245,48 @@
           "time_info": "00时32分"
         },
         {
-          "title": "美联储会议纪要：与会者认为，准备金余额已降至充足水平，并认为现在开始通过购买美国国债进行准备金管理是恰当的。",
-          "url": "https://flash.jin10.com/detail/20251231030138577800",
+          "title": "美联储部分官员对明年初进一步降息持谨慎态度",
+          "url": "https://flash.jin10.com/detail/20251231034515935800",
           "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时21分"
+          "time_info": "04时28分"
         },
         {
-          "title": "美联储会议纪要：多位与会者指出，通胀居高不下的风险可能变得根深蒂固，并暗示进一步降息可能被误认为美联储对2%通胀目标缺乏承诺。",
-          "url": "https://flash.jin10.com/detail/20251231030120206800",
+          "title": "市场分析：美联储会议纪要释放谨慎偏鸽的信号",
+          "url": "https://flash.jin10.com/detail/20251231033808378800",
           "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时21分"
+          "time_info": "04时28分"
         },
         {
-          "title": "美联储会议纪要：与会者认为准备金余额已降至充足水平。",
-          "url": "https://flash.jin10.com/detail/20251231030113848800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时21分"
-        },
-        {
-          "title": "美联储会议纪要：部分与会者称，在12月降息后，“在一段时间内”保持利率稳定是合适的。",
-          "url": "https://flash.jin10.com/detail/20251231030106839800",
+          "title": "美联储工作人员的经济增速预测较10月份有所加快",
+          "url": "https://flash.jin10.com/detail/20251231033300544800",
           "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时21分"
+          "time_info": "04时28分"
         },
         {
-          "title": "美联储工作人员预测的经济增长前景略高于10月会议时的预期。",
-          "url": "https://flash.jin10.com/detail/20251231030101389800",
+          "title": "美联储会议纪要：与会者普遍预计2026年经济增长速度将会加快",
+          "url": "https://flash.jin10.com/detail/20251231033050238800",
           "source": "金十数据",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时21分"
+          "time_info": "04时28分"
         },
         {
           "title": "美联储会议纪要：多数与会者认为，如果通胀随时间推移下降，进一步放松货币政策将是合适的。",
@@ -229,7 +295,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
         },
@@ -251,9 +317,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
+        },
+        {
+          "title": "美联储会议纪要：更为中性的政策立场有助于避免劳动力市场出现重大恶化",
+          "url": "https://flash.jin10.com/detail/20251231032508731800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
         },
         {
           "title": "美联储会议纪要：多数与会者支持在12月降息。",
@@ -262,9 +339,31 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
+        },
+        {
+          "title": "美联储会议纪要：近几个月来就业下行风险有所增加",
+          "url": "https://flash.jin10.com/detail/20251231032024792800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
+        },
+        {
+          "title": "美联储会议纪要：委员们一致认为准备金余额已降至充足水平",
+          "url": "https://flash.jin10.com/detail/20251231031954404800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
         },
         {
           "title": "美联储将于十分钟后公布货币政策会议纪要。",
@@ -273,9 +372,31 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
+        },
+        {
+          "title": "美联储会议纪要：与会者普遍预期短期内通胀率将维持在较高水平",
+          "url": "https://flash.jin10.com/detail/20251231031836944800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
+        },
+        {
+          "title": "美联储会议纪要：分歧严重 多数人认为利率可随通胀下降而下降",
+          "url": "https://flash.jin10.com/detail/20251231030859460800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
         },
         {
           "title": "美国法庭裁决指出，特朗普政府关于消费者金融保护局（CFPB）拨款存在法律障碍的说法是企图“扼杀该机构的透明化尝试”。",
@@ -295,7 +416,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
         },
@@ -314,7 +435,7 @@
     },
     {
       "keyword_group": "美股 A股 港股 美债 美元 石油 战争",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "Manus被Meta数十亿美元收购背后：创始人肖弘复盘至暗时刻",
@@ -324,30 +445,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 03时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 04时28分]"
         },
         {
           "title": "一夜亏185万！跟大V打新港股遇“杀猪盘”",
           "url": "https://www.cls.cn/detail/2244340",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 03时21分]"
-        },
-        {
-          "title": "美联储会议纪要发布后，美元指数涨幅重新扩大至将近0.2%，逼近北京时间23:44刷新的日高98.269点。 美国10年期国债收益率持稳于4.12%附近，维持大约1个基点的涨幅；两年期美债收益率持稳于3.4450%附近，保持微幅下挫状态。 2/10年期美债收益率利差维持大约1.4个基点的涨幅，持稳于+67个基点下方。",
-          "url": "https://wallstreetcn.com/livenews/3028902",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时21分"
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 04时28分]"
         },
         {
           "title": "年终特稿｜枪支还是黄油：当德国开始进入“战争准备”",
@@ -358,19 +469,31 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 03时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 04时28分]"
         },
         {
-          "title": "2年期美债收益率在美联储会议纪要公布后小幅走低，现报3.463%。",
-          "url": "https://flash.jin10.com/detail/20251231030419555800",
-          "source": "金十数据",
+          "title": "美联储会议纪要发布后，美元指数涨幅重新扩大至将近0.2%，逼近北京时间23:44刷新的日高98.269点。 美国10年期国债收益率持稳于4.12%附近，维持大约1个基点的涨幅；两年期美债收益率持稳于3.4450%附近，保持微幅下挫状态。 2/10年期美债收益率利差维持大约1.4个基点的涨幅，持稳于+67个基点下方。",
+          "url": "https://wallstreetcn.com/livenews/3028902",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            1,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时21分 ~ 04时28分]"
+        },
+        {
+          "title": "周二（12月30日）纽约尾盘，ICE美元指数涨0.21%，报98.241点，日内交投区间为97.939-98.269点。 彭博美元指数涨0.13%，报1202.97点，日内交投区间为1200.04-1203.23点。",
+          "url": "https://wallstreetcn.com/livenews/3028908",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时21分"
+          "time_info": "04时28分"
         },
         {
           "title": "纽约银日内涨幅达9.0%，报76.83美元/盎司。",
@@ -382,6 +505,42 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
+        },
+        {
+          "title": "WTI 2月原油期货收报57.95美元/桶。 NYMEX 2月天然气期货收报3.9720美元/百万英热单位。 NYMEX 1月汽油期货收报1.7210美元/加仑，NYMEX 1月取暖油期货收报2.1505美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3028905",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
+        },
+        {
+          "title": "美国1月2日当周石油钻井数 412，前值 409。",
+          "url": "https://wallstreetcn.com/livenews/3028886",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            13,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时37分 ~ 04时28分]"
+        },
+        {
+          "title": "2年期美债收益率在美联储会议纪要公布后小幅走低，现报3.463%。",
+          "url": "https://flash.jin10.com/detail/20251231030419555800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时21分 ~ 04时28分]"
         },
         {
           "title": "纽约期银暴涨9% 现货站上77美元",
@@ -396,18 +555,6 @@
           "time_info": "[01时24分 ~ 02时37分]"
         },
         {
-          "title": "美国1月2日当周石油钻井数 412，前值 409。",
-          "url": "https://wallstreetcn.com/livenews/3028886",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时37分 ~ 03时21分]"
-        },
-        {
           "title": "美国至1月2日当周石油钻井总数 412口，前值409口。",
           "url": "https://flash.jin10.com/detail/20251231020139989800",
           "source": "金十数据",
@@ -418,6 +565,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时37分 ~ 03时21分]"
+        },
+        {
+          "title": "国航拟95.3亿美元买60架空客飞机",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E8%88%AA%E6%8B%9F95.3%E4%BA%BF%E7%BE%8E%E5%85%83%E4%B9%B060%E6%9E%B6%E7%A9%BA%E5%AE%A2%E9%A3%9E%E6%9C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时20分 ~ 04时28分]"
+        },
+        {
+          "title": "美联储会议纪要公布后，现货金银短线波动不大，美元指数DXY小幅走高。",
+          "url": "https://flash.jin10.com/detail/20251231030228136800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时21分 ~ 04时28分]"
         },
         {
           "title": "Prosus于12月22-26日按均价52.8621欧元回购股票65.2573万，合计0.345亿欧元（折合0.406亿美元）。 同期，Naspers按均价1120.1722南非兰特回购33.8611万，合计3.793亿兰特（折合0.227亿美元）。",
@@ -444,6 +615,18 @@
           "time_info": "[01时24分 ~ 02时37分]"
         },
         {
+          "title": "周二（12月30日），美联储隔夜逆回购协议（RRP）使用规模为126.05亿美元（交易对手10家），上个交易日报105.51亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3028889",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时21分 ~ 04时28分]"
+        },
+        {
           "title": "巴西石油工人工会Sindipetro-NF声明称，已接受巴西国家石油公司的劳资协议提案，决定暂停罢工。",
           "url": "https://flash.jin10.com/detail/20251231003000487800",
           "source": "金十数据",
@@ -454,28 +637,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时24分 ~ 02时37分]"
-        },
-        {
-          "title": "国航拟95.3亿美元买60架空客飞机",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E8%88%AA%E6%8B%9F95.3%E4%BA%BF%E7%BE%8E%E5%85%83%E4%B9%B060%E6%9E%B6%E7%A9%BA%E5%AE%A2%E9%A3%9E%E6%9C%BA",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时20分 ~ 03时21分]"
-        },
-        {
-          "title": "美联储会议纪要公布后，现货金银短线波动不大，美元指数DXY小幅走高。",
-          "url": "https://flash.jin10.com/detail/20251231030228136800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时21分"
         },
         {
           "title": "美国至1月2日当周石油钻井总数将于十分钟后公布。",
@@ -498,17 +659,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时37分"
-        },
-        {
-          "title": "周二（12月30日），美联储隔夜逆回购协议（RRP）使用规模为126.05亿美元（交易对手10家），上个交易日报105.51亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3028889",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时21分"
         },
         {
           "title": "金十图示：2025年12月30日（周二）热门中概股行情一览（美股盘中）",
@@ -539,7 +689,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
         },
@@ -572,7 +722,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
         },
@@ -602,8 +752,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 03时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 04时28分]"
         },
         {
           "title": "多路游资联袂入场！机器人龙头剑指新高，相关ETF持续“吸金”，四成份额达历史峰值",
@@ -614,8 +764,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 03时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 04时28分]"
         },
         {
           "title": "盘点2025年度AI大事件",
@@ -623,11 +773,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             3,
-            11
+            11,
+            22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 03时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 04时28分]"
         },
         {
           "title": "沪指10连阳，机器人、AI智能体爆发，恒科指涨近2%，半导体领涨，英矽智能港股IPO涨约25%，国投白银LOF震荡调整，在岸人民币破7",
@@ -638,8 +789,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 03时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 04时28分]"
         },
         {
           "title": "【每日收评】沪指连收10日阳线！机器人概念午后再度爆发，商业航天分歧加剧",
@@ -650,8 +801,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 03时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 04时28分]"
         },
         {
           "title": "【焦点复盘】科创50指数收涨超1%，国产算力概念全天亮眼，AI智能体概念异军突起",
@@ -662,8 +813,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 03时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 04时28分]"
         },
         {
           "title": "AI造假当庭露馅,法官严斥伪造者",
@@ -673,8 +824,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 03时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 04时28分]"
         },
         {
           "title": "雷军官宣跨年直播，将现场拆车，如何看待小米「拆车 + 聊天」 这一形式？你希望通过拆解看到哪些信息？",
@@ -684,8 +835,20 @@
             17
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 04时28分]"
+        },
+        {
+          "title": "福建一摄影大赛一等奖作品被疑 AI 生成，具体是怎么回事？可以从哪些方面识别 AI 生成内容？",
+          "url": "https://www.zhihu.com/question/1988712550200808371",
+          "source": "知乎",
+          "ranks": [
+            11,
+            18
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[00时32分 ~ 03时21分]"
+          "time_info": "[02时36分 ~ 04时28分]"
         },
         {
           "title": "小米明年或推4款新车",
@@ -704,46 +867,12 @@
           "url": "https://wallstreetcn.com/livenews/3028896",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时21分"
-        },
-        {
-          "title": "福建一摄影大赛一等奖作品被疑 AI 生成，具体是怎么回事？可以从哪些方面识别 AI 生成内容？",
-          "url": "https://www.zhihu.com/question/1988712550200808371",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时36分 ~ 03时21分]"
-        },
-        {
-          "title": "英伟达洽谈按至多30亿美元收购以色列AI21 Labs。 在2023年那一轮融资中，AI21 Labs获得14亿美元估值，英伟达和Alphabet旗下谷歌公司都参与了那次融资。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3028884",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            16
+            5,
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时37分 ~ 03时21分]"
-        },
-        {
-          "title": "马斯克旗下xAI就AI训练数据法律起诉美国加州检察官。",
-          "url": "https://wallstreetcn.com/livenews/3028878",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时37分 ~ 03时21分]"
+          "time_info": "[03时21分 ~ 04时28分]"
         },
         {
           "title": "马斯克设想人形机器人将遍布各地 中国或率先实现这一愿景",
@@ -753,8 +882,34 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时20分 ~ 03时21分]"
+          "appearance_count": 4,
+          "time_info": "[03时20分 ~ 04时28分]"
+        },
+        {
+          "title": "英伟达洽谈按至多30亿美元收购以色列AI21 Labs。 在2023年那一轮融资中，AI21 Labs获得14亿美元估值，英伟达和Alphabet旗下谷歌公司都参与了那次融资。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3028884",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            16,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时37分 ~ 04时28分]"
+        },
+        {
+          "title": "马斯克旗下xAI就AI训练数据法律起诉美国加州检察官。",
+          "url": "https://wallstreetcn.com/livenews/3028878",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            20,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时37分 ~ 04时28分]"
         },
         {
           "title": "金山软件：与小米订立框架协议",
@@ -808,7 +963,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
         },
@@ -819,7 +974,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
         },
@@ -849,7 +1004,7 @@
     },
     {
       "keyword_group": "黄金 白银 铜 铝 稀土",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "美股回调，金属全线回落，现货白银重挫8%，沪金跌破千元关口，原油反弹",
@@ -861,8 +1016,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 03时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 04时28分]"
         },
         {
           "title": "静待美联储会议纪要，美股指集体低开，现货黄金反弹至4400美元，白银涨逾5%，在岸人民币破7",
@@ -872,8 +1027,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 03时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 04时28分]"
         },
         {
           "title": "国际铜夜盘收涨1.77%，沪铜收涨1.85%，沪铝收涨0.87%，沪锌收涨0.60%，沪铅收跌0.60%，沪镍收涨3.64%，沪锡收涨1.49%。 氧化铝夜盘收涨0.47%，铝合金收涨0.14%。 不锈钢夜盘收涨0.65%。",
@@ -882,11 +1037,25 @@
           "ranks": [
             1,
             13,
-            23
+            23,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时24分 ~ 04时28分]"
+        },
+        {
+          "title": "现货白银日内涨幅达8.0%，报77.91美元/盎司。 纽约银日内涨幅达10.5%，报77.86美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3028888",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            11,
+            16
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[01时24分 ~ 03时21分]"
+          "time_info": "[02时37分 ~ 04时28分]"
         },
         {
           "title": "纽约期铜日内涨幅扩大至4.00%，现报5.7895美元/磅。",
@@ -895,18 +1064,6 @@
           "ranks": [
             1,
             27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时37分 ~ 03时21分]"
-        },
-        {
-          "title": "现货白银日内涨幅达8.0%，报77.91美元/盎司。 纽约银日内涨幅达10.5%，报77.86美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3028888",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            11
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -924,6 +1081,32 @@
           "time_info": "[00时32分 ~ 02时37分]"
         },
         {
+          "title": "纽约期银反弹10%，马斯克对白银发出警报",
+          "url": "https://wallstreetcn.com/livenews/3028879",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            19,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时37分 ~ 04时28分]"
+        },
+        {
+          "title": "纽约银日内涨幅达9.0%，报76.83美元/盎司。 现货白银日内涨幅达7.0%，报77.19美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3028871",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            24,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时37分 ~ 04时28分]"
+        },
+        {
           "title": "现货白银大涨后快速跳水，白银为何暴涨暴跌？年内会破 90 美元吗？",
           "url": "https://www.zhihu.com/question/1988935593787421228",
           "source": "知乎",
@@ -933,30 +1116,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时32分 ~ 02时37分]"
-        },
-        {
-          "title": "纽约期银反弹10%，马斯克对白银发出警报",
-          "url": "https://wallstreetcn.com/livenews/3028879",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时37分 ~ 03时21分]"
-        },
-        {
-          "title": "纽约银日内涨幅达9.0%，报76.83美元/盎司。 现货白银日内涨幅达7.0%，报77.19美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3028871",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时37分 ~ 03时21分]"
         },
         {
           "title": "现货黄金回落至4360美元下方，涨幅收窄至不足0.6%。",
@@ -971,6 +1130,18 @@
           "time_info": "[00时32分 ~ 01时24分]"
         },
         {
+          "title": "LME期铜收涨336美元，报12558美元/吨。 LME期铝收涨28美元，报2980美元/吨。 LME期锌收涨36美元，报3124美元/吨。 LME期铅收涨4美元，报2010美元/吨。 LME期镍收涨1014美元，报16828美元/吨。 LME期锡收涨1211美元，报41954美元/吨。 LME期钴收涨565美元，报53355美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3028883",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时21分 ~ 04时28分]"
+        },
+        {
           "title": "黄金白银或现更严重下跌",
           "url": "https://www.douyin.com/hot/2351629",
           "source": "抖音",
@@ -980,6 +1151,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时32分 ~ 01时24分]"
+        },
+        {
+          "title": "现货黄金短线下挫15美元，最新报4351美元/盎司；现货白银短线走低0.8美元，报76.58美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251231035005635800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
         },
         {
           "title": "LME期铜收涨336美元，报12558美元/吨。 LME期铝收涨28美元，报2980美元/吨。 LME期锌收涨36美元，报3124美元/吨。 LME期铅收涨4美元，报2010美元/吨。 LME期镍收涨10141美元，报16828美元/吨。 LME期锡收涨1211美元，报41954美元/吨。 LME期钴收涨565美元，报53355美元/吨。",
@@ -1004,24 +1186,13 @@
           "time_info": "02时37分"
         },
         {
-          "title": "LME期铜收涨336美元，报12558美元/吨。 LME期铝收涨28美元，报2980美元/吨。 LME期锌收涨36美元，报3124美元/吨。 LME期铅收涨4美元，报2010美元/吨。 LME期镍收涨1014美元，报16828美元/吨。 LME期锡收涨1211美元，报41954美元/吨。 LME期钴收涨565美元，报53355美元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3028883",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时21分"
-        },
-        {
           "title": "上海黄金交易所黄金T+D 12月30日（周二）晚盘收盘上涨0.19%报984.0元/克；<br/>上海黄金交易所白银T+D 12月30日（周二）晚盘收盘上涨4.62%报18791.0元/千克。",
           "url": "https://flash.jin10.com/detail/20251231023040179800",
           "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
         },
@@ -1032,7 +1203,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
         }
@@ -1040,7 +1211,7 @@
     },
     {
       "keyword_group": "外交部 商务部 证监会 央行",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "外交部回应特朗普涉中国军演言论",
@@ -1050,8 +1221,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 03时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 04时28分]"
         },
         {
           "title": "白俄外交部：支持中国政府为实现国家统一所作一切努力",
@@ -1061,8 +1232,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 03时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 04时28分]"
         },
         {
           "title": "商务部等8部门办公厅印发《2026年汽车以旧换新补贴实施细则》通知",
@@ -1088,6 +1259,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时32分 ~ 01时24分]"
+        },
+        {
+          "title": "外交部回应特朗普谈解放军军演",
+          "url": "https://www.douyin.com/hot/2352044",
+          "source": "抖音",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时27分 ~ 04时28分]"
+        },
+        {
+          "title": "卡塔尔外交部强调也门统一和领土完整的重要性。卡塔尔表示，沙特阿拉伯和海湾合作委员会成员国的安全是卡塔尔安全“不可分割的一部分”。",
+          "url": "https://flash.jin10.com/detail/20251231032700354800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
+        },
+        {
+          "title": "卡塔尔外交部表示，沙特阿拉伯和阿联酋就也门问题发表的声明体现了“致力于优先考虑地区利益的承诺”。",
+          "url": "https://flash.jin10.com/detail/20251231032428260800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
         },
         {
           "title": "商务部等8部门：2026年对换购符合条件新能源乘用车的 按新车销售价格的8%给予补贴",
