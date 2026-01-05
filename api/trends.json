@@ -1,11 +1,13 @@
 {
-  "generated_at": "2026-01-05T17:36:47.808898+08:00",
-  "total_titles_processed": 1337,
-  "failed_sources": [],
+  "generated_at": "2026-01-05T18:32:21.042026+08:00",
+  "total_titles_processed": 1405,
+  "failed_sources": [
+    "wallstreetcn-quick"
+  ],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 美债 美元 石油 战争",
-      "match_count": 79,
+      "match_count": 84,
       "titles": [
         {
           "title": "不仅仅是石油！美国瞄准委内瑞拉有两大目的",
@@ -19,6 +21,18 @@
           "time_info": "[00时28分 ~ 07时23分]"
         },
         {
+          "title": "本周重磅日程：“科技春晚”CES、马杜罗将在美受审、美非农、智谱MiniMax港股上市",
+          "url": "https://wallstreetcn.com/articles/3762497",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时07分 ~ 18时32分]"
+        },
+        {
           "title": "马杜罗被美国“闪击”，委内瑞拉“传说中的600亿美元比特币”会流向何方？",
           "url": "https://wallstreetcn.com/articles/3762490",
           "source": "华尔街见闻",
@@ -29,18 +43,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时28分 ~ 10时07分]"
-        },
-        {
-          "title": "本周重磅日程：“科技春晚”CES、马杜罗将在美受审、美非农、智谱MiniMax港股上市",
-          "url": "https://wallstreetcn.com/articles/3762497",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时07分 ~ 17时36分]"
         },
         {
           "title": "下周重磅日程：“科技春晚”CES、马杜罗或在美受审、美非农、智谱MiniMax港股上市",
@@ -64,8 +66,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时28分 ~ 17时36分]"
+          "appearance_count": 21,
+          "time_info": "[00时28分 ~ 18时32分]"
         },
         {
           "title": "美国国务卿卢比奥：预计美国石油企业对（投资）委内瑞拉的兴趣较高。 预计委内瑞拉民众将从（美国）石油行业获得石油开采特许权使用费。 （美国）能源部长Wright和内政部长Burgum将对（多家美国）石油公司讲话。",
@@ -127,6 +129,20 @@
           "time_info": "[00时28分 ~ 01时20分]"
         },
         {
+          "title": "特朗普宣布美国接管委内瑞拉，将让美石油巨头进入委内瑞拉，意味着什么？委内瑞拉接下来将面临哪些危机？",
+          "url": "https://www.zhihu.com/question/1991053595043390487",
+          "source": "知乎",
+          "ranks": [
+            18,
+            19,
+            14,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时18分 ~ 18时32分]"
+        },
+        {
           "title": "特朗普政府要求美国石油公司投资委内瑞拉，业内对此态度审慎",
           "url": "https://wallstreetcn.com/livenews/3030325",
           "source": "华尔街见闻-快讯",
@@ -177,7 +193,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时36分"
         },
@@ -191,6 +207,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时18分"
+        },
+        {
+          "title": "中国是否会继续进口委内瑞拉石油？外交部回应",
+          "url": "https://www.cls.cn/detail/2247956",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时36分 ~ 18时32分]"
         },
         {
           "title": "美股三大股指期货周一小幅高开。",
@@ -210,9 +238,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时36分"
+        },
+        {
+          "title": "匈牙利总理欧尔班：委内瑞拉和美国可以控制全球40-50%的石油储备，这会显著影响世界油价。",
+          "url": "https://flash.jin10.com/detail/20260105182732171800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
         },
         {
           "title": "伦锡日内涨幅扩大至5.17%，现报42500.00美元/吨。",
@@ -243,7 +282,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时36分"
         },
@@ -270,17 +309,18 @@
           "time_info": "13时38分"
         },
         {
-          "title": "特朗普宣布美国接管委内瑞拉，将让美石油巨头进入委内瑞拉，意味着什么？委内瑞拉接下来将面临哪些危机？",
-          "url": "https://www.zhihu.com/question/1991053595043390487",
-          "source": "知乎",
+          "title": "A股脑机接口概念集体爆发",
+          "url": "https://www.douyin.com/hot/2357808",
+          "source": "抖音",
           "ranks": [
-            18,
-            19,
-            14
+            14,
+            15,
+            17,
+            18
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[12时18分 ~ 17时36分]"
+          "time_info": "[15时32分 ~ 18时32分]"
         },
         {
           "title": "消息人士：AE工业将支付逾5亿美元以持有该投资组合60%的股权，L3哈里斯公司将保留剩余的40%股权。",
@@ -371,17 +411,40 @@
           "time_info": "[12时18分 ~ 14时43分]"
         },
         {
-          "title": "A股脑机接口概念集体爆发",
-          "url": "https://www.douyin.com/hot/2357808",
-          "source": "抖音",
+          "title": "A股放量上涨收复4000点",
+          "url": "https://search.bilibili.com/all?keyword=A%E8%82%A1%E6%94%BE%E9%87%8F%E4%B8%8A%E6%B6%A8%E6%94%B6%E5%A4%8D4000%E7%82%B9",
+          "source": "bilibili 热搜",
           "ranks": [
-            14,
-            15,
-            17
+            8,
+            7
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[15时32分 ~ 17时36分]"
+          "time_info": "[17时36分 ~ 18时32分]"
+        },
+        {
+          "title": "【每日收评】A股放量普涨迎开门红，沪指12连阳重返4000点，两市成交额突破2.5万亿",
+          "url": "https://www.cls.cn/detail/2248031",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时36分 ~ 18时32分]"
+        },
+        {
+          "title": "段永平再晒苹果持仓，14 年累计收益率超 16 倍，狂赚超 3400 万美元，具有哪些参考性？",
+          "url": "https://www.zhihu.com/question/1991189102696091881",
+          "source": "知乎",
+          "ranks": [
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时36分 ~ 18时32分]"
         },
         {
           "title": "消息人士：委内瑞拉国家石油公司要求部分合资企业削减原油产量，因库存已满。",
@@ -395,6 +458,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时29分 ~ 02时34分]"
+        },
+        {
+          "title": "中方回应是否会继续进口委内瑞拉石油",
+          "url": "https://www.toutiao.com/trending/7591475606391410217/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时36分 ~ 18时32分]"
         },
         {
           "title": "特朗普称美需全面获取委石油及资源",
@@ -445,6 +519,28 @@
           "time_info": "[02时34分 ~ 03时19分]"
         },
         {
+          "title": "外交部回应中国委内瑞拉石油合作",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E4%B8%AD%E5%9B%BD%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E7%9F%B3%E6%B2%B9%E5%90%88%E4%BD%9C%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时30分 ~ 18时32分]"
+        },
+        {
+          "title": "A股开年“百股涨停”！涨停数创半年新高，“20cm股”成香饽饽，这些获融资客布局",
+          "url": "https://www.cls.cn/detail/2248168",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时30分 ~ 18时32分]"
+        },
+        {
           "title": "A股",
           "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=14&Refer=top",
           "source": "微博",
@@ -481,17 +577,6 @@
           "time_info": "[00时29分 ~ 01时20分]"
         },
         {
-          "title": "中国是否会继续进口委内瑞拉石油？外交部回应",
-          "url": "https://www.cls.cn/detail/2247956",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时36分"
-        },
-        {
           "title": "据英国《金融时报》：前雪佛龙高管为委内瑞拉石油项目寻求20亿美元资金。",
           "url": "https://flash.jin10.com/detail/20260105130231301800",
           "source": "金十数据",
@@ -501,17 +586,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时38分"
-        },
-        {
-          "title": "A股放量上涨收复4000点",
-          "url": "https://search.bilibili.com/all?keyword=A%E8%82%A1%E6%94%BE%E9%87%8F%E4%B8%8A%E6%B6%A8%E6%94%B6%E5%A4%8D4000%E7%82%B9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时36分"
         },
         {
           "title": "觊觎委石油资源，美国能如愿吗？",
@@ -542,7 +616,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时36分"
         },
@@ -564,7 +638,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时36分"
         },
@@ -611,17 +685,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时39分"
-        },
-        {
-          "title": "【每日收评】A股放量普涨迎开门红，沪指12连阳重返4000点，两市成交额突破2.5万亿",
-          "url": "https://www.cls.cn/detail/2248031",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时36分"
         },
         {
           "title": "瑞银：预计2026年布伦特油价预测为第一季度末每桶62美元，年中每桶65美元，年底每桶67美元。",
@@ -679,17 +742,6 @@
           "time_info": "10时07分"
         },
         {
-          "title": "段永平再晒苹果持仓，14 年累计收益率超 16 倍，狂赚超 3400 万美元，具有哪些参考性？",
-          "url": "https://www.zhihu.com/question/1991189102696091881",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时36分"
-        },
-        {
           "title": "瑞银：2026年布伦特油价预测为第一季度末每桶62美元，年中每桶65美元，年底每桶67美元。",
           "url": "https://flash.jin10.com/detail/20260105145745061800",
           "source": "金十数据",
@@ -707,9 +759,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时36分"
+        },
+        {
+          "title": "“闪电战”降温避险情绪 美元触及四周高位后动能减弱",
+          "url": "https://flash.jin10.com/detail/20260105175511531800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
         },
         {
           "title": "凯投宏观：委内瑞拉供给变动不会对美债产生显著影响",
@@ -745,17 +808,6 @@
           "time_info": "15时32分"
         },
         {
-          "title": "中方回应是否会继续进口委内瑞拉石油",
-          "url": "https://www.toutiao.com/trending/7591475606391410217/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时36分"
-        },
-        {
           "title": "瑞银集团：在接下来的12个月里，我们预计全球石油市场平衡不会受到任何重大影响。",
           "url": "https://flash.jin10.com/detail/20260105145234311800",
           "source": "金十数据",
@@ -765,6 +817,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
+        },
+        {
+          "title": "据TankerTrackers.com：约有十余艘满载石油的油轮在关闭定位系统的情况下驶离委内瑞拉水域，此举突破了美国实施的封锁。",
+          "url": "https://flash.jin10.com/detail/20260105174747034800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
         },
         {
           "title": "人民币兑美元中间价报7.0230，上调58点；上一交易日中间价7.0288，上一交易日官方收盘价6.9890，上日夜盘报收6.9879。",
@@ -913,7 +976,7 @@
     },
     {
       "keyword_group": "特朗普 马斯克 加密货币 美联储",
-      "match_count": 61,
+      "match_count": 66,
       "titles": [
         {
           "title": "上周六新建账号、本周五下注“马杜罗被抓”、周日爆赚1242%--Polymarket又见“特朗普内幕交易”？",
@@ -922,18 +985,6 @@
           "ranks": [
             3,
             2
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时28分 ~ 10时07分]"
-        },
-        {
-          "title": "开发委内瑞拉“全球第一的原油储备”？特朗普“理想很丰满”，但“现实很骨感”",
-          "url": "https://wallstreetcn.com/articles/3762494",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
           ],
           "is_new": false,
           "appearance_count": 12,
@@ -950,8 +1001,34 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时18分 ~ 17时36分]"
+          "appearance_count": 9,
+          "time_info": "[12时18分 ~ 18时32分]"
+        },
+        {
+          "title": "开发委内瑞拉“全球第一的原油储备”？特朗普“理想很丰满”，但“现实很骨感”",
+          "url": "https://wallstreetcn.com/articles/3762494",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时28分 ~ 10时07分]"
+        },
+        {
+          "title": "美国是否会在哥伦比亚开展行动？特朗普：这听上去挺不错的",
+          "url": "https://wallstreetcn.com/articles/3762529",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时18分 ~ 18时32分]"
         },
         {
           "title": "特朗普为美企进军委内瑞拉“吹号”：准备好“为美国赚钱”",
@@ -1017,18 +1094,16 @@
           "time_info": "[10时07分 ~ 17时36分]"
         },
         {
-          "title": "美国是否会在哥伦比亚开展行动？特朗普：这听上去挺不错的",
-          "url": "https://wallstreetcn.com/articles/3762529",
+          "title": "“如果她不做正确的事，可能比马杜罗更惨”！特朗普警告委内瑞拉“代总统”：必须听美国的",
+          "url": "https://wallstreetcn.com/articles/3762521",
           "source": "华尔街见闻",
           "ranks": [
-            7,
-            6,
-            5,
-            4
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时18分 ~ 17时36分]"
+          "appearance_count": 9,
+          "time_info": "[12时18分 ~ 18时32分]"
         },
         {
           "title": "特朗普威胁委内瑞拉代总统：若不正确行事 将付出更惨痛代价",
@@ -1043,6 +1118,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[10时07分 ~ 16时39分]"
+        },
+        {
+          "title": "中方回应特朗普威胁古巴等国",
+          "url": "https://news.ifeng.com/c/8pfVwlEUPag",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时39分 ~ 18时32分]"
         },
         {
           "title": "特朗普称美国将管理委内瑞拉",
@@ -1084,27 +1170,30 @@
           "time_info": "[14时43分 ~ 16时39分]"
         },
         {
-          "title": "“如果她不做正确的事，可能比马杜罗更惨”！特朗普警告委内瑞拉“代总统”：必须听美国的",
-          "url": "https://wallstreetcn.com/articles/3762521",
-          "source": "华尔街见闻",
+          "title": "中方回应特朗普谈格陵兰岛涉华言论",
+          "url": "https://www.toutiao.com/trending/7591783882828431398/",
+          "source": "今日头条",
           "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时18分 ~ 17时36分]"
-        },
-        {
-          "title": "中方回应特朗普威胁古巴等国",
-          "url": "https://news.ifeng.com/c/8pfVwlEUPag",
-          "source": "凤凰网",
-          "ranks": [
+            5,
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时39分 ~ 17时36分]"
+          "appearance_count": 3,
+          "time_info": "[17时36分 ~ 18时32分]"
+        },
+        {
+          "title": "“特马”重修旧好？美国突袭委内瑞拉后 特朗普和马斯克共进晚餐",
+          "url": "https://www.cls.cn/detail/2247636",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时43分 ~ 18时32分]"
         },
         {
           "title": "以色列总理内塔尼亚胡谈及委内瑞拉局势，表示以色列政府支持美国“恢复自由与正义”的决定与行动，对特朗普的决定表示祝贺，并向执行行动的美军致意。（央视）",
@@ -1127,6 +1216,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时39分 ~ 17时36分]"
+        },
+        {
+          "title": "特朗普接连向6国发出威胁，哥总统强硬表态",
+          "url": "https://news.ifeng.com/c/8pfcK5vNmj2",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时30分 ~ 18时32分]"
         },
         {
           "title": "委内瑞拉后恐是格陵兰岛，丹麦首相强硬回应特朗普！",
@@ -1192,31 +1292,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
-        },
-        {
-          "title": "中方回应特朗普谈格陵兰岛涉华言论",
-          "url": "https://www.toutiao.com/trending/7591783882828431398/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时36分"
-        },
-        {
-          "title": "“特马”重修旧好？美国突袭委内瑞拉后 特朗普和马斯克共进晚餐",
-          "url": "https://www.cls.cn/detail/2247636",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时43分 ~ 17时36分]"
         },
         {
           "title": "如何看待特朗普每天服用过量阿司匹林",
@@ -1306,6 +1381,19 @@
           "time_info": "[05时22分 ~ 07时23分]"
         },
         {
+          "title": "委内瑞拉代总统喊话特朗普",
+          "url": "https://www.baidu.com/s?wd=%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E4%BB%A3%E6%80%BB%E7%BB%9F%E5%96%8A%E8%AF%9D%E7%89%B9%E6%9C%97%E6%99%AE",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            6,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时39分 ~ 18时32分]"
+        },
+        {
           "title": "美军委内瑞拉行动引发党争 民主党人呼吁弹劾特朗普",
           "url": "https://www.cls.cn/detail/2247292",
           "source": "财联社热门",
@@ -1315,6 +1403,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时18分 ~ 14时43分]"
+        },
+        {
+          "title": "特朗普接连向多国发出威胁",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8E%A5%E8%BF%9E%E5%90%91%E5%A4%9A%E5%9B%BD%E5%8F%91%E5%87%BA%E5%A8%81%E8%83%81",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时36分 ~ 18时32分]"
         },
         {
           "title": "美国国务卿鲁比奥：特朗普在委内瑞拉行动上始终拥有多种选择",
@@ -1343,6 +1443,29 @@
           "time_info": "[05时22分 ~ 07时23分]"
         },
         {
+          "title": "特朗普又改口：不相信乌克兰袭击普京官邸",
+          "url": "https://news.ifeng.com/c/8pfVwlEUPcV",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时36分 ~ 18时32分]"
+        },
+        {
+          "title": "格陵兰岛总理回应特朗普",
+          "url": "https://www.baidu.com/s?wd=%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E6%80%BB%E7%90%86%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时36分 ~ 18时32分]"
+        },
+        {
           "title": "俄罗斯联邦安全委员会副主席梅德韦杰夫：特朗普在委内瑞拉的行为虽属非法，但符合其一贯捍卫美国利益的作风。",
           "url": "https://flash.jin10.com/detail/20260104225319283800",
           "source": "金十数据",
@@ -1368,23 +1491,22 @@
           "time_info": "[13时37分 ~ 14时43分]"
         },
         {
+          "title": "国际刑事法院原首席检察官：特朗普犯了“侵略罪”",
+          "url": "https://news.ifeng.com/c/8pfZjM0LgjM",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时30分 ~ 18时32分]"
+        },
+        {
           "title": "美前检察官警告称特朗普还有三年任期",
           "url": "https://www.toutiao.com/trending/7591039861809954852/",
           "source": "今日头条",
           "ranks": [
             15,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时39分 ~ 17时36分]"
-        },
-        {
-          "title": "委内瑞拉代总统喊话特朗普",
-          "url": "https://www.baidu.com/s?wd=%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E4%BB%A3%E6%80%BB%E7%BB%9F%E5%96%8A%E8%AF%9D%E7%89%B9%E6%9C%97%E6%99%AE",
-          "source": "百度热搜",
-          "ranks": [
-            24,
             6
           ],
           "is_new": false,
@@ -1404,6 +1526,17 @@
           "time_info": "[02时34分 ~ 03时19分]"
         },
         {
+          "title": "马斯克放出“量产时间表”，脑机接口集体涨停，商业化拐点来了？",
+          "url": "https://wallstreetcn.com/articles/3762545",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时30分 ~ 18时32分]"
+        },
+        {
           "title": "特朗普称美国“掌控着委内瑞拉”",
           "url": "https://www.toutiao.com/trending/7591367635717373988/",
           "source": "今日头条",
@@ -1413,6 +1546,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时37分 ~ 13时38分]"
+        },
+        {
+          "title": "特朗普威胁多国",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E5%A4%9A%E5%9B%BD%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时30分 ~ 18时32分]"
         },
         {
           "title": "特朗普称美国已“掌控”委内瑞拉",
@@ -1495,17 +1639,6 @@
           "time_info": "14时43分"
         },
         {
-          "title": "特朗普又改口：不相信乌克兰袭击普京官邸",
-          "url": "https://news.ifeng.com/c/8pfVwlEUPcV",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时36分"
-        },
-        {
           "title": "特朗普要求委内瑞拉向美国提供“完全准入”",
           "url": "https://flash.jin10.com/detail/20260105094539512800",
           "source": "金十数据",
@@ -1539,6 +1672,17 @@
           "time_info": "12时18分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-05）",
+          "url": "https://flash.jin10.com/detail/20260105181208268800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
+        },
+        {
           "title": "特朗普威胁委代总统：或付出更惨代价",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E5%A7%94%E4%BB%A3%E6%80%BB%E7%BB%9F%EF%BC%9A%E6%88%96%E4%BB%98%E5%87%BA%E6%9B%B4%E6%83%A8%E4%BB%A3%E4%BB%B7",
           "source": "百度热搜",
@@ -1548,17 +1692,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
-        },
-        {
-          "title": "格陵兰岛总理回应特朗普",
-          "url": "https://www.baidu.com/s?wd=%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E6%80%BB%E7%90%86%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE",
-          "source": "百度热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时36分"
         },
         {
           "title": "特朗普称不相信乌克兰曾袭击普京住所",
@@ -1578,7 +1711,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时36分"
         },
@@ -1592,17 +1725,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
-        },
-        {
-          "title": "特朗普接连向多国发出威胁",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8E%A5%E8%BF%9E%E5%90%91%E5%A4%9A%E5%9B%BD%E5%8F%91%E5%87%BA%E5%A8%81%E8%83%81",
-          "source": "百度热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时36分"
         },
         {
           "title": "特朗普威胁委内瑞拉代理总统",
@@ -1622,7 +1744,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时36分"
         },
@@ -1652,7 +1774,7 @@
     },
     {
       "keyword_group": "DeepSeek AI openai 机器人 小米 特斯拉 英伟达",
-      "match_count": 32,
+      "match_count": 33,
       "titles": [
         {
           "title": "网传元宝 AI 辱骂用户，腾讯称是模型异常输出，非人工回复，技术上如何分析？其他 AI 也可能这样吗？",
@@ -1663,8 +1785,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时07分 ~ 17时36分]"
+          "appearance_count": 10,
+          "time_info": "[10时07分 ~ 18时32分]"
         },
         {
           "title": "雷军回应质疑：“小字营销”是行业陋习小米将立刻改正，今年目标交付55万辆",
@@ -1735,8 +1857,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时28分 ~ 17时36分]"
+          "appearance_count": 21,
+          "time_info": "[00时28分 ~ 18时32分]"
         },
         {
           "title": "小米通过直播拆车、集中回应「200 瞬间刹停」「小字营销」等争议，能有效扭转舆论吗？用户的诉求是什么？",
@@ -1798,6 +1920,49 @@
           "time_info": "[00时28分 ~ 07时23分]"
         },
         {
+          "title": "比亚迪超越特斯拉，成为 2025 年纯电汽车全球销冠，这意味着什么？你觉得未来电动汽车市场拼的是什么？",
+          "url": "https://www.zhihu.com/question/1990770031445942920",
+          "source": "知乎",
+          "ranks": [
+            12,
+            13,
+            5,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时18分 ~ 18时32分]"
+        },
+        {
+          "title": "全球车企市值“大洗牌”：小米、比亚迪稳居三四位 保时捷跌出TOP10",
+          "url": "https://www.cls.cn/detail/2247690",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时43分 ~ 18时32分]"
+        },
+        {
+          "title": "从AI新能源与游戏看中国式现代化",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BB%8EAI%E6%96%B0%E8%83%BD%E6%BA%90%E4%B8%8E%E6%B8%B8%E6%88%8F%E7%9C%8B%E4%B8%AD%E5%9B%BD%E5%BC%8F%E7%8E%B0%E4%BB%A3%E5%8C%96",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            23,
+            18,
+            29,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时18分 ~ 18时32分]"
+        },
+        {
           "title": "宇树机器人H2腾空侧踢吓退王兴兴",
           "url": "https://www.toutiao.com/trending/7591130254992261139/",
           "source": "今日头条",
@@ -1811,45 +1976,17 @@
           "time_info": "[02时34分 ~ 07时23分]"
         },
         {
-          "title": "比亚迪超越特斯拉，成为 2025 年纯电汽车全球销冠，这意味着什么？你觉得未来电动汽车市场拼的是什么？",
-          "url": "https://www.zhihu.com/question/1990770031445942920",
-          "source": "知乎",
+          "title": "宇树人形机器人H2训练视频曝光：腾空侧踢吓退王兴兴",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32316977",
+          "source": "澎湃新闻",
           "ranks": [
-            12,
-            13,
-            5,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时18分 ~ 17时36分]"
-        },
-        {
-          "title": "全球车企市值“大洗牌”：小米、比亚迪稳居三四位 保时捷跌出TOP10",
-          "url": "https://www.cls.cn/detail/2247690",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时43分 ~ 17时36分]"
-        },
-        {
-          "title": "从AI新能源与游戏看中国式现代化",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BB%8EAI%E6%96%B0%E8%83%BD%E6%BA%90%E4%B8%8E%E6%B8%B8%E6%88%8F%E7%9C%8B%E4%B8%AD%E5%9B%BD%E5%BC%8F%E7%8E%B0%E4%BB%A3%E5%8C%96",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            23,
-            18,
-            29
+            15,
+            14,
+            3
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[12时18分 ~ 16时39分]"
+          "time_info": "[14时43分 ~ 18时32分]"
         },
         {
           "title": "法国检方对马斯克旗下聊天机器人涉嫌生成非法内容启动调查",
@@ -1861,6 +1998,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时29分 ~ 06时24分]"
+        },
+        {
+          "title": "AI说啥我穿啥",
+          "url": "https://www.douyin.com/hot/2357791",
+          "source": "抖音",
+          "ranks": [
+            5,
+            22,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时32分 ~ 18时32分]"
         },
         {
           "title": "微信发布AI小程序成长计划",
@@ -1890,36 +2040,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E5%BD%93AI%E9%81%87%E4%B8%8A3D%E6%B3%B0%E5%9D%A6%E5%B0%BC%E5%85%8B%E5%8F%B7%E5%8A%A8%E7%94%BB",
           "source": "bilibili 热搜",
           "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时39分"
-        },
-        {
-          "title": "宇树人形机器人H2训练视频曝光：腾空侧踢吓退王兴兴",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32316977",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            14,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时43分 ~ 17时36分]"
-        },
-        {
-          "title": "AI说啥我穿啥",
-          "url": "https://www.douyin.com/hot/2357791",
-          "source": "抖音",
-          "ranks": [
-            5,
-            22
+            3,
+            19
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[15时32分 ~ 17时36分]"
+          "time_info": "[16时39分 ~ 18时32分]"
         },
         {
           "title": "智元机器人与MiniMax达成合作，全模态AI加速落地机器人应用",
@@ -1946,6 +2072,18 @@
           "time_info": "[12时18分 ~ 13时38分]"
         },
         {
+          "title": "AI催生存储价格狂飙！日韩股市齐创新高，三星涨近5%、SK海力士涨近3%",
+          "url": "https://wallstreetcn.com/articles/3762525",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时18分 ~ 18时32分]"
+        },
+        {
           "title": "AI应用风向标来了？CES+通义硬件展即将举行 这些品牌有望吸睛",
           "url": "https://www.cls.cn/detail/2247232",
           "source": "财联社热门",
@@ -1968,18 +2106,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时38分 ~ 14时43分]"
-        },
-        {
-          "title": "AI催生存储价格狂飙！日韩股市齐创新高，三星涨近5%、SK海力士涨近3%",
-          "url": "https://wallstreetcn.com/articles/3762525",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时18分 ~ 17时36分]"
         },
         {
           "title": "腾讯启动AI小程序成长计划",
@@ -2027,13 +2153,24 @@
           "time_info": "16时39分"
         },
         {
+          "title": "委内瑞拉Canaima公司：马杜罗下台是与美国谈判的第一步。",
+          "url": "https://flash.jin10.com/detail/20260105182211275800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
+        },
+        {
           "title": "乘联分会：特斯拉(TSLA.O)2025年12月在中国市场售出97,171辆国产汽车。",
           "url": "https://flash.jin10.com/detail/20260105164651738800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时36分"
         },
@@ -2055,7 +2192,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时36分"
         }
@@ -2063,7 +2200,7 @@
     },
     {
       "keyword_group": "外交部 商务部 证监会 央行",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "外交部：呼吁美方立即释放马杜罗总统夫妇，通过对话谈判解决问题",
@@ -2093,11 +2230,12 @@
           "source": "凤凰网",
           "ranks": [
             2,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时39分 ~ 17时36分]"
+          "appearance_count": 4,
+          "time_info": "[16时39分 ~ 18时32分]"
         },
         {
           "title": "捷克央行行长：捷克央行计划维持紧缩的货币政策。",
@@ -2119,9 +2257,23 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时36分"
+        },
+        {
+          "title": "外交部回应美对委军事打击",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%AF%B9%E5%A7%94%E5%86%9B%E4%BA%8B%E6%89%93%E5%87%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17,
+            29,
+            23,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时18分 ~ 18时32分]"
         },
         {
           "title": "据英国金融时报：欧洲央行的“数字欧元”项目将于2026年面临决定性投票。",
@@ -2152,7 +2304,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时36分"
         },
@@ -2163,9 +2315,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时36分"
+        },
+        {
+          "title": "外交部回应委内瑞拉形势突变",
+          "url": "https://www.douyin.com/hot/2358039",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时39分 ~ 18时32分]"
         },
         {
           "title": "据阿尔及利亚据国家媒体：阿尔及利亚解除了央行行长萨拉赫丁·塔莱布的职务，并任命副行长穆阿塔塞姆·布迪亚夫为代理行长。",
@@ -2181,29 +2344,26 @@
           "time_info": "[02时34分 ~ 04时27分]"
         },
         {
-          "title": "外交部回应美对委军事打击",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%AF%B9%E5%A7%94%E5%86%9B%E4%BA%8B%E6%89%93%E5%87%BB",
-          "source": "bilibili 热搜",
+          "title": "外交部回应特朗普对多国发出威胁",
+          "url": "https://www.toutiao.com/trending/7590815336937996329/",
+          "source": "今日头条",
           "ranks": [
-            17,
-            29,
-            23,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时18分 ~ 16时39分]"
-        },
-        {
-          "title": "外交部回应委内瑞拉形势突变",
-          "url": "https://www.douyin.com/hot/2358039",
-          "source": "抖音",
-          "ranks": [
-            6
+            24
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时39分 ~ 17时36分]"
+          "time_info": "[18时30分 ~ 18时32分]"
+        },
+        {
+          "title": "外交部就安理会将召开紧急会议答问",
+          "url": "https://www.toutiao.com/trending/7591726996669874219/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时30分 ~ 18时32分]"
         },
         {
           "title": "泰国央行拟审查通胀权重以反映生活成本",
@@ -2278,7 +2438,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时36分"
         },
@@ -2387,8 +2547,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时07分 ~ 17时36分]"
+          "appearance_count": 10,
+          "time_info": "[10时07分 ~ 18时32分]"
         },
         {
           "title": "现货白银向上触及73美元/盎司，日内涨0.86%。",
@@ -2408,7 +2568,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时36分"
         },
@@ -2511,7 +2671,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时36分"
         },
@@ -2555,7 +2715,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时36分"
         },
@@ -2566,7 +2726,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时36分"
         },
@@ -2588,7 +2748,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时36分"
         },
@@ -2621,7 +2781,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时36分"
         },
