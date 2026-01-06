@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-07T01:27:05.647286+08:00",
-  "total_titles_processed": 391,
+  "generated_at": "2026-01-07T02:37:29.880650+08:00",
+  "total_titles_processed": 458,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek AI openai 机器人 小米 特斯拉 英伟达",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
         {
           "title": "英伟达发布新一代Rubin平台，推理成本较Blackwell降10倍，已全面投产拟下半年发货",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 01时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 02时37分]"
         },
         {
           "title": "英伟达(NVDA.O)首席财务官：已与客户就2027年数据中心展开“讨论”。",
@@ -36,9 +36,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：新款芯片的能效比上一代提升10倍。我们希望拥有更多能源。我们必须投资各种类型的能源。",
+          "url": "https://flash.jin10.com/detail/20260107023345344800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时37分"
         },
         {
           "title": "英伟达(NVDA.O)首席财务官：在Vera Rubin芯片投入生产之际，我们对供应链感到非常稳固。",
@@ -50,6 +61,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时34分"
+        },
+        {
+          "title": "物理AI的ChatGPT时刻！英伟达“内驱”无人驾驶汽车将至，将于一季度在美国上路",
+          "url": "https://wallstreetcn.com/articles/3762605",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 02时37分]"
         },
         {
           "title": "环球音乐集团（UMG）与英伟达围绕AI音乐创作、探索构建合作伙伴关系。",
@@ -64,6 +87,28 @@
           "time_info": "[00时34分 ~ 01时27分]"
         },
         {
+          "title": "计划投放KOL遭粉丝抵制 小米通报",
+          "url": "https://www.baidu.com/s?wd=%E8%AE%A1%E5%88%92%E6%8A%95%E6%94%BEKOL%E9%81%AD%E7%B2%89%E4%B8%9D%E6%8A%B5%E5%88%B6+%E5%B0%8F%E7%B1%B3%E9%80%9A%E6%8A%A5",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 02时37分]"
+        },
+        {
+          "title": "英伟达做了个FSD？马斯克淡定回应：我不会为此失眠",
+          "url": "https://wallstreetcn.com/articles/3762641",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 02时37分]"
+        },
+        {
           "title": "小米发布处罚声明",
           "url": "https://wallstreetcn.com/livenews/3031784",
           "source": "华尔街见闻-快讯",
@@ -76,40 +121,6 @@
           "time_info": "[00时34分 ~ 01时27分]"
         },
         {
-          "title": "物理AI的ChatGPT时刻！英伟达“内驱”无人驾驶汽车将至，将于一季度在美国上路",
-          "url": "https://wallstreetcn.com/articles/3762605",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 01时27分]"
-        },
-        {
-          "title": "计划投放KOL遭粉丝抵制 小米通报",
-          "url": "https://www.baidu.com/s?wd=%E8%AE%A1%E5%88%92%E6%8A%95%E6%94%BEKOL%E9%81%AD%E7%B2%89%E4%B8%9D%E6%8A%B5%E5%88%B6+%E5%B0%8F%E7%B1%B3%E9%80%9A%E6%8A%A5",
-          "source": "百度热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 01时27分]"
-        },
-        {
-          "title": "英伟达做了个FSD？马斯克淡定回应：我不会为此失眠",
-          "url": "https://wallstreetcn.com/articles/3762641",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 01时27分]"
-        },
-        {
           "title": "英伟达发布DLSS 4.5",
           "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%8F%91%E5%B8%83DLSS%204.5",
           "source": "bilibili 热搜",
@@ -117,30 +128,44 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 01时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 02时37分]"
         },
         {
           "title": "除冰机器人在线吃冰",
           "url": "https://s.weibo.com/weibo?q=%23%E9%99%A4%E5%86%B0%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%9C%A8%E7%BA%BF%E5%90%83%E5%86%B0%23&t=31&band_rank=6&Refer=top",
           "source": "微博",
           "ranks": [
-            6
+            6,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时26分 ~ 01时27分]"
+          "appearance_count": 3,
+          "time_info": "[01时26分 ~ 02时37分]"
         },
         {
           "title": "小米就接触 KOL 一事发布处罚声明，经办人员被辞退，许斐和徐洁云取消奖金，怎样看待小米这一处罚？",
           "url": "https://www.zhihu.com/question/1992010161733199440",
           "source": "知乎",
           "ranks": [
-            18
+            18,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时26分 ~ 02时37分]"
+        },
+        {
+          "title": "特斯拉为何甩出购车“王炸”",
+          "url": "https://www.toutiao.com/trending/7592123343231258158/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            30
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时26分 ~ 01时27分]"
+          "time_info": "[00时34分 ~ 02时37分]"
         },
         {
           "title": "为何说AI抢走了你的内存",
@@ -160,7 +185,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
         },
@@ -171,7 +196,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
         },
@@ -182,7 +207,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
         },
@@ -204,7 +229,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
         },
@@ -215,7 +240,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
         },
@@ -237,9 +262,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
+        },
+        {
+          "title": "西门子与英伟达扩大合作伙伴关系，将打造工业AI OS（人工智能操作系统）。 英伟达将提供AI基础设施，西门子将提供AI专家、硬件、软件。",
+          "url": "https://wallstreetcn.com/livenews/3031819",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时37分"
         },
         {
           "title": "英伟达(NVDA.O)首席财务官：需求较此前预测的5000亿美元有所增长。",
@@ -248,7 +284,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
         },
@@ -270,7 +306,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
         },
@@ -292,27 +328,28 @@
           "ranks": [
             28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时27分"
-        },
-        {
-          "title": "特斯拉为何甩出购车“王炸”",
-          "url": "https://www.toutiao.com/trending/7592123343231258158/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时34分"
+          "time_info": "01时27分"
         }
       ]
     },
     {
       "keyword_group": "美股 A股 港股 美债 美元 石油 战争",
-      "match_count": 20,
+      "match_count": 24,
       "titles": [
+        {
+          "title": "2026年A股牛市有望持续吗",
+          "url": "https://search.bilibili.com/all?keyword=2026%E5%B9%B4A%E8%82%A1%E7%89%9B%E5%B8%82%E6%9C%89%E6%9C%9B%E6%8C%81%E7%BB%AD%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 02时37分]"
+        },
         {
           "title": "资金火力全开！A股2万亿渐成常态，三大板块连获“扫货”，哪些个股持续吸金？",
           "url": "https://www.cls.cn/detail/2249345",
@@ -325,16 +362,28 @@
           "time_info": "[00时34分 ~ 01时27分]"
         },
         {
-          "title": "2026年A股牛市有望持续吗",
-          "url": "https://search.bilibili.com/all?keyword=2026%E5%B9%B4A%E8%82%A1%E7%89%9B%E5%B8%82%E6%9C%89%E6%9C%9B%E6%8C%81%E7%BB%AD%E5%90%97",
-          "source": "bilibili 热搜",
+          "title": "周二（1月6日），美联储隔夜逆回购协议（RRP）使用规模为25.82亿美元（交易对手10家），上个交易日报64.85亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3031839",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4,
-            5
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时37分"
+        },
+        {
+          "title": "2025年全年新增开户2744万户，这在A股史上是什么水平？",
+          "url": "https://www.cls.cn/detail/2249723",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 01时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 02时37分]"
         },
         {
           "title": "美股三大期指涨跌不一 存储概念股持续走强 | 今夜看点",
@@ -345,20 +394,21 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 01时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 02时37分]"
         },
         {
-          "title": "2025年全年新增开户2744万户，这在A股史上是什么水平？",
-          "url": "https://www.cls.cn/detail/2249723",
-          "source": "财联社热门",
+          "title": "王者荣耀2025年营收超20亿美元",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%802025%E5%B9%B4%E8%90%A5%E6%94%B6%E8%B6%8520%E4%BA%BF%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
           "ranks": [
-            9,
-            8
+            22,
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 01时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 02时37分]"
         },
         {
           "title": "A股“13连阳” 散户机构都在入场",
@@ -373,16 +423,16 @@
           "time_info": "[00时34分 ~ 01时27分]"
         },
         {
-          "title": "王者荣耀2025年营收超20亿美元",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%802025%E5%B9%B4%E8%90%A5%E6%94%B6%E8%B6%8520%E4%BA%BF%E7%BE%8E%E5%85%83",
-          "source": "百度热搜",
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨1.17%，暂报4205.07点，期内震荡上行，北京时间22:25刷新日高至4368.68点，随后快速回吐涨幅。 MarketVectorTM数字资产100中盘指数跌0.19%，报19357.62点。 MarketVector数字资产100指数涨0.13%，报3926.05点。 比特币目前跌1.95%，暂报92452.42美元，以太坊涨0.02%，报3243.49美元。 Solana涨0.05%，狗狗币跌4.51%，XRP跌1.44%。",
+          "url": "https://wallstreetcn.com/livenews/3031812",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            22,
-            20
+            6,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 01时27分]"
+          "appearance_count": 2,
+          "time_info": "[01时27分 ~ 02时37分]"
         },
         {
           "title": "美元/瑞郎日内涨幅达0.5%，报0.7953。",
@@ -403,18 +453,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时27分"
-        },
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨1.17%，暂报4205.07点，期内震荡上行，北京时间22:25刷新日高至4368.68点，随后快速回吐涨幅。 MarketVectorTM数字资产100中盘指数跌0.19%，报19357.62点。 MarketVector数字资产100指数涨0.13%，报3926.05点。 比特币目前跌1.95%，暂报92452.42美元，以太坊涨0.02%，报3243.49美元。 Solana涨0.05%，狗狗币跌4.51%，XRP跌1.44%。",
-          "url": "https://wallstreetcn.com/livenews/3031812",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
         },
@@ -425,9 +464,31 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
+        },
+        {
+          "title": "城堡证券：看好“一月效应”引发美股反弹",
+          "url": "https://wallstreetcn.com/livenews/3031829",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时37分"
+        },
+        {
+          "title": "周二（1月6日），韩元兑美元最终跌0.16%，报1447.45韩元。",
+          "url": "https://wallstreetcn.com/livenews/3031826",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时37分"
         },
         {
           "title": "美国总统特朗普：将（在委内瑞拉）钻探大量石油。 钻探将进一步降低油价。 数日内将与14家公司会面。",
@@ -436,7 +497,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
         },
@@ -447,7 +508,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
         },
@@ -463,13 +524,24 @@
           "time_info": "00时34分"
         },
         {
+          "title": "美联储在固定利率逆回购操作中总计接纳了10个对手方的25.82亿美元。",
+          "url": "https://flash.jin10.com/detail/20260107021707793800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时37分"
+        },
+        {
           "title": "特朗普称将与石油公司和保险公司举行会谈",
           "url": "https://wallstreetcn.com/livenews/3031790",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
         },
@@ -491,7 +563,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
         },
@@ -502,7 +574,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
         },
@@ -513,7 +585,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
         },
@@ -543,8 +615,19 @@
     },
     {
       "keyword_group": "特朗普 马斯克 加密货币 美联储",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
+        {
+          "title": "特朗普不到1年对7国动武",
+          "url": "https://www.toutiao.com/trending/7591141159599276095/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 02时37分]"
+        },
         {
           "title": "美国总统特朗普再次批评国防承包商，称：将与承包商们对话。",
           "url": "https://wallstreetcn.com/livenews/3031788",
@@ -558,17 +641,6 @@
           "time_info": "[00时34分 ~ 01时27分]"
         },
         {
-          "title": "特朗普不到1年对7国动武",
-          "url": "https://www.toutiao.com/trending/7591141159599276095/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 01时27分]"
-        },
-        {
           "title": "特朗普下一个目标？丹麦首相：美国若“强取”格陵兰岛，意味着北约的终结",
           "url": "https://wallstreetcn.com/articles/3762615",
           "source": "华尔街见闻",
@@ -576,8 +648,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 01时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 02时37分]"
         },
         {
           "title": "比特币价格上涨引发疯狂猜想：委内瑞拉是否存有隐秘的加密货币？",
@@ -588,8 +660,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 01时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 02时37分]"
         },
         {
           "title": "曝特朗普对委动手前曾暗示油企高管",
@@ -600,8 +672,20 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 01时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 02时37分]"
+        },
+        {
+          "title": "特朗普向多个国家发出威胁",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%91%E5%A4%9A%E4%B8%AA%E5%9B%BD%E5%AE%B6%E5%8F%91%E5%87%BA%E5%A8%81%E8%83%81",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时34分 ~ 02时37分]"
         },
         {
           "title": "特朗普：医疗保险费太贵了。",
@@ -626,15 +710,15 @@
           "time_info": "00时34分"
         },
         {
-          "title": "特朗普向多个国家发出威胁",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%91%E5%A4%9A%E4%B8%AA%E5%9B%BD%E5%AE%B6%E5%8F%91%E5%87%BA%E5%A8%81%E8%83%81",
-          "source": "bilibili 热搜",
+          "title": "大摩申请发行加密货币ETF，加入华尔街布局行列",
+          "url": "https://wallstreetcn.com/livenews/3031825",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            13
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时34分"
+          "time_info": "02时37分"
         },
         {
           "title": "美国总统特朗普：将加快武器生产速度。 F-35战斗机和阿帕奇直升机的生产时间太长。",
@@ -657,6 +741,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时34分"
+        },
+        {
+          "title": "特朗普警告：若共和党在美国中期选举中失利，他将被弹劾",
+          "url": "https://wallstreetcn.com/livenews/3031823",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时37分"
         },
         {
           "title": "美国总统特朗普：将在2026年中期选举里取得“史诗级”胜利。",
@@ -698,7 +793,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
         },
@@ -720,7 +815,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
         },
@@ -739,7 +834,7 @@
     },
     {
       "keyword_group": "黄金 白银 铜 铝 稀土",
-      "match_count": 12,
+      "match_count": 17,
       "titles": [
         {
           "title": "我国将白银列为战略物资释放何信号",
@@ -749,8 +844,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 01时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 02时37分]"
         },
         {
           "title": "消息人士：中方正研究收紧对日稀土出口许可审查",
@@ -760,8 +855,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 01时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 02时37分]"
         },
         {
           "title": "地缘紧张但未失控，美股债同涨，道指新高，疲软美元撑商品走强，原油转涨，白银暴涨",
@@ -771,30 +866,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 01时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 02时37分]"
         },
         {
           "title": "消息人士：中方正研究收紧对日稀土出口许可审查",
           "url": "https://www.cls.cn/detail/2249759",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 01时27分]"
-        },
-        {
-          "title": "沪镍夜盘收涨停，沪锡涨4.8%，不锈钢涨4.3%，沪铝涨2.6%",
-          "url": "https://wallstreetcn.com/livenews/3031816",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时27分"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 02时37分]"
         },
         {
           "title": "美股指涨跌互现，纳指涨0.3%，闪迪股价创新高，全球股指触及历史高位，现货白银日内涨4%，伦铜再创新高，油价震荡",
@@ -805,20 +890,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 01时27分]"
-        },
-        {
-          "title": "国投白银LOF1月7日将停牌1小时",
-          "url": "https://www.douyin.com/hot/2359164",
-          "source": "抖音",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 01时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 02时37分]"
         },
         {
           "title": "中方研究收紧对日稀土出口许可审查",
@@ -828,19 +901,45 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 01时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 02时37分]"
+        },
+        {
+          "title": "国投白银LOF1月7日将停牌1小时",
+          "url": "https://www.douyin.com/hot/2359164",
+          "source": "抖音",
+          "ranks": [
+            6,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 02时37分]"
+        },
+        {
+          "title": "沪镍夜盘收涨停，沪锡涨4.8%，不锈钢涨4.3%，沪铝涨2.6%",
+          "url": "https://wallstreetcn.com/livenews/3031816",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时27分 ~ 02时37分]"
         },
         {
           "title": "张凯毅起诉黄金凤冠造谣者",
           "url": "https://www.douyin.com/hot/2359395",
           "source": "抖音",
           "ranks": [
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 01时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 02时37分]"
         },
         {
           "title": "中方正研究收紧对日稀土出口许可审查",
@@ -851,8 +950,63 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 01时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 02时37分]"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 1月6日（周二）晚盘收盘上涨0.7%报1007.0元/克；<br/>上海黄金交易所白银T+D 1月6日（周二）晚盘收盘上涨2.95%报19810.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260107023117313800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时37分"
+        },
+        {
+          "title": "现货白银日内涨幅达6.0%，报81.21美元/盎司。 纽约银日内涨幅达6.0%，报81.28美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3031832",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时37分"
+        },
+        {
+          "title": "LME期铜收涨246美元，报13238美元/吨。 LME期铝收涨44美元，报3129美元/吨。 LME期锌收涨56美元，报3251美元/吨。 LME期铅收涨52美元，报2076美元/吨。 LME期镍收涨1521美元，报18524美元/吨。 LME期锡收涨2060美元，报44526美元/吨。 LME期钴收涨1455美元，报56290美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3031831",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时37分"
+        },
+        {
+          "title": "现货白银站上81美元/盎司，日内涨5.76%。",
+          "url": "https://wallstreetcn.com/livenews/3031828",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时37分"
+        },
+        {
+          "title": "现货黄金日内涨幅扩大至1.00%，现报4493.40美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260107021903745800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时37分"
         },
         {
           "title": "金价大涨 黄金珠宝行业面临分化",
@@ -880,7 +1034,7 @@
     },
     {
       "keyword_group": "外交部 商务部 证监会 央行",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "事关对日出口管制！商务部发布新年第1号公告",
@@ -890,8 +1044,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 01时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 02时37分]"
         },
         {
           "title": "商务部表示为维护国家安全和利益，决定加强两用物项对日本出口管制，什么是两用物项？此举会带来哪些影响？",
@@ -901,8 +1055,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 01时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 02时37分]"
         },
         {
           "title": "商务部：加强两用物项对日本出口管制",
@@ -912,8 +1066,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 01时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 02时37分]"
         },
         {
           "title": "央行：继续实施适度宽松的货币政策 加大逆周期和跨周期调节力度",
@@ -923,8 +1077,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 01时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 02时37分]"
         },
         {
           "title": "石平声称台湾是“国家”，外交部：宵小狂言",
@@ -934,8 +1088,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 01时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 02时37分]"
         },
         {
           "title": "外交部回应日方拟修订安保三文件",
@@ -945,8 +1099,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 01时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 02时37分]"
         },
         {
           "title": "马杜罗对美方指控不认罪称“被绑架”“仍是总统”，外交部回应",
@@ -956,8 +1110,30 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 01时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 02时37分]"
+        },
+        {
+          "title": "哥伦比亚外交部向美国发出抗议照会",
+          "url": "https://flash.jin10.com/detail/20260107022934027800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时37分"
+        },
+        {
+          "title": "法国外交部：七国集团外长将于晚些时候举行电话会议，讨论委内瑞拉和乌克兰问题。",
+          "url": "https://flash.jin10.com/detail/20260107022825178800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时37分"
         },
         {
           "title": "立陶宛将提名Sadzius为欧洲央行副主席。",
