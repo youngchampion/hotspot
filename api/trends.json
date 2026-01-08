@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-08T13:29:36.365513+08:00",
-  "total_titles_processed": 1161,
+  "generated_at": "2026-01-08T14:39:34.045864+08:00",
+  "total_titles_processed": 1264,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 美债 美元 石油 战争",
-      "match_count": 114,
+      "match_count": 121,
       "titles": [
         {
           "title": "直击存储芯片风口：A股头部公司及“预备队”各家优势一览",
@@ -26,11 +26,12 @@
           "ranks": [
             7,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时35分 ~ 13时29分]"
+          "appearance_count": 17,
+          "time_info": "[00时35分 ~ 14时39分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 国防股遭特朗普点名打压",
@@ -42,8 +43,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时24分 ~ 13时29分]"
+          "appearance_count": 8,
+          "time_info": "[07时24分 ~ 14时39分]"
         },
         {
           "title": "特朗普称「委内瑞拉临时政府将向美移交 3 千万至 5 千万桶石油」，委内瑞拉妥协了吗？",
@@ -81,11 +82,26 @@
           "ranks": [
             2,
             5,
-            6
+            6,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时44分 ~ 13时29分]"
+          "appearance_count": 5,
+          "time_info": "[11时44分 ~ 14时39分]"
+        },
+        {
+          "title": "彻底不减支了？特朗普称2027年美军事预算应是1.5万亿美元，较今年暴增50%",
+          "url": "https://wallstreetcn.com/articles/3762789",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时44分 ~ 14时39分]"
         },
         {
           "title": "ADP就业温和复苏，纳指期货跌幅收窄，欧美债价格上行，金银跌幅扩大，油价承压",
@@ -154,6 +170,17 @@
           "time_info": "12时43分"
         },
         {
+          "title": "伦镍日内大跌4.00%，现报16904.00美元/吨。",
+          "url": "https://flash.jin10.com/detail/20260108141117780800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
+        },
+        {
           "title": "委内瑞拉国家石油公司PDVSA：与美国洽谈出售石油。",
           "url": "https://wallstreetcn.com/livenews/3032648",
           "source": "华尔街见闻-快讯",
@@ -165,17 +192,15 @@
           "time_info": "02时38分"
         },
         {
-          "title": "彻底不减支了？特朗普称2027年美军事预算应是1.5万亿美元，较今年暴增50%",
-          "url": "https://wallstreetcn.com/articles/3762789",
-          "source": "华尔街见闻",
+          "title": "纽约期银日内跌超3.00%，现报75.26美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260108140701515800",
+          "source": "金十数据",
           "ranks": [
-            10,
-            6,
-            5
+            4
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时44分 ~ 13时29分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
         },
         {
           "title": "美经济数据喜忧参半，美股涨势暂歇，美债受捧，贵金属回落",
@@ -198,6 +223,40 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
+        },
+        {
+          "title": "美股三大股指期货持续下挫，纳指期货跌超0.6%，标普500指数期货跌0.4%，道指期货跌0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3033005",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
+        },
+        {
+          "title": "万斯：符合美国的国家利益，委内瑞拉才能卖石油",
+          "url": "https://news.ifeng.com/c/8pk6RERKOE8",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时44分 ~ 14时39分]"
+        },
+        {
+          "title": "俄乌战争再现“和平信号”？泽连斯基乐观预测：上半年应能结束！",
+          "url": "https://www.cls.cn/detail/2251228",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时44分 ~ 14时39分]"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9917元，较周二夜盘收盘跌87点。成交量532.36亿美元。",
@@ -309,15 +368,16 @@
           "time_info": "[03时23分 ~ 04时30分]"
         },
         {
-          "title": "万斯：符合美国的国家利益，委内瑞拉才能卖石油",
-          "url": "https://news.ifeng.com/c/8pk6RERKOE8",
-          "source": "凤凰网",
+          "title": "特朗普骂它像沥青，却为它动武，委内瑞拉的「垃圾」石油到底怎么样？",
+          "url": "https://www.zhihu.com/question/1991444028256907311",
+          "source": "知乎",
           "ranks": [
-            9
+            8,
+            11
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[11时44分 ~ 13时29分]"
+          "time_info": "[12时42分 ~ 14时39分]"
         },
         {
           "title": "美国能源部长赖特：埃克森美孚石油(XOM.N)和康菲石油(COP.N)的债务未来需要进一步偿还。",
@@ -344,28 +404,6 @@
           "time_info": "[06时25分 ~ 07时24分]"
         },
         {
-          "title": "俄乌战争再现“和平信号”？泽连斯基乐观预测：上半年应能结束！",
-          "url": "https://www.cls.cn/detail/2251228",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时44分 ~ 13时29分]"
-        },
-        {
-          "title": "特朗普骂它像沥青，却为它动武，委内瑞拉的「垃圾」石油到底怎么样？",
-          "url": "https://www.zhihu.com/question/1991444028256907311",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时42分 ~ 13时29分]"
-        },
-        {
           "title": "5000万桶石油只是开始？美国宣称：将“无限期”控制委内瑞拉石油销售",
           "url": "https://www.cls.cn/detail/2251321",
           "source": "财联社热门",
@@ -374,8 +412,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时42分 ~ 13时29分]"
+          "appearance_count": 4,
+          "time_info": "[12时42分 ~ 14时39分]"
         },
         {
           "title": "Anthropic按3500亿美元估值融资100亿美元。 由GIC和Coatue Management领投。（华尔街日报）",
@@ -658,7 +696,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时29分"
         },
@@ -727,6 +765,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时44分"
+        },
+        {
+          "title": "LME三个月期镍跌超3%至17,320美元/吨。",
+          "url": "https://flash.jin10.com/detail/20260108135643945800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
         },
         {
           "title": "特朗普锁定委内瑞拉石油，加拿大原油价格暴跌",
@@ -848,6 +897,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
+        },
+        {
+          "title": "美元走强压制金价 投资者警惕市场波动与获利回吐",
+          "url": "https://flash.jin10.com/detail/20260108135145706800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
         },
         {
           "title": "10年期美债收益率跌约4个基点",
@@ -1076,9 +1136,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时29分"
+        },
+        {
+          "title": "现货铂金跌逾3%，报2224.75美元/盎司；现货钯金现跌1.9%。",
+          "url": "https://flash.jin10.com/detail/20260108134426081800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
         },
         {
           "title": "美国财长贝森特：正推进美国汽车贷款利息减免政策。 2025-28年购车，贷款利息将每年减少1万美元。",
@@ -1257,6 +1328,17 @@
           "time_info": "02时38分"
         },
         {
+          "title": "纽约期银向下触及76美元/盎司，日内跌2.10%。",
+          "url": "https://flash.jin10.com/detail/20260108133501912800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
+        },
+        {
           "title": "匈牙利政府发行30亿欧元债券（折合35亿美元），认购金额大约100亿欧元。",
           "url": "https://wallstreetcn.com/livenews/3032710",
           "source": "华尔街见闻-快讯",
@@ -1315,7 +1397,7 @@
     },
     {
       "keyword_group": "特朗普 马斯克 加密货币 美联储",
-      "match_count": 58,
+      "match_count": 60,
       "titles": [
         {
           "title": "特朗普的下一步，难了",
@@ -1327,6 +1409,17 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时35分 ~ 11时44分]"
+        },
+        {
+          "title": "特朗普签署备忘录宣布美国退出 66 个国际组织，如何解读？特朗普为何近期大动作频频？",
+          "url": "https://www.zhihu.com/question/1992497349604438807",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时44分 ~ 14时39分]"
         },
         {
           "title": "特朗普考虑动用美军等一系列选项得到格陵兰岛，欧洲多国发布联合声明，后续可能会如何发展？格陵兰岛危险吗？",
@@ -1341,15 +1434,17 @@
           "time_info": "[00时35分 ~ 07时24分]"
         },
         {
-          "title": "特朗普签署备忘录宣布美国退出 66 个国际组织，如何解读？特朗普为何近期大动作频频？",
-          "url": "https://www.zhihu.com/question/1992497349604438807",
-          "source": "知乎",
+          "title": "特朗普指示美国退出“不再符合美国利益”的66个国际组织",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32340360",
+          "source": "澎湃新闻",
           "ranks": [
-            1
+            20,
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时44分 ~ 13时29分]"
+          "appearance_count": 7,
+          "time_info": "[09时57分 ~ 14时39分]"
         },
         {
           "title": "学者：特朗普把美国往绝路上带",
@@ -1372,19 +1467,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
-        },
-        {
-          "title": "特朗普指示美国退出“不再符合美国利益”的66个国际组织",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32340360",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时57分 ~ 13时29分]"
         },
         {
           "title": "美国财政部顾问Lavorgna：希望美联储继续降息。",
@@ -1451,6 +1533,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
+        },
+        {
+          "title": "特朗普威胁吞并格陵兰岛，六种棋局推演",
+          "url": "https://news.ifeng.com/c/8pk5HcG7PZo",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时44分 ~ 14时39分]"
         },
         {
           "title": "美国总统特朗普：采购的设备将改善委内瑞拉的电网和能源设施。",
@@ -1537,18 +1631,6 @@
           "time_info": "[05时24分 ~ 06时25分]"
         },
         {
-          "title": "特朗普威胁吞并格陵兰岛，六种棋局推演",
-          "url": "https://news.ifeng.com/c/8pk5HcG7PZo",
-          "source": "凤凰网",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时44分 ~ 13时29分]"
-        },
-        {
           "title": "黑石集团跌9.3%，美国总统特朗普声称要禁止机构投资者购买独栋住宅。 American Home 4 Rent股票恢复交易，跌幅收窄至6%。",
           "url": "https://wallstreetcn.com/livenews/3032636",
           "source": "华尔街见闻-快讯",
@@ -1560,6 +1642,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时38分 ~ 04时30分]"
+        },
+        {
+          "title": "特朗普退出联合国机构一览表",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%80%E5%87%BA%E8%81%94%E5%90%88%E5%9B%BD%E6%9C%BA%E6%9E%84%E4%B8%80%E8%A7%88%E8%A1%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时29分 ~ 14时39分]"
         },
         {
           "title": "美国总统特朗普：在问题得到纠正之前，我不会允许国防公司发放股息或进行股票回购。",
@@ -1725,17 +1819,6 @@
           "time_info": "09时58分"
         },
         {
-          "title": "特朗普退出联合国机构一览表",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%80%E5%87%BA%E8%81%94%E5%90%88%E5%9B%BD%E6%9C%BA%E6%9E%84%E4%B8%80%E8%A7%88%E8%A1%A8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时29分"
-        },
-        {
           "title": "美国副总统万斯：我们必须解决住房问题。特朗普将在未来几周就住房问题发表声明。",
           "url": "https://wallstreetcn.com/livenews/3032837",
           "source": "华尔街见闻-快讯",
@@ -1745,6 +1828,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时58分"
+        },
+        {
+          "title": "特朗普政府为何觊觎格陵兰岛",
+          "url": "https://www.toutiao.com/trending/7592803152118681094/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
         },
         {
           "title": "美国副总统万斯：特朗普将对格陵兰岛问题做出最终决定。",
@@ -1967,6 +2061,17 @@
           "time_info": "06时25分"
         },
         {
+          "title": "哥伦比亚总统与特朗普通电话",
+          "url": "https://www.baidu.com/s?wd=%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9A%E6%80%BB%E7%BB%9F%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E7%94%B5%E8%AF%9D",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
+        },
+        {
           "title": "马斯克：中国会搞定芯片问题",
           "url": "https://www.toutiao.com/trending/7592616746437541942/",
           "source": "今日头条",
@@ -1981,7 +2086,7 @@
     },
     {
       "keyword_group": "DeepSeek AI openai 机器人 小米 特斯拉 英伟达",
-      "match_count": 37,
+      "match_count": 39,
       "titles": [
         {
           "title": "直播电商新规强化AI内容监管",
@@ -2100,8 +2205,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时35分 ~ 13时29分]"
+          "appearance_count": 17,
+          "time_info": "[00时35分 ~ 14时39分]"
         },
         {
           "title": "AI引爆存储芯片涨价潮！三星Q4营业利润飙升208% 创历史新高",
@@ -2110,22 +2215,35 @@
           "ranks": [
             8,
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时57分 ~ 13时29分]"
+          "appearance_count": 7,
+          "time_info": "[09时57分 ~ 14时39分]"
         },
         {
           "title": "王腾从小米离开后成立新公司",
           "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%85%BE%E4%BB%8E%E5%B0%8F%E7%B1%B3%E7%A6%BB%E5%BC%80%E5%90%8E%E6%88%90%E7%AB%8B%E6%96%B0%E5%85%AC%E5%8F%B8%23&t=31&band_rank=5&Refer=top",
           "source": "微博",
           "ranks": [
-            5
+            5,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时44分 ~ 13时29分]"
+          "appearance_count": 5,
+          "time_info": "[11时44分 ~ 14时39分]"
+        },
+        {
+          "title": "A股机器人概念股再度拉升，丰立智能涨停，万凯新材、维宏股份涨超10%，东土科技、凯龙高科、索辰科技跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3033009",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
         },
         {
           "title": "花旗：Vera Rubin将为英伟达带来5万亿美元人工智能机遇。",
@@ -2148,6 +2266,32 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时35分 ~ 03时23分]"
+        },
+        {
+          "title": "人形机器人量产提速，背后有哪些联动支撑？｜出发，2026",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32300324",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时44分 ~ 14时39分]"
+        },
+        {
+          "title": "小米前高管王腾成立新公司",
+          "url": "https://www.toutiao.com/trending/7592803705355767339/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            21,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时44分 ~ 14时39分]"
         },
         {
           "title": "FF：未来5年累计产销目标为40万辆至50万辆；推出具身智能机器人战略",
@@ -2197,32 +2341,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时23分 ~ 04时30分]"
-        },
-        {
-          "title": "人形机器人量产提速，背后有哪些联动支撑？｜出发，2026",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32300324",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时44分 ~ 13时29分]"
-        },
-        {
-          "title": "小米前高管王腾成立新公司",
-          "url": "https://www.toutiao.com/trending/7592803705355767339/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            21,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时44分 ~ 13时29分]"
         },
         {
           "title": "马斯克：中国AI算力领先世界",
@@ -2341,6 +2459,17 @@
           "time_info": "04时30分"
         },
         {
+          "title": "集邦咨询：HBM4受规格提升与英伟达策略调整影响，预估量产时程延至2026年第一季度末",
+          "url": "https://wallstreetcn.com/livenews/3032998",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
+        },
+        {
           "title": "英伟达涨幅迅速收窄至0.8%，盘初一度涨2.2%。",
           "url": "https://wallstreetcn.com/livenews/3032591",
           "source": "华尔街见闻-快讯",
@@ -2432,7 +2561,7 @@
     },
     {
       "keyword_group": "黄金 白银 铜 铝 稀土",
-      "match_count": 32,
+      "match_count": 37,
       "titles": [
         {
           "title": "存储与金属狂潮继续！标普道指新高，闪迪暴涨27%领衔存储股全线大涨，银铜镍大涨",
@@ -2450,11 +2579,12 @@
           "url": "https://wallstreetcn.com/articles/3762734",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时57分 ~ 13时29分]"
+          "appearance_count": 7,
+          "time_info": "[09时57分 ~ 14时39分]"
         },
         {
           "title": "央行连续14个月增持黄金",
@@ -2468,8 +2598,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时35分 ~ 13时29分]"
+          "appearance_count": 17,
+          "time_info": "[00时35分 ~ 14时39分]"
         },
         {
           "title": "央行连续14个月增持黄金",
@@ -2493,11 +2623,12 @@
           "source": "今日头条",
           "ranks": [
             2,
-            1
+            1,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时42分 ~ 13时29分]"
+          "appearance_count": 4,
+          "time_info": "[12时42分 ~ 14时39分]"
         },
         {
           "title": "中信建投： 商业航天开启黄金发展期 关注三大投资机遇",
@@ -2539,7 +2670,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时29分"
         },
@@ -2550,7 +2681,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时29分"
         },
@@ -2605,6 +2736,18 @@
           "time_info": "[02时38分 ~ 04时30分]"
         },
         {
+          "title": "21岁金店老板给员工每人发1克黄金",
+          "url": "https://www.baidu.com/s?wd=21%E5%B2%81%E9%87%91%E5%BA%97%E8%80%81%E6%9D%BF%E7%BB%99%E5%91%98%E5%B7%A5%E6%AF%8F%E4%BA%BA%E5%8F%911%E5%85%8B%E9%BB%84%E9%87%91",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时29分 ~ 14时39分]"
+        },
+        {
           "title": "金十图示：2026年01月08日（周四）白银ETF持仓报告",
           "url": "https://flash.jin10.com/detail/20260108115457443800",
           "source": "金十数据",
@@ -2622,7 +2765,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时29分"
         },
@@ -2658,6 +2801,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时58分"
+        },
+        {
+          "title": "不用锂，无稀土？Donut Lab推出“全球首款”可量产全固态电池",
+          "url": "https://wallstreetcn.com/livenews/3032991",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
         },
         {
           "title": "谈判无果，智利Mantoverde铜矿罢工将持续",
@@ -2699,7 +2853,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时29分"
         },
@@ -2770,15 +2924,26 @@
           "time_info": "06时25分"
         },
         {
-          "title": "21岁金店老板给员工每人发1克黄金",
-          "url": "https://www.baidu.com/s?wd=21%E5%B2%81%E9%87%91%E5%BA%97%E8%80%81%E6%9D%BF%E7%BB%99%E5%91%98%E5%B7%A5%E6%AF%8F%E4%BA%BA%E5%8F%911%E5%85%8B%E9%BB%84%E9%87%91",
-          "source": "百度热搜",
+          "title": "现货白银跌势不止 下破76美元关口",
+          "url": "https://flash.jin10.com/detail/20260108133910610800",
+          "source": "金十数据",
           "ranks": [
             25
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时29分"
+          "time_info": "14时39分"
+        },
+        {
+          "title": "伦铜跌幅扩大，现跌1.09%，最新报12733.6美元/吨。",
+          "url": "https://flash.jin10.com/detail/20260108133624038800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
         },
         {
           "title": "商品期货开盘，焦煤主力合约涨超6%，焦炭涨超3%，BR橡胶涨超2%。集运欧线跌超5%，铂跌超4%，多晶硅、沪银跌超3%，国际铜、沪铜、沪镍跌超2%。",
@@ -2792,6 +2957,17 @@
           "time_info": "09时58分"
         },
         {
+          "title": "广期所多晶硅主力合约触及跌停，报53610元/吨，现跌幅为9%。 广期所工业硅主力合约跌超3%，报8670元/吨。 广期所铂主力合约日内跌6%，现报578.40元/克。 上期所沪铜主力合约跌超3%，报100900元/吨。 上期所沪镍主力合约跌超4%，报139500元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3032968",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
+        },
+        {
           "title": "智利Capstone铜业与罢工矿工的谈判未能达成协议。",
           "url": "https://flash.jin10.com/detail/20260107233435950800",
           "source": "金十数据",
@@ -2801,12 +2977,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时35分"
+        },
+        {
+          "title": "现货白银日内跌幅扩大至2.00%，现报76.5美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260108133203640800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
         }
       ]
     },
     {
       "keyword_group": "外交部 商务部 证监会 央行",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "央行将开展1.1万亿买断式逆回购操作",
@@ -2855,6 +3042,18 @@
           "time_info": "[00时35分 ~ 09时58分]"
         },
         {
+          "title": "【早报】央行今日开展1.1万亿元买断式逆回购操作；多家上市公司预计2025年业绩亏损",
+          "url": "https://www.cls.cn/detail/2251192",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时24分 ~ 14时39分]"
+        },
+        {
           "title": "美称西半球是“我们的半球”、特朗普不会容忍安全威胁，外交部回应",
           "url": "https://m.thepaper.cn/newsDetail_forward_32334443",
           "source": "澎湃新闻",
@@ -2865,20 +3064,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时35分 ~ 13时29分]"
-        },
-        {
-          "title": "【早报】央行今日开展1.1万亿元买断式逆回购操作；多家上市公司预计2025年业绩亏损",
-          "url": "https://www.cls.cn/detail/2251192",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时24分 ~ 13时29分]"
+          "appearance_count": 17,
+          "time_info": "[00时35分 ~ 14时39分]"
         },
         {
           "title": "交易员表示，印度央行可能再次出手支撑卢比。",
@@ -2944,9 +3131,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时29分"
+        },
+        {
+          "title": "日本央行称地区经济温和复苏 企业有意愿继续加薪",
+          "url": "https://flash.jin10.com/detail/20260108140452009800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
         },
         {
           "title": "日本央行在季度报告中维持对日本9个地区中所有地区的评估。 多个地区表示，许多企业在2026财年认为有必要提供与2025年同等规模的加薪。 部分地区称，企业认为不仅需要提高兼职员工的工资，也需要提高正式员工的工资。",
@@ -2955,7 +3153,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时29分"
         },
@@ -2966,7 +3164,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时29分"
         },
@@ -2977,7 +3175,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时29分"
         },
@@ -2999,7 +3197,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时29分"
         },
@@ -3010,7 +3208,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时29分"
         },
@@ -3021,7 +3219,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时29分"
         },
@@ -3032,7 +3230,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时29分"
         },
@@ -3065,7 +3263,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时29分"
         },
