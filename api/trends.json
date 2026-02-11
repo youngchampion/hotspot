@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-12T05:37:00.451525+08:00",
-  "total_titles_processed": 601,
+  "generated_at": "2026-02-12T06:34:01.477335+08:00",
+  "total_titles_processed": 658,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 马斯克 加密货币 美联储",
-      "match_count": 54,
+      "match_count": 76,
       "titles": [
         {
           "title": "特朗普：伊朗希望达成协议，不然太蠢了",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时08分 ~ 05时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时08分 ~ 06时34分]"
         },
         {
           "title": "特朗普称「若美伊谈判失败，或向中东再派一支航母打击群」，美伊会走向冲突吗？",
@@ -27,30 +27,31 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时08分 ~ 05时37分]"
-        },
-        {
-          "title": "美国能源部长Wright：总统特朗普在委内瑞拉关系转型方面恪守承诺。",
-          "url": "https://wallstreetcn.com/livenews/3053969",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时37分"
+          "appearance_count": 9,
+          "time_info": "[00时08分 ~ 06时34分]"
         },
         {
           "title": "油价日内涨超2%，报道：特朗普私下考虑退出《美墨加协定》",
           "url": "https://wallstreetcn.com/articles/3765521",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时59分 ~ 05时37分]"
+          "appearance_count": 8,
+          "time_info": "[01时59分 ~ 06时34分]"
+        },
+        {
+          "title": "米兰称其乐意继续留任美联储 鲍威尔成眼中钉",
+          "url": "https://flash.jin10.com/detail/20260212061955504800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时34分"
         },
         {
           "title": "特朗普发帖后 CNN都看不下去了",
@@ -64,17 +65,6 @@
           "time_info": "00时08分"
         },
         {
-          "title": "美国能源部长赖特：美国总统特朗普致力于转变与委内瑞拉的关系。",
-          "url": "https://flash.jin10.com/detail/20260212052606935800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时37分"
-        },
-        {
           "title": "美国财长贝森特：特朗普总统促进经济增长的议程正在为美国工人带来好处。得益于特朗普总统的税收协议、贸易协议和和平协议，美国经济持续繁荣发展——而且最好的还在后头。",
           "url": "https://flash.jin10.com/detail/20260212012609836800",
           "source": "金十数据",
@@ -86,28 +76,6 @@
           "time_info": "01时59分"
         },
         {
-          "title": "美联储理事米兰：如果获得提名，我乐意继续留在美联储。",
-          "url": "https://flash.jin10.com/detail/20260212052507037800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时37分"
-        },
-        {
-          "title": "美联储理事米兰：如果获得（美国总统提名），我很乐意（长期性地）留在美联储。",
-          "url": "https://wallstreetcn.com/livenews/3053967",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时37分"
-        },
-        {
           "title": "花旗：认为美联储降息将从5月开始，此前预期为3月。",
           "url": "https://flash.jin10.com/detail/20260212000110830800",
           "source": "金十数据",
@@ -117,6 +85,65 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时08分"
+        },
+        {
+          "title": "美联储3月维持利率不变的概率为94.1%",
+          "url": "https://flash.jin10.com/detail/20260212060116384800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时34分"
+        },
+        {
+          "title": "美国能源部长Wright：总统特朗普在委内瑞拉关系转型方面恪守承诺。",
+          "url": "https://wallstreetcn.com/livenews/3053969",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时37分 ~ 06时34分]"
+        },
+        {
+          "title": "美国能源部长赖特：美国总统特朗普致力于转变与委内瑞拉的关系。",
+          "url": "https://flash.jin10.com/detail/20260212052606935800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时37分 ~ 06时34分]"
+        },
+        {
+          "title": "美联储理事米兰：如果获得提名，我乐意继续留在美联储。",
+          "url": "https://flash.jin10.com/detail/20260212052507037800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时37分 ~ 06时34分]"
+        },
+        {
+          "title": "美联储理事米兰：如果获得（美国总统提名），我很乐意（长期性地）留在美联储。",
+          "url": "https://wallstreetcn.com/livenews/3053967",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时37分 ~ 06时34分]"
         },
         {
           "title": "美国总统特朗普：坚持继续与伊朗谈判。 与以色列总理内塔尼亚胡的会谈没能达成明确成果。 优先考虑与伊朗达成协议。",
@@ -153,6 +180,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时43分 ~ 05时37分]"
+        },
+        {
+          "title": "美联储Hammack：劳动力市场看似正在寻找健康的平衡。 就业市场看似正在趋于稳定。 通胀仍然太高。",
+          "url": "https://wallstreetcn.com/livenews/3053964",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时37分 ~ 06时34分]"
+        },
+        {
+          "title": "美联储理事米兰：仍然有许多理由要求降息。",
+          "url": "https://wallstreetcn.com/livenews/3053963",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时37分 ~ 06时34分]"
         },
         {
           "title": "以总理被曝向特朗普提要求：与伊朗的协议不应设置到期时间",
@@ -208,9 +259,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时37分"
+        },
+        {
+          "title": "美国总统特朗普：由于关税，贸易逆差下降了78%。",
+          "url": "https://flash.jin10.com/detail/20260212055211838800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时34分"
         },
         {
           "title": "美联储Schmid：美联储主席鲍威尔是一个有原则的人。 我并不担心美联储主席提名人凯文·沃什。",
@@ -224,17 +286,6 @@
           "time_info": "00时08分"
         },
         {
-          "title": "美联储Hammack：劳动力市场看似正在寻找健康的平衡。 就业市场看似正在趋于稳定。 通胀仍然太高。",
-          "url": "https://wallstreetcn.com/livenews/3053964",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时37分"
-        },
-        {
           "title": "美国总统特朗普：如果能够达成协议，我已告知内塔尼亚胡那将是优先选择。如果无法达成协议，我们只能拭目以待。",
           "url": "https://flash.jin10.com/detail/20260212025718088800",
           "source": "金十数据",
@@ -246,15 +297,15 @@
           "time_info": "03时16分"
         },
         {
-          "title": "美联储理事米兰：仍然有许多理由要求降息。",
-          "url": "https://wallstreetcn.com/livenews/3053963",
+          "title": "美国总统特朗普签署命令，授意五角大楼（国防部）采购煤电。",
+          "url": "https://wallstreetcn.com/livenews/3053985",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时37分"
+          "time_info": "06时34分"
         },
         {
           "title": "美国总统特朗普：除了我坚决要求与伊朗的谈判继续进行，看看是否能够达成协议外，与内塔尼亚胡的会晤没有达成任何决定。",
@@ -274,9 +325,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时37分"
+        },
+        {
+          "title": "美联储哈玛克：美国政府债务正走在一条不可持续的道路上，必须加以解决。",
+          "url": "https://flash.jin10.com/detail/20260212055130754800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时34分"
         },
         {
           "title": "美联储施密德：国会和行政部门可能想刺激经济，但美联储需要在就业和通胀之间保持平衡。",
@@ -318,9 +380,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时37分"
+        },
+        {
+          "title": "美国总统特朗普：美国正在向世界各地出口煤炭。",
+          "url": "https://flash.jin10.com/detail/20260212055115912800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时34分"
         },
         {
           "title": "据AXIOS网站：特朗普与内塔尼亚胡的会议在近三个小时后结束。",
@@ -340,7 +413,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时37分"
         },
@@ -362,9 +435,31 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时37分"
+        },
+        {
+          "title": "美国总统特朗普：将通过美国军方购买大量煤炭。",
+          "url": "https://flash.jin10.com/detail/20260212054736263800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时34分"
+        },
+        {
+          "title": "美国总统特朗普兜售标普和道指创新高。",
+          "url": "https://wallstreetcn.com/livenews/3053981",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时34分"
         },
         {
           "title": "美联储施密德：当鲍威尔不再担任美联储主席时，我会想念他；他是一位坚定且有原则的美国人。",
@@ -406,9 +501,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时37分"
+        },
+        {
+          "title": "美国总统特朗普：将于周三签署一项命令，指示美国国防部从燃煤发电厂购买电力，以提振该行业。",
+          "url": "https://flash.jin10.com/detail/20260212054735155800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时34分"
         },
         {
           "title": "美联储Schmid：1月非农就业报告是好消息。 结构性变化降低就业岗位的创造水平。",
@@ -422,15 +528,48 @@
           "time_info": "00时08分"
         },
         {
+          "title": "美国总统特朗普兜售贸易赤字缩小，称：下一年将转正（扭转为贸易盈余/贸易顺差）。",
+          "url": "https://wallstreetcn.com/livenews/3053980",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时34分"
+        },
+        {
           "title": "美联储哈玛克：失业率似乎正在企稳。",
           "url": "https://flash.jin10.com/detail/20260212051708699800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时37分"
+        },
+        {
+          "title": "美联储哈玛克：我认为利率不会对经济造成太大抑制作用。",
+          "url": "https://flash.jin10.com/detail/20260212054448758800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时34分"
+        },
+        {
+          "title": "美国总统特朗普：向世界各地出口煤炭。",
+          "url": "https://wallstreetcn.com/livenews/3053979",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时34分"
         },
         {
           "title": "美国财长贝森特：特朗普对伊朗问题持开放态度。",
@@ -450,9 +589,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时37分"
+        },
+        {
+          "title": "美国总统特朗普：今年煤电发电量将增长约25%至30%。",
+          "url": "https://flash.jin10.com/detail/20260212054446683800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时34分"
         },
         {
           "title": "美联储将放弃此前对银行修复缺陷的部分要求",
@@ -472,9 +622,31 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时37分"
+        },
+        {
+          "title": "美联储哈玛克：美联储目前按兵不动是正确的，无需微调利率政策。",
+          "url": "https://flash.jin10.com/detail/20260212054309084800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时34分"
+        },
+        {
+          "title": "特朗普：美国今年煤炭发电量将增长大约25%-30%。",
+          "url": "https://wallstreetcn.com/livenews/3053975",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时34分"
         },
         {
           "title": "美国财长贝森特：特朗普正全力关注房地产市场。",
@@ -488,15 +660,37 @@
           "time_info": "04时43分"
         },
         {
+          "title": "美联储哈玛克：当地联系人表示，增长正在回升。",
+          "url": "https://flash.jin10.com/detail/20260212054304132800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时34分"
+        },
+        {
           "title": "特朗普会以总理，称同伊朗达成协议将是“首选”",
           "url": "https://wallstreetcn.com/livenews/3053948",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时37分"
+        },
+        {
+          "title": "美国总统特朗普：希望我这四年任期内不会有（新审批的）风电场。",
+          "url": "https://wallstreetcn.com/livenews/3053974",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时34分"
         },
         {
           "title": "美联储哈玛克：通胀仍然“过高”。",
@@ -505,9 +699,53 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时37分"
+        },
+        {
+          "title": "美联储哈玛克：当前美联储利率大致处于中性水平。",
+          "url": "https://flash.jin10.com/detail/20260212054301601800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时34分"
+        },
+        {
+          "title": "美国总统特朗普：指示能源部向包括西弗吉尼亚州和俄亥俄州在内的各州的燃煤电厂拨款。",
+          "url": "https://flash.jin10.com/detail/20260212054108494800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时34分"
+        },
+        {
+          "title": "美国总统特朗普：股市刚刚“创历史新高”。",
+          "url": "https://wallstreetcn.com/livenews/3053971",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时34分"
+        },
+        {
+          "title": "美国总统特朗普：煤炭是我们拥有的最可靠的能源形式。田纳西河谷管理局已采取行动，拯救田纳西州的两座主要燃煤电厂。",
+          "url": "https://flash.jin10.com/detail/20260212054016228800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时34分"
         },
         {
           "title": "分析师：美国就业强劲展现经济韧性，但美联储仍面临高度不确定性",
@@ -530,6 +768,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时08分"
+        },
+        {
+          "title": "美国总统特朗普：我们的股市刚刚创下了历史上的最高价。",
+          "url": "https://flash.jin10.com/detail/20260212053407550800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时34分"
         },
         {
           "title": "美联储施密德：就业增长的平衡点可能约为每月增加4万至5万人。",
@@ -612,8 +861,20 @@
     },
     {
       "keyword_group": "美股 A股 港股 美债 美元 石油 战争",
-      "match_count": 41,
+      "match_count": 47,
       "titles": [
+        {
+          "title": "持股还是持币过年？多家公募：春节后A股上涨概率较高，已有资金抢跑布局",
+          "url": "https://www.cls.cn/detail/2287337",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时59分 ~ 06时34分]"
+        },
         {
           "title": "金十图示：2026年02月11日（周三）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260212013127382800",
@@ -635,18 +896,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时59分"
-        },
-        {
-          "title": "持股还是持币过年？多家公募：春节后A股上涨概率较高，已有资金抢跑布局",
-          "url": "https://www.cls.cn/detail/2287337",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时59分 ~ 05时37分]"
         },
         {
           "title": "金十图示：2026年02月11日（周三）热门中概股行情一览（美股盘中）",
@@ -671,17 +920,6 @@
           "time_info": "00时08分"
         },
         {
-          "title": "摩根士丹利将CEO Pick的薪酬从3400万美元提高至4500万美元。",
-          "url": "https://wallstreetcn.com/livenews/3053966",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时37分"
-        },
-        {
           "title": "美国1月政府预算 -950亿美元，预期-865亿美元，前值-1447亿美元。",
           "url": "https://flash.jin10.com/detail/20260212030002185800",
           "source": "金十数据",
@@ -693,15 +931,15 @@
           "time_info": "03时16分"
         },
         {
-          "title": "美国雅宝四季度净销售14.3亿美元，分析师预期13.5亿美元。 四季度调整后每股亏损0.53美元，分析师预期亏损0.48美元。 四季度调整后EBITDA为2.687亿美元，分析师预期2.403亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3053965",
+          "title": "周三（2月11日）纽约尾盘（周四北京时间05:59），离岸人民币（CNH）兑美元报6.9095元，较周二纽约尾盘涨26点，日内整体交投于6.9195-6.9059元区间，美国非农就业报告出炉时刷新日低。",
+          "url": "https://wallstreetcn.com/livenews/3053987",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时37分"
+          "time_info": "06时34分"
         },
         {
           "title": "美国财政部：1月预算支出为6550亿美元，收入为5600亿美元，1月预算支出与收入创下当月历史新高。",
@@ -764,6 +1002,30 @@
           "time_info": "[03时16分 ~ 04时43分]"
         },
         {
+          "title": "摩根士丹利将CEO Pick的薪酬从3400万美元提高至4500万美元。",
+          "url": "https://wallstreetcn.com/livenews/3053966",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时37分 ~ 06时34分]"
+        },
+        {
+          "title": "美国雅宝四季度净销售14.3亿美元，分析师预期13.5亿美元。 四季度调整后每股亏损0.53美元，分析师预期亏损0.48美元。 四季度调整后EBITDA为2.687亿美元，分析师预期2.403亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3053965",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时37分 ~ 06时34分]"
+        },
+        {
           "title": "富兰克林邓普顿警告：做空美元交易已过度拥挤",
           "url": "https://wallstreetcn.com/livenews/3053937",
           "source": "华尔街见闻-快讯",
@@ -788,6 +1050,18 @@
           "time_info": "[04时43分 ~ 05时37分]"
         },
         {
+          "title": "麦当劳四季度营收70.1亿美元，分析师预期68.3亿美元。 四季度同店销售增长5.7%，分析师预期3.76%。 四季度美国同店销售增长6.8%，分析师预期增长5.05%。 四季度调整后每股收益（EPS）为3.12美元，分析师预期3.04美元。",
+          "url": "https://wallstreetcn.com/livenews/3053959",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时37分 ~ 06时34分]"
+        },
+        {
           "title": "周三（2月11日），美联储隔夜逆回购协议（RRP）使用规模为10.48亿美元（交易对手6家），上个交易日报14.47亿美元。",
           "url": "https://wallstreetcn.com/livenews/3053911",
           "source": "华尔街见闻-快讯",
@@ -798,6 +1072,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时16分 ~ 04时43分]"
+        },
+        {
+          "title": "大摩CEO年薪涨至4500万美元 华尔街大佬一齐步入“涨薪季”",
+          "url": "https://flash.jin10.com/detail/20260212055207285800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时34分"
         },
         {
           "title": "美元兑日元跌超1%，刷新日低至152.75。",
@@ -811,15 +1096,15 @@
           "time_info": "01时59分"
         },
         {
-          "title": "麦当劳四季度营收70.1亿美元，分析师预期68.3亿美元。 四季度同店销售增长5.7%，分析师预期3.76%。 四季度美国同店销售增长6.8%，分析师预期增长5.05%。 四季度调整后每股收益（EPS）为3.12美元，分析师预期3.04美元。",
-          "url": "https://wallstreetcn.com/livenews/3053959",
+          "title": "Peabody Energy美股盘后涨7%，此前特朗普兜售美国煤炭。",
+          "url": "https://wallstreetcn.com/livenews/3053983",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时37分"
+          "time_info": "06时34分"
         },
         {
           "title": "比尔·阿克曼重仓Meta 去年底新建仓规模达20亿美元",
@@ -872,7 +1157,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时37分"
         },
@@ -905,7 +1190,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时37分"
         },
@@ -927,7 +1212,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时37分"
         },
@@ -938,9 +1223,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时37分"
+        },
+        {
+          "title": "两年期美债收益率于非农日涨约5.8个基点",
+          "url": "https://wallstreetcn.com/livenews/3053970",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时34分"
         },
         {
           "title": "思科(CSCO.O)预计2026财年Q3营收为154亿至156亿美元。",
@@ -949,9 +1245,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时37分"
+        },
+        {
+          "title": "思科(CSCO.O) CEO：目前预计人工智能订单将超过50亿美元，并在2026财年从超大规模企业中确认超过30亿美元的人工智能基础设施收入。",
+          "url": "https://flash.jin10.com/detail/20260212054012505800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时34分"
         },
         {
           "title": "美国财政部拍卖420亿美元10年期国债，得标利率4.177（1月12日为4.173%），投标倍数2.39（前次为2.55）。",
@@ -993,7 +1300,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时37分"
         },
@@ -1015,9 +1322,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时37分"
+        },
+        {
+          "title": "美国能源部长赖特：预计今年委内瑞拉的石油、天然气和电力产量将大幅增加。",
+          "url": "https://flash.jin10.com/detail/20260212053353627800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时34分"
         },
         {
           "title": "金十图示：2026年02月11日（周三）热门中概股行情一览（美股收盘）",
@@ -1026,7 +1344,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时37分"
         },
@@ -1037,7 +1355,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时37分"
         },
@@ -1048,7 +1366,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时37分"
         },
@@ -1059,7 +1377,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时37分"
         },
@@ -1078,19 +1396,8 @@
     },
     {
       "keyword_group": "DeepSeek AI openai 机器人 小米 特斯拉 英伟达",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
-        {
-          "title": "最癫的AI赛博榨菜",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9C%80%E7%99%AB%E7%9A%84AI%E8%B5%9B%E5%8D%9A%E6%A6%A8%E8%8F%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时08分 ~ 05时37分]"
-        },
         {
           "title": "如何评价 2 月 11 日上线的 DeepSeek 新模型？",
           "url": "https://www.zhihu.com/question/2004971546536585165",
@@ -1099,8 +1406,30 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时08分 ~ 05时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时08分 ~ 06时34分]"
+        },
+        {
+          "title": "UP主实测DeepSeek新模型",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%AE%9E%E6%B5%8BDeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时08分 ~ 06时34分]"
+        },
+        {
+          "title": "DeepSeek模型更新！上下文提升至百万Token 可处理三体小说全集",
+          "url": "https://www.cls.cn/detail/2287578",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时08分 ~ 06时34分]"
         },
         {
           "title": "美股遍寻“下一个AI受害者”，周一保险经纪崩了、周二财富管理崩了，嘉信理财盘中跌超9%",
@@ -1115,37 +1444,28 @@
           "time_info": "[00时08分 ~ 05时37分]"
         },
         {
-          "title": "UP主实测DeepSeek新模型",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%AE%9E%E6%B5%8BDeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B",
+          "title": "最癫的AI赛博榨菜",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9C%80%E7%99%AB%E7%9A%84AI%E8%B5%9B%E5%8D%9A%E6%A6%A8%E8%8F%9C",
           "source": "bilibili 热搜",
           "ranks": [
-            4
+            1,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时08分 ~ 05时37分]"
-        },
-        {
-          "title": "DeepSeek模型更新！上下文提升至百万Token 可处理三体小说全集",
-          "url": "https://www.cls.cn/detail/2287578",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时08分 ~ 05时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时08分 ~ 06时34分]"
         },
         {
           "title": "“AI之战”输不得！如果美股Mag 7今年就把现金流“烧成负数”，这对市场意味着什么？",
           "url": "https://wallstreetcn.com/articles/3765455",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时08分 ~ 05时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时08分 ~ 06时34分]"
         },
         {
           "title": "DeepSeek低调升级新模型",
@@ -1155,19 +1475,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时08分 ~ 05时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时08分 ~ 06时34分]"
         },
         {
           "title": "春节见？DeepSeek下一代模型：“高性价比”创新架构，助力中国突破“算力芯片和内存”瓶颈",
           "url": "https://wallstreetcn.com/articles/3765457",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时08分 ~ 05时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时08分 ~ 06时34分]"
         },
         {
           "title": "国产AI降维打击,老外酸了",
@@ -1178,8 +1499,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时08分 ~ 05时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时08分 ~ 06时34分]"
         },
         {
           "title": "Seedance爆火背后：真假难辨和个人隐私受关注，AI创作如何守住边界？",
@@ -1190,8 +1511,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时08分 ~ 05时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时08分 ~ 06时34分]"
         },
         {
           "title": "以假乱真,奥特曼大AI时代来临",
@@ -1201,8 +1522,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时08分 ~ 05时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时08分 ~ 06时34分]"
         },
         {
           "title": "马斯克：遗憾的是，必须与xAI的部分员工分道扬镳。",
@@ -1239,6 +1560,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时08分 ~ 03时16分]"
+        },
+        {
+          "title": "DeepSeek新模型来了？",
+          "url": "https://wallstreetcn.com/articles/3765514",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时33分 ~ 06时34分]"
         },
         {
           "title": "巴西Flavio Bolsonaro：在我竞选总统一事上，Minas Gerais的Zema会是一个不错的副总统人选，但我们还没有谈及此事。",
@@ -1293,7 +1625,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时37分"
         },
@@ -1304,7 +1636,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时37分"
         },
@@ -1326,7 +1658,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时37分"
         },
@@ -1403,7 +1735,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时37分"
         }
@@ -1421,8 +1753,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时08分 ~ 05时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时08分 ~ 06时34分]"
         },
         {
           "title": "美商务部长承认上过“萝莉岛”，但两党都没意愿让他辞职",
@@ -1432,8 +1764,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时08分 ~ 05时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时08分 ~ 06时34分]"
         },
         {
           "title": "外交部：日本军国主义强征“慰安妇”铁证如山不容否认",
@@ -1444,8 +1776,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时08分 ~ 05时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时08分 ~ 06时34分]"
         },
         {
           "title": "法国央行预计一季度GDP将增长0.2%-0.3%。",
@@ -1686,29 +2018,31 @@
     },
     {
       "keyword_group": "黄金 白银 铜 铝 稀土",
-      "match_count": 19,
+      "match_count": 23,
       "titles": [
         {
           "title": "84 岁吉姆·罗杰斯清空美股，坚定持有金银铜称要留给后代，预言下次危机是其一生中最惨烈危机，如何解读？",
           "url": "https://www.zhihu.com/question/2004662806780338439",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时08分 ~ 05时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时08分 ~ 06时34分]"
         },
         {
           "title": "强劲非农打击降息预期，软件股抛售潮拖累美股指，美债承压，黄金涨幅收窄",
           "url": "https://wallstreetcn.com/articles/3765486",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时59分 ~ 05时37分]"
+          "appearance_count": 8,
+          "time_info": "[01时59分 ~ 06时34分]"
         },
         {
           "title": "财晓得｜当黄金开始暴涨暴跌，你得知道为何它这么“激动”",
@@ -1717,11 +2051,12 @@
           "ranks": [
             9,
             5,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时08分 ~ 05时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时08分 ~ 06时34分]"
         },
         {
           "title": "宁忠岩速滑男子1000米夺铜",
@@ -1731,8 +2066,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时43分 ~ 05时37分]"
+          "appearance_count": 5,
+          "time_info": "[04时43分 ~ 06时34分]"
         },
         {
           "title": "宁忠岩速滑男子1000米夺铜",
@@ -1742,8 +2077,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时43分 ~ 05时37分]"
+          "appearance_count": 5,
+          "time_info": "[04时43分 ~ 06时34分]"
         },
         {
           "title": "黄金",
@@ -1754,8 +2089,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时08分 ~ 05时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时08分 ~ 06时34分]"
         },
         {
           "title": "非农就业意外强劲，美股指集体高开，标普500创新高，美元指数短线走高，美债承压，黄金涨幅收窄",
@@ -1767,6 +2102,41 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时08分"
+        },
+        {
+          "title": "美联储哈玛克：黄金和金属价格上涨可能与通胀有关。",
+          "url": "https://flash.jin10.com/detail/20260212055643823800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时34分"
+        },
+        {
+          "title": "宁忠岩1000米速滑铜牌",
+          "url": "https://s.weibo.com/weibo?q=%E5%AE%81%E5%BF%A0%E5%B2%A91000%E7%B1%B3%E9%80%9F%E6%BB%91%E9%93%9C%E7%89%8C&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时36分 ~ 06时34分]"
+        },
+        {
+          "title": "如何看待挪威冬奥运动员夺得铜牌后，对镜头坦白自己向前女友承认出轨，并表示自己非常后悔，情愿主动社死？",
+          "url": "https://www.zhihu.com/question/2004831756235268313",
+          "source": "知乎",
+          "ranks": [
+            16,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时36分 ~ 06时34分]"
         },
         {
           "title": "买房送1kg黄金住户资产增值25万",
@@ -1781,26 +2151,15 @@
           "time_info": "[04时43分 ~ 05时37分]"
         },
         {
-          "title": "宁忠岩1000米速滑铜牌",
-          "url": "https://s.weibo.com/weibo?q=%E5%AE%81%E5%BF%A0%E5%B2%A91000%E7%B1%B3%E9%80%9F%E6%BB%91%E9%93%9C%E7%89%8C&t=31&band_rank=16&Refer=top",
+          "title": "宁忠岩速滑1000米摘铜",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%81%E5%BF%A0%E5%B2%A9%E9%80%9F%E6%BB%911000%E7%B1%B3%E6%91%98%E9%93%9C%23&t=31&band_rank=16&Refer=top",
           "source": "微博",
           "ranks": [
             16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时36分 ~ 05时37分]"
-        },
-        {
-          "title": "如何看待挪威冬奥运动员夺得铜牌后，对镜头坦白自己向前女友承认出轨，并表示自己非常后悔，情愿主动社死？",
-          "url": "https://www.zhihu.com/question/2004831756235268313",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时36分 ~ 05时37分]"
+          "time_info": "[06时33分 ~ 06时34分]"
         },
         {
           "title": "房子缩水87万送的黄金涨到112万",
@@ -1812,6 +2171,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时15分 ~ 03时16分]"
+        },
+        {
+          "title": "周三（2月11日）纽约尾盘，现货白银涨4.20%，报84.2080美元/盎司，亚太盘初以来持续走高，北京时间20:00刷新日高至86.3058美元。 COMEX白银期货涨4.42%，报83.935美元/盎司。 COMEX铜期货涨1.27%，报5.9885美元/磅。 现货铂金涨2.48%，现货钯金涨0.61%。",
+          "url": "https://wallstreetcn.com/livenews/3053982",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时34分"
+        },
+        {
+          "title": "周三（2月11日）纽约尾盘，现货黄金涨1.06%，报5078.98美元/盎司，北京时间20:00刷新日高至5119.30美元，随后在美国非农就业报告发布时跳水至5020.28美元刷新日低，1月30日以来持续测试5000美元整数位心理关口。 COMEX黄金期货涨1.48%，报5105.43美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3053978",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时34分"
         },
         {
           "title": "上海黄金交易所黄金T+D 2月11日（周三）晚盘收盘上涨0.31%报1127.5元/克；<br/>上海黄金交易所白银T+D 2月11日（周三）晚盘收盘上涨0.77%报19760.0元/千克。",
@@ -1853,7 +2234,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时37分"
         },
