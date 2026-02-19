@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-19T19:41:17.138324+08:00",
-  "total_titles_processed": 1463,
+  "generated_at": "2026-02-19T21:14:10.189847+08:00",
+  "total_titles_processed": 1558,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 美债 美元 石油 战争",
-      "match_count": 73,
+      "match_count": 80,
       "titles": [
         {
           "title": "科技股力撑美股两连阳，美联储自曝通胀担忧，道指盘中闪跌，美伊风险助原油大反弹",
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             1,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[06时37分 ~ 19时41分]"
+          "appearance_count": 17,
+          "time_info": "[06时37分 ~ 21时14分]"
         },
         {
           "title": "美股三大期指集体走高 美联储将公布1月会议纪要 | 今夜看点",
@@ -28,8 +29,21 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[01时08分 ~ 19时41分]"
+          "appearance_count": 25,
+          "time_info": "[01时08分 ~ 21时14分]"
+        },
+        {
+          "title": "美股收盘：“七巨头”集体走高 三大指数齐收涨",
+          "url": "https://www.cls.cn/detail/2291660",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时51分 ~ 21时14分]"
         },
         {
           "title": "1万亿美元蒸发背后：垂直软件的护城河，正在被大模型重写",
@@ -43,19 +57,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[07时34分 ~ 14时03分]"
-        },
-        {
-          "title": "美股收盘：“七巨头”集体走高 三大指数齐收涨",
-          "url": "https://www.cls.cn/detail/2291660",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时51分 ~ 19时41分]"
         },
         {
           "title": "WTI 3月原油期货收报65.19美元/桶。 NYMEX 3月天然气期货收报3.0110美元/百万英热单位。 NYMEX 3月汽油期货收报1.9680美元/加仑，NYMEX 3月取暖油期货收报2.5187美元/加仑。",
@@ -126,15 +127,26 @@
           "time_info": "01时09分"
         },
         {
-          "title": "美国机械制造商Deere第一季度每股收益2.42美元，去年同期为3.19美元，市场预期为2.05美元。 第一季度净收入为6.56亿美元，同比下降25%，市场预期为5.54亿美元。 预计全年净收入为45亿至50亿美元，此前预计40亿至47.5亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3056629",
+          "title": "欧元兑美元下跌0.1%至1.1772。",
+          "url": "https://wallstreetcn.com/livenews/3056640",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时41分"
+          "time_info": "21时14分"
+        },
+        {
+          "title": "欧洲央行Demarco：如果通胀持续低于2%，可能需要降息。 需要观察1月的低通胀是否是一次性的。 若欧元达到1.20至1.25美元，“也并非世界末日”。",
+          "url": "https://wallstreetcn.com/livenews/3056639",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时14分"
         },
         {
           "title": "印尼盾兑美元汇率跌至1月22日以来的最低水平，最新报1美元兑16,915印尼盾。",
@@ -157,6 +169,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
+        },
+        {
+          "title": "沃尔玛预计2027年调整后每股收益2.75美元至2.85美元，市场预估2.97美元。 第四季度调整后每股收益0.74美元，市场预估0.73美元。 第四季度营收1,906.6亿美元，同比增长5.6%，市场预估1,905.8亿美元。 第四季度经营现金流416亿美元。 沃尔玛宣布新的300亿美元股票回购计划。 沃尔玛美股盘前跌超3%。",
+          "url": "https://wallstreetcn.com/livenews/3056638",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时14分"
         },
         {
           "title": "美元兑日元USD/JPY突破155，创2月10日以来新高，日内涨0.15%。",
@@ -289,6 +312,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时44分 ~ 05时39分]"
+        },
+        {
+          "title": "美国机械制造商Deere第一季度每股收益2.42美元，去年同期为3.19美元，市场预期为2.05美元。 第一季度净收入为6.56亿美元，同比下降25%，市场预期为5.54亿美元。 预计全年净收入为45亿至50亿美元，此前预计40亿至47.5亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3056629",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时41分 ~ 21时14分]"
         },
         {
           "title": "金十图示：2026年02月18日（周三）美股热门股票行情一览（美股收盘）",
@@ -499,6 +534,17 @@
           "time_info": "[15时51分 ~ 16时52分]"
         },
         {
+          "title": "美元还能稳多久",
+          "url": "https://www.toutiao.com/trending/7608528052665978418/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时13分 ~ 21时14分]"
+        },
+        {
           "title": "据路透调查：69%的经济学家表示，日本将干预汇市以遏制日元疲软；美元兑日元USD/JPY触及160很可能成为干预的触发点。",
           "url": "https://flash.jin10.com/detail/20260219120759525800",
           "source": "金十数据",
@@ -508,6 +554,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时56分"
+        },
+        {
+          "title": "欧盟召集额外的石油协调小组会议，定于2月25日召开。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3056635",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时14分"
         },
         {
           "title": "WTI原油向上触及66美元/桶，日内涨1.52%。",
@@ -530,6 +587,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时49分"
+        },
+        {
+          "title": "英镑兑美元下跌0.2%至1.3470，创一个月低点。",
+          "url": "https://wallstreetcn.com/livenews/3056633",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时14分"
         },
         {
           "title": "美国12月外资净买入美国公债 -416亿美元，前值856亿美元。",
@@ -785,6 +853,17 @@
           "time_info": "16时52分"
         },
         {
+          "title": "欧洲央行德马尔科：如果欧元/美元升至1.20至1.25也并非世界末日。",
+          "url": "https://flash.jin10.com/detail/20260219202231093800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时14分"
+        },
+        {
           "title": "美债收益率普遍涨超2个基点",
           "url": "https://wallstreetcn.com/livenews/3056469",
           "source": "华尔街见闻-快讯",
@@ -854,7 +933,7 @@
     },
     {
       "keyword_group": "特朗普 马斯克 加密货币 美联储",
-      "match_count": 72,
+      "match_count": 76,
       "titles": [
         {
           "title": "为不影响特朗普访华，美对台军售疑停滞，白宫回应",
@@ -864,8 +943,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时30分 ~ 19时41分]"
+          "appearance_count": 14,
+          "time_info": "[10时30分 ~ 21时14分]"
         },
         {
           "title": "美联储会议纪要暴巨大分歧：一些官员支持进一步降息，一些暗示加息可能",
@@ -878,8 +957,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时30分 ~ 19时41分]"
+          "appearance_count": 14,
+          "time_info": "[10时30分 ~ 21时14分]"
         },
         {
           "title": "特朗普将举行首届“和平委员会”会议，宣布成员国注资",
@@ -1462,9 +1541,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时41分"
+        },
+        {
+          "title": "在特朗普推动和平计划之际，哈马斯加大对加沙的控制",
+          "url": "https://flash.jin10.com/detail/20260219205710816800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时14分"
         },
         {
           "title": "美联储会议纪要：几乎所有与会者都支持在1月份暂停利率行动。多位与会者表示，如果通胀按其预期下降，进一步降息很可能将是合适的。",
@@ -1489,6 +1579,17 @@
           "time_info": "03时53分"
         },
         {
+          "title": "特朗普的加沙和平计划恐陷入僵局 哈马斯是否放下武器成为焦点",
+          "url": "https://flash.jin10.com/detail/20260219205124822800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时14分"
+        },
+        {
           "title": "13位美国司法部长就终止能源和基础设施项目资金一事起诉特朗普政府。",
           "url": "https://flash.jin10.com/detail/20260219045300437800",
           "source": "金十数据",
@@ -1498,6 +1599,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时39分"
+        },
+        {
+          "title": "市场消息：美国总统特朗普要求孟加拉国总理完成“例行国防”协议。",
+          "url": "https://flash.jin10.com/detail/20260219204541105800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时14分"
         },
         {
           "title": "机构：建议押注美联储下半年降息力度低于预期",
@@ -1542,6 +1654,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时39分"
+        },
+        {
+          "title": "美国总统特朗普：在美国大选中我只想要美国人投票。",
+          "url": "https://flash.jin10.com/detail/20260219202807714800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时14分"
         },
         {
           "title": "美国总统特朗普：我将在国情咨文中谈到经济问题。",
@@ -1701,7 +1824,7 @@
     },
     {
       "keyword_group": "DeepSeek AI openai 机器人 小米 特斯拉 英伟达",
-      "match_count": 67,
+      "match_count": 69,
       "titles": [
         {
           "title": "马年春晚黑科技！四家机器人同台献技 AI大模型渗透内容制作",
@@ -1725,8 +1848,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[01时08分 ~ 19时41分]"
+          "appearance_count": 25,
+          "time_info": "[01时08分 ~ 21时14分]"
         },
         {
           "title": "今年春晚，机器人刷屏了",
@@ -1799,8 +1922,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时56分 ~ 19时41分]"
+          "appearance_count": 12,
+          "time_info": "[12时56分 ~ 21时14分]"
         },
         {
           "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
@@ -1812,8 +1935,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[01时08分 ~ 19时41分]"
+          "appearance_count": 25,
+          "time_info": "[01时08分 ~ 21时14分]"
         },
         {
           "title": "公开和沃什“唱反调”？多位美联储高官称：AI提升生产力或意味着“更高的中性利率”",
@@ -1843,8 +1966,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[01时08分 ~ 19时41分]"
+          "appearance_count": 25,
+          "time_info": "[01时08分 ~ 21时14分]"
         },
         {
           "title": "终末地建模,AI偷偷加料",
@@ -1859,8 +1982,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时30分 ~ 19时41分]"
+          "appearance_count": 14,
+          "time_info": "[10时30分 ~ 21时14分]"
         },
         {
           "title": "外网如何评价春晚机器人",
@@ -1871,11 +1994,12 @@
             30,
             19,
             2,
-            18
+            18,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[03时53分 ~ 16时52分]"
+          "appearance_count": 12,
+          "time_info": "[03时53分 ~ 21时14分]"
         },
         {
           "title": "特斯拉首辆Cybercab下线：没有方向盘和踏板的汽车终于来了",
@@ -1889,6 +2013,28 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[01时08分 ~ 07时35分]"
+        },
+        {
+          "title": "未来的春晚机器人be like",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9C%AA%E6%9D%A5%E7%9A%84%E6%98%A5%E6%99%9A%E6%9C%BA%E5%99%A8%E4%BA%BAbe%20like",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20,
+            8,
+            9,
+            12,
+            25,
+            30,
+            17,
+            24,
+            29,
+            19,
+            15,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 25,
+          "time_info": "[01时08分 ~ 21时14分]"
         },
         {
           "title": "春晚机器人厉害在哪里",
@@ -1916,8 +2062,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[01时08分 ~ 19时41分]"
+          "appearance_count": 25,
+          "time_info": "[01时08分 ~ 21时14分]"
         },
         {
           "title": "AI大战:鹅厂阿里双双出局",
@@ -1934,29 +2080,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[01时08分 ~ 19时41分]"
-        },
-        {
-          "title": "未来的春晚机器人be like",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9C%AA%E6%9D%A5%E7%9A%84%E6%98%A5%E6%99%9A%E6%9C%BA%E5%99%A8%E4%BA%BAbe%20like",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20,
-            8,
-            9,
-            12,
-            25,
-            30,
-            17,
-            24,
-            29,
-            19,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[01时08分 ~ 19时41分]"
+          "appearance_count": 25,
+          "time_info": "[01时08分 ~ 21时14分]"
         },
         {
           "title": "疑似ai?鹰角整活六指琴魔",
@@ -1973,8 +2098,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[01时08分 ~ 19时41分]"
+          "appearance_count": 25,
+          "time_info": "[01时08分 ~ 21时14分]"
         },
         {
           "title": "机器人扎堆,亮眼还是视疲劳",
@@ -2042,6 +2167,21 @@
           "time_info": "[03时01分 ~ 06时37分]"
         },
         {
+          "title": "春晚机器人如何完成高难度动作",
+          "url": "https://search.bilibili.com/all?keyword=%E6%98%A5%E6%99%9A%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%A6%82%E4%BD%95%E5%AE%8C%E6%88%90%E9%AB%98%E9%9A%BE%E5%BA%A6%E5%8A%A8%E4%BD%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26,
+            24,
+            12,
+            28,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时51分 ~ 21时14分]"
+        },
+        {
           "title": "傅莹在慕安会回应“谁能赢人工智能竞赛”：AI创新发展不是一场短跑赛",
           "url": "https://flash.jin10.com/detail/20260219134816589800",
           "source": "金十数据",
@@ -2064,6 +2204,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[15时51分 ~ 18时49分]"
+        },
+        {
+          "title": "科技股拖累美股期指转跌，特斯拉盘前领跌Mag7，地缘局势升温推高金银油，黄金站上5000美元",
+          "url": "https://wallstreetcn.com/articles/3765856",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时41分 ~ 21时14分]"
         },
         {
           "title": "机器人跳舞摔倒 小伙查看时脸被踢破",
@@ -2107,20 +2259,6 @@
           "time_info": "[15时51分 ~ 18时49分]"
         },
         {
-          "title": "春晚机器人如何完成高难度动作",
-          "url": "https://search.bilibili.com/all?keyword=%E6%98%A5%E6%99%9A%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%A6%82%E4%BD%95%E5%AE%8C%E6%88%90%E9%AB%98%E9%9A%BE%E5%BA%A6%E5%8A%A8%E4%BD%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26,
-            24,
-            12,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时51分 ~ 19时41分]"
-        },
-        {
           "title": "国版“OpenClaw” 网易有道 LobsterAI宣布开源",
           "url": "https://wallstreetcn.com/livenews/3056572",
           "source": "华尔街见闻-快讯",
@@ -2139,11 +2277,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            10
+            10,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时49分 ~ 19时41分]"
+          "appearance_count": 3,
+          "time_info": "[18时49分 ~ 21时14分]"
         },
         {
           "title": "印度AI峰会大学展示泡沫塑料版无人机",
@@ -2156,6 +2295,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时56分 ~ 15时51分]"
+        },
+        {
+          "title": "为AI交易“背书”！OpenAI正敲定新一轮融资：以8300亿美元估值募资高达1000亿美元",
+          "url": "https://wallstreetcn.com/articles/3765864",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时49分 ~ 21时14分]"
         },
         {
           "title": "从春晚看懂机器人未来布局",
@@ -2194,6 +2344,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时53分 ~ 19时41分]"
+        },
+        {
+          "title": "什么样的软件会被AI淘汰？",
+          "url": "https://wallstreetcn.com/articles/3765860",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时41分 ~ 21时14分]"
         },
         {
           "title": "中国科研团队研发出AI看病系统 诊断罕见病“有根有据”",
@@ -2306,17 +2467,6 @@
           "time_info": "[05时39分 ~ 06时37分]"
         },
         {
-          "title": "为AI交易“背书”！OpenAI正敲定新一轮融资：以8300亿美元估值募资高达1000亿美元",
-          "url": "https://wallstreetcn.com/articles/3765864",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时49分 ~ 19时41分]"
-        },
-        {
           "title": "OpenAI最新一轮融资进展顺利，融资总额有望突破1000亿美元，首轮融资将于本月完成。（The Information）",
           "url": "https://wallstreetcn.com/livenews/3056559",
           "source": "华尔街见闻-快讯",
@@ -2339,6 +2489,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时39分 ~ 06时37分]"
+        },
+        {
+          "title": "AI驱动存储持续迭代！三星PIM技术量产在即 或绕过CPU、GPU直接计算",
+          "url": "https://www.cls.cn/detail/2291068",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时13分 ~ 21时14分]"
         },
         {
           "title": "中国团队研发出AI看病系统",
@@ -2375,6 +2536,17 @@
           "time_info": "[03时53分 ~ 04时44分]"
         },
         {
+          "title": "广西一高校机器人登上总台春戏晚舞台",
+          "url": "https://www.toutiao.com/trending/7608490653961748522/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时13分 ~ 21时14分]"
+        },
+        {
           "title": "特斯拉无人驾驶车正式下线",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A0%E4%BA%BA%E9%A9%BE%E9%A9%B6%E8%BD%A6%E6%AD%A3%E5%BC%8F%E4%B8%8B%E7%BA%BF",
           "source": "bilibili 热搜",
@@ -2406,28 +2578,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时30分 ~ 10时31分]"
-        },
-        {
-          "title": "科技股拖累美股期指转跌，特斯拉盘前领跌Mag7，地缘局势升温推高金银油，黄金站上5000美元",
-          "url": "https://wallstreetcn.com/articles/3765856",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时41分"
-        },
-        {
-          "title": "什么样的软件会被AI淘汰？",
-          "url": "https://wallstreetcn.com/articles/3765860",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时41分"
         },
         {
           "title": "美股高开高走 英伟达收涨1.63%",
@@ -2554,7 +2704,7 @@
     },
     {
       "keyword_group": "外交部 商务部 证监会 央行",
-      "match_count": 44,
+      "match_count": 49,
       "titles": [
         {
           "title": "俄外交部发言人：日本若不反省则二战罪行仍在持续",
@@ -2585,7 +2735,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时41分"
         },
@@ -2678,11 +2828,23 @@
           "url": "https://news.ifeng.com/c/8qsQ9oPUDTC",
           "source": "凤凰网",
           "ranks": [
-            7
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时41分 ~ 21时14分]"
+        },
+        {
+          "title": "英国央行货币政策委员会（MPC）成员Mann：核心通胀情况并没有预期的那么好。 服务业通胀消息“并没有那么乐观”。 未来三到四个月内可能实现2%的通胀目标。",
+          "url": "https://wallstreetcn.com/livenews/3056636",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时41分"
+          "time_info": "21时14分"
         },
         {
           "title": "据路透调查：58%的经济学家预计日本央行将在6月底前将关键利率上调至1%，1月调查中的比例为36%。",
@@ -2724,9 +2886,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时41分"
+        },
+        {
+          "title": "欧洲央行副行长de Guindos：增长风险趋于平衡，主要危险来自地缘政治。",
+          "url": "https://wallstreetcn.com/livenews/3056634",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时14分"
         },
         {
           "title": "商务部世贸司负责人：经济全球化是不可阻挡的历史潮流 应以强化多边贸易治理为目标",
@@ -2850,6 +3023,17 @@
           "time_info": "16时52分"
         },
         {
+          "title": "塞尔维亚央行预计年底通胀率将升至4%。",
+          "url": "https://flash.jin10.com/detail/20260219203806203800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时14分"
+        },
+        {
           "title": "商务部世贸司负责人解读《中国关于当前形势下世贸组织改革的立场文件》",
           "url": "https://flash.jin10.com/detail/20260219095119028800",
           "source": "金十数据",
@@ -2971,6 +3155,17 @@
           "time_info": "16时52分"
         },
         {
+          "title": "欧洲央行德马尔科：需要观察1月份的低通胀是否为一次性现象。",
+          "url": "https://flash.jin10.com/detail/20260219202136857800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时14分"
+        },
+        {
           "title": "印尼央行官员：1月通胀率较高系基数效应所致。",
           "url": "https://flash.jin10.com/detail/20260219151634298800",
           "source": "金十数据",
@@ -3015,6 +3210,17 @@
           "time_info": "15时51分"
         },
         {
+          "title": "欧洲央行德马尔科：通胀持续低于2%可能需要降息。",
+          "url": "https://flash.jin10.com/detail/20260219201901258800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时14分"
+        },
+        {
           "title": "印尼央行官员：已通过干预持续加大稳定市场的力度。",
           "url": "https://flash.jin10.com/detail/20260219151536791800",
           "source": "金十数据",
@@ -3051,7 +3257,7 @@
     },
     {
       "keyword_group": "黄金 白银 铜 铝 稀土",
-      "match_count": 34,
+      "match_count": 35,
       "titles": [
         {
           "title": "美股三大指数小幅高开，黄金收复5000，白银日内涨5%，原油上涨3%",
@@ -3074,8 +3280,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时56分 ~ 19时41分]"
+          "appearance_count": 12,
+          "time_info": "[12时56分 ~ 21时14分]"
         },
         {
           "title": "第二金！徐梦桃斩获自由式滑雪女子空中技巧金牌，邵琪摘铜",
@@ -3086,11 +3292,12 @@
             8,
             10,
             6,
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[01时08分 ~ 19时41分]"
+          "appearance_count": 25,
+          "time_info": "[01时08分 ~ 21时14分]"
         },
         {
           "title": "中国速度滑冰再创历史，这枚男子团体追逐铜牌有多难？",
@@ -3124,6 +3331,20 @@
           "time_info": "[01时08分 ~ 06时37分]"
         },
         {
+          "title": "难忘今宵！一夜摘双金！外加一铜！如何评价中国冬奥健儿在大年初二的表现？",
+          "url": "https://www.zhihu.com/question/2007565094163275899",
+          "source": "知乎",
+          "ranks": [
+            6,
+            4,
+            17,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时51分 ~ 21时14分]"
+        },
+        {
           "title": "稀土磁铁告急,岛国到处找货",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350779&amp;topic_name=%E7%A8%80%E5%9C%9F%E7%A3%81%E9%93%81%E5%91%8A%E6%80%A5%2C%E5%B2%9B%E5%9B%BD%E5%88%B0%E5%A4%84%E6%89%BE%E8%B4%A7",
           "source": "贴吧",
@@ -3135,8 +3356,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时56分 ~ 19时41分]"
+          "appearance_count": 12,
+          "time_info": "[12时56分 ~ 21时14分]"
         },
         {
           "title": "速滑男团偷家荷兰,创历史摘铜",
@@ -3153,22 +3374,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[01时08分 ~ 19时41分]"
-        },
-        {
-          "title": "难忘今宵！一夜摘双金！外加一铜！如何评价中国冬奥健儿在大年初二的表现？",
-          "url": "https://www.zhihu.com/question/2007565094163275899",
-          "source": "知乎",
-          "ranks": [
-            6,
-            4,
-            17,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时51分 ~ 19时41分]"
+          "appearance_count": 25,
+          "time_info": "[01时08分 ~ 21时14分]"
         },
         {
           "title": "现货黄金站上5010美元/盎司，日内涨2.73%。",
@@ -3436,6 +3643,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时03分"
+        },
+        {
+          "title": "俄罗斯至2月13日当周央行黄金和外汇储备 8061亿美元，前值7975亿美元。",
+          "url": "https://flash.jin10.com/detail/20260219210005468800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时14分"
         },
         {
           "title": "现货黄金站上4990美元/盎司，日内涨0.26%。",
