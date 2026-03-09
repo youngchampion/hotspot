@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-03-09T21:11:17.841995+08:00",
-  "total_titles_processed": 1661,
+  "generated_at": "2026-03-09T22:55:41.447231+08:00",
+  "total_titles_processed": 1801,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 美债 美元 石油 战争",
-      "match_count": 148,
+      "match_count": 177,
       "titles": [
         {
           "title": "国际油价突破每桶 100 美元，为 2022 年来首次，会长期维持在高位吗？对我们的生活影响有多大？",
           "url": "https://www.zhihu.com/question/2014250574292415040",
           "source": "知乎",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时29分 ~ 21时11分]"
+          "appearance_count": 12,
+          "time_info": "[10时29分 ~ 22时55分]"
         },
         {
           "title": "A股春季行情短期仍可能延续？投资主线有哪些？十大券商策略来了",
@@ -47,6 +48,19 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时34分 ~ 07时29分]"
+        },
+        {
+          "title": "油价快速收窄涨幅！G7今晚将开会讨论联合释放紧急石油储备",
+          "url": "https://www.cls.cn/detail/2306980",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时51分 ~ 22时55分]"
         },
         {
           "title": "美以伊战争｜伊朗新任最高领袖将揭晓，特朗普威胁",
@@ -82,21 +96,22 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时54分 ~ 21时11分]"
+          "appearance_count": 11,
+          "time_info": "[12时54分 ~ 22时55分]"
         },
         {
-          "title": "油价快速收窄涨幅！G7今晚将开会讨论联合释放紧急石油储备",
-          "url": "https://www.cls.cn/detail/2306980",
-          "source": "财联社热门",
+          "title": "报道：G7拟协调释放战略石油储备，规模或为3-4亿桶",
+          "url": "https://wallstreetcn.com/articles/3767015",
+          "source": "华尔街见闻",
           "ranks": [
+            10,
+            7,
             5,
-            3,
-            2
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时51分 ~ 21时11分]"
+          "appearance_count": 8,
+          "time_info": "[15时15分 ~ 22时55分]"
         },
         {
           "title": "做空ETF、恐慌指数都在飙！高盛戳穿美股“假平静”，市场实则极度脆弱",
@@ -134,18 +149,15 @@
           "time_info": "[00时34分 ~ 07时29分]"
         },
         {
-          "title": "报道：G7拟协调释放战略石油储备，规模或为3-4亿桶",
-          "url": "https://wallstreetcn.com/articles/3767015",
-          "source": "华尔街见闻",
+          "title": "当战争走向不再由美国决定，美以联盟怎么办？",
+          "url": "https://v.ifeng.com/c/8rMAY0dNZVA",
+          "source": "凤凰网",
           "ranks": [
-            10,
-            7,
-            5,
-            4
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时15分 ~ 21时11分]"
+          "appearance_count": 5,
+          "time_info": "[18时51分 ~ 22时55分]"
         },
         {
           "title": "美以伊战争｜哈梅内伊之子接任伊朗最高领袖",
@@ -169,17 +181,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时34分 ~ 07时29分]"
-        },
-        {
-          "title": "当战争走向不再由美国决定，美以联盟怎么办？",
-          "url": "https://v.ifeng.com/c/8rMAY0dNZVA",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时51分 ~ 21时11分]"
         },
         {
           "title": "美国能源部长Wright：乐于在必要时释放战略石油储备（SPR），但（现在）这是一个物流问题。",
@@ -316,6 +317,17 @@
           "time_info": "16时51分"
         },
         {
+          "title": "全球股债遭遇双杀！美股三大股指开盘走低，芯片股普跌，美油回落至100美元下方",
+          "url": "https://wallstreetcn.com/articles/3766990",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
+        },
+        {
           "title": "美以伊战争｜未来美伊最高领导人谁更危险？",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -382,6 +394,17 @@
           "time_info": "19时37分"
         },
         {
+          "title": "美以伊战争｜伊朗实施第31轮打击行动 献给最高领袖",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
+        },
+        {
           "title": "韩国总统政策负责人KIM表示，目前还不是讨论释放石油储备的阶段。",
           "url": "https://flash.jin10.com/detail/20260309150347147800",
           "source": "金十数据",
@@ -443,7 +466,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
         },
@@ -459,6 +482,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时34分 ~ 05时28分]"
+        },
+        {
+          "title": "伊朗外长表示不结束战争伊朗不会停火，如何解读这一表态？这场战事最终将走向何方？",
+          "url": "https://www.zhihu.com/question/2014375453297702712",
+          "source": "知乎",
+          "ranks": [
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时56分 ~ 22时55分]"
         },
         {
           "title": "美国零售汽油价格或突破4美元 通胀将显著上升",
@@ -511,7 +546,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
         },
@@ -536,6 +571,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
+        },
+        {
+          "title": "七国集团：可能的措施包括释放石油储备。",
+          "url": "https://flash.jin10.com/detail/20260309224948539800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
         },
         {
           "title": "日本内阁官房长官木原稔：尚未决定是否释放战略石油储备。 将继续密切监测能源局势。 全力确保能源稳定供应。 石油价格由多种市场因素决定。",
@@ -585,6 +631,17 @@
           "time_info": "[14时01分 ~ 16时51分]"
         },
         {
+          "title": "国际能源署（IEA）署长比罗尔：出席了七国集团（G7）财长关于全球经济形势和中东冲突的会议。 在会议上通报了对全球石油市场形势的看法，指出市场状况近几日已趋于恶化。 霍尔木兹海峡通航问题造成严重的、日益增长的石油市场风险。",
+          "url": "https://wallstreetcn.com/livenews/3066582",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
+        },
+        {
           "title": "以色列总统：我尊重特朗普，但战争期间不讨论赦免内塔尼亚胡",
           "url": "https://m.thepaper.cn/newsDetail_forward_32728491",
           "source": "澎湃新闻",
@@ -596,18 +653,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时54分 ~ 16时51分]"
-        },
-        {
-          "title": "伊朗外长表示不结束战争伊朗不会停火，如何解读这一表态？这场战事最终将走向何方？",
-          "url": "https://www.zhihu.com/question/2014375453297702712",
-          "source": "知乎",
-          "ranks": [
-            16,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时56分 ~ 21时11分]"
         },
         {
           "title": "伊拉克石油产量骤降至170万-180万桶/日，美国和以色列对伊朗发动袭击之前大约430万桶/日。",
@@ -828,6 +873,18 @@
           "time_info": "[00时34分 ~ 03时27分]"
         },
         {
+          "title": "全民“养龙虾”？多家A股公司回应业务关联 深圳龙岗抢推“龙虾十条” 工信部紧急预警",
+          "url": "https://www.cls.cn/detail/2306969",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时10分 ~ 22时55分]"
+        },
+        {
           "title": "伊朗称美以发动“化学战争”",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%A7%B0%E7%BE%8E%E4%BB%A5%E5%8F%91%E5%8A%A8%E2%80%9C%E5%8C%96%E5%AD%A6%E6%88%98%E4%BA%89%E2%80%9D",
           "source": "百度热搜",
@@ -874,17 +931,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时29分 ~ 07时29分]"
-        },
-        {
-          "title": "全民“养龙虾”？多家A股公司回应业务关联 深圳龙岗抢推“龙虾十条” 工信部紧急预警",
-          "url": "https://www.cls.cn/detail/2306969",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时10分 ~ 21时11分]"
         },
         {
           "title": "伊朗外交部：坚决呼吁联合国秘书长和安理会在其职责范围内采取适当措施，以维护国际和平与安全，既要结束正在进行的战争罪行，又要进一步确保美国及其总统的问责；这样的行动将结束有罪不罚的文化。",
@@ -993,6 +1039,17 @@
           "time_info": "07时29分"
         },
         {
+          "title": "NYMEX天然气期货涨幅收窄至2.5%，报3.264美元/百万英热单位，此前一度涨9.7%至3.494美元。",
+          "url": "https://wallstreetcn.com/livenews/3066581",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
+        },
+        {
           "title": "港口遭巴拿马政府非法接管，长和索赔20亿美元",
           "url": "https://wallstreetcn.com/livenews/3065944",
           "source": "华尔街见闻-快讯",
@@ -1092,6 +1149,28 @@
           "time_info": "16时51分"
         },
         {
+          "title": "伊朗外长阿拉格齐：在“史诗级错误”行动进行9天后，油价翻了一番，所有商品价格都在飙升。我们知道美国正在策划针对我们的石油和核设施，伊朗已做好充分准备。而我们也准备了许多惊喜。",
+          "url": "https://flash.jin10.com/detail/20260309224742020800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
+        },
+        {
+          "title": "是时候卖原油了？美银Hartnett：特朗普要赢中期选举，美伊战争必须在3月“降级”",
+          "url": "https://wallstreetcn.com/articles/3767022",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
+        },
+        {
           "title": "多个主要产油国产量削减 美、布两油双双冲上100美元",
           "url": "https://flash.jin10.com/detail/20260309062254877800",
           "source": "金十数据",
@@ -1101,6 +1180,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
+        },
+        {
+          "title": "伊朗最高国家安全委员会秘书拉里贾尼：考虑到美国和以色列在该地区点燃的战争火焰，霍尔木兹海峡不太可能实现任何安全。",
+          "url": "https://flash.jin10.com/detail/20260309224522976800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
         },
         {
           "title": "印度Nifty指数较1月高点下跌10%，进入回调区间。 印度卢比兑美元跌至历史新低。",
@@ -1169,6 +1259,17 @@
           "time_info": "18时51分"
         },
         {
+          "title": "葡萄牙官员Miranda Sarmento在欧元集团会议开幕之前表示：针对供应偏低的石油储备准备就绪。 但当前面临的问题与供应偏低无关。",
+          "url": "https://wallstreetcn.com/livenews/3066574",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
+        },
+        {
           "title": "“龙虾”全球爆火 多家A股公司回应",
           "url": "https://www.toutiao.com/trending/7614384627385450532/",
           "source": "今日头条",
@@ -1191,6 +1292,17 @@
           "time_info": "01时27分"
         },
         {
+          "title": "国际能源署署长比罗尔：国际能源署成员国目前持有超过12亿桶的公共应急石油储备。",
+          "url": "https://flash.jin10.com/detail/20260309224424219800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
+        },
+        {
           "title": "据报道，沙特开始减产石油，储存空间已满。",
           "url": "https://wallstreetcn.com/livenews/3066467",
           "source": "华尔街见闻-快讯",
@@ -1211,6 +1323,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时34分"
+        },
+        {
+          "title": "美伊战火会“砸崩”美股？以史为鉴：无需担心，标普500很快反弹！",
+          "url": "https://www.cls.cn/detail/2307187",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
         },
         {
           "title": "WTI原油暴涨21%，突破110美元/桶。",
@@ -1246,6 +1369,17 @@
           "time_info": "18时51分"
         },
         {
+          "title": "国际能源署署长比罗尔：在G7会议上，我们讨论了所有可用选项，包括向市场释放国际能源署应急石油储备。",
+          "url": "https://flash.jin10.com/detail/20260309224354743800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
+        },
+        {
           "title": "新台币兑美元下跌0.7%，至31.900。",
           "url": "https://wallstreetcn.com/livenews/3066174",
           "source": "华尔街见闻-快讯",
@@ -1279,6 +1413,17 @@
           "time_info": "14时01分"
         },
         {
+          "title": "国际能源署署长比罗尔：近几日全球石油市场状况恶化，带来了重大且不断加剧的风险。",
+          "url": "https://flash.jin10.com/detail/20260309224247623800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
+        },
+        {
           "title": "据两位消息人士透露，沙特阿美正在削减两个油田的石油生产。（路透）",
           "url": "https://wallstreetcn.com/livenews/3066464",
           "source": "华尔街见闻-快讯",
@@ -1296,7 +1441,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
         },
@@ -1321,6 +1466,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时01分"
+        },
+        {
+          "title": "法国财长：G7准备利用战略石油储备来稳定市场",
+          "url": "https://wallstreetcn.com/livenews/3066571",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
         },
         {
           "title": "WTI原油期货涨超25%，布油期货涨超22%，均涨至113美元上方。 美国三大股指期货均跌超2%。",
@@ -1378,6 +1534,17 @@
           "time_info": "19时37分"
         },
         {
+          "title": "法国财长称G7尚未就协调释放战略石油储备达成一致",
+          "url": "https://flash.jin10.com/detail/20260309223238526800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
+        },
+        {
           "title": "WTI原油期货大涨逾20%，突破110美元关口，最高报111.24美元。",
           "url": "https://wallstreetcn.com/livenews/3065933",
           "source": "华尔街见闻-快讯",
@@ -1411,6 +1578,17 @@
           "time_info": "17时56分"
         },
         {
+          "title": "俄罗斯的黑海重要石油码头周末恢复装载",
+          "url": "https://wallstreetcn.com/livenews/3066568",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
+        },
+        {
           "title": "美、布两油开盘暴涨，WTI原油涨幅扩大至14%，报104美元/桶；布伦特原油大涨近10%。",
           "url": "https://flash.jin10.com/detail/20260309060212166800",
           "source": "金十数据",
@@ -1433,6 +1611,17 @@
           "time_info": "14时01分"
         },
         {
+          "title": "国际能源署署长比罗尔：在七国集团会议上，讨论了所有可用选项，包括向市场释放国际能源署应急石油储备。",
+          "url": "https://flash.jin10.com/detail/20260309223223921800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
+        },
+        {
           "title": "布伦特原油期货价格延续涨势，报111.76美元/桶。",
           "url": "https://wallstreetcn.com/livenews/3066084",
           "source": "华尔街见闻-快讯",
@@ -1442,6 +1631,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
+        },
+        {
+          "title": "日本财务大臣片山皋月：参加了关于中东问题的G-7线上会议。 IEA敦促G7释放石油库存。 G7同意作出回应，包括释放石油储备。",
+          "url": "https://wallstreetcn.com/livenews/3066567",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
+        },
+        {
+          "title": "十大券商看后市｜A股将重回自身节奏，配置更聚焦确定性",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32731190",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
         },
         {
           "title": "瑞穗：油价破百冲击远超能源范畴 美元避险地位凸显",
@@ -1477,6 +1688,28 @@
           "time_info": "17时56分"
         },
         {
+          "title": "国际能源署署长比罗尔：除了霍尔木兹海峡运输面临的挑战外，大量石油产量已被削减。",
+          "url": "https://flash.jin10.com/detail/20260309223204521800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
+        },
+        {
+          "title": "摩根大通预计标普500指数或回调10% 战争风险升温",
+          "url": "https://wallstreetcn.com/livenews/3066566",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
+        },
+        {
           "title": "据英国金融时报：G7和国际能源署将于周一召开会议，讨论紧急释放石油储备事宜。",
           "url": "https://flash.jin10.com/detail/20260309132450236800",
           "source": "金十数据",
@@ -1497,6 +1730,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时37分"
+        },
+        {
+          "title": "国际能源署署长比罗尔：霍尔木兹海峡正带来日益严重的石油市场风险。",
+          "url": "https://flash.jin10.com/detail/20260309223154538800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
+        },
+        {
+          "title": "欧盟经济事务专员Dombrovskis：必须尽快缓和伊朗冲突。 思考可能的能源措施。 其中一个选项是释放石油储备。",
+          "url": "https://wallstreetcn.com/livenews/3066564",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
         },
         {
           "title": "据英国金融时报：目前已有包括美国在内的三个G7国家表示支持共同释放紧急石油储备。",
@@ -1527,9 +1782,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
+        },
+        {
+          "title": "国际能源署署长比罗尔：在七国集团会议上，介绍了国际能源署对近几日不断恶化的全球石油市场形势的最新看法。",
+          "url": "https://flash.jin10.com/detail/20260309223140950800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
         },
         {
           "title": "WTI原油期货涨破100美元关口，为2002年7月来首次，日内涨超10%。 布伦特原油期货亚市盘初也突破100美元关口，报102.20美元/盎司，日内涨幅10%。",
@@ -1626,9 +1892,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
+        },
+        {
+          "title": "法国财政部长：希望七国集团在接下来的一小时内就释放紧急石油储备的磋商发表声明。",
+          "url": "https://flash.jin10.com/detail/20260309223115944800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
         },
         {
           "title": "印度卢比兑美元下跌0.5%，报1美元兑92.23卢比，受油价飙升影响。 日本10年期国债收益率上行4个基点至6.73%。",
@@ -1648,7 +1925,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
         },
@@ -1659,7 +1936,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
         },
@@ -1673,6 +1950,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时51分"
+        },
+        {
+          "title": "欧盟经济事务委员称释放石油储备是一种选择",
+          "url": "https://flash.jin10.com/detail/20260309221531343800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
+        },
+        {
+          "title": "伊朗警告油价或超200美元",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E8%AD%A6%E5%91%8A%E6%B2%B9%E4%BB%B7%E6%88%96%E8%B6%85200%E7%BE%8E%E5%85%83%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
         },
         {
           "title": "爱尔眼科据悉计划港股上市。（彭博）",
@@ -1697,6 +1996,17 @@
           "time_info": "18时51分"
         },
         {
+          "title": "美股三大股指开盘走低，纳指盘初跌0.91%，标普500指数跌0.88%，道指跌0.96%。科技股普跌，英特尔跌超3%，西部数据、美光科技均跌超1%。石油股走高，康菲石油涨近1%。HIMS&HERS上涨49%，创下单日涨幅纪录，此前与诺和诺德达成减肥药授权协议。",
+          "url": "https://wallstreetcn.com/livenews/3066555",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
+        },
+        {
           "title": "法兴银行：中东长期石油停产或造成永久性供应损失",
           "url": "https://flash.jin10.com/detail/20260309185210659800",
           "source": "金十数据",
@@ -1706,12 +2016,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时37分"
+        },
+        {
+          "title": "美、布两油短线拉升，现分别报103.6美元/桶和101.8美元/桶。此前，法国财政部长表示，G7尚未就释放石油储备一事达成共识。",
+          "url": "https://flash.jin10.com/detail/20260309221021571800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
         }
       ]
     },
     {
       "keyword_group": "外交部 商务部 证监会 央行",
-      "match_count": 54,
+      "match_count": 55,
       "titles": [
         {
           "title": "外交部长王毅答记者问",
@@ -1776,6 +2097,20 @@
           "time_info": "18时51分"
         },
         {
+          "title": "台湾当局官员窜访日本谋“独”，外交部：鬼鬼祟祟，令人不齿",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32732853",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            12,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时56分 ~ 22时55分]"
+        },
+        {
           "title": "外交部：中拉合作没有地缘算计",
           "url": "https://www.toutiao.com/trending/7614729975899406342/",
           "source": "今日头条",
@@ -1815,7 +2150,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
         },
@@ -1842,6 +2177,17 @@
           "time_info": "19时37分"
         },
         {
+          "title": "外交部回应卓荣泰窜日称拜访一人",
+          "url": "https://www.toutiao.com/trending/7615157885911207478/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
+        },
+        {
           "title": "印度外交部长表示，印度驻伊朗大使馆仍全面运作。",
           "url": "https://flash.jin10.com/detail/20260309135516916800",
           "source": "金十数据",
@@ -1862,19 +2208,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时51分"
-        },
-        {
-          "title": "台湾当局官员窜访日本谋“独”，外交部：鬼鬼祟祟，令人不齿",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32732853",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时56分 ~ 21时11分]"
         },
         {
           "title": "卡塔尔外交部：卡塔尔外交部接到国际原子能机构总干事的电话通话中，双方讨论了该地区军事升级的最新进展及其对地区和国际安全与稳定的严重影响，以及通过和平手段解决所有争端的途径。",
@@ -1899,6 +2232,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时51分 ~ 19时37分]"
+        },
+        {
+          "title": "外交部：有人心怀鬼胎、偷偷摸摸",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%EF%BC%9A%E6%9C%89%E4%BA%BA%E5%BF%83%E6%80%80%E9%AC%BC%E8%83%8E%E3%80%81%E5%81%B7%E5%81%B7%E6%91%B8%E6%91%B8",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时10分 ~ 22时55分]"
         },
         {
           "title": "伊拉克外交部：霍尔木兹海峡关闭将带来严重风险，并对伊拉克利益及能源供应和价格危机产生影响。",
@@ -1985,17 +2330,6 @@
           "time_info": "[18时51分 ~ 19时37分]"
         },
         {
-          "title": "外交部：有人心怀鬼胎、偷偷摸摸",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%EF%BC%9A%E6%9C%89%E4%BA%BA%E5%BF%83%E6%80%80%E9%AC%BC%E8%83%8E%E3%80%81%E5%81%B7%E5%81%B7%E6%91%B8%E6%91%B8",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时10分 ~ 21时11分]"
-        },
-        {
           "title": "以色列央行会议纪要：在连续两次降息之后，鉴于地缘政治不确定性，当前的整体考量并不支持进一步下调利率。",
           "url": "https://flash.jin10.com/detail/20260309191123859800",
           "source": "金十数据",
@@ -2068,7 +2402,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
         },
@@ -2277,7 +2611,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
         },
@@ -2329,7 +2663,7 @@
     },
     {
       "keyword_group": "特朗普 马斯克 加密货币 美联储",
-      "match_count": 48,
+      "match_count": 50,
       "titles": [
         {
           "title": "两会外长会｜王毅谈特朗普访华：今年是中美关系“大年”",
@@ -2355,8 +2689,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时29分 ~ 21时11分]"
+          "appearance_count": 12,
+          "time_info": "[10时29分 ~ 22时55分]"
         },
         {
           "title": "王毅谈特朗普访华",
@@ -2421,8 +2755,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时51分 ~ 21时11分]"
+          "appearance_count": 5,
+          "time_info": "[18时51分 ~ 22时55分]"
         },
         {
           "title": "美媒劝特朗普见好就收",
@@ -2449,6 +2783,18 @@
           "time_info": "[00时34分 ~ 05时28分]"
         },
         {
+          "title": "特朗普：将与以总理共同作出停战决定",
+          "url": "https://news.ifeng.com/c/8rM8XXIvw2a",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时56分 ~ 22时55分]"
+        },
+        {
           "title": "特朗普回应油价暴涨",
           "url": "https://flash.jin10.com/detail/20260309065548946800",
           "source": "金十数据",
@@ -2469,6 +2815,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
+        },
+        {
+          "title": "胡锡进：伊朗成心气特朗普，把一口带血的痰吐他脸上",
+          "url": "https://news.ifeng.com/c/8rM8XXIvw5H",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时56分 ~ 22时55分]"
         },
         {
           "title": "美国总统特朗普：短期内的油价在伊朗核威胁消除后会迅速下降。",
@@ -2493,18 +2850,6 @@
           "time_info": "16时51分"
         },
         {
-          "title": "特朗普：将与以总理共同作出停战决定",
-          "url": "https://news.ifeng.com/c/8rM8XXIvw2a",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时56分 ~ 21时11分]"
-        },
-        {
           "title": "加拿大总理卡尼与特朗普讨论了中东局势和贸易关系。",
           "url": "https://wallstreetcn.com/livenews/3066107",
           "source": "华尔街见闻-快讯",
@@ -2514,17 +2859,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
-        },
-        {
-          "title": "胡锡进：伊朗成心气特朗普，把一口带血的痰吐他脸上",
-          "url": "https://news.ifeng.com/c/8rM8XXIvw5H",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时56分 ~ 21时11分]"
         },
         {
           "title": "特朗普威胁称伊朗新领导人“难长久”",
@@ -2891,12 +3225,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时34分"
+        },
+        {
+          "title": "美国总统特朗普：若澳大利亚不向她们提供庇护，美国将接管该球队。",
+          "url": "https://flash.jin10.com/detail/20260309221941681800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
+        },
+        {
+          "title": "美国总统特朗普：（就伊朗女足国家队返回伊朗）澳大利亚在允许伊朗国家女子足球队返回伊朗的做法上犯了一个可怕的人道主义错误，她们很可能会被杀。不要这样做，总理先生，给她们提供庇护。",
+          "url": "https://flash.jin10.com/detail/20260309221911288800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek AI openai 机器人 小米 特斯拉 英伟达",
-      "match_count": 37,
+      "match_count": 41,
       "titles": [
         {
           "title": "周末要闻汇总：证监会发布短线交易监管规定；AI“养龙虾”火了",
@@ -2958,8 +3314,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时29分 ~ 21时11分]"
+          "appearance_count": 12,
+          "time_info": "[10时29分 ~ 22时55分]"
         },
         {
           "title": "AI对老师的影响",
@@ -3010,8 +3366,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时34分 ~ 21时11分]"
+          "appearance_count": 23,
+          "time_info": "[00时34分 ~ 22时55分]"
         },
         {
           "title": "【早报】深圳出手，“AI龙虾”支持政策来了；事关短线交易，证监会发新规",
@@ -3044,8 +3400,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时54分 ~ 21时11分]"
+          "appearance_count": 11,
+          "time_info": "[12时54分 ~ 22时55分]"
         },
         {
           "title": "当机器人越来越像人",
@@ -3159,6 +3515,31 @@
           "time_info": "15时15分"
         },
         {
+          "title": "中国传媒大学砍掉翻译、摄影等 16 个本科专业，怎样看待这一变化？这些专业真的能被 AI 替代吗？",
+          "url": "https://www.zhihu.com/question/2014268583652320290",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
+        },
+        {
+          "title": "小片片解读AI神作牌子",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B0%8F%E7%89%87%E7%89%87%E8%A7%A3%E8%AF%BBAI%E7%A5%9E%E4%BD%9C%E7%89%8C%E5%AD%90",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            23,
+            28,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时51分 ~ 22时55分]"
+        },
+        {
           "title": "国际油价飙升正推倒“多米诺骨牌”：亚马逊、英伟达等将遭遇连锁冲击",
           "url": "https://www.cls.cn/detail/2306863",
           "source": "财联社热门",
@@ -3182,17 +3563,26 @@
           "time_info": "19时37分"
         },
         {
-          "title": "小片片解读AI神作牌子",
-          "url": "https://search.bilibili.com/all?keyword=%E5%B0%8F%E7%89%87%E7%89%87%E8%A7%A3%E8%AF%BBAI%E7%A5%9E%E4%BD%9C%E7%89%8C%E5%AD%90",
+          "title": "yilai加入BLG无畏契约",
+          "url": "https://search.bilibili.com/all?keyword=yilai%E5%8A%A0%E5%85%A5BLG%E6%97%A0%E7%95%8F%E5%A5%91%E7%BA%A6",
           "source": "bilibili 热搜",
           "ranks": [
-            4,
-            23,
-            28
+            4
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时51分 ~ 21时11分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
+        },
+        {
+          "title": "AI“养龙虾”爆火！OpenClaw概念走强 多家上市公司回应相关业务最新进展|聚焦",
+          "url": "https://www.cls.cn/detail/2307537",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
         },
         {
           "title": "AI“龙虾”火到全国两会，王坚：会很快便宜下来并普及",
@@ -3308,7 +3698,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
         },
@@ -3333,6 +3723,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时51分"
+        },
+        {
+          "title": "“龙虾”开发者加入OpenAI",
+          "url": "https://www.toutiao.com/trending/7615246816627396150/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
         },
         {
           "title": "王一博Mai合影",
@@ -3371,7 +3772,7 @@
     },
     {
       "keyword_group": "黄金 白银 铜 铝 稀土",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "多家黄金品牌宣布调价",
@@ -3391,11 +3792,12 @@
           "source": "抖音",
           "ranks": [
             14,
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时54分 ~ 17时56分]"
+          "appearance_count": 7,
+          "time_info": "[12时54分 ~ 22时55分]"
         },
         {
           "title": "金十图示：2026年03月09日（周一）白银ETF持仓报告",
@@ -3522,7 +3924,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
         },
@@ -3533,7 +3935,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
         },
@@ -3560,6 +3962,17 @@
           "time_info": "16时51分"
         },
         {
+          "title": "1亿美元委内瑞拉黄金运抵美国",
+          "url": "https://s.weibo.com/weibo?q=%231%E4%BA%BF%E7%BE%8E%E5%85%83%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E9%BB%84%E9%87%91%E8%BF%90%E6%8A%B5%E7%BE%8E%E5%9B%BD%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
+        },
+        {
           "title": "现货黄金周一高开，最高至5197.85美元/盎司，现回落至5120美元/盎司附近；现货白银小幅高开，最高逼近85美元/盎司，现回落近2美元，跌破83美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260309060829060800",
           "source": "金十数据",
@@ -3577,7 +3990,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
         },
@@ -3610,7 +4023,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
         },
@@ -3624,6 +4037,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时56分"
+        },
+        {
+          "title": "女子将十几万黄金藏冰箱：有安全感",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%B0%86%E5%8D%81%E5%87%A0%E4%B8%87%E9%BB%84%E9%87%91%E8%97%8F%E5%86%B0%E7%AE%B1%EF%BC%9A%E6%9C%89%E5%AE%89%E5%85%A8%E6%84%9F",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
         },
         {
           "title": "黄金市场谁在赚谁在亏",
