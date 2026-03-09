@@ -1,12 +1,45 @@
 {
-  "generated_at": "2026-03-10T02:58:48.545173+08:00",
-  "total_titles_processed": 468,
+  "generated_at": "2026-03-10T03:44:35.292511+08:00",
+  "total_titles_processed": 530,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 美债 美元 石油 战争",
-      "match_count": 53,
+      "match_count": 76,
       "titles": [
+        {
+          "title": "报道：G7拟协调释放战略石油储备，规模或为3-4亿桶",
+          "url": "https://wallstreetcn.com/articles/3767015",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 03时44分]"
+        },
+        {
+          "title": "当战争走向不再由美国决定，美以联盟怎么办？",
+          "url": "https://v.ifeng.com/c/8rMAY0dNZVA",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 03时44分]"
+        },
+        {
+          "title": "G7紧急开会，美三大股指低开反弹，纳指转涨，美油回落至100美元下方",
+          "url": "https://wallstreetcn.com/articles/3766990",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时49分 ~ 03时44分]"
+        },
         {
           "title": "美以伊战争｜印军高官承认出卖伊朗军舰坐标？假的",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
@@ -19,39 +52,6 @@
           "time_info": "[00时02分 ~ 02时58分]"
         },
         {
-          "title": "报道：G7拟协调释放战略石油储备，规模或为3-4亿桶",
-          "url": "https://wallstreetcn.com/articles/3767015",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 02时58分]"
-        },
-        {
-          "title": "当战争走向不再由美国决定，美以联盟怎么办？",
-          "url": "https://v.ifeng.com/c/8rMAY0dNZVA",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 02时58分]"
-        },
-        {
-          "title": "G7紧急开会，美三大股指低开反弹，纳指转涨，美油回落至100美元下方",
-          "url": "https://wallstreetcn.com/articles/3766990",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时49分 ~ 02时58分]"
-        },
-        {
           "title": "全球股债遭遇双杀！美股三大股指开盘走低，芯片股普跌，美油回落至100美元下方",
           "url": "https://wallstreetcn.com/articles/3766990",
           "source": "华尔街见闻",
@@ -61,6 +61,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "美以伊战争｜特朗普：距离向伊朗派兵“还差得远”",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时44分"
+        },
+        {
+          "title": "特朗普称战争已基本结束",
+          "url": "https://flash.jin10.com/detail/20260310033859998800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时44分"
         },
         {
           "title": "印度石油与天然气部：命令炼油行业提高LPG产量。",
@@ -80,7 +102,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
         },
@@ -96,15 +118,81 @@
           "time_info": "01时50分"
         },
         {
+          "title": "欧盟委员会贸易委员东布罗夫斯基斯：七国集团未讨论释放石油储备的具体条件。",
+          "url": "https://flash.jin10.com/detail/20260310033751610800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时44分"
+        },
+        {
+          "title": "终于，海湾石油危机还是来了！",
+          "url": "https://wallstreetcn.com/articles/3766998",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 03时44分]"
+        },
+        {
           "title": "WTI原油失守92美元/桶，日内涨幅收窄至1%以内，布伦特原油跌破94美元/桶。",
           "url": "https://flash.jin10.com/detail/20260310021604786800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
+        },
+        {
+          "title": "WTI原油日内暴跌8.00%，现报84.09美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260310033620845800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时44分"
+        },
+        {
+          "title": "周一（3月9日）纽约尾盘，ICE美元指数涨0.19%，报99.173点，日内交投区间为98.978–99.695点，亚太早盘刷新日高，随后逐步回落。 彭博美元指数涨0.10%，报1204.63点，日内交投区间为1202.96-1211.49点。",
+          "url": "https://wallstreetcn.com/livenews/3066702",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时44分"
+        },
+        {
+          "title": "布伦特原油跌破86美元/桶，日内跌5.21%。",
+          "url": "https://flash.jin10.com/detail/20260310033550695800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时44分"
+        },
+        {
+          "title": "WTI原油日内重挫6.19美元，现报85.22美元/桶，跌幅6.77%。",
+          "url": "https://flash.jin10.com/detail/20260310033531286800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时44分"
         },
         {
           "title": "油价突破100美元后，Kalshi预测市场上美国经济衰退概率大幅飙升",
@@ -118,15 +206,75 @@
           "time_info": "00时02分"
         },
         {
-          "title": "终于，海湾石油危机还是来了！",
-          "url": "https://wallstreetcn.com/articles/3766998",
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9085元，较上周五夜盘收盘跌25点。成交量571.97亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3066699",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时44分"
+        },
+        {
+          "title": "是时候卖原油了？美银Hartnett：特朗普要赢中期选举，美伊战争必须在3月“降级”",
+          "url": "https://wallstreetcn.com/articles/3767022",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 02时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 03时44分]"
+        },
+        {
+          "title": "美伊战火会“砸崩”美股？以史为鉴：无需担心，标普500很快反弹！",
+          "url": "https://www.cls.cn/detail/2307187",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 03时44分]"
+        },
+        {
+          "title": "伊朗外长表示不结束战争伊朗不会停火，如何解读这一表态？这场战事最终将走向何方？",
+          "url": "https://www.zhihu.com/question/2014375453297702712",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 03时44分]"
+        },
+        {
+          "title": "伊朗警告油价或超200美元",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E8%AD%A6%E5%91%8A%E6%B2%B9%E4%BB%B7%E6%88%96%E8%B6%85200%E7%BE%8E%E5%85%83%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19,
+            17,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 03时44分]"
+        },
+        {
+          "title": "十大券商看后市｜A股将重回自身节奏，配置更聚焦确定性",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32731190",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 03时44分]"
         },
         {
           "title": "周一（3月9日），韩元兑美元最终涨0.54%，报1475.46韩元。",
@@ -141,65 +289,6 @@
           "time_info": "[01时50分 ~ 02时58分]"
         },
         {
-          "title": "是时候卖原油了？美银Hartnett：特朗普要赢中期选举，美伊战争必须在3月“降级”",
-          "url": "https://wallstreetcn.com/articles/3767022",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 02时58分]"
-        },
-        {
-          "title": "美伊战火会“砸崩”美股？以史为鉴：无需担心，标普500很快反弹！",
-          "url": "https://www.cls.cn/detail/2307187",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 02时58分]"
-        },
-        {
-          "title": "伊朗外长表示不结束战争伊朗不会停火，如何解读这一表态？这场战事最终将走向何方？",
-          "url": "https://www.zhihu.com/question/2014375453297702712",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 02时58分]"
-        },
-        {
-          "title": "伊朗警告油价或超200美元",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E8%AD%A6%E5%91%8A%E6%B2%B9%E4%BB%B7%E6%88%96%E8%B6%85200%E7%BE%8E%E5%85%83%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19,
-            17,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 02时58分]"
-        },
-        {
-          "title": "十大券商看后市｜A股将重回自身节奏，配置更聚焦确定性",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32731190",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 02时58分]"
-        },
-        {
           "title": "周一（3月9日），美联储隔夜逆回购协议（RRP）使用规模为3.32亿美元（交易对手4家），上个交易日报15.12亿美元。",
           "url": "https://wallstreetcn.com/livenews/3066660",
           "source": "华尔街见闻-快讯",
@@ -210,6 +299,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时50分 ~ 02时58分]"
+        },
+        {
+          "title": "WTI原油5分钟内下跌1.08美元/桶，报92.97美元/桶，日内涨幅收窄至不足2.0%。 北京时间10:30前后，美国原油期货还曾涨至119.39美元。",
+          "url": "https://wallstreetcn.com/livenews/3066674",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时58分 ~ 03时44分]"
+        },
+        {
+          "title": "现货钯金价格涨超3%，报1677美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3066671",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时58分 ~ 03时44分]"
         },
         {
           "title": "法国总统马克龙：这场战争的影响已经体现在油价上，未来几周也将影响天然气价格。",
@@ -229,9 +342,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
+        },
+        {
+          "title": "布伦特原油跌破87美元/桶，日内跌4.11%。",
+          "url": "https://flash.jin10.com/detail/20260310033357200800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时44分"
         },
         {
           "title": "标普500指数跌幅收窄至0.5%，美股盘初一度下跌1.5%。",
@@ -251,9 +375,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
+        },
+        {
+          "title": "布伦特原油失守88美元/桶，日内跌幅3.24%。",
+          "url": "https://flash.jin10.com/detail/20260310033326963800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时44分"
         },
         {
           "title": "德国副总理兼财政部长克林拜尔（Klingbeil）：如有必要，德国对动用国家石油储备持开放态度。",
@@ -267,37 +402,26 @@
           "time_info": "00时02分"
         },
         {
-          "title": "WTI原油5分钟内下跌1.08美元/桶，报92.97美元/桶，日内涨幅收窄至不足2.0%。 北京时间10:30前后，美国原油期货还曾涨至119.39美元。",
-          "url": "https://wallstreetcn.com/livenews/3066674",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时58分"
-        },
-        {
           "title": "能源顾问称，美国司机本周末可能看到油价涨至每加仑4美元。",
           "url": "https://flash.jin10.com/detail/20260310020020624800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
         },
         {
-          "title": "现货钯金价格涨超3%，报1677美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3066671",
-          "source": "华尔街见闻-快讯",
+          "title": "消息人士：美国总统特朗普政府正考虑在油价飙升之际进一步放松对俄石油制裁。",
+          "url": "https://flash.jin10.com/detail/20260310033150040800",
+          "source": "金十数据",
           "ranks": [
-            9
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时58分"
+          "time_info": "03时44分"
         },
         {
           "title": "伊朗外交部：这场战争不仅针对伊朗，也针对整个地区。包括霍尔木兹海峡在内的地区局势严峻，也是美国和犹太复国主义政权军事侵略的后果。",
@@ -328,9 +452,31 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
+        },
+        {
+          "title": "WTI原油回落至87美元/桶下方，日内跌4.91%。",
+          "url": "https://flash.jin10.com/detail/20260310032901209800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时44分"
+        },
+        {
+          "title": "欧盟委员会贸易委员东布罗夫斯基斯：目前尚未就动用战略石油储备作出具体决定。",
+          "url": "https://flash.jin10.com/detail/20260310032828410800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时44分"
         },
         {
           "title": "七国集团准备在必要时释放石油储备以支持供应",
@@ -344,15 +490,37 @@
           "time_info": "00时02分"
         },
         {
+          "title": "美国国会预算办公司（CBO）：预计美国2月预算赤字3080亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3066686",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时44分"
+        },
+        {
           "title": "普京要求俄罗斯石油和天然气公司趁着高油价削减债务",
           "url": "https://flash.jin10.com/detail/20260310015008018800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
+        },
+        {
+          "title": "欧盟委员会贸易委员东布罗夫斯基斯：战略石油储备正是为应对此类情况而储备的。",
+          "url": "https://flash.jin10.com/detail/20260310032817443800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时44分"
         },
         {
           "title": "印度石油与天然气部：命令炼油行业提高液化石油气（LPG）产量。 将额外的（石油）产品用于国内LPG用途。",
@@ -361,9 +529,31 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
+        },
+        {
+          "title": "受特朗普言论影响，美股三大股指均转涨，纳指涨超1%。",
+          "url": "https://flash.jin10.com/detail/20260310032807160800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时44分"
+        },
+        {
+          "title": "伊朗战争推高燃油成本，航空公司重新评估增长计划。 据知情人士透露，航空公司考虑暂停飞机交付。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3066684",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时44分"
         },
         {
           "title": "俄罗斯总统普京：与霍尔木兹海峡相关的石油生产最早可能于下月完全停滞。",
@@ -383,7 +573,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
         },
@@ -394,9 +584,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
+        },
+        {
+          "title": "美国原油期货收涨超4%，中东原油期货一度涨穿123美元",
+          "url": "https://wallstreetcn.com/livenews/3066682",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时44分"
         },
         {
           "title": "地中海航运公司：自2026年3月16日起至另行通知为止，北欧至红海航线的紧急燃油附加费将按每标准箱85美元、每冷藏箱125美元收取。",
@@ -416,7 +617,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
         },
@@ -443,6 +644,17 @@
           "time_info": "01时50分"
         },
         {
+          "title": "美国总统特朗普：我认为伊朗战争已经非常彻底，几乎结束了。",
+          "url": "https://flash.jin10.com/detail/20260310032508468800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时44分"
+        },
+        {
           "title": "七国集团（G7）：讨论了中东地区当前的冲突。 将密切关注能源市场。 随时准备采取必要措施。 可能的措施包括释放石油库存。",
           "url": "https://wallstreetcn.com/livenews/3066591",
           "source": "华尔街见闻-快讯",
@@ -452,6 +664,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "WTI原油回落至89美元/桶下方，日内跌2.68%。",
+          "url": "https://flash.jin10.com/detail/20260310032333497800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时44分"
         },
         {
           "title": "IEA：七国集团会议讨论了包括向市场投放IEA紧急石油储备在内的所有可用选项",
@@ -482,7 +705,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
         },
@@ -504,7 +727,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
         },
@@ -526,9 +749,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
+        },
+        {
+          "title": "美、布两油短线大幅下跌超3美元。",
+          "url": "https://flash.jin10.com/detail/20260310032141523800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时44分"
         },
         {
           "title": "报道：美国希望G7联合释放3亿-4亿桶石油",
@@ -540,6 +774,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时50分"
+        },
+        {
+          "title": "美国总统特朗普：战争可能很快就会结束。",
+          "url": "https://flash.jin10.com/detail/20260310032035655800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时44分"
         },
         {
           "title": "法国总统马克龙：伊朗战争或将持续数周。",
@@ -570,7 +815,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
         },
@@ -584,6 +829,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "巴西雷亚尔兑美元在即期市场上走强，上涨约0.9%，至5.199。",
+          "url": "https://flash.jin10.com/detail/20260310031506749800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时44分"
         },
         {
           "title": "市场消息：GE航空航天（GE Aerospace）宣布对美国国内制造业务投资10亿美元，创造5,000个美国就业岗位。",
@@ -600,7 +856,7 @@
     },
     {
       "keyword_group": "特朗普 马斯克 加密货币 美联储",
-      "match_count": 17,
+      "match_count": 24,
       "titles": [
         {
           "title": "哈梅内伊次子当选伊朗新任最高领袖 特朗普威胁“难长久”",
@@ -610,8 +866,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 02时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 03时44分]"
         },
         {
           "title": "特朗普回应拉里贾尼威胁",
@@ -621,8 +877,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 02时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 03时44分]"
+        },
+        {
+          "title": "据媒体报道，特朗普认为针对伊朗的战事已基本接近尾声。美军行动进展已大幅领先于最初预估的4至5周时间表。 原油价格日内转跌，WTI原油价格跌约2%。",
+          "url": "https://wallstreetcn.com/livenews/3066705",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时44分"
         },
         {
           "title": "特朗普：澳大利亚总理正在处理伊朗女足队员安置问题",
@@ -665,8 +932,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 02时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 03时44分]"
         },
         {
           "title": "胡锡进：伊朗成心气特朗普，把一口带血的痰吐他脸上",
@@ -676,8 +943,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 02时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 03时44分]"
+        },
+        {
+          "title": "特朗普将举行对伊朗发动军事行动以来首次新闻发布会",
+          "url": "https://wallstreetcn.com/livenews/3066669",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时58分 ~ 03时44分]"
         },
         {
           "title": "美国总统特朗普：（就油价问题）我对一切都有计划。",
@@ -702,6 +981,39 @@
           "time_info": "00时02分"
         },
         {
+          "title": "特朗普家族增加国防投资，部署一家新型无人机企业",
+          "url": "https://wallstreetcn.com/livenews/3066695",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时44分"
+        },
+        {
+          "title": "美国总统特朗普：（警告伊朗）他们已经把该打的都打完了，最好别耍什么花招，否则这个国家就完了。",
+          "url": "https://flash.jin10.com/detail/20260310033035774800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时44分"
+        },
+        {
+          "title": "美国总统特朗普：（谈及霍尔木兹海峡）现在船只正在通过，但“正在考虑控制它”。",
+          "url": "https://flash.jin10.com/detail/20260310033017745800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时44分"
+        },
+        {
           "title": "美联储：美国2月一年期通胀预期小幅回落至3%。",
           "url": "https://wallstreetcn.com/livenews/3066603",
           "source": "华尔街见闻-快讯",
@@ -713,24 +1025,13 @@
           "time_info": "00时02分"
         },
         {
-          "title": "特朗普将举行对伊朗发动军事行动以来首次新闻发布会",
-          "url": "https://wallstreetcn.com/livenews/3066669",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时58分"
-        },
-        {
           "title": "黎巴嫩请求特朗普政府斡旋与以色列的直接和平谈判，以结束冲突。",
           "url": "https://flash.jin10.com/detail/20260310015030516800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
         },
@@ -741,7 +1042,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
         },
@@ -755,6 +1056,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时50分"
+        },
+        {
+          "title": "克里姆林宫：美国总统特朗普已致电俄罗斯总统普京，讨论伊朗和乌克兰问题。美国总统特朗普再次表示希望乌克兰冲突尽快结束。通话持续约一小时，富有建设性，务实且坦诚。",
+          "url": "https://flash.jin10.com/detail/20260310032634119800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时44分"
+        },
+        {
+          "title": "美国总统特朗普表示，他已考虑好接替伊朗最高领袖哈梅内伊的人选，但未作详细说明。",
+          "url": "https://flash.jin10.com/detail/20260310032433154800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时44分"
         },
         {
           "title": "美媒：特朗普称距离向伊朗派遣美军地面部队“还差得远”",
@@ -774,9 +1097,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
+        },
+        {
+          "title": "特朗普称美国在伊朗问题上“远远”领先于他最初预估的4-5周时间。",
+          "url": "https://flash.jin10.com/detail/20260310032214674800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时44分"
         },
         {
           "title": "特朗普政府已发出传票，要求调取亚利桑那州2020年选举记录。这是美国总统为重新审理他输掉的选举而采取的最新举措。",
@@ -785,7 +1119,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
         }
@@ -793,7 +1127,7 @@
     },
     {
       "keyword_group": "DeepSeek AI openai 机器人 小米 特斯拉 英伟达",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "中国传媒大学砍掉翻译、摄影等 16 个本科专业，怎样看待这一变化？这些专业真的能被 AI 替代吗？",
@@ -801,11 +1135,12 @@
           "source": "知乎",
           "ranks": [
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 02时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 03时44分]"
         },
         {
           "title": "yilai加入BLG无畏契约",
@@ -817,8 +1152,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 02时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 03时44分]"
         },
         {
           "title": "AI“养龙虾”爆火！OpenClaw概念走强 多家上市公司回应相关业务最新进展|聚焦",
@@ -829,8 +1164,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 02时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 03时44分]"
         },
         {
           "title": "首个龙虾大模型排行榜来了！两个国产 AI 杀进全球前三，养虾前必看",
@@ -840,8 +1175,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 02时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 03时44分]"
         },
         {
           "title": "有写手用 AI 48 小时生成 500 万字长篇小说月入过万，AI 批量生产会对网文行业产生哪些影响？",
@@ -850,11 +1185,36 @@
           "ranks": [
             5,
             15,
-            10
+            10,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 02时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 03时44分]"
+        },
+        {
+          "title": "小片片解读AI神作牌子",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B0%8F%E7%89%87%E7%89%87%E8%A7%A3%E8%AF%BBAI%E7%A5%9E%E4%BD%9C%E7%89%8C%E5%AD%90",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23,
+            27,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 03时44分]"
+        },
+        {
+          "title": "英伟达输成人站,卖卡不如卖片",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351500&amp;topic_name=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%BE%93%E6%88%90%E4%BA%BA%E7%AB%99%2C%E5%8D%96%E5%8D%A1%E4%B8%8D%E5%A6%82%E5%8D%96%E7%89%87",
+          "source": "贴吧",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 03时44分]"
         },
         {
           "title": "AI初创公司ElevenLabs的CEO表示：公司准备在未来2-3年IPO。",
@@ -867,30 +1227,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时50分 ~ 02时58分]"
-        },
-        {
-          "title": "小片片解读AI神作牌子",
-          "url": "https://search.bilibili.com/all?keyword=%E5%B0%8F%E7%89%87%E7%89%87%E8%A7%A3%E8%AF%BBAI%E7%A5%9E%E4%BD%9C%E7%89%8C%E5%AD%90",
-          "source": "bilibili 热搜",
-          "ranks": [
-            23,
-            27,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 02时58分]"
-        },
-        {
-          "title": "英伟达输成人站,卖卡不如卖片",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351500&amp;topic_name=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%BE%93%E6%88%90%E4%BA%BA%E7%AB%99%2C%E5%8D%96%E5%8D%A1%E4%B8%8D%E5%A6%82%E5%8D%96%E7%89%87",
-          "source": "贴吧",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 02时58分]"
         },
         {
           "title": "OpenAI同意收购AI安全初创公司PromptFoo。",
@@ -927,6 +1263,17 @@
           "time_info": "00时02分"
         },
         {
+          "title": "报道：苹果因等待新一代AI完工，推迟智能家居显示屏发布",
+          "url": "https://wallstreetcn.com/livenews/3066691",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时44分"
+        },
+        {
           "title": "OpenAI：同意收购AI安全初创公司PromptFoo。",
           "url": "https://flash.jin10.com/detail/20260310010121184800",
           "source": "金十数据",
@@ -941,7 +1288,7 @@
     },
     {
       "keyword_group": "外交部 商务部 证监会 央行",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "外交部回应台当局称大陆绕岛军机减少",
@@ -952,8 +1299,34 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 02时58分]"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 03时44分]"
+        },
+        {
+          "title": "台湾当局官员窜访日本谋“独”，外交部：鬼鬼祟祟，令人不齿",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32732853",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 03时44分]"
+        },
+        {
+          "title": "外交部：有人心怀鬼胎、偷偷摸摸",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%EF%BC%9A%E6%9C%89%E4%BA%BA%E5%BF%83%E6%80%80%E9%AC%BC%E8%83%8E%E3%80%81%E5%81%B7%E5%81%B7%E6%91%B8%E6%91%B8",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 03时44分]"
         },
         {
           "title": "土耳其外交部消息人士称，土方就伊朗向土境内发射导弹一事召见伊朗驻土耳其大使。",
@@ -966,31 +1339,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时50分 ~ 02时58分]"
-        },
-        {
-          "title": "台湾当局官员窜访日本谋“独”，外交部：鬼鬼祟祟，令人不齿",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32732853",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 02时58分]"
-        },
-        {
-          "title": "外交部：有人心怀鬼胎、偷偷摸摸",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%EF%BC%9A%E6%9C%89%E4%BA%BA%E5%BF%83%E6%80%80%E9%AC%BC%E8%83%8E%E3%80%81%E5%81%B7%E5%81%B7%E6%91%B8%E6%91%B8",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 02时58分]"
         },
         {
           "title": "伊朗外交部：日本外相在向伊朗人民表示慰问和同情的同时，也对危机的持续和扩大表示关切，并强调必须采取必要措施缓和紧张局势。为此，他一直与该地区的同行保持联系，并将继续为此努力。",
@@ -1037,6 +1385,28 @@
           "time_info": "01时50分"
         },
         {
+          "title": "城堡证券预测市场误判美欧利率路径，欧洲央行料不会坚持升息",
+          "url": "https://wallstreetcn.com/livenews/3066683",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时44分"
+        },
+        {
+          "title": "美国银行：因油价上涨 放弃对加拿大央行降息的预测",
+          "url": "https://flash.jin10.com/detail/20260310032649902800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时44分"
+        },
+        {
           "title": "英国央行面临通胀回升至5%上方的风险，交易员提高加息押注",
           "url": "https://wallstreetcn.com/livenews/3066645",
           "source": "华尔街见闻-快讯",
@@ -1060,11 +1430,12 @@
           "ranks": [
             17,
             11,
-            16
+            16,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 02时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 03时44分]"
         },
         {
           "title": "1亿美元委内瑞拉黄金运抵美国",
@@ -1076,8 +1447,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 02时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 03时44分]"
         },
         {
           "title": "女子将十几万黄金藏冰箱：有安全感",
@@ -1089,8 +1460,20 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时02分 ~ 02时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 03时44分]"
+        },
+        {
+          "title": "LME期铜收涨92美元，报12954美元/吨。 LME期铝收跌60美元，报3386美元/吨。 LME期锌收涨30美元，报3328美元/吨。 LME期铅收跌16美元，报1936美元/吨。 LME期镍收平，报17469美元/吨。 LME期锡收涨620美元，报50685美元/吨。 LME期钴收平，报56290美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3066670",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时58分 ~ 03时44分]"
         },
         {
           "title": "沪锡夜盘收涨3.5%，氧化铝跌超2.7%",
@@ -1103,17 +1486,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时50分 ~ 02时58分]"
-        },
-        {
-          "title": "LME期铜收涨92美元，报12954美元/吨。 LME期铝收跌60美元，报3386美元/吨。 LME期锌收涨30美元，报3328美元/吨。 LME期铅收跌16美元，报1936美元/吨。 LME期镍收平，报17469美元/吨。 LME期锡收涨620美元，报50685美元/吨。 LME期钴收平，报56290美元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3066670",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时58分"
         }
       ]
     }
