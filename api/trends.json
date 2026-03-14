@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-14T13:49:48.920963+08:00",
-  "total_titles_processed": 972,
+  "generated_at": "2026-03-14T14:53:52.648488+08:00",
+  "total_titles_processed": 1035,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 美债 美元 石油 战争",
-      "match_count": 109,
+      "match_count": 112,
       "titles": [
         {
           "title": "布油破百引爆通胀担忧，美股与美债双双重挫，美元两连涨，金银下挫",
@@ -77,11 +77,12 @@
             6,
             8,
             12,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时45分 ~ 13时49分]"
+          "appearance_count": 14,
+          "time_info": "[00时45分 ~ 14时53分]"
         },
         {
           "title": "中方向伊朗遇难学生家长援助20万美元",
@@ -103,8 +104,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时45分 ~ 13时49分]"
+          "appearance_count": 14,
+          "time_info": "[00时45分 ~ 14时53分]"
+        },
+        {
+          "title": "美伊冲突升级，美股倒V、连跌三周！Mag7陷入回调，Meta跌近4%，美元破百",
+          "url": "https://wallstreetcn.com/articles/3767492",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时23分 ~ 14时53分]"
         },
         {
           "title": "一图看懂｜从能源到餐桌：霍尔木兹海峡的石油风暴会引发粮食危机吗？",
@@ -121,48 +134,16 @@
           "time_info": "[00时45分 ~ 06时32分]"
         },
         {
-          "title": "惠誉：（评卡塔尔）卡塔尔稳定展望反映出市场预期，即液化天然气产量大幅增长的可信前景将缓解伊朗战争带来的冲击。基本情境是冲突将持续不到一个月，海峡在此期间将保持关闭。预计霍尔木兹海峡交通恢复正常后，天然气生产将恢复。",
-          "url": "https://flash.jin10.com/detail/20260314050846093800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时37分 ~ 07时32分]"
-        },
-        {
-          "title": "美伊冲突升级，美股倒V、连跌三周！Mag7陷入回调，Meta跌近4%，美元破百",
-          "url": "https://wallstreetcn.com/articles/3767492",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时23分 ~ 13时49分]"
-        },
-        {
           "title": "美国悬赏千万美元征集穆杰塔巴等人信息",
           "url": "https://news.ifeng.com/c/8rTnIQ3aBSK",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时23分 ~ 13时49分]"
-        },
-        {
-          "title": "伯克希尔·哈撒韦：沃伦·E·巴菲特2025年的总薪酬为389,488美元。",
-          "url": "https://flash.jin10.com/detail/20260314043346902800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时37分 ~ 07时32分]"
+          "appearance_count": 4,
+          "time_info": "[10时23分 ~ 14时53分]"
         },
         {
           "title": "美股收盘：伊朗战争升级加剧通胀担忧 标普500指数连续第三周下跌",
@@ -174,8 +155,43 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时32分 ~ 13时49分]"
+          "appearance_count": 5,
+          "time_info": "[07时32分 ~ 14时53分]"
+        },
+        {
+          "title": "惠誉：（评卡塔尔）卡塔尔稳定展望反映出市场预期，即液化天然气产量大幅增长的可信前景将缓解伊朗战争带来的冲击。基本情境是冲突将持续不到一个月，海峡在此期间将保持关闭。预计霍尔木兹海峡交通恢复正常后，天然气生产将恢复。",
+          "url": "https://flash.jin10.com/detail/20260314050846093800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时37分 ~ 07时32分]"
+        },
+        {
+          "title": "华尔街“全面转向”！多家投行警告“伊朗战争引发长期能源危机”",
+          "url": "https://wallstreetcn.com/articles/3767504",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时46分 ~ 14时53分]"
+        },
+        {
+          "title": "伯克希尔·哈撒韦：沃伦·E·巴菲特2025年的总薪酬为389,488美元。",
+          "url": "https://flash.jin10.com/detail/20260314043346902800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时37分 ~ 07时32分]"
         },
         {
           "title": "美以伊战争｜万斯拒谈对伊朗决策细节：不想坐牢",
@@ -212,6 +228,18 @@
           "time_info": "[04时39分 ~ 07时32分]"
         },
         {
+          "title": "委内瑞拉首次向哥伦比亚出口液化石油气",
+          "url": "https://wallstreetcn.com/livenews/3070091",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时49分 ~ 14时53分]"
+        },
+        {
           "title": "万斯表示支持伊朗战争 与上任前的表态截然相反",
           "url": "https://flash.jin10.com/detail/20260314043127132800",
           "source": "金十数据",
@@ -224,16 +252,29 @@
           "time_info": "[04时39分 ~ 07时32分]"
         },
         {
-          "title": "华尔街“全面转向”！多家投行警告“伊朗战争引发长期能源危机”",
-          "url": "https://wallstreetcn.com/articles/3767504",
-          "source": "华尔街见闻",
+          "title": "【早报】金融监管总局约谈5家平台运营机构；特朗普称对伊朗石油出口枢纽发动空袭",
+          "url": "https://www.cls.cn/detail/2312864",
+          "source": "财联社热门",
           "ranks": [
-            4,
-            3
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时46分 ~ 13时49分]"
+          "appearance_count": 4,
+          "time_info": "[10时23分 ~ 14时53分]"
+        },
+        {
+          "title": "特朗普：美军对伊朗石油出口枢纽哈尔克岛发动“猛烈空袭”，“很快”开始护航",
+          "url": "https://wallstreetcn.com/articles/3767499",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时46分 ~ 14时53分]"
         },
         {
           "title": "美以伊战争｜美军摧毁伊朗哈尔克岛上所有军事目标",
@@ -253,9 +294,31 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时49分"
+        },
+        {
+          "title": "美以伊战争丨美国炸了伊朗重要岛屿，还准备夺岛？",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
+        },
+        {
+          "title": "伊朗无人机袭击了阿联酋富查伊拉港的石油设施。",
+          "url": "https://flash.jin10.com/detail/20260314144039616800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
         },
         {
           "title": "周五（3月13日）纽约尾盘，美国10年期基准国债收益率涨1.58个基点，报4.2767%，逼近1月20日顶部4.3065%、2025年8月18日顶部4.3511%、5月22日顶部4.6247%。 两年期美债收益率跌2.38个基点，报3.7169%。",
@@ -267,17 +330,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时37分"
-        },
-        {
-          "title": "委内瑞拉首次向哥伦比亚出口液化石油气",
-          "url": "https://wallstreetcn.com/livenews/3070091",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时49分"
         },
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了4个对手方的4.27亿美元。",
@@ -300,18 +352,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时38分"
-        },
-        {
-          "title": "【早报】金融监管总局约谈5家平台运营机构；特朗普称对伊朗石油出口枢纽发动空袭",
-          "url": "https://www.cls.cn/detail/2312864",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时23分 ~ 13时49分]"
         },
         {
           "title": "WTI 4月原油期货收报98.71美元/桶。 NYMEX 4月天然气期货收报3.1310美元/百万英热单位。 NYMEX 4月汽油期货收报3.0414美元/加仑，NYMEX 3月取暖油期货收报4.0147美元/加仑。",
@@ -389,18 +429,6 @@
           "time_info": "[00时45分 ~ 01时38分]"
         },
         {
-          "title": "特朗普：美军对伊朗石油出口枢纽哈尔克岛发动“猛烈空袭”，“很快”开始护航",
-          "url": "https://wallstreetcn.com/articles/3767499",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时46分 ~ 13时49分]"
-        },
-        {
           "title": "据外媒报道，数据显示，自伊朗战争开始以来，某些航线的空运价格上涨了高达70%。业内专家表示，中东空域关闭和安全问题对南亚和欧洲之间的航线运价影响最大。",
           "url": "https://flash.jin10.com/detail/20260314023602152800",
           "source": "金十数据",
@@ -447,6 +475,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时34分 ~ 04时39分]"
+        },
+        {
+          "title": "特朗普：美军轰炸伊朗石油出口枢纽哈尔克岛",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32765792",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时23分 ~ 14时53分]"
         },
         {
           "title": "彭博美元现货指数创2026年收盘新高。",
@@ -571,15 +610,17 @@
           "time_info": "[05时37分 ~ 07时32分]"
         },
         {
-          "title": "特朗普：美军轰炸伊朗石油出口枢纽哈尔克岛",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32765792",
-          "source": "澎湃新闻",
+          "title": "伊朗被曝考虑允许部分油轮通过霍尔木兹海峡 前提是运载石油必须以人民币结算",
+          "url": "https://flash.jin10.com/detail/20260314120535987800",
+          "source": "金十数据",
           "ranks": [
-            9
+            8,
+            22,
+            29
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时23分 ~ 13时49分]"
+          "time_info": "[12时46分 ~ 14时53分]"
         },
         {
           "title": "周五（3月13日）纽约尾盘（周六北京时间05:59），离岸人民币（CNH）兑美元报6.9065元，较周四纽约尾盘跌252点，日内整体交投于6.8778-6.9087元区间。",
@@ -645,6 +686,18 @@
           "time_info": "[07时32分 ~ 10时23分]"
         },
         {
+          "title": "委内瑞拉首次向哥伦比亚出口液化石油气",
+          "url": "https://flash.jin10.com/detail/20260314131439021800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时49分 ~ 14时53分]"
+        },
+        {
           "title": "美国原油期货收报每桶98.71美元，上涨2.98美元，涨幅3.11%。",
           "url": "https://flash.jin10.com/detail/20260314023054275800",
           "source": "金十数据",
@@ -655,18 +708,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时50分 ~ 03时34分]"
-        },
-        {
-          "title": "伊朗被曝考虑允许部分油轮通过霍尔木兹海峡 前提是运载石油必须以人民币结算",
-          "url": "https://flash.jin10.com/detail/20260314120535987800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时46分 ~ 13时49分]"
         },
         {
           "title": "历史重演？1980年代\"油轮战争\"或成当前伊朗局势最佳市场参照",
@@ -835,6 +876,17 @@
           "time_info": "10时23分"
         },
         {
+          "title": "特朗普轰炸哈尔克岛的算盘：宁可下周油价飙到200美元，也要给中选留压价窗口",
+          "url": "https://wallstreetcn.com/articles/3767517",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
+        },
+        {
           "title": "布伦特原油期货连续第二天收盘价超过每桶100美元。",
           "url": "https://flash.jin10.com/detail/20260314025935904800",
           "source": "金十数据",
@@ -844,17 +896,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时34分"
-        },
-        {
-          "title": "委内瑞拉首次向哥伦比亚出口液化石油气",
-          "url": "https://flash.jin10.com/detail/20260314131439021800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时49分"
         },
         {
           "title": "美军对伊石油出口枢纽猛烈空袭",
@@ -1278,7 +1319,7 @@
     },
     {
       "keyword_group": "特朗普 马斯克 加密货币 美联储",
-      "match_count": 45,
+      "match_count": 46,
       "titles": [
         {
           "title": "草台班子？特朗普政府低估伊朗决心，让人目瞪口呆",
@@ -1339,6 +1380,18 @@
           "time_info": "[00时45分 ~ 13时49分]"
         },
         {
+          "title": "美国据称向中东增派海军陆战队和军舰，特朗普声称下周“猛烈空袭”伊朗",
+          "url": "https://wallstreetcn.com/articles/3767495",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时23分 ~ 14时53分]"
+        },
+        {
           "title": "美国总统特朗普拒绝俄罗斯总统普京关于“将伊朗铀转移至俄罗斯”的提议。",
           "url": "https://flash.jin10.com/detail/20260314050202764800",
           "source": "金十数据",
@@ -1348,18 +1401,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时37分 ~ 07时32分]"
-        },
-        {
-          "title": "美国据称向中东增派海军陆战队和军舰，特朗普声称下周“猛烈空袭”伊朗",
-          "url": "https://wallstreetcn.com/articles/3767495",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时23分 ~ 13时49分]"
         },
         {
           "title": "美国参议员蒂利斯表示，特朗普政府若就美联储主席鲍威尔的裁决提出上诉，只会推迟确认凯文·沃什出任下一任美联储主席。",
@@ -1527,6 +1568,18 @@
           "time_info": "[04时39分 ~ 07时32分]"
         },
         {
+          "title": "特朗普对哈尔克岛发动空袭",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E5%93%88%E5%B0%94%E5%85%8B%E5%B2%9B%E5%8F%91%E5%8A%A8%E7%A9%BA%E8%A2%AD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时46分 ~ 14时53分]"
+        },
+        {
           "title": "特朗普被曝拒绝普京提议，反对将伊朗浓缩铀运往俄罗斯",
           "url": "https://news.ifeng.com/c/8rQgMCfEnth",
           "source": "凤凰网",
@@ -1537,6 +1590,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时23分 ~ 13时49分]"
+        },
+        {
+          "title": "美国总统特朗普：假新闻媒体讨厌报道美国军方在对抗伊朗方面的出色表现，而伊朗已经完全被击败了，且想要达成协议——但这不是我会接受的协议！",
+          "url": "https://flash.jin10.com/detail/20260314115534678800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            23,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时46分 ~ 14时53分]"
         },
         {
           "title": "美国总统特朗普拒绝了俄罗斯总统普京关于“将伊朗的铀转移至俄罗斯”的建议。（Axios）",
@@ -1552,27 +1618,27 @@
           "time_info": "[05时37分 ~ 07时32分]"
         },
         {
-          "title": "特朗普对哈尔克岛发动空袭",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E5%93%88%E5%B0%94%E5%85%8B%E5%B2%9B%E5%8F%91%E5%8A%A8%E7%A9%BA%E8%A2%AD",
-          "source": "bilibili 热搜",
+          "title": "特朗普据悉私下称“伊朗即将投降” 伊朗最高领袖誓言继续战斗",
+          "url": "https://www.cls.cn/detail/2312740",
+          "source": "财联社热门",
           "ranks": [
-            7
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时46分 ~ 13时49分]"
+          "appearance_count": 3,
+          "time_info": "[12时46分 ~ 14时53分]"
         },
         {
-          "title": "美国总统特朗普：假新闻媒体讨厌报道美国军方在对抗伊朗方面的出色表现，而伊朗已经完全被击败了，且想要达成协议——但这不是我会接受的协议！",
-          "url": "https://flash.jin10.com/detail/20260314115534678800",
-          "source": "金十数据",
+          "title": "特朗普声称伊朗已被“彻底击败”",
+          "url": "https://wallstreetcn.com/livenews/3070086",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            23
+            6,
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时46分 ~ 13时49分]"
+          "time_info": "[13时49分 ~ 14时53分]"
         },
         {
           "title": "美国参议院民主党成员Warren：只要特朗普政府没有撤销鲍威尔调查，参议院就不会审议凯文·沃什的美联储主席提名资格。",
@@ -1611,17 +1677,6 @@
           "time_info": "[04时39分 ~ 05时37分]"
         },
         {
-          "title": "特朗普据悉私下称“伊朗即将投降” 伊朗最高领袖誓言继续战斗",
-          "url": "https://www.cls.cn/detail/2312740",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时46分 ~ 13时49分]"
-        },
-        {
           "title": "特朗普：美军下周将“猛烈空袭”伊朗，拒绝谈论“夺岛”，不需要乌克兰的反无人机技术",
           "url": "https://wallstreetcn.com/livenews/3069964",
           "source": "华尔街见闻-快讯",
@@ -1634,15 +1689,15 @@
           "time_info": "[02时50分 ~ 03时34分]"
         },
         {
-          "title": "特朗普声称伊朗已被“彻底击败”",
-          "url": "https://wallstreetcn.com/livenews/3070086",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普这么一打伊朗，乌克兰几乎全是坏消息",
+          "url": "https://news.ifeng.com/c/8rTv5CAQnz3",
+          "source": "凤凰网",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时49分"
+          "time_info": "14时53分"
         },
         {
           "title": "美国银行分析师迈克尔·哈特内特警告称，如果标普500指数进一步下跌——跌至6600点左右，仅比近期水平低1%——可能会引发白宫或美联储的政策反应。",
@@ -1802,7 +1857,7 @@
     },
     {
       "keyword_group": "DeepSeek AI openai 机器人 小米 特斯拉 英伟达",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "机器人“保姆”何时来咱家",
@@ -1849,11 +1904,12 @@
             7,
             9,
             13,
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时45分 ~ 13时49分]"
+          "appearance_count": 14,
+          "time_info": "[00时45分 ~ 14时53分]"
         },
         {
           "title": "naiyou单曲无关风月",
@@ -1885,6 +1941,40 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时38分 ~ 07时32分]"
+        },
+        {
+          "title": "鹅厂抄袭AI龙虾,创始人开喷",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351810&amp;topic_name=%E9%B9%85%E5%8E%82%E6%8A%84%E8%A2%ADAI%E9%BE%99%E8%99%BE%2C%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%BC%80%E5%96%B7",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
+        },
+        {
+          "title": "“算电协同”含金量还在提升！AI的HALO时刻来了？",
+          "url": "https://www.cls.cn/detail/2312637",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时46分 ~ 14时53分]"
+        },
+        {
+          "title": "政府网站显示，美国商务部撤回关于AI芯片出口的拟议规则",
+          "url": "https://flash.jin10.com/detail/20260314140852478800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
         },
         {
           "title": "马斯克誓言重建 xAI，又一联合创始人离职",
@@ -1926,16 +2016,18 @@
           "time_info": "[01时38分 ~ 03时34分]"
         },
         {
-          "title": "“算电协同”含金量还在提升！AI的HALO时刻来了？",
-          "url": "https://www.cls.cn/detail/2312637",
-          "source": "财联社热门",
+          "title": "据《白鲸实验室》报道，DeepSeek V4和姚顺雨领衔操刀的混元新模型，均预计将于下个月（2026年4月）发布。",
+          "url": "https://wallstreetcn.com/livenews/3070070",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            5
+            15,
+            22,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时46分 ~ 13时49分]"
+          "appearance_count": 4,
+          "time_info": "[10时23分 ~ 14时53分]"
         },
         {
           "title": "美国科技股七巨头指数陷入回调区间，Meta逾四个月最大单日跌幅，微软、特斯拉、亚马逊今年已跌超10%",
@@ -1964,19 +2056,6 @@
           "time_info": "[02时50分 ~ 04时39分]"
         },
         {
-          "title": "据《白鲸实验室》报道，DeepSeek V4和姚顺雨领衔操刀的混元新模型，均预计将于下个月（2026年4月）发布。",
-          "url": "https://wallstreetcn.com/livenews/3070070",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            15,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时23分 ~ 13时49分]"
-        },
-        {
           "title": "马斯克旗下xAI聘请AI初创公司Thinking Machines的创始成员Devendra Chaplot参与其Grok AI模型的训练工作。（The Information）",
           "url": "https://wallstreetcn.com/livenews/3070061",
           "source": "华尔街见闻-快讯",
@@ -2002,6 +2081,18 @@
           "time_info": "[07时32分 ~ 10时23分]"
         },
         {
+          "title": "AI语料“投毒”产业链揭秘①只花100元，虚构的保健品就被大模型“推荐”了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32760391",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时49分 ~ 14时53分]"
+        },
+        {
           "title": "报道：Meta计划因AI成本攀升而实施大规模裁员",
           "url": "https://wallstreetcn.com/livenews/3070059",
           "source": "华尔街见闻-快讯",
@@ -2023,17 +2114,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时23分"
-        },
-        {
-          "title": "AI语料“投毒”产业链揭秘①只花100元，虚构的保健品就被大模型“推荐”了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32760391",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时49分"
         },
         {
           "title": "据英国金融时报：埃隆·马斯克下令xAI再裁员。",
@@ -2061,7 +2141,7 @@
     },
     {
       "keyword_group": "黄金 白银 铜 铝 稀土",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "世界周侃解读美委黄金之争",
@@ -2112,6 +2192,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时37分 ~ 06时32分]"
+        },
+        {
+          "title": "委内瑞拉5亿美元石油1亿美元黄金，为何运向美国？",
+          "url": "https://news.ifeng.com/c/8rU9d6mOqfX",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
         },
         {
           "title": "市场消息：印度铝和铜制造公司Hindalco暂停铝产品销售，因伊朗战争扰乱市场。",
@@ -2205,8 +2296,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时45分 ~ 13时49分]"
+          "appearance_count": 14,
+          "time_info": "[00时45分 ~ 14时53分]"
         },
         {
           "title": "央行将开展5千亿元买断式逆回购",
@@ -2271,8 +2362,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时45分 ~ 13时49分]"
+          "appearance_count": 14,
+          "time_info": "[00时45分 ~ 14时53分]"
         },
         {
           "title": "商务部：第6轮中美经贸磋商将于3月14日至17日在法国举行",
@@ -2290,6 +2381,18 @@
           "time_info": "[00时45分 ~ 10时23分]"
         },
         {
+          "title": "巴西外交部撤销美总统巴西事务顾问签证",
+          "url": "https://wallstreetcn.com/livenews/3070085",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时49分 ~ 14时53分]"
+        },
+        {
           "title": "消息人士称，哥伦比亚外交部长和国防部长已前往委内瑞拉的加拉加斯，此前总统会晤已被推迟。",
           "url": "https://flash.jin10.com/detail/20260314002108430800",
           "source": "金十数据",
@@ -2299,17 +2402,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时45分"
-        },
-        {
-          "title": "巴西外交部撤销美总统巴西事务顾问签证",
-          "url": "https://wallstreetcn.com/livenews/3070085",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时49分"
         },
         {
           "title": "秘鲁央行首席经济学家阿姆斯：能源中断带来的影响预计将持续至三月底，当前的首要任务是满足国内需求。",
