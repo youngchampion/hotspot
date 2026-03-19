@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-20T04:42:38.115698+08:00",
-  "total_titles_processed": 460,
+  "generated_at": "2026-03-20T05:40:05.697842+08:00",
+  "total_titles_processed": 510,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 美债 美元 石油 战争",
-      "match_count": 51,
+      "match_count": 60,
       "titles": [
         {
           "title": "【数据看盘】机构大量甩卖通源石油，太华路席位3.07亿元抢筹中油资本",
@@ -15,19 +15,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时05分 ~ 04时42分]"
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 05时40分]"
         },
         {
           "title": "冲突升级叠加美联储鹰派，美国股债金“三杀”！布油大涨7%，美元涨回100",
           "url": "https://wallstreetcn.com/articles/3767807",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时05分 ~ 04时42分]"
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 05时40分]"
         },
         {
           "title": "美以伊战争丨伊朗发布击中美军F-35隐形战机视频",
@@ -37,8 +38,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时03分 ~ 04时42分]"
+          "appearance_count": 5,
+          "time_info": "[03时03分 ~ 05时40分]"
+        },
+        {
+          "title": "重大升级！能源设施已被卷入，华尔街“重估”伊朗战争时间表，再提“2022场景”",
+          "url": "https://wallstreetcn.com/articles/3767878",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 05时40分]"
         },
         {
           "title": "5 个月增加 1 万亿美元，美国国债总额突破历史新高至 39 万亿美元，对美国经济和全球金融市场有哪些影响？",
@@ -46,11 +59,25 @@
           "source": "知乎",
           "ranks": [
             7,
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时05分 ~ 04时42分]"
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 05时40分]"
+        },
+        {
+          "title": "贝森特：已允许伊朗石油继续从海湾地区流出，或解除对海上伊朗石油的制裁",
+          "url": "https://wallstreetcn.com/articles/3767941",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 05时40分]"
         },
         {
           "title": "美以伊战争丨伊朗称命中美国第五舰队",
@@ -64,26 +91,51 @@
           "time_info": "[01时05分 ~ 01时06分]"
         },
         {
-          "title": "Kalshi按220亿美元估值融资大约10亿美元。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3073563",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗称将打击中东三国石油设施，全力打击美相关石油设施，冲突是否会彻底失控？油价会涨到多少？",
+          "url": "https://www.zhihu.com/question/2017713766402385101",
+          "source": "知乎",
           "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时42分"
-        },
-        {
-          "title": "重大升级！能源设施已被卷入，华尔街“重估”伊朗战争时间表，再提“2022场景”",
-          "url": "https://wallstreetcn.com/articles/3767878",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时05分 ~ 04时42分]"
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 05时40分]"
+        },
+        {
+          "title": "美联储按兵不动美元大涨，人民币对美元汇率跌破6.9",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32795341",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 05时40分]"
+        },
+        {
+          "title": "美是石油净出口国 为何遏制油价上涨",
+          "url": "https://www.toutiao.com/trending/7618151118858993727/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 05时40分]"
+        },
+        {
+          "title": "伊朗外长回应美2000亿美元战争拨款",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%BF%E5%9B%9E%E5%BA%94%E7%BE%8E2000%E4%BA%BF%E7%BE%8E%E5%85%83%E6%88%98%E4%BA%89%E6%8B%A8%E6%AC%BE%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20,
+            22,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 05时40分]"
         },
         {
           "title": "WTI 4月原油期货收报96.14美元/桶。 NYMEX 4月天然气期货收报3.1660美元/百万英热单位。 NYMEX 4月汽油期货收报3.1271美元/加仑，NYMEX 3月取暖油期货收报4.3420美元/加仑。",
@@ -97,38 +149,26 @@
           "time_info": "03时04分"
         },
         {
-          "title": "能源业ETF收涨约1.6%，领跑美股行业ETF",
-          "url": "https://wallstreetcn.com/livenews/3073561",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时42分"
-        },
-        {
           "title": "美日联合声明：日本同意在美国对由GE Vernova与日立推进的小型模块化反应堆项目，以及天然气发电领域，进行最高达730亿美元的投资。",
           "url": "https://flash.jin10.com/detail/20260320041415431800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
         },
         {
-          "title": "贝森特：已允许伊朗石油继续从海湾地区流出，或解除对海上伊朗石油的制裁",
-          "url": "https://wallstreetcn.com/articles/3767941",
-          "source": "华尔街见闻",
+          "title": "周四（3月19日）纽约尾盘（周五北京时间05:59），离岸人民币（CNH）兑美元报6.8782元，较周三纽约尾盘涨222点，日内整体交投于6.9076-6.8741元区间。",
+          "url": "https://wallstreetcn.com/livenews/3073574",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8,
-            7
+            4
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时05分 ~ 04时42分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时40分"
         },
         {
           "title": "国际能源署：成员国已贡献4.26亿桶石油。",
@@ -142,62 +182,40 @@
           "time_info": "03时04分"
         },
         {
+          "title": "Kalshi按220亿美元估值融资大约10亿美元。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3073563",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时42分 ~ 05时40分]"
+        },
+        {
+          "title": "能源业ETF收涨约1.6%，领跑美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/3073561",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时42分 ~ 05时40分]"
+        },
+        {
           "title": "Gemini SpaceX Station四季度营收6030万美元，分析师预期5570万美元。",
           "url": "https://wallstreetcn.com/livenews/3073558",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时42分"
-        },
-        {
-          "title": "伊朗称将打击中东三国石油设施，全力打击美相关石油设施，冲突是否会彻底失控？油价会涨到多少？",
-          "url": "https://www.zhihu.com/question/2017713766402385101",
-          "source": "知乎",
-          "ranks": [
-            11
+            5,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时05分 ~ 04时42分]"
-        },
-        {
-          "title": "美联储按兵不动美元大涨，人民币对美元汇率跌破6.9",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32795341",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时05分 ~ 04时42分]"
-        },
-        {
-          "title": "美是石油净出口国 为何遏制油价上涨",
-          "url": "https://www.toutiao.com/trending/7618151118858993727/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时05分 ~ 04时42分]"
-        },
-        {
-          "title": "伊朗外长回应美2000亿美元战争拨款",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%BF%E5%9B%9E%E5%BA%94%E7%BE%8E2000%E4%BA%BF%E7%BE%8E%E5%85%83%E6%88%98%E4%BA%89%E6%8B%A8%E6%AC%BE%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20,
-            22,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时05分 ~ 04时42分]"
+          "appearance_count": 2,
+          "time_info": "[04时42分 ~ 05时40分]"
         },
         {
           "title": "“绕过”霍尔木兹海峡，沙特石油出口“恢复过半”，但这个“B计划”能保得住吗？",
@@ -207,19 +225,56 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时05分 ~ 01时06分]"
+          "appearance_count": 4,
+          "time_info": "[01时05分 ~ 05时40分]"
         },
         {
           "title": "美财长称或解除对海上伊朗石油的制裁",
           "url": "https://www.toutiao.com/trending/7618242429951377450/",
           "source": "今日头条",
           "ranks": [
-            23
+            23,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时03分 ~ 05时40分]"
+        },
+        {
+          "title": "彭博美元指数跌0.7%，创1月27日以来最大跌幅。",
+          "url": "https://wallstreetcn.com/livenews/3073555",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时03分 ~ 03时04分]"
+          "time_info": "[04时42分 ~ 05时40分]"
+        },
+        {
+          "title": "周四（3月19日）纽约尾盘，ICE美元指数跌1%，刷新日低至98.975点，北京时间16:42微幅上扬至100.306点刷新日高，最后逐步走低，02:52以来加速下跌。 彭博美元指数跌0.71%，报1205.14点，日内交投区间为1215.10-1202.54点。 美元兑日元跌1.37%，报157.68日元，日内交投区间为159.87-157.51日元，14:50以来持续走低。 欧元兑日元跌0.29%，英镑兑日元跌0.09%。",
+          "url": "https://wallstreetcn.com/livenews/3073546",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时42分 ~ 05时40分]"
+        },
+        {
+          "title": "伊朗称以色列密谋袭击沙特石油设施",
+          "url": "https://wallstreetcn.com/livenews/3073536",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时42分 ~ 05时40分]"
         },
         {
           "title": "匈牙利总理欧尔班：我们坚持了立场。我们有权拒绝乌克兰的战争贷款。只要乌克兰不解除石油封锁，他们就不会从布鲁塞尔获得任何资金。没有石油=没有钱。",
@@ -272,7 +327,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
         },
@@ -286,17 +341,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时06分"
-        },
-        {
-          "title": "彭博美元指数跌0.7%，创1月27日以来最大跌幅。",
-          "url": "https://wallstreetcn.com/livenews/3073555",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时42分"
         },
         {
           "title": "据日经新闻：日本将提供最高11亿美元的债务担保，支持“绿色”钢铁厂。",
@@ -327,9 +371,31 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
+        },
+        {
+          "title": "【内塔尼亚胡：以方将“暂停”空袭伊朗能源设施】以色列总理内塔尼亚胡19日在一场新闻发布会上回答媒体提问时称，是以色列“单独”空袭了伊朗天然气田，以方将“遵守”美国总统特朗普所提“暂停”后续空袭能源设施的要求。特朗普当天早些时候在白宫回答媒体提问时表示，他已经告知内塔尼亚胡不要攻击伊朗境内的能源设施。据伊朗媒体18日报道，伊朗南部布什尔省南帕尔斯和阿萨卢耶部分石油化工设施遭美国和以色列空袭。伊朗随后宣布打击沙特阿拉伯、卡塔尔等海湾国家与美国相关的石油设施。特朗普当天在社交媒体上发文，称美方对以色列袭击伊朗油气设施事先“毫不知情”。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3073569",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时40分"
+        },
+        {
+          "title": "美国给中东三国补充损耗 批准165亿美元军售",
+          "url": "https://flash.jin10.com/detail/20260320051037347800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时40分"
         },
         {
           "title": "伦敦证券交易所集团-理柏（LSEG Lipper）：3月18日当周，垃圾债基金发生33.4亿美元资金外流，创2025年4月29日以来最大单周外流，之前一周赎回15.3亿美元。",
@@ -343,15 +409,37 @@
           "time_info": "03时04分"
         },
         {
+          "title": "周四（3月19日），降息赢家指数跌0.12%，报86.81点，绝大部分时间低位震荡，北京时间03:00前后迅猛拉升，使得日内整体跌幅快速收窄。 2月10日美股收盘以来，已经累计下跌18.77%。 “特朗普关税输家”指数涨0.65%，“特朗普金融指数”涨0.10%。 散户抱团概念股指数/迷因股（meme stock）指数跌0.07%。",
+          "url": "https://wallstreetcn.com/livenews/3073567",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时40分"
+        },
+        {
           "title": "美股三大股指集体收跌，道指跌0.4%，纳指和标普500指数均跌0.28%，纳斯达克中国金龙指数收跌1%。",
           "url": "https://flash.jin10.com/detail/20260320040117255800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
+        },
+        {
+          "title": "美联储3月18日当周贴现窗贷款余额48.8亿美元，之前一周46.6亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3073566",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时40分"
         },
         {
           "title": "美国投资公司协会（ICI）：截至3月18日的一周，货币市场基金资产增加了386.8亿美元，达到了7.86万亿美元。",
@@ -360,7 +448,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
         },
@@ -387,6 +475,17 @@
           "time_info": "03时04分"
         },
         {
+          "title": "全球央行严阵以待应对通胀反扑 美元承压下跌超1%",
+          "url": "https://flash.jin10.com/detail/20260320050247057800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时40分"
+        },
+        {
           "title": "中东股市收盘播报｜周四（3月19日），土耳其伊斯坦布尔证交所全国100指数收跌0.51%，报13047.72点，交易提前至北京时间17:35结束（通常在23:00过后结束交易），将于3月23日恢复交易。 伊斯坦布尔证交所银行指数收跌1.84%，报16693.00点。 土耳其里拉兑美元维持0.23%的跌幅，暂报44.3286里拉，持稳于07:55所创历史最低位44.3314里拉附近。",
           "url": "https://wallstreetcn.com/livenews/3073480",
           "source": "华尔街见闻-快讯",
@@ -396,17 +495,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时06分"
-        },
-        {
-          "title": "周四（3月19日）纽约尾盘，ICE美元指数跌1%，刷新日低至98.975点，北京时间16:42微幅上扬至100.306点刷新日高，最后逐步走低，02:52以来加速下跌。 彭博美元指数跌0.71%，报1205.14点，日内交投区间为1215.10-1202.54点。 美元兑日元跌1.37%，报157.68日元，日内交投区间为159.87-157.51日元，14:50以来持续走低。 欧元兑日元跌0.29%，英镑兑日元跌0.09%。",
-          "url": "https://wallstreetcn.com/livenews/3073546",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时42分"
         },
         {
           "title": "美国四季度家庭净值变动 21730亿美元，前值 60640亿美元。",
@@ -453,15 +541,15 @@
           "time_info": "03时04分"
         },
         {
-          "title": "伊朗称以色列密谋袭击沙特石油设施",
-          "url": "https://wallstreetcn.com/livenews/3073536",
-          "source": "华尔街见闻-快讯",
+          "title": "巴西石油监管机构ANP：将要求巴西国家石油公司提供本月被取消的拍卖中的柴油和汽油数量。",
+          "url": "https://flash.jin10.com/detail/20260320045405839800",
+          "source": "金十数据",
           "ranks": [
             18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时42分"
+          "time_info": "05时40分"
         },
         {
           "title": "沙特阿美一度在红海港口Yanbu暂停石油装货作业，此前伊朗打击该港口所在地的周边区域。",
@@ -486,6 +574,17 @@
           "time_info": "01时06分"
         },
         {
+          "title": "据知情人士透露，黑石旗下规模830亿美元的BCRED正在发行新的私募信贷CLO。",
+          "url": "https://flash.jin10.com/detail/20260320045059161800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时40分"
+        },
+        {
           "title": "美国能源部长Wright：美国没有对石油出口实施限制的计划。",
           "url": "https://wallstreetcn.com/livenews/3073512",
           "source": "华尔街见闻-快讯",
@@ -503,7 +602,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
         },
@@ -541,6 +640,17 @@
           "time_info": "01时06分"
         },
         {
+          "title": "美国至3月20日当周外国央行持有美国国债 -92.54亿美元，前值-397.55亿美元。",
+          "url": "https://flash.jin10.com/detail/20260320043131091800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时40分"
+        },
+        {
           "title": "周四（3月19日），美联储隔夜逆回购协议（RRP）使用规模为6.37亿美元（交易对手5家），上个交易日报6.98亿美元。",
           "url": "https://wallstreetcn.com/livenews/3073506",
           "source": "华尔街见闻-快讯",
@@ -558,7 +668,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
         },
@@ -577,7 +687,7 @@
     },
     {
       "keyword_group": "DeepSeek AI openai 机器人 小米 特斯拉 英伟达",
-      "match_count": 27,
+      "match_count": 30,
       "titles": [
         {
           "title": "央视AI短片《流金谷恩仇录》爆火",
@@ -587,8 +697,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时05分 ~ 04时42分]"
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 05时40分]"
         },
         {
           "title": "小米新一代SU7售价21.99万起",
@@ -598,8 +708,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时05分 ~ 04时42分]"
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 05时40分]"
         },
         {
           "title": "新一代小米 SU7 发布，全系搭载 V6s Plus 超级电机，最高续航达 902km，还有哪些看点？",
@@ -609,19 +719,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时05分 ~ 04时42分]"
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 05时40分]"
         },
         {
           "title": "小米汽车",
           "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6&t=31&band_rank=4&Refer=top",
           "source": "微博",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时05分 ~ 04时42分]"
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 05时40分]"
         },
         {
           "title": "小米新一代SU7售价21.99万起",
@@ -631,8 +742,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时05分 ~ 04时42分]"
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 05时40分]"
         },
         {
           "title": "小米新一代SU7采用车外机械拉手",
@@ -641,11 +752,26 @@
           "ranks": [
             1,
             19,
-            27
+            27,
+            26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时05分 ~ 04时42分]"
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 05时40分]"
+        },
+        {
+          "title": "小米新一代SU7售价21.99万起",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E6%96%B0%E4%B8%80%E4%BB%A3SU7%E5%94%AE%E4%BB%B721.99%E4%B8%87%E8%B5%B7",
+          "source": "百度热搜",
+          "ranks": [
+            21,
+            18,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 05时40分]"
         },
         {
           "title": "小米新SU7起售价21.99万元",
@@ -657,21 +783,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时05分 ~ 04时42分]"
-        },
-        {
-          "title": "小米新一代SU7售价21.99万起",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E6%96%B0%E4%B8%80%E4%BB%A3SU7%E5%94%AE%E4%BB%B721.99%E4%B8%87%E8%B5%B7",
-          "source": "百度热搜",
-          "ranks": [
-            21,
-            18,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时05分 ~ 04时42分]"
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 05时40分]"
         },
         {
           "title": "AI龙虾大战我的世界",
@@ -681,8 +794,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时05分 ~ 04时42分]"
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 05时40分]"
         },
         {
           "title": "小米凌晨模型三连发：罗福莉称为智能体时代打造，曾被误认为DeepSeek V4",
@@ -692,8 +805,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时05分 ~ 04时42分]"
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 05时40分]"
         },
         {
           "title": "小米发布会把半个车圈请来了",
@@ -702,11 +815,12 @@
           "ranks": [
             14,
             15,
-            20
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时05分 ~ 04时42分]"
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 05时40分]"
         },
         {
           "title": "AI万物皆可龙抬头",
@@ -715,11 +829,72 @@
           "ranks": [
             19,
             17,
-            15
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 05时40分]"
+        },
+        {
+          "title": "美国白宫打算披露AI监管框架。（PunchBowl）",
+          "url": "https://wallstreetcn.com/livenews/3073578",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时40分"
+        },
+        {
+          "title": "黄仁勋：AI风险需提醒，但不应引发公众恐慌",
+          "url": "https://flash.jin10.com/detail/20260320052711190800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时40分"
+        },
+        {
+          "title": "机器人是否已踏入日常生活",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%98%AF%E5%90%A6%E5%B7%B2%E8%B8%8F%E5%85%A5%E6%97%A5%E5%B8%B8%E7%94%9F%E6%B4%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26,
+            8
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[01时05分 ~ 04时42分]"
+          "time_info": "[03时03分 ~ 05时40分]"
+        },
+        {
+          "title": "小米笔记本",
+          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E7%AC%94%E8%AE%B0%E6%9C%AC&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30,
+            10,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时05分 ~ 05时40分]"
+        },
+        {
+          "title": "较预售降万元、新一代小米SU7 “低价”上市 雷军：不想让车主超预算",
+          "url": "https://www.cls.cn/detail/2318736",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时03分 ~ 05时40分]"
         },
         {
           "title": "小米新一代SU7采用车外机械拉手",
@@ -735,6 +910,31 @@
           "time_info": "[01时05分 ~ 04时42分]"
         },
         {
+          "title": "新一代小米SU7全系涨价4000",
+          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E4%B8%80%E4%BB%A3%E5%B0%8F%E7%B1%B3SU7%E5%85%A8%E7%B3%BB%E6%B6%A8%E4%BB%B74000",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            28,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时03分 ~ 05时40分]"
+        },
+        {
+          "title": "央视AI短片《流金谷恩仇录》爆火",
+          "url": "https://www.toutiao.com/trending/7618387888183836715/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时05分 ~ 05时40分]"
+        },
+        {
           "title": "雪宝机器人让童年照进现实",
           "url": "https://www.douyin.com/hot/2435852",
           "source": "抖音",
@@ -747,52 +947,15 @@
           "time_info": "[01时05分 ~ 03时04分]"
         },
         {
-          "title": "机器人是否已踏入日常生活",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%98%AF%E5%90%A6%E5%B7%B2%E8%B8%8F%E5%85%A5%E6%97%A5%E5%B8%B8%E7%94%9F%E6%B4%BB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时03分 ~ 04时42分]"
-        },
-        {
-          "title": "小米笔记本",
-          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E7%AC%94%E8%AE%B0%E6%9C%AC&t=31&band_rank=30&Refer=top",
+          "title": "小米发布会",
+          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E5%8F%91%E5%B8%83%E4%BC%9A&t=31&band_rank=30&Refer=top",
           "source": "微博",
           "ranks": [
-            30,
-            10
+            30
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[01时05分 ~ 04时42分]"
-        },
-        {
-          "title": "较预售降万元、新一代小米SU7 “低价”上市 雷军：不想让车主超预算",
-          "url": "https://www.cls.cn/detail/2318736",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时03分 ~ 04时42分]"
-        },
-        {
-          "title": "新一代小米SU7全系涨价4000",
-          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E4%B8%80%E4%BB%A3%E5%B0%8F%E7%B1%B3SU7%E5%85%A8%E7%B3%BB%E6%B6%A8%E4%BB%B74000",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时03分 ~ 04时42分]"
+          "time_info": "[04时42分 ~ 05时40分]"
         },
         {
           "title": "一图看懂AI产业链哪些环节在涨价：算力、存储、大模型…...",
@@ -800,17 +963,6 @@
           "source": "财联社热门",
           "ranks": [
             8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时05分 ~ 01时06分]"
-        },
-        {
-          "title": "央视AI短片《流金谷恩仇录》爆火",
-          "url": "https://www.toutiao.com/trending/7618387888183836715/",
-          "source": "今日头条",
-          "ranks": [
-            27
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -828,13 +980,24 @@
           "time_info": "[03时03分 ~ 03时04分]"
         },
         {
+          "title": "小米新一代SU7发布",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E6%96%B0%E4%B8%80%E4%BB%A3SU7%E5%8F%91%E5%B8%83",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时39分 ~ 05时40分]"
+        },
+        {
           "title": "标普500指数初步收跌0.2%，原材料板块跌1.6%，可选消费板块跌0.8%，科技板块大致持平，能源板块涨1.4%。 纳斯达克100指数初步收跌0.3%，成分股中，美光科技初步收跌3.8%，拼多多、Doordash、奈飞跌超3%，特斯拉跌2.9%，AMD、星巴克、拉姆研究则至少涨2.9%，西部数据涨3.9%，美国油服贝克休斯涨5.6%，希捷科技涨6.7%。 波音跌2.3%，与麦当劳、3M、宝洁、联合健康领跌道指成分股，高盛则涨0.6%，思科涨1.2%，雪佛龙涨1.4%。",
           "url": "https://wallstreetcn.com/livenews/3073551",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
         },
@@ -845,7 +1008,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
         },
@@ -867,7 +1030,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
         },
@@ -881,35 +1044,13 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时04分"
-        },
-        {
-          "title": "小米发布会",
-          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E5%8F%91%E5%B8%83%E4%BC%9A&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时42分"
         }
       ]
     },
     {
       "keyword_group": "特朗普 马斯克 加密货币 美联储",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
-        {
-          "title": "鲍威尔：通胀改善前不会降息，调查期间不会离开美联储，必要时将以临时主席身份履职（附全文）",
-          "url": "https://wallstreetcn.com/articles/3767868",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时05分 ~ 04时42分]"
-        },
         {
           "title": "特朗普盟友警告：美国经济受不了对伊动武所致高油价",
           "url": "https://news.ifeng.com/c/8rckc3J46aj",
@@ -918,8 +1059,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时05分 ~ 04时42分]"
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 05时40分]"
         },
         {
           "title": "报告与特朗普开战理由相悖？美情报总监矛盾表态",
@@ -929,8 +1070,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时05分 ~ 04时42分]"
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 05时40分]"
         },
         {
           "title": "特朗普威胁：再炸卡塔尔，把你们伊朗气田炸上天",
@@ -938,6 +1079,17 @@
           "source": "凤凰网",
           "ranks": [
             5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 05时40分]"
+        },
+        {
+          "title": "鲍威尔：通胀改善前不会降息，调查期间不会离开美联储，必要时将以临时主席身份履职（附全文）",
+          "url": "https://wallstreetcn.com/articles/3767868",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -952,19 +1104,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时05分 ~ 04时42分]"
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 05时40分]"
         },
         {
           "title": "“能源战”升级！以军轰炸伊朗最大气田、油价暴涨背后：以色列完全“控制”了特朗普？",
           "url": "https://wallstreetcn.com/articles/3767896",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时05分 ~ 04时42分]"
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 05时40分]"
         },
         {
           "title": "美联储维持利率不变",
@@ -974,8 +1127,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时05分 ~ 04时42分]"
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 05时40分]"
         },
         {
           "title": "美联储宣布维持利率不变",
@@ -984,11 +1137,12 @@
           "ranks": [
             15,
             24,
-            18
+            18,
+            22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时05分 ~ 04时42分]"
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 05时40分]"
         },
         {
           "title": "美联储按兵不动：中东局势影响不确定，暗示今年降息1次（附声明全文）",
@@ -998,8 +1152,19 @@
             16
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 05时40分]"
+        },
+        {
+          "title": "特朗普见高市早苗提偷袭珍珠港",
+          "url": "https://news.ifeng.com/c/8rdFpy1BUv6",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[01时05分 ~ 04时42分]"
+          "time_info": "[03时03分 ~ 05时40分]"
         },
         {
           "title": "据知情人士透露，美国总统特朗普支持Pirro就美联储主席鲍威尔传票（被法官驳回一事）提起上诉。（彭博）",
@@ -1014,26 +1179,27 @@
           "time_info": "[03时04分 ~ 04时42分]"
         },
         {
-          "title": "特朗普见高市早苗提偷袭珍珠港",
-          "url": "https://news.ifeng.com/c/8rdFpy1BUv6",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时03分 ~ 04时42分]"
-        },
-        {
           "title": "特朗普会晤高市早苗，把美国袭击伊朗比作偷袭珍珠港",
           "url": "https://wallstreetcn.com/livenews/3073556",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时42分 ~ 05时40分]"
+        },
+        {
+          "title": "响应特朗普呼声，以色列总理称将暂停空袭伊朗能源设施，卡塔尔称伊袭破坏17%LNG产能",
+          "url": "https://wallstreetcn.com/articles/3767948",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时39分 ~ 05时40分]"
         },
         {
           "title": "美国总统特朗普暗示，司法部应该继续调查美联储主席鲍威尔。 这恐怕会让凯文·沃什的美联储主席提名资格在参议院获得确认的前景变得错综复杂。（CNBC）",
@@ -1075,7 +1241,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
         },
@@ -1116,7 +1282,7 @@
     },
     {
       "keyword_group": "黄金 白银 铜 铝 稀土",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "贵金属全线重挫！现货黄金逼近4500美元 白银跌超13%",
@@ -1126,8 +1292,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时05分 ~ 04时42分]"
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 05时40分]"
         },
         {
           "title": "油价继续飙升 欧美股市承压 黄金白银重挫 | 今夜看点",
@@ -1137,8 +1303,57 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 05时40分]"
+        },
+        {
+          "title": "黄金跌破 4600 美元，白银跌破 70 美元，比特币跌破 70000 美元，如何看待当下行情？",
+          "url": "https://www.zhihu.com/question/2017698247188194999",
+          "source": "知乎",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[01时05分 ~ 04时42分]"
+          "time_info": "[03时03分 ~ 05时40分]"
+        },
+        {
+          "title": "一觉醒来黄金挂坠亏了2000元",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E8%A7%89%E9%86%92%E6%9D%A5%E9%BB%84%E9%87%91%E6%8C%82%E5%9D%A0%E4%BA%8F%E4%BA%862000%E5%85%83%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 05时40分]"
+        },
+        {
+          "title": "现货黄金白银暴跌",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E6%9A%B4%E8%B7%8C",
+          "source": "百度热搜",
+          "ranks": [
+            12,
+            13,
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 05时40分]"
+        },
+        {
+          "title": "黄金跌破4800,韭菜又被割",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352067&amp;topic_name=%E9%BB%84%E9%87%91%E8%B7%8C%E7%A0%B44800%2C%E9%9F%AD%E8%8F%9C%E5%8F%88%E8%A2%AB%E5%89%B2",
+          "source": "贴吧",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 05时40分]"
         },
         {
           "title": "上海黄金交易所黄金T+D 3月19日（周四）晚盘收盘下跌4.76%报1026.42元/克；<br/>上海黄金交易所白银T+D 3月19日（周四）晚盘收盘下跌6.75%报17550.0元/千克。",
@@ -1152,52 +1367,17 @@
           "time_info": "03时04分"
         },
         {
-          "title": "黄金跌破 4600 美元，白银跌破 70 美元，比特币跌破 70000 美元，如何看待当下行情？",
-          "url": "https://www.zhihu.com/question/2017698247188194999",
-          "source": "知乎",
-          "ranks": [
-            10,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时03分 ~ 04时42分]"
-        },
-        {
-          "title": "一觉醒来黄金挂坠亏了2000元",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E8%A7%89%E9%86%92%E6%9D%A5%E9%BB%84%E9%87%91%E6%8C%82%E5%9D%A0%E4%BA%8F%E4%BA%862000%E5%85%83%23&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时05分 ~ 04时42分]"
-        },
-        {
-          "title": "现货黄金白银暴跌",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E6%9A%B4%E8%B7%8C",
+          "title": "足金项链发黑 周生生黄金被质疑不纯",
+          "url": "https://www.baidu.com/s?wd=%E8%B6%B3%E9%87%91%E9%A1%B9%E9%93%BE%E5%8F%91%E9%BB%91+%E5%91%A8%E7%94%9F%E7%94%9F%E9%BB%84%E9%87%91%E8%A2%AB%E8%B4%A8%E7%96%91%E4%B8%8D%E7%BA%AF",
           "source": "百度热搜",
           "ranks": [
-            12,
-            13,
-            17
+            26,
+            23,
+            25
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[01时05分 ~ 04时42分]"
-        },
-        {
-          "title": "黄金跌破4800,韭菜又被割",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352067&amp;topic_name=%E9%BB%84%E9%87%91%E8%B7%8C%E7%A0%B44800%2C%E9%9F%AD%E8%8F%9C%E5%8F%88%E8%A2%AB%E5%89%B2",
-          "source": "贴吧",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时05分 ~ 04时42分]"
+          "time_info": "[03时03分 ~ 05时40分]"
         },
         {
           "title": "石油美元黄金到底是什么关系",
@@ -1223,18 +1403,6 @@
           "time_info": "[01时05分 ~ 03时04分]"
         },
         {
-          "title": "足金项链发黑 周生生黄金被质疑不纯",
-          "url": "https://www.baidu.com/s?wd=%E8%B6%B3%E9%87%91%E9%A1%B9%E9%93%BE%E5%8F%91%E9%BB%91+%E5%91%A8%E7%94%9F%E7%94%9F%E9%BB%84%E9%87%91%E8%A2%AB%E8%B4%A8%E7%96%91%E4%B8%8D%E7%BA%AF",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时03分 ~ 04时42分]"
-        },
-        {
           "title": "黄金瀑布式跳水",
           "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E7%80%91%E5%B8%83%E5%BC%8F%E8%B7%B3%E6%B0%B4%23&t=31&band_rank=26&Refer=top",
           "source": "微博",
@@ -1246,6 +1414,17 @@
           "time_info": "[01时05分 ~ 01时06分]"
         },
         {
+          "title": "900克黄金被前男友偷走 3年后报警",
+          "url": "https://www.baidu.com/s?wd=900%E5%85%8B%E9%BB%84%E9%87%91%E8%A2%AB%E5%89%8D%E7%94%B7%E5%8F%8B%E5%81%B7%E8%B5%B0+3%E5%B9%B4%E5%90%8E%E6%8A%A5%E8%AD%A6",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时39分 ~ 05时40分]"
+        },
+        {
           "title": "哈萨克斯坦黄金开采商Solidcore首席执行官：公司计划在2026年上半年售出其累积的库存储备。",
           "url": "https://flash.jin10.com/detail/20260320003854407800",
           "source": "金十数据",
@@ -1255,6 +1434,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时06分"
+        },
+        {
+          "title": "现货黄金延续美联储决议日跌穿百日均线的表现，白银随后也失守百日均线",
+          "url": "https://wallstreetcn.com/livenews/3073570",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时40分"
         },
         {
           "title": "LME期铜收跌249美元，报12146美元/吨。 LME期铝收跌148美元，报3252美元/吨。 LME期锌收跌62美元，报3072美元/吨。 LME期铅收跌26美元，报1888美元/吨。 LME期镍收跌167美元，报16984美元/吨。 LME期锡收跌1523美元，报43540美元/吨。 LME期钴收平，报56290美元/吨。",
@@ -1274,7 +1464,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
         }
@@ -1292,8 +1482,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时05分 ~ 04时42分]"
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 05时40分]"
         },
         {
           "title": "美国称中方并无“2027攻台计划”，外交部回应",
@@ -1303,8 +1493,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时05分 ~ 04时42分]"
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 05时40分]"
         },
         {
           "title": "美情报称中方并无“2027攻台计划”，外交部回应",
@@ -1314,8 +1504,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时05分 ~ 04时42分]"
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 05时40分]"
         },
         {
           "title": "外交部回应以称以军击杀任何伊官员无需批准，「对这一说法感到震惊」，如何看待以方近期「斩首行动」？",
@@ -1325,8 +1515,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时05分 ~ 04时42分]"
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 05时40分]"
         },
         {
           "title": "报道：欧洲央行要求银行识别重大风险转移（SRT）交易中的杠杆提供方",
@@ -1379,7 +1569,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
         },
