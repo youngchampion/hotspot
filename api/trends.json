@@ -1,44 +1,27 @@
 {
-  "generated_at": "2026-04-01T01:17:07.590032+08:00",
-  "total_titles_processed": 309,
-  "failed_sources": [],
+  "generated_at": "2026-04-01T03:10:30.291138+08:00",
+  "total_titles_processed": 362,
+  "failed_sources": [
+    "wallstreetcn-hot",
+    "wallstreetcn-quick",
+    "zhihu"
+  ],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 美债 美元 石油 战争",
-      "match_count": 30,
+      "match_count": 34,
       "titles": [
-        {
-          "title": "特朗普的“退出路线图”浮现：愿意先结束战争，重开霍尔木兹就交给欧洲和海湾盟友",
-          "url": "https://wallstreetcn.com/articles/3768825",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时16分 ~ 01时17分]"
-        },
         {
           "title": "特朗普：各国应自行去霍尔木兹海峡“抢石油”",
           "url": "https://www.cls.cn/detail/2330869",
           "source": "财联社热门",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时16分 ~ 01时17分]"
-        },
-        {
-          "title": "特朗普释放停战信号，美股指涨幅扩大，纳指涨逾2%，房利美、房地美涨超10%，金银油齐涨",
-          "url": "https://wallstreetcn.com/articles/3768819",
-          "source": "华尔街见闻",
-          "ranks": [
+            1,
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时16分 ~ 01时17分]"
+          "appearance_count": 4,
+          "time_info": "[01时16分 ~ 03时10分]"
         },
         {
           "title": "全球地缘风险扰动，A股为何“更抗打”？高盛：“独特性”和“低波动性”增加吸引力",
@@ -48,8 +31,30 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时16分 ~ 01时17分]"
+          "appearance_count": 4,
+          "time_info": "[01时16分 ~ 03时10分]"
+        },
+        {
+          "title": "特朗普的“退出路线图”浮现：愿意先结束战争，重开霍尔木兹就交给欧洲和海湾盟友",
+          "url": "https://wallstreetcn.com/articles/3768825",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时16分 ~ 03时06分]"
+        },
+        {
+          "title": "特朗普释放停战信号，美股指涨幅扩大，纳指涨逾2%，房利美、房地美涨超10%，金银油齐涨",
+          "url": "https://wallstreetcn.com/articles/3768819",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时16分 ~ 03时06分]"
         },
         {
           "title": "张雪机车双冠点燃A股摩托板块，终端订单排至5-7月",
@@ -63,24 +68,13 @@
           "time_info": "[01时16分 ~ 01时17分]"
         },
         {
-          "title": "鲍威尔表态提振美债反弹，但美股高开低走，半导体指数跌超4%，美元五连涨",
-          "url": "https://wallstreetcn.com/articles/3768684",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时16分 ~ 01时17分]"
-        },
-        {
           "title": "惠誉：伊朗战争外溢效应可能削弱欧盟银行强劲的2026年展望。",
           "url": "https://flash.jin10.com/detail/20260401005522216800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
         },
@@ -91,9 +85,21 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
+        },
+        {
+          "title": "鲍威尔表态提振美债反弹，但美股高开低走，半导体指数跌超4%，美元五连涨",
+          "url": "https://wallstreetcn.com/articles/3768684",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时16分 ~ 03时06分]"
         },
         {
           "title": "据伊朗媒体Fars News：如果阿联酋继续参与美国的空袭行动和导弹袭击，继续接纳情报人员并协助以色列，那么伊朗将会对富查伊拉港以及负责将石油运往霍尔木兹海峡外的重要的石油管道发动攻击。",
@@ -102,7 +108,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
         },
@@ -113,7 +119,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
         },
@@ -125,19 +131,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时16分 ~ 01时17分]"
-        },
-        {
-          "title": "特朗普：各国应自行去霍尔木兹海峡“抢石油”",
-          "url": "https://wallstreetcn.com/articles/3768886",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时16分 ~ 01时17分]"
+          "appearance_count": 4,
+          "time_info": "[01时16分 ~ 03时10分]"
         },
         {
           "title": "特朗普称即使霍尔木兹海峡仍关闭也愿结束战争",
@@ -147,19 +142,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时16分 ~ 01时17分]"
+          "appearance_count": 4,
+          "time_info": "[01时16分 ~ 03时10分]"
         },
         {
-          "title": "巴菲特：在苹果上赚了1000亿，但卖早了；目前美股不便宜，不抄底",
-          "url": "https://wallstreetcn.com/articles/3768902",
-          "source": "华尔街见闻",
+          "title": "市场押注冲突缓和 美股三大期指齐涨近1% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2330950",
+          "source": "财联社热门",
           "ranks": [
-            8
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时16分 ~ 01时17分]"
+          "appearance_count": 4,
+          "time_info": "[01时16分 ~ 03时10分]"
         },
         {
           "title": "美媒：特朗普想结束对伊朗战争，重开霍尔木兹海峡就交给欧洲和海湾盟友",
@@ -169,30 +165,42 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时16分 ~ 01时17分]"
-        },
-        {
-          "title": "市场押注冲突缓和 美股三大期指齐涨近1% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2330950",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时16分 ~ 01时17分]"
+          "appearance_count": 4,
+          "time_info": "[01时16分 ~ 03时10分]"
         },
         {
           "title": "美股后续会怎么走",
           "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%82%A1%E5%90%8E%E7%BB%AD%E4%BC%9A%E6%80%8E%E4%B9%88%E8%B5%B0",
           "source": "bilibili 热搜",
           "ranks": [
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时16分 ~ 01时17分]"
+          "appearance_count": 4,
+          "time_info": "[01时16分 ~ 03时10分]"
+        },
+        {
+          "title": "特朗普：各国应自行去霍尔木兹海峡“抢石油”",
+          "url": "https://wallstreetcn.com/articles/3768886",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时16分 ~ 03时06分]"
+        },
+        {
+          "title": "巴菲特：在苹果上赚了1000亿，但卖早了；目前美股不便宜，不抄底",
+          "url": "https://wallstreetcn.com/articles/3768902",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时16分 ~ 03时06分]"
         },
         {
           "title": "伊朗总统：愿在获得保障的情况下结束战争",
@@ -201,7 +209,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
         },
@@ -212,9 +220,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
+        },
+        {
+          "title": "教宗利奥表示，他希望伊朗战争能在4月5日复活节前结束。",
+          "url": "https://flash.jin10.com/detail/20260401023810579800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时10分"
         },
         {
           "title": "美元指数DXY短线走低30点，现报99.89。",
@@ -223,9 +242,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
+        },
+        {
+          "title": "叙利亚总统就伊朗冲突表示，除非我们遭到侵略且外交途径已无果，否则我们不会卷入战争。",
+          "url": "https://flash.jin10.com/detail/20260401023758634800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时10分"
         },
         {
           "title": "美股短线走强，纳指涨超3%，标普500指数、道指涨超2%。",
@@ -234,9 +264,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
+        },
+        {
+          "title": "教皇利奥表示，他希望美国总统特朗普在与伊朗的战争中能找到“退路”。",
+          "url": "https://flash.jin10.com/detail/20260401023744143800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时10分"
         },
         {
           "title": "欧洲柴油期货有望在3月份累涨81%，单月涨幅创纪录，因中东战争扰乱了供应。",
@@ -245,7 +286,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
         },
@@ -256,7 +297,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
         },
@@ -267,7 +308,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
         },
@@ -278,7 +319,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
         },
@@ -289,7 +330,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
         },
@@ -300,7 +341,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
         },
@@ -311,7 +352,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
         },
@@ -322,9 +363,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
+        },
+        {
+          "title": "纽约期金突破4700美元/盎司，日内涨3.13%。",
+          "url": "https://flash.jin10.com/detail/20260401021605248800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时10分"
         },
         {
           "title": "报道：拉加德在视频会议上向贝森特发难，质疑其对战争影响过于乐观",
@@ -333,7 +385,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
         }
@@ -341,7 +393,7 @@
     },
     {
       "keyword_group": "特朗普 马斯克 加密货币 美联储",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "白宫称特朗普希望4月6日前达成协议、有意让阿拉伯国家埋单、美伊对话持续且进展顺利，伊朗否认谈判",
@@ -351,8 +403,30 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时16分 ~ 01时17分]"
+          "appearance_count": 3,
+          "time_info": "[01时16分 ~ 03时06分]"
+        },
+        {
+          "title": "美联储理事巴尔、美联储理事鲍曼将于十分钟后陆续发表讲话。",
+          "url": "https://flash.jin10.com/detail/20260401025000001800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时10分"
+        },
+        {
+          "title": "据AXIOS网站：特朗普表示“与伊朗的谈判进展顺利。”",
+          "url": "https://flash.jin10.com/detail/20260401024856254800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时10分"
         },
         {
           "title": "特朗普给伊朗“划红线”",
@@ -362,8 +436,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时16分 ~ 01时17分]"
+          "appearance_count": 4,
+          "time_info": "[01时16分 ~ 03时10分]"
         },
         {
           "title": "特朗普欲让阿拉伯国家为美国打伊朗埋单",
@@ -373,8 +447,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时16分 ~ 01时17分]"
+          "appearance_count": 4,
+          "time_info": "[01时16分 ~ 03时10分]"
         },
         {
           "title": "特朗普围伊“救”俄",
@@ -384,8 +458,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时16分 ~ 01时17分]"
+          "appearance_count": 4,
+          "time_info": "[01时16分 ~ 03时10分]"
         },
         {
           "title": "特朗普前顾问班农：应该让内塔尼亚胡的儿子奔赴前线",
@@ -395,30 +469,43 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时16分 ~ 01时17分]"
+          "appearance_count": 4,
+          "time_info": "[01时16分 ~ 03时10分]"
         },
         {
           "title": "美国打伊朗，阿拉伯国家掏钱？白宫新闻秘书：特朗普有这想法",
           "url": "https://m.thepaper.cn/newsDetail_forward_32865145",
           "source": "澎湃新闻",
           "ranks": [
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时16分 ~ 01时17分]"
+          "appearance_count": 4,
+          "time_info": "[01时16分 ~ 03时10分]"
         },
         {
           "title": "美联储主席在哈佛讲了什么",
           "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%81%94%E5%82%A8%E4%B8%BB%E5%B8%AD%E5%9C%A8%E5%93%88%E4%BD%9B%E8%AE%B2%E4%BA%86%E4%BB%80%E4%B9%88",
           "source": "bilibili 热搜",
           "ranks": [
-            21
+            21,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时16分 ~ 03时10分]"
+        },
+        {
+          "title": "特朗普希望4月6日前与伊朗签协议",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%B8%8C%E6%9C%9B4%E6%9C%886%E6%97%A5%E5%89%8D%E4%B8%8E%E4%BC%8A%E6%9C%97%E7%AD%BE%E5%8D%8F%E8%AE%AE%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时16分 ~ 01时17分]"
+          "time_info": "[03时06分 ~ 03时10分]"
         },
         {
           "title": "美国联邦法官裁定：特朗普政府终止移民身份行为违法",
@@ -427,7 +514,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
         },
@@ -438,7 +525,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
         },
@@ -449,7 +536,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
         },
@@ -460,15 +547,131 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
         }
       ]
     },
     {
+      "keyword_group": "外交部 商务部 证监会 央行",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "央行：建议发挥增量政策和存量政策集成效应 加强货币政策调控",
+          "url": "https://www.cls.cn/detail/2330644",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时16分 ~ 03时10分]"
+        },
+        {
+          "title": "受贿数额特别巨大，证监会原副主席王建军被提起公诉",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32865339",
+          "source": "澎湃新闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时16分 ~ 03时10分]"
+        },
+        {
+          "title": "哥伦比亚央行行长Villar：财政部长中途退出央行会议违背宪法规定。",
+          "url": "https://flash.jin10.com/detail/20260401024747669800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时10分"
+        },
+        {
+          "title": "哥伦比亚央行行长Leonardo Villar表示，他否认对委员会出于个人利益作出决策的指控。",
+          "url": "https://flash.jin10.com/detail/20260401024156924800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时10分"
+        },
+        {
+          "title": "外交部揭底自卫队官员为何持刀闯入驻日大使馆",
+          "url": "https://news.ifeng.com/c/8rwYhiZofOp",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时16分 ~ 03时10分]"
+        },
+        {
+          "title": "哥伦比亚央行将基准利率上调100个基点至11.25%，决议获得七名成员的多数支持。",
+          "url": "https://flash.jin10.com/detail/20260401023642215800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时10分"
+        },
+        {
+          "title": "哥伦比亚财政部长在周二的央行会议上突然离席，并呼吁就央行的货币政策进行公开辩论，同时指责其偏袒投资者而非普通公民。",
+          "url": "https://flash.jin10.com/detail/20260401022916465800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时10分"
+        },
+        {
+          "title": "欧洲央行管委雷恩：仔细评估货币政策更为妥当。",
+          "url": "https://flash.jin10.com/detail/20260401022746023800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时10分"
+        },
+        {
+          "title": "欧洲央行管委雷恩：加息并非板上钉钉；最新的欧元区通胀数据在预期之中。",
+          "url": "https://flash.jin10.com/detail/20260401022740700800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时10分"
+        },
+        {
+          "title": "欧洲央行管委雷恩：欧洲央行关注中期通胀前景。",
+          "url": "https://flash.jin10.com/detail/20260401022554348800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时10分"
+        }
+      ]
+    },
+    {
       "keyword_group": "黄金 白银 铜 铝 稀土",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "LME期铜收涨112美元，报12336美元/吨。 LME期铝收涨66美元，报3467美元/吨。 LME期锌收涨44美元，报3226美元/吨。 LME期铅收跌6美元，报1903美元/吨。 LME期镍收跌153美元，报17110美元/吨。 LME期锡收涨13美元，报46747美元/吨。 LME期钴收平，报56290美元/吨。",
@@ -477,7 +680,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
         },
@@ -489,8 +692,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时16分 ~ 01时17分]"
+          "appearance_count": 4,
+          "time_info": "[01时16分 ~ 03时10分]"
         },
         {
           "title": "高盛：若中东冲突升级并加剧西方财政担忧，黄金将冲击6100美元！",
@@ -500,8 +703,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时16分 ~ 01时17分]"
+          "appearance_count": 3,
+          "time_info": "[01时16分 ~ 03时06分]"
         },
         {
           "title": "黄金六轮史诗级跳水",
@@ -515,54 +718,26 @@
           "time_info": "[01时16分 ~ 01时17分]"
         },
         {
+          "title": "上海黄金交易所黄金T+D 3月31日（周二）晚盘收盘上涨1.67%报1035.5元/克；<br/>上海黄金交易所白银T+D 3月31日（周二）晚盘收盘上涨3.93%报18825.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260401023033444800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时10分"
+        },
+        {
           "title": "高盛将2026年第二季度LME铝价预测上调至3450美元，此前为3200美元。 2026年全球原铝市场将出现57万吨的缺口，此前预计为55万吨的过剩。",
           "url": "https://wallstreetcn.com/livenews/3080285",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "外交部 商务部 证监会 央行",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "央行：建议发挥增量政策和存量政策集成效应 加强货币政策调控",
-          "url": "https://www.cls.cn/detail/2330644",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时16分 ~ 01时17分]"
-        },
-        {
-          "title": "受贿数额特别巨大，证监会原副主席王建军被提起公诉",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32865339",
-          "source": "澎湃新闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时16分 ~ 01时17分]"
-        },
-        {
-          "title": "外交部揭底自卫队官员为何持刀闯入驻日大使馆",
-          "url": "https://news.ifeng.com/c/8rwYhiZofOp",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时16分 ~ 01时17分]"
         }
       ]
     },
@@ -578,8 +753,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时16分 ~ 01时17分]"
+          "appearance_count": 4,
+          "time_info": "[01时16分 ~ 03时10分]"
         },
         {
           "title": "功勋翻译下岗,AI包揽游戏翻译",
@@ -589,8 +764,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时16分 ~ 01时17分]"
+          "appearance_count": 4,
+          "time_info": "[01时16分 ~ 03时10分]"
         }
       ]
     }
