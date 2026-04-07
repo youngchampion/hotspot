@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-08T05:23:53.116544+08:00",
-  "total_titles_processed": 479,
+  "generated_at": "2026-04-08T05:45:33.420241+08:00",
+  "total_titles_processed": 507,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 美债 美元 石油 战争",
-      "match_count": 49,
+      "match_count": 55,
       "titles": [
         {
           "title": "美以伊战争丨中俄否决安理会涉霍尔木兹海峡决议",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时03分 ~ 05时23分]"
+          "appearance_count": 5,
+          "time_info": "[01时03分 ~ 05时45分]"
         },
         {
           "title": "伊朗拒停战提议，特朗普警告7日晚动手，美股指“闪跌”但收涨，美油再创近四年新高",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时03分 ~ 05时23分]"
+          "appearance_count": 5,
+          "time_info": "[01时03分 ~ 05时45分]"
         },
         {
           "title": "联合国警告特朗普：或涉战争罪",
@@ -37,8 +37,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时03分 ~ 05时23分]"
+          "appearance_count": 5,
+          "time_info": "[01时03分 ~ 05时45分]"
         },
         {
           "title": "特朗普：伊朗停战回应还不够好，要“拿走石油”，7日最终期限不可改，美国该收霍尔木兹通行费",
@@ -50,6 +50,20 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时03分 ~ 03时09分]"
+        },
+        {
+          "title": "国际石油价格还会继续上涨吗？",
+          "url": "https://www.zhihu.com/question/2017599039630247665",
+          "source": "知乎",
+          "ranks": [
+            8,
+            9,
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时03分 ~ 05时45分]"
         },
         {
           "title": "IMF总裁格奥尔基耶娃：因伊朗战争，国际货币基金组织将下调全球经济增长预期。",
@@ -74,26 +88,48 @@
           "time_info": "01时04分"
         },
         {
-          "title": "周二（4月7日）纽约尾盘（周三北京时间04:59），离岸人民币（CNH）兑美元报6.8554元，较周一纽约尾盘涨193点，日内整体交投于6.8837-6.8537元区间。",
-          "url": "https://wallstreetcn.com/livenews/3083726",
+          "title": "布伦特原油5分钟内上涨0.52美元/桶，报103.61美元/桶。 伊朗驻巴基斯坦大使发表了一条含义模糊的信息，内容是：“目前，我们已经从关键敏感阶段向前迈进了一步……下一阶段，尊重和礼节将被辞令和冗余所取代。敬请期待……。”",
+          "url": "https://wallstreetcn.com/livenews/3083735",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时45分"
+        },
+        {
+          "title": "“恐慌指标”飙升至纪录高位，战争加剧交易员焦虑",
+          "url": "https://wallstreetcn.com/livenews/3083734",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时23分"
+          "time_info": "05时45分"
         },
         {
-          "title": "土耳其外长与巴基斯坦外长就结束伊朗战争的外交努力举行通话。",
-          "url": "https://flash.jin10.com/detail/20260408045030441800",
+          "title": "西南航空公司：自2026年4月9日起，第一件和第二件托运行李的托运费用均上调10美元。",
+          "url": "https://flash.jin10.com/detail/20260408052920198800",
           "source": "金十数据",
           "ranks": [
-            4
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时23分"
+          "time_info": "05时45分"
+        },
+        {
+          "title": "周二（4月7日）纽约尾盘，欧元兑美元涨0.50%，英镑兑美元涨0.44%，美元兑瑞郎跌0.05%。 商品货币对中，澳元兑美元涨0.92%，纽元兑美元涨0.24%，美元兑加元跌0.15%。",
+          "url": "https://wallstreetcn.com/livenews/3083733",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时45分"
         },
         {
           "title": "伊朗战争升级，贝莱德印度ETF遭遇数十亿美元资金外流",
@@ -118,30 +154,6 @@
           "time_info": "03时09分"
         },
         {
-          "title": "美国参议员桑德斯：人们很容易习惯特朗普的胡言乱语，并对此一笑置之。但这是一件危险的事。当特朗普说“整个文明今晚将会消亡”时，他是在威胁要实施种族灭绝。我们不能让这种事发生。国会必须立即结束这场战争。",
-          "url": "https://flash.jin10.com/detail/20260408044959379800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时23分"
-        },
-        {
-          "title": "国际石油价格还会继续上涨吗？",
-          "url": "https://www.zhihu.com/question/2017599039630247665",
-          "source": "知乎",
-          "ranks": [
-            8,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时03分 ~ 05时23分]"
-        },
-        {
           "title": "联合国：美若袭伊民用设施或涉战争罪",
           "url": "https://www.toutiao.com/trending/7626011939616919050/",
           "source": "今日头条",
@@ -149,8 +161,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时03分 ~ 05时23分]"
+          "appearance_count": 5,
+          "time_info": "[01时03分 ~ 05时45分]"
         },
         {
           "title": "威胁炸伊朗基础设施、不怕牵涉战争罪，特朗普：伊朗人为了自由甘愿被炸",
@@ -161,8 +173,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时03分 ~ 05时23分]"
+          "appearance_count": 5,
+          "time_info": "[01时03分 ~ 05时45分]"
         },
         {
           "title": "美副总统万斯：战争将很快结束",
@@ -170,11 +182,48 @@
           "source": "今日头条",
           "ranks": [
             21,
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时03分 ~ 05时23分]"
+          "appearance_count": 5,
+          "time_info": "[01时03分 ~ 05时45分]"
+        },
+        {
+          "title": "周二（4月7日）纽约尾盘（周三北京时间04:59），离岸人民币（CNH）兑美元报6.8554元，较周一纽约尾盘涨193点，日内整体交投于6.8837-6.8537元区间。",
+          "url": "https://wallstreetcn.com/livenews/3083726",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时23分 ~ 05时45分]"
+        },
+        {
+          "title": "土耳其外长与巴基斯坦外长就结束伊朗战争的外交努力举行通话。",
+          "url": "https://flash.jin10.com/detail/20260408045030441800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时23分 ~ 05时45分]"
+        },
+        {
+          "title": "美国参议员桑德斯：人们很容易习惯特朗普的胡言乱语，并对此一笑置之。但这是一件危险的事。当特朗普说“整个文明今晚将会消亡”时，他是在威胁要实施种族灭绝。我们不能让这种事发生。国会必须立即结束这场战争。",
+          "url": "https://flash.jin10.com/detail/20260408044959379800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时23分 ~ 05时45分]"
         },
         {
           "title": "伊朗威胁切断美国及其盟友石油供应",
@@ -185,8 +234,103 @@
             19
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时09分 ~ 05时45分]"
+        },
+        {
+          "title": "【行业周报：美国上周API原油库存增超370万桶，汽油库存下降将近400万桶 美国石油协会（API）数据显示，上周，美国API原油库存 +371.9万桶，之前一周 +1026.3万桶。 上周API库欣原油库存 -62.9万桶，前值 +78.4万桶。 上周API成品油汽油库存 -396.8万桶（前值 -320.9万桶）、馏分油库存 -59.9万桶（前值 -1043万桶）。",
+          "url": "https://wallstreetcn.com/livenews/3083719",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            16
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时09分 ~ 05时23分]"
+          "time_info": "[05时23分 ~ 05时45分]"
+        },
+        {
+          "title": "A股三大股指震荡上涨，化工掀起涨停潮，煤炭股活跃，芯片股拉升、寒武纪大涨9%",
+          "url": "https://wallstreetcn.com/articles/3769354",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时23分 ~ 05时45分]"
+        },
+        {
+          "title": "英镑兑美元GBP/USD日内涨幅扩大至0.50%，现报1.3301。",
+          "url": "https://flash.jin10.com/detail/20260408044157910800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时23分 ~ 05时45分]"
+        },
+        {
+          "title": "特朗普称美方正就伊朗战争进行“激烈谈判”",
+          "url": "https://wallstreetcn.com/livenews/3083718",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时23分 ~ 05时45分]"
+        },
+        {
+          "title": "提醒：北京时间04:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在04:32前后获得数据详情。",
+          "url": "https://wallstreetcn.com/livenews/3083714",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时23分 ~ 05时45分]"
+        },
+        {
+          "title": "周二（4月7日），美股行业ETF多数收涨，半导体ETF涨0.99%，能源业ETF涨0.8%，科技行业ETF涨0.48%，可选消费ETF则收队1.18%，日常消费品ETF跌1.69%。",
+          "url": "https://wallstreetcn.com/livenews/3083713",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时23分 ~ 05时45分]"
+        },
+        {
+          "title": "Levi Strauss一季度净营收17.4亿美元，分析师预期16.5亿美元。 一季度调整后每股收益（EPS）为0.42美元，分析师预期0.37美元。 预计全年净营收将增长5.5%-6.5%，公司原本预计会增长5%-6%。 预计全年调整后EPS为1.42-1.48美元，公司原本预计1.40-1.46美元。 Levi Strauss美股盘后涨5%。",
+          "url": "https://wallstreetcn.com/livenews/3083708",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时23分 ~ 05时45分]"
+        },
+        {
+          "title": "布伦特原油期货目前跌3.16%，报106.30美元，此前（布油收盘之后）一度跳水至104.76美元。 据福克斯新闻： 特朗普拒就巴基斯坦提出的两周期限置评，特朗普称不便发表评论，因为目前我们正处于激烈谈判中。",
+          "url": "https://wallstreetcn.com/livenews/3083705",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时23分 ~ 05时45分]"
         },
         {
           "title": "即期布伦特原油价格涨至144.42美元/桶，创历史新高。",
@@ -217,51 +361,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时23分"
-        },
-        {
-          "title": "【行业周报：美国上周API原油库存增超370万桶，汽油库存下降将近400万桶 美国石油协会（API）数据显示，上周，美国API原油库存 +371.9万桶，之前一周 +1026.3万桶。 上周API库欣原油库存 -62.9万桶，前值 +78.4万桶。 上周API成品油汽油库存 -396.8万桶（前值 -320.9万桶）、馏分油库存 -59.9万桶（前值 -1043万桶）。",
-          "url": "https://wallstreetcn.com/livenews/3083719",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时23分"
-        },
-        {
-          "title": "A股三大股指震荡上涨，化工掀起涨停潮，煤炭股活跃，芯片股拉升、寒武纪大涨9%",
-          "url": "https://wallstreetcn.com/articles/3769354",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时23分"
-        },
-        {
-          "title": "英镑兑美元GBP/USD日内涨幅扩大至0.50%，现报1.3301。",
-          "url": "https://flash.jin10.com/detail/20260408044157910800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时23分"
-        },
-        {
-          "title": "特朗普称美方正就伊朗战争进行“激烈谈判”",
-          "url": "https://wallstreetcn.com/livenews/3083718",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
         },
@@ -310,17 +410,6 @@
           "time_info": "01时04分"
         },
         {
-          "title": "提醒：北京时间04:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在04:32前后获得数据详情。",
-          "url": "https://wallstreetcn.com/livenews/3083714",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时23分"
-        },
-        {
           "title": "由于采取了降低燃料使用量、出现燃料短缺以及限制燃料出口等措施，美国能源信息署（EIA）将2026年全球石油需求增长预测下调了一半。",
           "url": "https://flash.jin10.com/detail/20260408002350235800",
           "source": "金十数据",
@@ -332,15 +421,15 @@
           "time_info": "01时04分"
         },
         {
-          "title": "周二（4月7日），美股行业ETF多数收涨，半导体ETF涨0.99%，能源业ETF涨0.8%，科技行业ETF涨0.48%，可选消费ETF则收队1.18%，日常消费品ETF跌1.69%。",
-          "url": "https://wallstreetcn.com/livenews/3083713",
+          "title": "纳斯达克100 ETF期货美股盘后一度涨0.3%。 CNN援引消息人士报道称，在巴基斯坦要求特朗普延长伊朗谈判最后期限后，预计很快将传来“好消息”。",
+          "url": "https://wallstreetcn.com/livenews/3083721",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时23分"
+          "time_info": "05时45分"
         },
         {
           "title": "即期布伦特原油价格一度涨至144.42美元/桶，创历史新高。",
@@ -409,17 +498,6 @@
           "time_info": "03时09分"
         },
         {
-          "title": "Levi Strauss一季度净营收17.4亿美元，分析师预期16.5亿美元。 一季度调整后每股收益（EPS）为0.42美元，分析师预期0.37美元。 预计全年净营收将增长5.5%-6.5%，公司原本预计会增长5%-6%。 预计全年调整后EPS为1.42-1.48美元，公司原本预计1.40-1.46美元。 Levi Strauss美股盘后涨5%。",
-          "url": "https://wallstreetcn.com/livenews/3083708",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时23分"
-        },
-        {
           "title": "纳斯达克100指数跌幅收窄至不足1%。 WTI原油5分钟内下跌0.52美元/桶，报114.61美元/桶。 布伦特原油5分钟内下跌0.51美元/桶，报109.6美元/桶。",
           "url": "https://wallstreetcn.com/livenews/3083619",
           "source": "华尔街见闻-快讯",
@@ -440,17 +518,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时09分"
-        },
-        {
-          "title": "布伦特原油期货目前跌3.16%，报106.30美元，此前（布油收盘之后）一度跳水至104.76美元。 据福克斯新闻： 特朗普拒就巴基斯坦提出的两周期限置评，特朗普称不便发表评论，因为目前我们正处于激烈谈判中。",
-          "url": "https://wallstreetcn.com/livenews/3083705",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时23分"
         },
         {
           "title": "世界银行行长Banga：国际货币基金组织（IMF）与世行讨论伊朗战争期间的救助问题。",
@@ -514,7 +581,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
         },
@@ -525,9 +592,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
+        },
+        {
+          "title": "李嘉诚一边卖电网一边囤石油",
+          "url": "https://www.toutiao.com/trending/7625922512014020106/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时45分"
         },
         {
           "title": "美债收益率冲高回落，投资者关注油价下跌",
@@ -536,7 +614,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
         },
@@ -547,7 +625,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
         }
@@ -555,8 +633,53 @@
     },
     {
       "keyword_group": "特朗普 马斯克 加密货币 美联储",
-      "match_count": 36,
+      "match_count": 38,
       "titles": [
+        {
+          "title": "特朗普对伊朗发出最强威胁：若不达成协议 今晚整个文明将消亡",
+          "url": "https://www.cls.cn/detail/2336994",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时03分 ~ 05时45分]"
+        },
+        {
+          "title": "特朗普威胁伊朗“最后期限”，中方表态",
+          "url": "https://www.cls.cn/detail/2336527",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时03分 ~ 05时45分]"
+        },
+        {
+          "title": "特朗普威胁伊朗：整个文明将消亡",
+          "url": "https://news.ifeng.com/c/8s8XYUTRSiV",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时03分 ~ 05时45分]"
+        },
+        {
+          "title": "停火协议“希望渐灭”？美伊互下“最后通牒”：美以能源打击或已就绪，伊朗称特朗普“只剩20小时”！",
+          "url": "https://wallstreetcn.com/articles/3769368",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时03分 ~ 05时45分]"
+        },
         {
           "title": "以军空袭伊朗铁路和桥梁，伊朗最大产油岛哈尔克岛传出爆炸，特朗普称“整个文明将消亡”",
           "url": "https://wallstreetcn.com/articles/3769398",
@@ -569,49 +692,15 @@
           "time_info": "[01时03分 ~ 05时23分]"
         },
         {
-          "title": "特朗普对伊朗发出最强威胁：若不达成协议 今晚整个文明将消亡",
-          "url": "https://www.cls.cn/detail/2336994",
-          "source": "财联社热门",
+          "title": "以军空袭伊朗铁路和桥梁，伊朗最大产油岛遭美袭、民众人链保护电厂和桥，特朗普威胁“整个文明”消亡",
+          "url": "https://wallstreetcn.com/articles/3769398",
+          "source": "华尔街见闻",
           "ranks": [
             1
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时03分 ~ 05时23分]"
-        },
-        {
-          "title": "特朗普威胁伊朗“最后期限”，中方表态",
-          "url": "https://www.cls.cn/detail/2336527",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时03分 ~ 05时23分]"
-        },
-        {
-          "title": "特朗普威胁伊朗：整个文明将消亡",
-          "url": "https://news.ifeng.com/c/8s8XYUTRSiV",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时03分 ~ 05时23分]"
-        },
-        {
-          "title": "停火协议“希望渐灭”？美伊互下“最后通牒”：美以能源打击或已就绪，伊朗称特朗普“只剩20小时”！",
-          "url": "https://wallstreetcn.com/articles/3769368",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时03分 ~ 05时23分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时45分"
         },
         {
           "title": "美媒：随着特朗普最后期限临近 伊朗谈判出现少许进展",
@@ -619,39 +708,6 @@
           "source": "金十数据",
           "ranks": [
             3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时04分"
-        },
-        {
-          "title": "消息人士称，在巴基斯坦要求特朗普延长伊朗谈判最后期限后，预计很快将传来“好消息”。",
-          "url": "https://flash.jin10.com/detail/20260408045559844800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时23分"
-        },
-        {
-          "title": "据AXIOS网站：美以官员及消息人士称，过去24小时内，美国与伊朗之间的谈判取得了进展，但在特朗普设定的美东时间晚上8点的最后期限前达成停火协议的可能性似乎仍不大。",
-          "url": "https://flash.jin10.com/detail/20260408003611644800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时04分"
-        },
-        {
-          "title": "两年期德债收益率涨超10个基点，投资者关注特朗普威胁论调对于油价的影响",
-          "url": "https://wallstreetcn.com/livenews/3083635",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -666,8 +722,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时03分 ~ 05时23分]"
+          "appearance_count": 5,
+          "time_info": "[01时03分 ~ 05时45分]"
+        },
+        {
+          "title": "据AXIOS网站：美以官员及消息人士称，过去24小时内，美国与伊朗之间的谈判取得了进展，但在特朗普设定的美东时间晚上8点的最后期限前达成停火协议的可能性似乎仍不大。",
+          "url": "https://flash.jin10.com/detail/20260408003611644800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时04分"
         },
         {
           "title": "伊方：特朗普只有20个小时，要么屈服要么其盟友将退回石器时代",
@@ -678,8 +745,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时03分 ~ 05时23分]"
+          "appearance_count": 5,
+          "time_info": "[01时03分 ~ 05时45分]"
+        },
+        {
+          "title": "两年期德债收益率涨超10个基点，投资者关注特朗普威胁论调对于油价的影响",
+          "url": "https://wallstreetcn.com/livenews/3083635",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时04分"
         },
         {
           "title": "还剩最后16小时！特朗普会否在伊朗拒和后再次TACO？",
@@ -688,11 +766,12 @@
           "ranks": [
             12,
             11,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时03分 ~ 05时23分]"
+          "appearance_count": 5,
+          "time_info": "[01时03分 ~ 05时45分]"
         },
         {
           "title": "特朗普最后通牒之后",
@@ -703,8 +782,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时03分 ~ 05时23分]"
+          "appearance_count": 5,
+          "time_info": "[01时03分 ~ 05时45分]"
         },
         {
           "title": "联合国警告特朗普政府",
@@ -715,8 +794,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时03分 ~ 05时23分]"
+          "appearance_count": 5,
+          "time_info": "[01时03分 ~ 05时45分]"
         },
         {
           "title": "伊朗方称伊朗拒绝「临时停火」，特朗普威胁伊朗整个文明将消亡，拒绝停火原因是什么？美以伊三方谁最拖不起？",
@@ -727,8 +806,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时03分 ~ 05时23分]"
+          "appearance_count": 5,
+          "time_info": "[01时03分 ~ 05时45分]"
         },
         {
           "title": "特朗普威胁伊朗：“整个文明将消亡”",
@@ -740,8 +819,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时03分 ~ 05时23分]"
+          "appearance_count": 5,
+          "time_info": "[01时03分 ~ 05时45分]"
         },
         {
           "title": "内塔尼亚胡：特朗普对我们评价极高，如今的以色列史上最强",
@@ -752,8 +831,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时03分 ~ 05时23分]"
+          "appearance_count": 5,
+          "time_info": "[01时03分 ~ 05时45分]"
         },
         {
           "title": "联合国警告特朗普",
@@ -765,8 +844,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时03分 ~ 05时23分]"
+          "appearance_count": 5,
+          "time_info": "[01时03分 ~ 05时45分]"
         },
         {
           "title": "中方就特朗普威胁伊朗表态",
@@ -776,8 +855,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时03分 ~ 05时23分]"
+          "appearance_count": 5,
+          "time_info": "[01时03分 ~ 05时45分]"
         },
         {
           "title": "韩国回应特朗普",
@@ -789,8 +868,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时03分 ~ 05时23分]"
+          "appearance_count": 5,
+          "time_info": "[01时03分 ~ 05时45分]"
         },
         {
           "title": "特朗普威胁称伊朗整个文明将消亡",
@@ -800,8 +879,33 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时03分 ~ 05时23分]"
+          "appearance_count": 5,
+          "time_info": "[01时03分 ~ 05时45分]"
+        },
+        {
+          "title": "消息人士称，在巴基斯坦要求特朗普延长伊朗谈判最后期限后，预计很快将传来“好消息”。",
+          "url": "https://flash.jin10.com/detail/20260408045559844800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时23分 ~ 05时45分]"
+        },
+        {
+          "title": "伊朗人这样做回应特朗普恐吓",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E4%BA%BA%E8%BF%99%E6%A0%B7%E5%81%9A%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%81%90%E5%90%93%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时09分 ~ 05时45分]"
         },
         {
           "title": "特朗普公布营救飞行员细节：调集176架各类飞机、实施欺骗作战，正搜寻媒体泄密者",
@@ -815,16 +919,52 @@
           "time_info": "[01时03分 ~ 01时04分]"
         },
         {
-          "title": "伊朗人这样做回应特朗普恐吓",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E4%BA%BA%E8%BF%99%E6%A0%B7%E5%81%9A%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%81%90%E5%90%93%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
+          "title": "特朗普表示，他不会透露自己对今晚局势的看法。特朗普称“两三天后再给我打电话，我会告诉你。”",
+          "url": "https://flash.jin10.com/detail/20260408044238651800",
+          "source": "金十数据",
           "ranks": [
-            30,
-            16
+            9,
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时09分 ~ 05时23分]"
+          "time_info": "[05时23分 ~ 05时45分]"
+        },
+        {
+          "title": "白宫：特朗普已获悉巴基斯坦最新提议",
+          "url": "https://wallstreetcn.com/livenews/3083712",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时23分 ~ 05时45分]"
+        },
+        {
+          "title": "美媒：特朗普已获悉巴基斯坦最新提议",
+          "url": "https://wallstreetcn.com/livenews/3083704",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时23分 ~ 05时45分]"
+        },
+        {
+          "title": "中方表态特朗普威胁伊朗最后期限",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E8%A1%A8%E6%80%81%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E4%BC%8A%E6%9C%97%E6%9C%80%E5%90%8E%E6%9C%9F%E9%99%90%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时23分 ~ 05时45分]"
         },
         {
           "title": "挪威首相说特朗普针对伊朗的威胁言论令人担忧",
@@ -849,6 +989,17 @@
           "time_info": "01时04分"
         },
         {
+          "title": "65名美国民主党众议员寻求弹劾特朗普",
+          "url": "https://flash.jin10.com/detail/20260408051613716800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时45分"
+        },
+        {
           "title": "挪威首相说特朗普针对伊朗的威胁言论令人担忧",
           "url": "https://wallstreetcn.com/livenews/3083632",
           "source": "华尔街见闻-快讯",
@@ -860,28 +1011,6 @@
           "time_info": "01时04分"
         },
         {
-          "title": "特朗普表示，他不会透露自己对今晚局势的看法。特朗普称“两三天后再给我打电话，我会告诉你。”",
-          "url": "https://flash.jin10.com/detail/20260408044238651800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时23分"
-        },
-        {
-          "title": "白宫：特朗普已获悉巴基斯坦最新提议",
-          "url": "https://wallstreetcn.com/livenews/3083712",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时23分"
-        },
-        {
           "title": "伊朗第一副总统回应特朗普威胁，称：伊朗不会动摇",
           "url": "https://wallstreetcn.com/livenews/3083622",
           "source": "华尔街见闻-快讯",
@@ -891,17 +1020,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
-        },
-        {
-          "title": "美媒：特朗普已获悉巴基斯坦最新提议",
-          "url": "https://wallstreetcn.com/livenews/3083704",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时23分"
         },
         {
           "title": "法国外长：我希望美国总统特朗普不要实施其针对伊朗的威胁。",
@@ -921,7 +1039,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
         },
@@ -932,7 +1050,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
         },
@@ -943,18 +1061,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时23分"
-        },
-        {
-          "title": "中方表态特朗普威胁伊朗最后期限",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E8%A1%A8%E6%80%81%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E4%BC%8A%E6%9C%97%E6%9C%80%E5%90%8E%E6%9C%9F%E9%99%90%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
         },
@@ -973,7 +1080,7 @@
     },
     {
       "keyword_group": "黄金 白银 铜 铝 稀土",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "伊朗不再推进停火谈判，美股跌幅扩大，油价攀升，黄金转跌",
@@ -1000,15 +1107,15 @@
           "time_info": "[01时03分 ~ 05时23分]"
         },
         {
-          "title": "现货黄金涨1.3%",
-          "url": "https://wallstreetcn.com/livenews/3083724",
-          "source": "华尔街见闻-快讯",
+          "title": "“调解人”巴基斯坦提出停火延期请求，美股抹平跌幅，油价跳水，黄金重回4700美元",
+          "url": "https://wallstreetcn.com/articles/3769370",
+          "source": "华尔街见闻",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时23分"
+          "time_info": "05时45分"
         },
         {
           "title": "多国央行开启战术性黄金抛售",
@@ -1016,11 +1123,12 @@
           "source": "抖音",
           "ranks": [
             16,
-            13
+            13,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时03分 ~ 05时23分]"
+          "appearance_count": 5,
+          "time_info": "[01时03分 ~ 05时45分]"
         },
         {
           "title": "央行连续17个月增持黄金",
@@ -1032,8 +1140,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时03分 ~ 05时23分]"
+          "appearance_count": 5,
+          "time_info": "[01时03分 ~ 05时45分]"
         },
         {
           "title": "多国央行开始卖黄金了",
@@ -1043,8 +1151,44 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时03分 ~ 05时23分]"
+          "appearance_count": 5,
+          "time_info": "[01时03分 ~ 05时45分]"
+        },
+        {
+          "title": "现货黄金涨1.3%",
+          "url": "https://wallstreetcn.com/livenews/3083724",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时23分 ~ 05时45分]"
+        },
+        {
+          "title": "周二（4月7日），美股大类资产类ETF多数收涨，恐慌指数做多涨3.36%，黄金ETF涨0.97%，巴克莱美国可转债ETF涨0.67%，欧元做多、新兴市场ETF、罗素2000指数ETF、美国房地产ETF、标普500 ETF、日元做多、纳指100 ETF至多涨0.42%。 美国国债20+年ETF则收跌0.01%，道指ETF跌0.19%，做多美元指数跌0.29%，大豆基金跌0.59%，农产品基金跌0.99%，美国布伦特油价基金跌2.10%。",
+          "url": "https://wallstreetcn.com/livenews/3083722",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时23分 ~ 05时45分]"
+        },
+        {
+          "title": "WTI原油5分钟内下跌0.69美元/桶，报110.81美元/桶。 伊朗最大的铝生产商伊朗铝业公司（IRALCO）遭到空袭。 据伊朗媒体Mehr报道，伊朗称其位于Mahshahr的石化设施Amirkabir Petrochemical遭到袭击。",
+          "url": "https://wallstreetcn.com/livenews/3083720",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时23分 ~ 05时45分]"
         },
         {
           "title": "法国央行卖出所有在美托管金条 黄金储备战略转移且实现三赢",
@@ -1058,48 +1202,50 @@
           "time_info": "[01时03分 ~ 01时04分]"
         },
         {
-          "title": "周二（4月7日），美股大类资产类ETF多数收涨，恐慌指数做多涨3.36%，黄金ETF涨0.97%，巴克莱美国可转债ETF涨0.67%，欧元做多、新兴市场ETF、罗素2000指数ETF、美国房地产ETF、标普500 ETF、日元做多、纳指100 ETF至多涨0.42%。 美国国债20+年ETF则收跌0.01%，道指ETF跌0.19%，做多美元指数跌0.29%，大豆基金跌0.59%，农产品基金跌0.99%，美国布伦特油价基金跌2.10%。",
-          "url": "https://wallstreetcn.com/livenews/3083722",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时23分"
-        },
-        {
-          "title": "WTI原油5分钟内下跌0.69美元/桶，报110.81美元/桶。 伊朗最大的铝生产商伊朗铝业公司（IRALCO）遭到空袭。 据伊朗媒体Mehr报道，伊朗称其位于Mahshahr的石化设施Amirkabir Petrochemical遭到袭击。",
-          "url": "https://wallstreetcn.com/livenews/3083720",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时23分"
-        },
-        {
           "title": "托克集团因委内瑞拉黄金交易遭到美国参议员质询",
           "url": "https://wallstreetcn.com/livenews/3083715",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时23分 ~ 05时45分]"
         },
         {
           "title": "市场消息：伊朗最大的铝生产商伊朗铝业公司（IRALCO）遭到空袭。",
           "url": "https://flash.jin10.com/detail/20260408044016720800",
           "source": "金十数据",
           "ranks": [
-            13
+            13,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时23分 ~ 05时45分]"
+        },
+        {
+          "title": "伊朗多处石化工厂及铝厂设施遭袭",
+          "url": "https://wallstreetcn.com/livenews/3083729",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时23分"
+          "time_info": "05时45分"
+        },
+        {
+          "title": "伊朗多处石化工厂及铝厂设施遭袭",
+          "url": "https://flash.jin10.com/detail/20260408051137391800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时45分"
         },
         {
           "title": "上海黄金交易所黄金T+D 4月7日（周二）晚盘收盘上涨0.41%报1034.01元/克；<br/>上海黄金交易所白银T+D 4月7日（周二）晚盘收盘下跌0.98%报17741.0元/千克。",
@@ -1119,7 +1265,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
         },
@@ -1160,8 +1306,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时03分 ~ 05时23分]"
+          "appearance_count": 5,
+          "time_info": "[01时03分 ~ 05时45分]"
         },
         {
           "title": "AI染指鬼灭,日网友气急跳脚",
@@ -1171,8 +1317,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时03分 ~ 05时23分]"
+          "appearance_count": 5,
+          "time_info": "[01时03分 ~ 05时45分]"
         },
         {
           "title": "大魔王迎战硬刚马斯克AI",
@@ -1182,8 +1328,20 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时03分 ~ 05时23分]"
+          "appearance_count": 5,
+          "time_info": "[01时03分 ~ 05时45分]"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌0.94%，报6673.41点。 热门中概股里，文远知行初步收跌2.3%，阿里跌2.2%，小马智行跌2.1%，蔚来、拼多多、小鹏、小米跌超1%。 ETF中，中概互联网指数ETF（KWEB）收跌0.28%，中国科技指数ETF（CQQQ）收跌0.07%。 德银嘉实沪深300指数ETF（ASHR）收跌0.31%，XtrackersHarvest中证50（ASHS）收跌0.08%。",
+          "url": "https://wallstreetcn.com/livenews/3083703",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时23分 ~ 05时45分]"
         },
         {
           "title": "芭比大战AI偶像",
@@ -1192,7 +1350,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
         },
@@ -1206,17 +1364,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时09分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌0.94%，报6673.41点。 热门中概股里，文远知行初步收跌2.3%，阿里跌2.2%，小马智行跌2.1%，蔚来、拼多多、小鹏、小米跌超1%。 ETF中，中概互联网指数ETF（KWEB）收跌0.28%，中国科技指数ETF（CQQQ）收跌0.07%。 德银嘉实沪深300指数ETF（ASHR）收跌0.31%，XtrackersHarvest中证50（ASHS）收跌0.08%。",
-          "url": "https://wallstreetcn.com/livenews/3083703",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时23分"
         }
       ]
     },
@@ -1230,22 +1377,24 @@
           "source": "微博",
           "ranks": [
             24,
-            26
+            26,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时03分 ~ 05时23分]"
+          "appearance_count": 4,
+          "time_info": "[01时03分 ~ 05时45分]"
         },
         {
           "title": "外交部：两岸关系不是外交问题",
           "url": "https://www.toutiao.com/trending/7625253670493978678/",
           "source": "今日头条",
           "ranks": [
-            10
+            10,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时23分 ~ 05时45分]"
         },
         {
           "title": "外交部回应郑丽文访问大陆",
