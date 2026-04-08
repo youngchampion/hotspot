@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-08T15:27:10.300811+08:00",
-  "total_titles_processed": 1154,
+  "generated_at": "2026-04-08T17:43:58.020008+08:00",
+  "total_titles_processed": 1322,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 美债 美元 石油 战争",
-      "match_count": 101,
+      "match_count": 106,
       "titles": [
         {
           "title": "联合国警告特朗普：或涉战争罪",
@@ -44,6 +44,29 @@
           "time_info": "[01时03分 ~ 06时41分]"
         },
         {
+          "title": "美伊谈判现逆转信号，美股抹平跌幅，盘后又见TACO，美股指期货大涨，油价大跳水，金银跳涨",
+          "url": "https://wallstreetcn.com/articles/3769370",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时42分 ~ 17时43分]"
+        },
+        {
+          "title": "伊朗接受停火提议：已提交十点计划，敌人“遭受历史性和彻底失败”，与美国谈判不意味着结束战争",
+          "url": "https://wallstreetcn.com/articles/3769438",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时42分 ~ 17时43分]"
+        },
+        {
           "title": "国际石油价格还会继续上涨吗？",
           "url": "https://www.zhihu.com/question/2017599039630247665",
           "source": "知乎",
@@ -68,29 +91,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时03分 ~ 05时45分]"
-        },
-        {
-          "title": "美伊谈判现逆转信号，美股抹平跌幅，盘后又见TACO，美股指期货大涨，油价大跳水，金银跳涨",
-          "url": "https://wallstreetcn.com/articles/3769370",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时42分 ~ 15时27分]"
-        },
-        {
-          "title": "伊朗接受停火提议：已提交十点计划，敌人“遭受历史性和彻底失败”，与美国谈判不意味着结束战争",
-          "url": "https://wallstreetcn.com/articles/3769438",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时42分 ~ 15时27分]"
         },
         {
           "title": "联合国：美若袭伊民用设施或涉战争罪",
@@ -161,6 +161,17 @@
           "time_info": "[15时26分 ~ 15时27分]"
         },
         {
+          "title": "美国伊朗双方同意停火两周，将开启谈判，双方为何此时接受停火？彻底结束战争的可能性有多大？",
+          "url": "https://www.zhihu.com/question/2025108629058052769",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时42分 ~ 17时43分]"
+        },
+        {
           "title": "美以伊战争丨巴基斯坦总理提议：特朗普宽限2周",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -181,6 +192,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时14分"
+        },
+        {
+          "title": "美以伊战争丨伊朗拉万炼油厂发生爆炸",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
         },
         {
           "title": "IMF总裁格奥尔基耶娃：因伊朗战争，国际货币基金组织将下调全球经济增长预期。",
@@ -265,15 +287,15 @@
           "time_info": "07时41分"
         },
         {
-          "title": "美国伊朗双方同意停火两周，将开启谈判，双方为何此时接受停火？彻底结束战争的可能性有多大？",
-          "url": "https://www.zhihu.com/question/2025108629058052769",
-          "source": "知乎",
+          "title": "科威特军方表示，自当地时间上午8点起，防空部队一直在应对伊朗无人机袭击。已拦截部分无人机，其中一些针对南部的重要石油设施和电站，造成重大基础设施损坏。",
+          "url": "https://wallstreetcn.com/livenews/3084223",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            2
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时42分 ~ 15时27分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
         },
         {
           "title": "伊朗媒体称，伊朗提出的十点方案包括：在与伊朗武装部队协调下实现对霍尔木兹海峡的管控通行、停止针对伊朗及其盟友的战争、以及美军撤出所有地区基地。",
@@ -319,6 +341,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时42分 ~ 15时27分]"
+        },
+        {
+          "title": "报复性反弹！美伊“停火两周”，美股盘前存储芯片股普涨，金价重上4830关口，油价创近六年最大跌幅",
+          "url": "https://wallstreetcn.com/articles/3769443",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
         },
         {
           "title": "WTI原油日内暴跌15.00%，现报93.79美元/桶。",
@@ -670,6 +703,17 @@
           "time_info": "10时43分"
         },
         {
+          "title": "伊朗海峡收费站五年内或增收5000亿美元！分析师警告并非长久之计",
+          "url": "https://www.cls.cn/detail/2337823",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
+        },
+        {
           "title": "美国4月EIA当年布伦特原油均价预期 96美元/千立方英尺，前值78.84美元/千立方英尺。",
           "url": "https://flash.jin10.com/detail/20260408002709155800",
           "source": "金十数据",
@@ -720,7 +764,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时27分"
         },
@@ -775,7 +819,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时27分"
         },
@@ -1066,6 +1110,17 @@
           "time_info": "10时43分"
         },
         {
+          "title": "盛宝银行：石油即期供应数周内料仍受限",
+          "url": "https://flash.jin10.com/detail/20260408170119545800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
+        },
+        {
           "title": "美元指数刷新日低，报道称调停方巴基斯坦要求特朗普停火两周",
           "url": "https://wallstreetcn.com/livenews/3083698",
           "source": "华尔街见闻-快讯",
@@ -1138,7 +1193,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时27分"
         },
@@ -1157,7 +1212,7 @@
     },
     {
       "keyword_group": "特朗普 马斯克 加密货币 美联储",
-      "match_count": 89,
+      "match_count": 94,
       "titles": [
         {
           "title": "特朗普对伊朗发出最强威胁：若不达成协议 今晚整个文明将消亡",
@@ -1172,6 +1227,18 @@
           "time_info": "[01时03分 ~ 10时43分]"
         },
         {
+          "title": "以军空袭伊朗铁路和桥梁，伊朗最大产油岛遭美袭、民众人链保护电厂和桥，特朗普威胁“整个文明”消亡",
+          "url": "https://wallstreetcn.com/articles/3769398",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[05时45分 ~ 17时43分]"
+        },
+        {
           "title": "停火协议“希望渐灭”？美伊互下“最后通牒”：美以能源打击或已就绪，伊朗称特朗普“只剩20小时”！",
           "url": "https://wallstreetcn.com/articles/3769368",
           "source": "华尔街见闻",
@@ -1182,18 +1249,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[01时03分 ~ 13时14分]"
-        },
-        {
-          "title": "以军空袭伊朗铁路和桥梁，伊朗最大产油岛遭美袭、民众人链保护电厂和桥，特朗普威胁“整个文明”消亡",
-          "url": "https://wallstreetcn.com/articles/3769398",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[05时45分 ~ 15时27分]"
         },
         {
           "title": "特朗普威胁伊朗：整个文明将消亡",
@@ -1215,8 +1270,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时40分 ~ 15时27分]"
+          "appearance_count": 8,
+          "time_info": "[07时40分 ~ 17时43分]"
         },
         {
           "title": "特朗普威胁伊朗“最后期限”，中方表态",
@@ -1255,8 +1310,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时03分 ~ 15时27分]"
+          "appearance_count": 14,
+          "time_info": "[01时03分 ~ 17时43分]"
         },
         {
           "title": "内塔尼亚胡：特朗普对我们评价极高，如今的以色列史上最强",
@@ -1321,6 +1376,19 @@
           "time_info": "[07时40分 ~ 15时27分]"
         },
         {
+          "title": "距离“最后期限”不到一个半小时，特朗普同意与伊朗停火两周",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32921095",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时42分 ~ 17时43分]"
+        },
+        {
           "title": "以军空袭伊朗铁路和桥梁，伊朗最大产油岛哈尔克岛传出爆炸，特朗普称“整个文明将消亡”",
           "url": "https://wallstreetcn.com/articles/3769398",
           "source": "华尔街见闻",
@@ -1342,6 +1410,19 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[06时41分 ~ 15时27分]"
+        },
+        {
+          "title": "伊朗终止同美直接外交联系、仍通过调解人沟通，巴基斯坦提议宽限两周、特朗普将回应，报道称很快有好消息",
+          "url": "https://wallstreetcn.com/articles/3769420",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时40分 ~ 17时43分]"
         },
         {
           "title": "伊方：特朗普只有20个小时，要么屈服要么其盟友将退回石器时代",
@@ -1411,31 +1492,6 @@
           "time_info": "[01时03分 ~ 07时41分]"
         },
         {
-          "title": "伊朗终止同美直接外交联系、仍通过调解人沟通，巴基斯坦提议宽限两周、特朗普将回应，报道称很快有好消息",
-          "url": "https://wallstreetcn.com/articles/3769420",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时40分 ~ 15时27分]"
-        },
-        {
-          "title": "距离“最后期限”不到一个半小时，特朗普同意与伊朗停火两周",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32921095",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时42分 ~ 15时27分]"
-        },
-        {
           "title": "特朗普：伊朗可在一夜内被击溃，或许就是7日晚，美国摧毁只需四小时",
           "url": "https://wallstreetcn.com/articles/3769340",
           "source": "华尔街见闻",
@@ -1501,6 +1557,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时43分"
+        },
+        {
+          "title": "特朗普在什么情况下同意停火",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E4%BB%80%E4%B9%88%E6%83%85%E5%86%B5%E4%B8%8B%E5%90%8C%E6%84%8F%E5%81%9C%E7%81%AB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11,
+            17,
+            29,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时42分 ~ 17时43分]"
         },
         {
           "title": "伊朗方称伊朗拒绝「临时停火」，特朗普威胁伊朗整个文明将消亡，拒绝停火原因是什么？美以伊三方谁最拖不起？",
@@ -1594,19 +1664,6 @@
           "time_info": "[10时42分 ~ 15时27分]"
         },
         {
-          "title": "特朗普在什么情况下同意停火",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E4%BB%80%E4%B9%88%E6%83%85%E5%86%B5%E4%B8%8B%E5%90%8C%E6%84%8F%E5%81%9C%E7%81%AB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11,
-            17,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时42分 ~ 15时27分]"
-        },
-        {
           "title": "伊朗媒体：特朗普让步 同意停火两周",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%AA%92%E4%BD%93%EF%BC%9A%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%A9%E6%AD%A5+%E5%90%8C%E6%84%8F%E5%81%9C%E7%81%AB%E4%B8%A4%E5%91%A8",
           "source": "百度热搜",
@@ -1655,6 +1712,19 @@
           "time_info": "[06时41分 ~ 07时41分]"
         },
         {
+          "title": "一图看懂｜特朗普扬言“摧毁大桥和发电厂”，美以盯上伊朗经济根基",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32918306",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时14分 ~ 17时43分]"
+        },
+        {
           "title": "伊朗人这样做回应特朗普恐吓",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E4%BA%BA%E8%BF%99%E6%A0%B7%E5%81%9A%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%81%90%E5%90%93%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
@@ -1674,18 +1744,6 @@
           "source": "凤凰网",
           "ranks": [
             10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时14分 ~ 15时27分]"
-        },
-        {
-          "title": "一图看懂｜特朗普扬言“摧毁大桥和发电厂”，美以盯上伊朗经济根基",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32918306",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            12
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -1830,6 +1888,17 @@
           "time_info": "01时04分"
         },
         {
+          "title": "今夜2点！美联储会议纪要登场 紧盯“风险”与“通胀”",
+          "url": "https://flash.jin10.com/detail/20260408171055068800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
+        },
+        {
           "title": "挪威首相说特朗普针对伊朗的威胁言论令人担忧",
           "url": "https://wallstreetcn.com/livenews/3083632",
           "source": "华尔街见闻-快讯",
@@ -1839,6 +1908,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
+        },
+        {
+          "title": "特朗普遭“泼冷水”！EIA：即便霍尔木兹重开 燃油价格仍将继续上涨",
+          "url": "https://www.cls.cn/detail/2337287",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
+        },
+        {
+          "title": "尴尬！万斯演讲现场给特朗普打电话，手机那头传来：对不起…",
+          "url": "https://v.ifeng.com/c/8s9rZeXMBcT",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
         },
         {
           "title": "美联储副主席杰斐逊：美国劳动力市场大致平衡，易受不利冲击影响。",
@@ -1872,6 +1963,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时14分"
+        },
+        {
+          "title": "中方回应特朗普认为中国推动谈判",
+          "url": "https://www.toutiao.com/trending/7626292608628936219/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
+        },
+        {
+          "title": "美民主党议员酝酿弹劾特朗普",
+          "url": "https://news.ifeng.com/c/8s9mlA5A3V5",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
         },
         {
           "title": "美联储副主席杰斐逊：就业增长已放缓，但可能正在企稳。",
@@ -2196,7 +2309,7 @@
     },
     {
       "keyword_group": "外交部 商务部 证监会 央行",
-      "match_count": 31,
+      "match_count": 39,
       "titles": [
         {
           "title": "央行抛售引发金价地震",
@@ -2231,7 +2344,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时27分"
         },
@@ -2242,7 +2355,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时27分"
         },
@@ -2268,6 +2381,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时14分"
+        },
+        {
+          "title": "中国推动伊朗参与停火谈判？外交部回应",
+          "url": "https://www.cls.cn/detail/2337870",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
         },
         {
           "title": "埃及外交部声明：埃及外交部长与巴基斯坦外长就地区局势及协调双方共同致力于地区局势缓和进行讨论。",
@@ -2298,9 +2422,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时27分"
+        },
+        {
+          "title": "如何评价朝鲜发射弹道导弹？外交部：有关方对发射物界定不同",
+          "url": "https://news.ifeng.com/c/8s9qecoy0te",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
         },
         {
           "title": "印度央行行长：印度2027财年全年CPI通胀预期为4.6%，2027财年核心CPI预测值为4.4%。 2027财年第一季度CPI通胀预期维持在4%不变。 2027财年第二季度CPI通胀预期为4.4%，此前预期为4.2%。 2027财年第三季度CPI通胀预期为5.2%。 2027财年第四季度CPI通胀预期为4.7%。",
@@ -2312,6 +2447,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时14分"
+        },
+        {
+          "title": "财政部副部长廖岷出席东盟与中日韩财政和央行副手视频会议",
+          "url": "https://wallstreetcn.com/livenews/3084208",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
+        },
+        {
+          "title": "廖岷出席东盟与中日韩财政和央行副手视频会议",
+          "url": "https://flash.jin10.com/detail/20260408170707583800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
         },
         {
           "title": "印度至4月8日央行存款准备金率 3%，预期3%，前值3%。",
@@ -2347,6 +2504,17 @@
           "time_info": "13时14分"
         },
         {
+          "title": "外交部回应美伊停火",
+          "url": "https://www.toutiao.com/trending/7626292841127349770/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
+        },
+        {
           "title": "印度央行行长：霍尔木兹海峡局势导致能源和大宗商品价格上涨，很可能影响今年的经济增长。",
           "url": "https://flash.jin10.com/detail/20260408123930357800",
           "source": "金十数据",
@@ -2364,7 +2532,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时27分"
         },
@@ -2435,6 +2603,17 @@
           "time_info": "13时14分"
         },
         {
+          "title": "卡塔尔外交部：卡塔尔欢迎伊朗与美国宣布停火。 需确保海上安全与航行及贸易自由，遵循国际法，以保障全球供应链安全。",
+          "url": "https://wallstreetcn.com/livenews/3084195",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
+        },
+        {
           "title": "印度央行行长：由于能源价格上涨和天气扰乱，通胀前景的上行风险加剧。",
           "url": "https://flash.jin10.com/detail/20260408123432267800",
           "source": "金十数据",
@@ -2474,7 +2653,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时27分"
         },
@@ -2488,6 +2667,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时14分"
+        },
+        {
+          "title": "外交部：愿同朝方一道推动中朝传统友好合作关系不断向前发展",
+          "url": "https://wallstreetcn.com/livenews/3084187",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
         },
         {
           "title": "越南议会任命职业银行家Pham Duc An为新央行行长。",
@@ -2529,7 +2719,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时27分"
         },
@@ -2543,12 +2733,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时14分"
+        },
+        {
+          "title": "欧洲央行管委SIMKUS：形势正朝欧洲央行较不利的情景发展。",
+          "url": "https://wallstreetcn.com/livenews/3084183",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
         }
       ]
     },
     {
       "keyword_group": "黄金 白银 铜 铝 稀土",
-      "match_count": 29,
+      "match_count": 35,
       "titles": [
         {
           "title": "“调解人”巴基斯坦提出停火延期请求，美股抹平跌幅，油价跳水，黄金重回4700美元",
@@ -2606,6 +2807,17 @@
           "time_info": "[01时03分 ~ 07时41分]"
         },
         {
+          "title": "伦敦金银市场协会（LBMA）表示，自2026年4月8日（星期三）起，美泰乐贵金属香港有限公司被列入伦敦金银市场协会（LBMA）的白银合格交割名单。",
+          "url": "https://flash.jin10.com/detail/20260408171431693800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
+        },
+        {
           "title": "多国央行开始卖黄金了",
           "url": "https://search.bilibili.com/all?keyword=%E5%A4%9A%E5%9B%BD%E5%A4%AE%E8%A1%8C%E5%BC%80%E5%A7%8B%E5%8D%96%E9%BB%84%E9%87%91%E4%BA%86",
           "source": "bilibili 热搜",
@@ -2661,6 +2873,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时42分 ~ 15时27分]"
+        },
+        {
+          "title": "山东黄金：控股股东增持股份计划完成，累计增持金额5.10亿元",
+          "url": "https://flash.jin10.com/detail/20260408171302890800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
         },
         {
           "title": "现货黄金涨1.3%",
@@ -2771,6 +2994,17 @@
           "time_info": "[10时42分 ~ 10时43分]"
         },
         {
+          "title": "美贸易代表尴尬一笑：访华时不谈稀土就好了",
+          "url": "https://news.ifeng.com/c/8s9pjvnJ8gm",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
+        },
+        {
           "title": "现货白银日内涨幅达5.0%，报76.69美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3083768",
           "source": "华尔街见闻-快讯",
@@ -2810,7 +3044,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时27分"
         },
@@ -2824,6 +3058,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时41分"
+        },
+        {
+          "title": "国投白银LOF：将于2026年4月9日开市起至当日10:30停牌，自2026年4月9日10:30复牌，停牌期间本基金赎回业务照常办理。",
+          "url": "https://flash.jin10.com/detail/20260408170345995800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
         },
         {
           "title": "现货黄金日内暴涨100.08美元，现报4806.49美元/盎司，涨幅2.13%。",
@@ -2870,6 +3115,17 @@
           "time_info": "10时43分"
         },
         {
+          "title": "金十图示：2026年04月08日（周三）上海黄金交易所市场行情",
+          "url": "https://flash.jin10.com/detail/20260408170133892800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
+        },
+        {
           "title": "LME期铜跌0.20%，报12324美元/吨。 LME期铝跌0.06%，报3463.50美元/吨。 LME期锌涨1.50%，报3305.50美元/吨。 LME期铅涨0.13%，报1937美元/吨。 LME期镍跌0.76%，报16970美元/吨。 LME期锡跌0.67%，报46140美元/吨。",
           "url": "https://wallstreetcn.com/livenews/3083650",
           "source": "华尔街见闻-快讯",
@@ -2879,6 +3135,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时09分"
+        },
+        {
+          "title": "中方回应会否恢复对美稀土出口限制",
+          "url": "https://www.toutiao.com/trending/7625618074730119178/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
         },
         {
           "title": "国际铜夜盘收跌0.88%，沪铜收跌0.86%，沪铝收跌0.43%，沪锌收涨0.78%，沪铅收涨0.21%，沪镍收跌1.41%，沪锡收跌0.08%。 氧化铝夜盘收跌0.96%，铝合金收跌0.13%。 不锈钢夜盘收跌0.46%。",
@@ -2895,7 +3162,7 @@
     },
     {
       "keyword_group": "DeepSeek AI openai 机器人 小米 特斯拉 英伟达",
-      "match_count": 20,
+      "match_count": 25,
       "titles": [
         {
           "title": "小米遭知名私募怒怼，市值再跌 280 多亿，资本在担心什么？你对小米的未来怎么看？",
@@ -2918,11 +3185,12 @@
             7,
             8,
             18,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时03分 ~ 15时27分]"
+          "appearance_count": 14,
+          "time_info": "[01时03分 ~ 17时43分]"
         },
         {
           "title": "大魔王迎战硬刚马斯克AI",
@@ -2932,22 +3200,12 @@
             13,
             14,
             23,
-            26
+            26,
+            29
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时03分 ~ 15时27分]"
-        },
-        {
-          "title": "DeepSeek更新专家模式",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%9B%B4%E6%96%B0%E4%B8%93%E5%AE%B6%E6%A8%A1%E5%BC%8F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时14分 ~ 15时27分]"
+          "appearance_count": 14,
+          "time_info": "[01时03分 ~ 17时43分]"
         },
         {
           "title": "DeepSeek 更新「快速模式」和「专家模式」，二者有何区别？这是否意味着 V4 快来了？",
@@ -2959,8 +3217,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时42分 ~ 15时27分]"
+          "appearance_count": 6,
+          "time_info": "[10时42分 ~ 17时43分]"
+        },
+        {
+          "title": "DeepSeek更新专家模式",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%9B%B4%E6%96%B0%E4%B8%93%E5%AE%B6%E6%A8%A1%E5%BC%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时14分 ~ 15时27分]"
         },
         {
           "title": "擦窗机器人销量迎来爆发式增长",
@@ -2990,11 +3259,12 @@
           "source": "知乎",
           "ranks": [
             5,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时14分 ~ 15时27分]"
+          "appearance_count": 4,
+          "time_info": "[13时14分 ~ 17时43分]"
         },
         {
           "title": "AI产业链迎来预增潮！算力、存力、运力环节集体交出亮眼业绩",
@@ -3067,6 +3337,28 @@
           "time_info": "[15时26分 ~ 15时27分]"
         },
         {
+          "title": "员工离职变AI,上班不能停",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352945&amp;topic_name=%E5%91%98%E5%B7%A5%E7%A6%BB%E8%81%8C%E5%8F%98AI%2C%E4%B8%8A%E7%8F%AD%E4%B8%8D%E8%83%BD%E5%81%9C",
+          "source": "贴吧",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
+        },
+        {
+          "title": "美国 AI 三巨头围剿模型蒸馏，对全球主要大模型公司将产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2025148296822351316",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
+        },
+        {
           "title": "美团李树斌：当AI生成内容越来越多，大众点评上的“真人真评价”就更有价值",
           "url": "https://wallstreetcn.com/livenews/3083987",
           "source": "华尔街见闻-快讯",
@@ -3131,6 +3423,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时43分"
+        },
+        {
+          "title": "少儿编程班称「四岁学编程，赢在 AI 起跑线」收费上万，上课用 scratch 搭积木，这种课程靠谱吗？",
+          "url": "https://www.zhihu.com/question/2024823845052269102",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
+        },
+        {
+          "title": "AI开始接管代码 计算机专业如何变革",
+          "url": "https://www.baidu.com/s?wd=AI%E5%BC%80%E5%A7%8B%E6%8E%A5%E7%AE%A1%E4%BB%A3%E7%A0%81+%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A%E5%A6%82%E4%BD%95%E5%8F%98%E9%9D%A9",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
+        },
+        {
+          "title": "小米官宣6款充电宝新品",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E5%AE%98%E5%AE%A36%E6%AC%BE%E5%85%85%E7%94%B5%E5%AE%9D%E6%96%B0%E5%93%81%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
         }
       ]
     }
