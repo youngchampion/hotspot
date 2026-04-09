@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-09T13:13:08.519238+08:00",
-  "total_titles_processed": 1046,
+  "generated_at": "2026-04-09T15:28:33.020404+08:00",
+  "total_titles_processed": 1184,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 美债 美元 石油 战争",
-      "match_count": 88,
+      "match_count": 98,
       "titles": [
         {
           "title": "伊朗接受停火提议：已提交十点计划，敌人“遭受历史性和彻底失败”，与美国谈判不意味着结束战争",
@@ -56,6 +56,30 @@
           "time_info": "[01时07分 ~ 08时04分]"
         },
         {
+          "title": "美股收盘：三大指数均涨超2% 芯片股全线爆发、能源巨头重挫",
+          "url": "https://www.cls.cn/detail/2338535",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[06时42分 ~ 15时28分]"
+        },
+        {
+          "title": "美伊停火提振全球市场，美股指大涨2%，半导体指数新高，油价创疫情来最大日跌幅",
+          "url": "https://wallstreetcn.com/articles/3769443",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时03分 ~ 15时28分]"
+        },
+        {
           "title": "法国、德国、英国等多国发表联合声明：欢迎美伊停火，敦促迅速持久地结束战争",
           "url": "https://www.cls.cn/detail/2338329",
           "source": "财联社热门",
@@ -67,30 +91,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[01时07分 ~ 08时04分]"
-        },
-        {
-          "title": "美股收盘：三大指数均涨超2% 芯片股全线爆发、能源巨头重挫",
-          "url": "https://www.cls.cn/detail/2338535",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时42分 ~ 13时13分]"
-        },
-        {
-          "title": "美伊停火提振全球市场，美股指大涨2%，半导体指数新高，油价创疫情来最大日跌幅",
-          "url": "https://wallstreetcn.com/articles/3769443",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时03分 ~ 13时13分]"
         },
         {
           "title": "伊朗战争丨美伊首轮会谈时间和美方代表敲定",
@@ -160,8 +160,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时42分 ~ 13时13分]"
+          "appearance_count": 8,
+          "time_info": "[06时42分 ~ 15时28分]"
         },
         {
           "title": "伊朗战争丨伊朗武装部队宣布对美以战事取得胜利",
@@ -208,6 +208,17 @@
           "time_info": "10时37分"
         },
         {
+          "title": "伊朗战争丨伊朗军方：击落敌方一架先进战斗机",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
+        },
+        {
           "title": "港股光通信板块持续走强，汇聚科技(01729.HK)涨超8%，长飞光纤光缆(06869.HK)涨超5%，剑桥科技(06166.HK)、华虹半导体(01347.HK)等跟涨。",
           "url": "https://flash.jin10.com/detail/20260409102621732800",
           "source": "金十数据",
@@ -225,7 +236,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
         },
@@ -236,7 +247,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
         },
@@ -258,9 +269,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
+        },
+        {
+          "title": "美国就伊朗战争问题是否与中国举行了高层会谈？外交部回应",
+          "url": "https://wallstreetcn.com/livenews/3084877",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
         },
         {
           "title": "在美股时段交易的费城金银指数收涨3.28%，报399.65点。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数涨4.03%，报2713.10点。 在美股时段交易的原材料指数收涨3.30%，金属与矿业指数收涨4.68%。",
@@ -304,11 +326,12 @@
           "source": "抖音",
           "ranks": [
             10,
-            19
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时37分 ~ 13时13分]"
+          "appearance_count": 4,
+          "time_info": "[10时37分 ~ 15时28分]"
         },
         {
           "title": "美媒披露特朗普发动伊朗战争内幕：“全凭直觉”，除万斯外无人反对",
@@ -319,8 +342,20 @@
             13
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时37分 ~ 15时28分]"
+        },
+        {
+          "title": "《哪吒2》票房离第3还有不到0.7亿美元",
+          "url": "https://www.baidu.com/s?wd=%E3%80%8A%E5%93%AA%E5%90%922%E3%80%8B%E7%A5%A8%E6%88%BF%E7%A6%BB%E7%AC%AC3%E8%BF%98%E6%9C%89%E4%B8%8D%E5%88%B00.7%E4%BA%BF%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            8,
+            23
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时37分 ~ 13时13分]"
+          "time_info": "[13时12分 ~ 15时28分]"
         },
         {
           "title": "三个新创建账户通过押注4月7日前达成停火并在高点抛售头寸，获利超过48万美元",
@@ -333,17 +368,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时50分 ~ 05时44分]"
-        },
-        {
-          "title": "《哪吒2》票房离第3还有不到0.7亿美元",
-          "url": "https://www.baidu.com/s?wd=%E3%80%8A%E5%93%AA%E5%90%922%E3%80%8B%E7%A5%A8%E6%88%BF%E7%A6%BB%E7%AC%AC3%E8%BF%98%E6%9C%89%E4%B8%8D%E5%88%B00.7%E4%BA%BF%E7%BE%8E%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时12分 ~ 13时13分]"
         },
         {
           "title": "白宫顾问哈塞特：石油价格飙涨可能会对美国CPI通胀报告造成一次性的影响。",
@@ -488,9 +512,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
+        },
+        {
+          "title": "港股绿茶集团(06831.HK)盘中跌超10%，公司早间公告，主要股东PartnersGroupGourmetHouseLimited计划清仓式减持约15.96%公司股份，不再持有任何股份，并将不再为公司股东。",
+          "url": "https://flash.jin10.com/detail/20260409150201384800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
         },
         {
           "title": "周四亚太盘初，WTI原油日内涨幅达2.5%，报96.85美元/桶。 纽约金日内跌幅达0.5%，报4746.8美元/盎司。 三大股指期货至多跌0.1%。",
@@ -502,6 +537,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时43分"
+        },
+        {
+          "title": "Pimco据悉拟出售用于建设甲骨文数据中心的部分美债",
+          "url": "https://wallstreetcn.com/livenews/3084872",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
         },
         {
           "title": "EIA年度能源展望报告：预计布伦特原油价格到2030年将低于每桶70美元，到2030年代末则将高于75美元。",
@@ -576,7 +622,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
         },
@@ -598,9 +644,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
+        },
+        {
+          "title": "伊朗要求以加密货币支付霍尔木兹海峡通行费，每桶原油 1 美元，对航运成本有多大影响？为何要用加密货币？",
+          "url": "https://www.zhihu.com/question/2025530652930435004",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
         },
         {
           "title": "委内瑞拉代总统罗德里格斯：当务之急是通过石油和矿业的发展来提高工人工资。",
@@ -664,7 +721,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
         },
@@ -697,7 +754,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
         },
@@ -790,6 +847,17 @@
           "time_info": "08时04分"
         },
         {
+          "title": "美元指数维持稳定 本次停火可能只是冲突中的一次暂停",
+          "url": "https://flash.jin10.com/detail/20260409145433425800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
+        },
+        {
           "title": "委内瑞拉加大美元出售以遏制汇率贬值",
           "url": "https://flash.jin10.com/detail/20260409002630020800",
           "source": "金十数据",
@@ -840,7 +908,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
         },
@@ -887,6 +955,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时44分"
+        },
+        {
+          "title": "美伊停火以色列狂飙：多线建“缓冲区”，战略转向半永久战争",
+          "url": "https://flash.jin10.com/detail/20260409144917135800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
         },
         {
           "title": "周三（4月8日）纽约尾盘，ICE原糖期货跌2.19%，ICE白糖期货跌1.18%。 ICE阿拉比卡咖啡期货涨2.53%，咖啡“C”期货涨2.54%。罗布斯塔咖啡期货涨0.59%。 纽约可可期货涨4.92%，报3177美元/吨。伦敦可可期货涨2.92%。 芝加哥WCE双低油菜籽期货跌1.95%。 ICE棉花期货涨0.34%。",
@@ -955,6 +1034,17 @@
           "time_info": "10时37分"
         },
         {
+          "title": "Jefferies将Coinbase目标价从151美元上调至181美元。",
+          "url": "https://wallstreetcn.com/livenews/3084850",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
+        },
+        {
           "title": "新兴市场ETF收涨约5.5%，领跑美股大类资产类ETF，布油基金跌约10.3%",
           "url": "https://wallstreetcn.com/livenews/3084629",
           "source": "华尔街见闻-快讯",
@@ -997,12 +1087,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
+        },
+        {
+          "title": "法国经济部：将要求石油产品经销商在降价时与提价时一样迅速。",
+          "url": "https://flash.jin10.com/detail/20260409143943716800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
+        },
+        {
+          "title": "高盛：如果霍尔木兹海峡再关闭一个月 布伦特原油均价料超过100美元",
+          "url": "https://wallstreetcn.com/livenews/3084844",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
         }
       ]
     },
     {
       "keyword_group": "特朗普 马斯克 加密货币 美联储",
-      "match_count": 65,
+      "match_count": 69,
       "titles": [
         {
           "title": "特朗普威胁对向伊朗供武国家加税",
@@ -1079,11 +1191,12 @@
           "ranks": [
             9,
             8,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时07分 ~ 13时13分]"
+          "appearance_count": 15,
+          "time_info": "[01时07分 ~ 15时28分]"
         },
         {
           "title": "美伊停火的关键斡旋者：与特朗普私交甚好的巴基斯坦陆军元帅",
@@ -1121,6 +1234,30 @@
           "time_info": "[01时07分 ~ 13时13分]"
         },
         {
+          "title": "以色列袭击黎巴嫩后霍尔木兹海峡再关闭，伊朗据称将收“过路费”且限量放行，白宫称特朗普反对收费",
+          "url": "https://wallstreetcn.com/articles/3769517",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时03分 ~ 15时28分]"
+        },
+        {
+          "title": "“北约盟友没帮忙，特朗普打算这样惩罚”",
+          "url": "https://news.ifeng.com/c/8sB098ZojvN",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时12分 ~ 15时28分]"
+        },
+        {
           "title": "伊朗终止同美直接外交联系、仍通过调解人沟通，巴基斯坦提议宽限两周、特朗普将回应，报道称很快有好消息",
           "url": "https://wallstreetcn.com/articles/3769420",
           "source": "华尔街见闻",
@@ -1132,38 +1269,27 @@
           "time_info": "[01时07分 ~ 05时44分]"
         },
         {
-          "title": "以色列袭击黎巴嫩后霍尔木兹海峡再关闭，伊朗据称将收“过路费”且限量放行，白宫称特朗普反对收费",
-          "url": "https://wallstreetcn.com/articles/3769517",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时03分 ~ 13时13分]"
-        },
-        {
-          "title": "“北约盟友没帮忙，特朗普打算这样惩罚”",
-          "url": "https://news.ifeng.com/c/8sB098ZojvN",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时12分 ~ 13时13分]"
-        },
-        {
           "title": "特朗普说美媒披露的10项停战条款是“假新闻”",
           "url": "https://news.ifeng.com/c/8sBBnRWw3el",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时12分 ~ 13时13分]"
+          "appearance_count": 3,
+          "time_info": "[13时12分 ~ 15时28分]"
+        },
+        {
+          "title": "特朗普：若谈判不顺，美国能轻易恢复对伊军事行动，万斯：\"脆弱休战\"基础初步形成",
+          "url": "https://wallstreetcn.com/articles/3769486",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时03分 ~ 15时28分]"
         },
         {
           "title": "美国总统特朗普：北约在我们需要他们的时候不在，如果我们再次需要他们，他们也不会在。",
@@ -1177,26 +1303,63 @@
           "time_info": "08时04分"
         },
         {
+          "title": "停火首日即遇变数：特朗普“反复横跳”，不承认伊朗“10点计划”做基础",
+          "url": "https://wallstreetcn.com/articles/3769534",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时12分 ~ 15时28分]"
+        },
+        {
           "title": "特朗普：美军驻留伊朗，违约就“开火”，规模将前所未有",
           "url": "https://flash.jin10.com/detail/20260409130825168800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
         },
         {
-          "title": "特朗普：若谈判不顺，美国能轻易恢复对伊军事行动，万斯：\"脆弱休战\"基础初步形成",
-          "url": "https://wallstreetcn.com/articles/3769486",
-          "source": "华尔街见闻",
+          "title": "特朗普：美媒披露的伊方10项停火条款是“假新闻”",
+          "url": "https://www.cls.cn/detail/2338839",
+          "source": "财联社热门",
           "ranks": [
-            9
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时03分 ~ 13时13分]"
+          "appearance_count": 3,
+          "time_info": "[13时12分 ~ 15时28分]"
+        },
+        {
+          "title": "美联储会议纪要",
+          "url": "https://www.douyin.com/hot/2460059",
+          "source": "抖音",
+          "ranks": [
+            13,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时12分 ~ 15时28分]"
+        },
+        {
+          "title": "美联储会议纪要：中东战事放大双向风险 加息与降息同时上桌",
+          "url": "https://www.cls.cn/detail/2338542",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时37分 ~ 15时28分]"
         },
         {
           "title": "“美联储传声筒”：无论停火与否，美联储降息希望都已“暗淡”",
@@ -1247,15 +1410,26 @@
           "time_info": "[06时43分 ~ 08时04分]"
         },
         {
-          "title": "美联储会议纪要：中东战事放大双向风险 加息与降息同时上桌",
-          "url": "https://www.cls.cn/detail/2338542",
-          "source": "财联社热门",
+          "title": "吹嘘伊朗乞求停火，美防长被打脸：是特朗普先退了",
+          "url": "https://news.ifeng.com/c/8sALx5qaI3W",
+          "source": "凤凰网",
           "ranks": [
-            6
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时37分 ~ 13时13分]"
+          "appearance_count": 4,
+          "time_info": "[10时37分 ~ 15时28分]"
+        },
+        {
+          "title": "特朗普：提议美伊联管霍尔木兹海峡，威胁向伊朗供武国家征收50%关税",
+          "url": "https://wallstreetcn.com/articles/3769503",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时37分 ~ 15时28分]"
         },
         {
           "title": "从惊魂到TACO--特朗普震惊世界的12小时",
@@ -1267,61 +1441,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时03分 ~ 10时37分]"
-        },
-        {
-          "title": "吹嘘伊朗乞求停火，美防长被打脸：是特朗普先退了",
-          "url": "https://news.ifeng.com/c/8sALx5qaI3W",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时37分 ~ 13时13分]"
-        },
-        {
-          "title": "特朗普：提议美伊联管霍尔木兹海峡，威胁向伊朗供武国家征收50%关税",
-          "url": "https://wallstreetcn.com/articles/3769503",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时37分 ~ 13时13分]"
-        },
-        {
-          "title": "停火首日即遇变数：特朗普“反复横跳”，不承认伊朗“10点计划”做基础",
-          "url": "https://wallstreetcn.com/articles/3769534",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时12分 ~ 13时13分]"
-        },
-        {
-          "title": "特朗普：美媒披露的伊方10项停火条款是“假新闻”",
-          "url": "https://www.cls.cn/detail/2338839",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时12分 ~ 13时13分]"
-        },
-        {
-          "title": "美联储会议纪要",
-          "url": "https://www.douyin.com/hot/2460059",
-          "source": "抖音",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时12分 ~ 13时13分]"
         },
         {
           "title": "美国总统特朗普考虑惩罚特定的北约成员国。 特朗普的打算还处于早期阶段。 白宫在惩罚北约方面有好几个计划。 美国可能会（在北约）关闭至少一个军事基地，可能是在西班牙的、也可能是在德国的。（华尔街日报）",
@@ -1345,6 +1464,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时12分 ~ 13时13分]"
+        },
+        {
+          "title": "特朗普：所有美国舰船、飞机和军事人员将继续留在伊朗周围",
+          "url": "https://news.ifeng.com/c/8sBFKpB7gj3",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
         },
         {
           "title": "北约秘书长吕特与特朗普的会晤结束。",
@@ -1378,6 +1508,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
+        },
+        {
+          "title": "脆弱的停火：以色列依旧“搅屎棍”，特朗普还是“来回变”",
+          "url": "https://wallstreetcn.com/articles/3769537",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
+        },
+        {
+          "title": "特朗普连线绕月飞船讲话后冷场1分钟",
+          "url": "https://www.toutiao.com/trending/7625901214111727657/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
         },
         {
           "title": "美媒：特朗普考虑部分撤出在北约盟国的美军",
@@ -1507,7 +1659,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
         },
@@ -1521,6 +1673,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时44分"
+        },
+        {
+          "title": "特朗普：美媒披露的伊方10项停火条款是“假新闻”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32932623",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
         },
         {
           "title": "美国共和党参议员格雷厄姆：特朗普总统明白过去的领导人所忽视的，即伊朗绝不能拥有核武器。",
@@ -1617,7 +1780,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
         },
@@ -1661,7 +1824,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
         },
@@ -1735,7 +1898,7 @@
     },
     {
       "keyword_group": "DeepSeek AI openai 机器人 小米 特斯拉 英伟达",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "员工离职变AI,上班不能停",
@@ -1744,11 +1907,12 @@
           "ranks": [
             9,
             10,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时07分 ~ 13时13分]"
+          "appearance_count": 15,
+          "time_info": "[01时07分 ~ 15时28分]"
         },
         {
           "title": "AI染指鬼灭,日网友气急跳脚",
@@ -1779,7 +1943,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
         },
@@ -1829,6 +1993,18 @@
           "time_info": "[10时37分 ~ 13时13分]"
         },
         {
+          "title": "假作真时真亦假：美以伊战事陷入AI信息迷雾",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32926200",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时12分 ~ 15时28分]"
+        },
+        {
           "title": "万斯称十点提案有多个版本 有些像是AI写的",
           "url": "https://flash.jin10.com/detail/20260409042844092800",
           "source": "金十数据",
@@ -1839,17 +2015,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时50分 ~ 05时44分]"
-        },
-        {
-          "title": "假作真时真亦假：美以伊战事陷入AI信息迷雾",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32926200",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时12分 ~ 13时13分]"
         },
         {
           "title": "周三（4月8日），彭博电动汽车价格回报指数涨3.79%，报3742.59点，亚太盘初以来持续走高，北京时间21:30美股开盘时跳空至3762.34点刷新日高，随后持续高位窄幅震荡。 成分股中，小马智行涨10.2%，MP材料涨9.4%，淡水河谷印尼公司收涨8.30%，地平线H股收涨8.30%，阿内卡矿业股份收涨7.78%，禾赛科技涨7.5%，沃尔沃汽车集团欧股收涨7.5%，四只成分股收跌，L&F有限公司韩国股价收跌0.49%，LG新能源收跌0.61%，特斯拉跌超1%，雅迪集团控股H股收跌4.52%。",
@@ -1882,7 +2047,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
         },
@@ -1926,7 +2091,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
         },
@@ -1964,6 +2129,17 @@
           "time_info": "10时37分"
         },
         {
+          "title": "如何看待 Faker 称「非常期待与 AI 对战，我认为人类所拥有的直觉力是 AI 无法完全追赶的」？",
+          "url": "https://www.zhihu.com/question/2025281071332290932",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
+        },
+        {
           "title": "速腾聚创Q1销量增长204.1%，机器人业务占比首超车载",
           "url": "https://wallstreetcn.com/livenews/3084685",
           "source": "华尔街见闻-快讯",
@@ -1981,7 +2157,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
         },
@@ -2025,15 +2201,279 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
         }
       ]
     },
     {
+      "keyword_group": "外交部 商务部 证监会 央行",
+      "match_count": 23,
+      "titles": [
+        {
+          "title": "外交部回应朝鲜发射弹道导弹",
+          "url": "https://www.toutiao.com/trending/7626196538947305526/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            2,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时07分 ~ 06时43分]"
+        },
+        {
+          "title": "外交部：中方将继续为缓和局势、平息战火作出努力",
+          "url": "https://wallstreetcn.com/livenews/3084880",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
+        },
+        {
+          "title": "埃及外交部：以色列对黎巴嫩的袭击是企图再次将该地区拖入“全面混乱”的新尝试。",
+          "url": "https://flash.jin10.com/detail/20260409004809271800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时08分"
+        },
+        {
+          "title": "关税战没有赢家！外交部回应特朗普关税言论",
+          "url": "https://wallstreetcn.com/livenews/3084878",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
+        },
+        {
+          "title": "埃及外交部：以色列在伊朗与美国达成停火协议后的周三对黎巴嫩发动袭击，反映出以色列蓄意破坏地区和国际社会为缓和局势所作努力的“预谋意图”。",
+          "url": "https://flash.jin10.com/detail/20260409004745933800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时08分"
+        },
+        {
+          "title": "伊朗议长称停火条款遭破坏，外交部表态",
+          "url": "https://wallstreetcn.com/livenews/3084874",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
+        },
+        {
+          "title": "伊朗外交部指责美国“提前背弃”协议条款",
+          "url": "https://flash.jin10.com/detail/20260409043749381800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时50分 ~ 05时44分]"
+        },
+        {
+          "title": "日本央行前官员：日本央行可能在4月份加息",
+          "url": "https://flash.jin10.com/detail/20260409053445582800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时44分 ~ 06时43分]"
+        },
+        {
+          "title": "外交部回应特朗普认为是中国促使伊朗同意停火，「中方一直积极致力于促和止战」，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2025238372327723742",
+          "source": "知乎",
+          "ranks": [
+            11,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时12分 ~ 15时28分]"
+        },
+        {
+          "title": "外交部回应美伊停火",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%BE%8E%E4%BC%8A%E5%81%9C%E7%81%AB",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时07分 ~ 01时08分]"
+        },
+        {
+          "title": "外交部回应美伊停火",
+          "url": "https://www.toutiao.com/trending/7626292841127349770/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时21分 ~ 03时22分]"
+        },
+        {
+          "title": "外交部：黎巴嫩的主权和安全不应受到侵犯",
+          "url": "https://wallstreetcn.com/livenews/3084873",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
+        },
+        {
+          "title": "日本央行行长植田和男：日本企业的净资产收益率（ROE）正处于恢复趋势。 短期和中期实际利率显然处于负值。 宽松的金融环境得以维持，带动了资本支出的温和增长。",
+          "url": "https://wallstreetcn.com/livenews/3084776",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时13分"
+        },
+        {
+          "title": "美国考虑解除对委内瑞拉央行的制裁",
+          "url": "https://flash.jin10.com/detail/20260409060747676800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时43分"
+        },
+        {
+          "title": "前日本央行官员：日本央行很可能在4月提高利率",
+          "url": "https://wallstreetcn.com/livenews/3084590",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时43分"
+        },
+        {
+          "title": "伊朗外交部长：伊朗与沙特外交部长通电话，就双边关系及地区局势发展交换意见。",
+          "url": "https://flash.jin10.com/detail/20260409024104791800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
+          "title": "日本央行行长植田和男：宽松的金融状况得以维持，带动企业设备投资温和增长。",
+          "url": "https://flash.jin10.com/detail/20260409124124128800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时13分"
+        },
+        {
+          "title": "日本央行行长植田和男：短期和中期利率明显为负。",
+          "url": "https://flash.jin10.com/detail/20260409124120632800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时13分"
+        },
+        {
+          "title": "中国央行公开市场开展5亿元7天期逆回购操作，操作利率持平于1.40%，今日5亿元逆回购到期。",
+          "url": "https://wallstreetcn.com/livenews/3084679",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时37分"
+        },
+        {
+          "title": "日本央行行长植田和男：日本企业的净资产收益率（ROE）正处于恢复趋势。",
+          "url": "https://flash.jin10.com/detail/20260409123933293800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时13分"
+        },
+        {
+          "title": "法国外交部长：匈牙利与俄罗斯在欧盟峰会期间的会谈背叛了欧盟团结。",
+          "url": "https://flash.jin10.com/detail/20260409144829880800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
+        },
+        {
+          "title": "泰国央行行长：将尽可能避免加息 以支持经济",
+          "url": "https://flash.jin10.com/detail/20260409144711540800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
+        },
+        {
+          "title": "泰国外交部确认海峡遇袭船员遇难",
+          "url": "https://flash.jin10.com/detail/20260409094724447800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时37分"
+        }
+      ]
+    },
+    {
       "keyword_group": "黄金 白银 铜 铝 稀土",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "黄金涨跌逻辑变了",
@@ -2055,7 +2495,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
         },
@@ -2077,7 +2517,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
         },
@@ -2100,7 +2540,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
         },
@@ -2114,6 +2554,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时43分"
+        },
+        {
+          "title": "挂单报告：国际现货黄金震荡企稳 美日下方多单较远",
+          "url": "https://flash.jin10.com/detail/20260409150121970800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
         },
         {
           "title": "国际金融公司（IFC）与第一量子矿业签署协议，推进阿根廷铜矿项目的可持续发展。 该合作伙伴关系将帮助第一量子矿业为这一耗资52.5亿美元的项目确保债务融资。",
@@ -2136,6 +2587,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时43分"
+        },
+        {
+          "title": "商务部回应稀土出口管制：中美将通过经贸磋商机制保持沟通",
+          "url": "https://wallstreetcn.com/livenews/3084861",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
         },
         {
           "title": "A股铜缆高速连接概念拉升，航天电器涨停，陕西华达、中富电路、凯旺科技、胜蓝股份等涨幅居前。",
@@ -2220,203 +2682,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时37分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "外交部 商务部 证监会 央行",
-      "match_count": 17,
-      "titles": [
-        {
-          "title": "外交部回应朝鲜发射弹道导弹",
-          "url": "https://www.toutiao.com/trending/7626196538947305526/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            2,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时07分 ~ 06时43分]"
-        },
-        {
-          "title": "埃及外交部：以色列对黎巴嫩的袭击是企图再次将该地区拖入“全面混乱”的新尝试。",
-          "url": "https://flash.jin10.com/detail/20260409004809271800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时08分"
-        },
-        {
-          "title": "埃及外交部：以色列在伊朗与美国达成停火协议后的周三对黎巴嫩发动袭击，反映出以色列蓄意破坏地区和国际社会为缓和局势所作努力的“预谋意图”。",
-          "url": "https://flash.jin10.com/detail/20260409004745933800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时08分"
-        },
-        {
-          "title": "伊朗外交部指责美国“提前背弃”协议条款",
-          "url": "https://flash.jin10.com/detail/20260409043749381800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时50分 ~ 05时44分]"
-        },
-        {
-          "title": "日本央行前官员：日本央行可能在4月份加息",
-          "url": "https://flash.jin10.com/detail/20260409053445582800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时44分 ~ 06时43分]"
-        },
-        {
-          "title": "外交部回应美伊停火",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%BE%8E%E4%BC%8A%E5%81%9C%E7%81%AB",
-          "source": "百度热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时07分 ~ 01时08分]"
-        },
-        {
-          "title": "外交部回应特朗普认为是中国促使伊朗同意停火，「中方一直积极致力于促和止战」，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2025238372327723742",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时12分 ~ 13时13分]"
-        },
-        {
-          "title": "外交部回应美伊停火",
-          "url": "https://www.toutiao.com/trending/7626292841127349770/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时21分 ~ 03时22分]"
-        },
-        {
-          "title": "日本央行行长植田和男：日本企业的净资产收益率（ROE）正处于恢复趋势。 短期和中期实际利率显然处于负值。 宽松的金融环境得以维持，带动了资本支出的温和增长。",
-          "url": "https://wallstreetcn.com/livenews/3084776",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时13分"
-        },
-        {
-          "title": "美国考虑解除对委内瑞拉央行的制裁",
-          "url": "https://flash.jin10.com/detail/20260409060747676800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时43分"
-        },
-        {
-          "title": "前日本央行官员：日本央行很可能在4月提高利率",
-          "url": "https://wallstreetcn.com/livenews/3084590",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时43分"
-        },
-        {
-          "title": "伊朗外交部长：伊朗与沙特外交部长通电话，就双边关系及地区局势发展交换意见。",
-          "url": "https://flash.jin10.com/detail/20260409024104791800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时22分"
-        },
-        {
-          "title": "日本央行行长植田和男：宽松的金融状况得以维持，带动企业设备投资温和增长。",
-          "url": "https://flash.jin10.com/detail/20260409124124128800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时13分"
-        },
-        {
-          "title": "日本央行行长植田和男：短期和中期利率明显为负。",
-          "url": "https://flash.jin10.com/detail/20260409124120632800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时13分"
-        },
-        {
-          "title": "中国央行公开市场开展5亿元7天期逆回购操作，操作利率持平于1.40%，今日5亿元逆回购到期。",
-          "url": "https://wallstreetcn.com/livenews/3084679",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时37分"
-        },
-        {
-          "title": "日本央行行长植田和男：日本企业的净资产收益率（ROE）正处于恢复趋势。",
-          "url": "https://flash.jin10.com/detail/20260409123933293800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时13分"
-        },
-        {
-          "title": "泰国外交部确认海峡遇袭船员遇难",
-          "url": "https://flash.jin10.com/detail/20260409094724447800",
-          "source": "金十数据",
-          "ranks": [
-            28
           ],
           "is_new": false,
           "appearance_count": 1,
