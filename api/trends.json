@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-04-11T02:59:59.880720+08:00",
-  "total_titles_processed": 418,
+  "generated_at": "2026-04-11T03:51:03.597714+08:00",
+  "total_titles_processed": 458,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 美债 美元 石油 战争",
-      "match_count": 27,
+      "match_count": 32,
       "titles": [
+        {
+          "title": "伊朗战争丨霍尔木兹海峡过去2天仍保持关闭状态",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时59分 ~ 03时51分]"
+        },
         {
           "title": "伊朗战争丨美伊谈判开始前，伊朗提出两大条件",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
@@ -30,24 +41,13 @@
           "time_info": "01时53分"
         },
         {
-          "title": "伊朗战争丨霍尔木兹海峡过去2天仍保持关闭状态",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时59分"
-        },
-        {
           "title": "布伦特原油跌破92美元/桶，日内跌2.04%。",
           "url": "https://flash.jin10.com/detail/20260411023909692800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
         },
@@ -58,9 +58,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
+        },
+        {
+          "title": "A股交易规则为何要进行重大调整",
+          "url": "https://www.toutiao.com/trending/7627093467767770670/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 03时51分]"
         },
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了5个对手方的5.07亿美元。",
@@ -72,17 +83,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
-        },
-        {
-          "title": "WTI原油期货跌1.3%，失守97美元。",
-          "url": "https://wallstreetcn.com/livenews/3086055",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时59分"
         },
         {
           "title": "美国至4月10日当周石油钻井总数将于十分钟后公布。",
@@ -97,6 +97,19 @@
           "time_info": "[00时58分 ~ 01时53分]"
         },
         {
+          "title": "周五（4月10日），韩元兑美元最终跌0.57%，报1483.19韩元，本周累计上涨1.83%，4月4日跳空高开之前持续低位震荡于1510韩元附近、之后持续交投于期内顶部1470.07韩元附近。",
+          "url": "https://wallstreetcn.com/livenews/3086045",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            13,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时53分 ~ 03时51分]"
+        },
+        {
           "title": "美国参议院民主党成员Warren致函商品期货交易委员会（CFTC），要求调查与总统特朗普伊朗言论相关的石油交易。",
           "url": "https://wallstreetcn.com/livenews/3086031",
           "source": "华尔街见闻-快讯",
@@ -107,6 +120,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时58分 ~ 01时53分]"
+        },
+        {
+          "title": "巴西纸浆巨头Suzano：若美伊战争持续，全球卫生纸与纸巾价格将上涨",
+          "url": "https://wallstreetcn.com/livenews/3086044",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            14,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时53分 ~ 03时51分]"
         },
         {
           "title": "市场消息：美国民主党参议员沃伦致函美国商品期货交易委员会（CFTC），要求调查与美国总统特朗普伊朗论调相关的石油交易。",
@@ -121,16 +147,16 @@
           "time_info": "[00时58分 ~ 01时53分]"
         },
         {
-          "title": "周五（4月10日），韩元兑美元最终跌0.57%，报1483.19韩元，本周累计上涨1.83%，4月4日跳空高开之前持续低位震荡于1510韩元附近、之后持续交投于期内顶部1470.07韩元附近。",
-          "url": "https://wallstreetcn.com/livenews/3086045",
+          "title": "WTI原油期货跌1.3%，失守97美元。",
+          "url": "https://wallstreetcn.com/livenews/3086055",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            13
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时53分 ~ 02时59分]"
+          "time_info": "[02时59分 ~ 03时51分]"
         },
         {
           "title": "市场消息：黑石集团考虑为一家数据中心收购公司进行20亿美元的首次公开募股（IPO）。",
@@ -145,27 +171,54 @@
           "time_info": "[00时58分 ~ 01时53分]"
         },
         {
-          "title": "巴西纸浆巨头Suzano：若美伊战争持续，全球卫生纸与纸巾价格将上涨",
-          "url": "https://wallstreetcn.com/livenews/3086044",
+          "title": "周五（4月10日），美联储隔夜逆回购协议（RRP）使用规模为5.07亿美元（交易对手5家），上个交易日报4.02亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3086042",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5,
-            14
+            7,
+            16,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时53分 ~ 02时59分]"
+          "appearance_count": 3,
+          "time_info": "[01时53分 ~ 03时51分]"
         },
         {
-          "title": "A股交易规则为何要进行重大调整",
-          "url": "https://www.toutiao.com/trending/7627093467767770670/",
-          "source": "今日头条",
+          "title": "美国4月10日当周石油钻井数 411，前值 411。",
+          "url": "https://wallstreetcn.com/livenews/3086039",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            8,
+            17,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 02时59分]"
+          "appearance_count": 3,
+          "time_info": "[01时53分 ~ 03时51分]"
+        },
+        {
+          "title": "创业板暴涨近4%，动力电池领涨，光模块大涨、中际旭创创新高，港股中资券商集体爆发",
+          "url": "https://wallstreetcn.com/articles/3769646",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时59分 ~ 03时51分]"
+        },
+        {
+          "title": "比特币上探7.3万美元，和以太币最近七天涨超9%",
+          "url": "https://wallstreetcn.com/livenews/3086035",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            21,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时53分 ~ 03时51分]"
         },
         {
           "title": "金十图示：2026年04月10日（周五）美股热门股票行情一览（美股盘中）",
@@ -180,18 +233,6 @@
           "time_info": "[00时58分 ~ 01时53分]"
         },
         {
-          "title": "周五（4月10日），美联储隔夜逆回购协议（RRP）使用规模为5.07亿美元（交易对手5家），上个交易日报4.02亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3086042",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时53分 ~ 02时59分]"
-        },
-        {
           "title": "金十图示：2026年04月10日（周五）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260411003343083800",
           "source": "金十数据",
@@ -204,28 +245,16 @@
           "time_info": "[00时58分 ~ 01时53分]"
         },
         {
-          "title": "美国4月10日当周石油钻井数 411，前值 411。",
-          "url": "https://wallstreetcn.com/livenews/3086039",
+          "title": "美国3月政府预算 -1641亿美元，预期 -1533亿美元，前值 -1605亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3086051",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            17
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时53分 ~ 02时59分]"
-        },
-        {
-          "title": "比特币上探7.3万美元，和以太币最近七天涨超9%",
-          "url": "https://wallstreetcn.com/livenews/3086035",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时53分 ~ 02时59分]"
+          "time_info": "[02时59分 ~ 03时51分]"
         },
         {
           "title": "A股一周20大熊股出炉",
@@ -239,6 +268,17 @@
           "time_info": "[00时57分 ~ 00时58分]"
         },
         {
+          "title": "周五（4月10日）纽约尾盘，ICE美元指数跌0.15%，报98.672点，本周累计下跌1.36%，整体持续下挫，交投区间为100.273-98.525点。 彭博美元指数跌0.10%，报1198.47点，本周累跌1.43%，交投区间为1217.98-1196.85点。 美元兑日元涨0.20%，报159.28日元，本周累跌0.24%，交投区间为160.03-157.89日元。 本周，欧元兑日元累涨1.65%，英镑兑日元累涨1.89%。",
+          "url": "https://wallstreetcn.com/livenews/3086063",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时51分"
+        },
+        {
           "title": "美国至4月10日当周石油钻井总数 411口，前值411口。",
           "url": "https://flash.jin10.com/detail/20260411010158789800",
           "source": "金十数据",
@@ -250,37 +290,26 @@
           "time_info": "01时53分"
         },
         {
-          "title": "美国3月政府预算 -1641亿美元，预期 -1533亿美元，前值 -1605亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3086051",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时59分"
-        },
-        {
           "title": "WTI原油跌破97美元/桶，日内跌1.04%。",
           "url": "https://flash.jin10.com/detail/20260411022108947800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
         },
         {
-          "title": "创业板暴涨近4%，动力电池领涨，光模块大涨、中际旭创创新高，港股中资券商集体爆发",
-          "url": "https://wallstreetcn.com/articles/3769646",
-          "source": "华尔街见闻",
+          "title": "WTI 5月原油期货收跌1.30美元，跌幅1.33%，报96.57美元/桶。 布伦特6月原油期货收报95.20美元/桶。 NYMEX 5月天然气期货收报2.6480美元/百万英热单位。 NYMEX 5月汽油期货收报3.0373美元/加仑，NYMEX 5月取暖油期货收报3.7616美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3086058",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时59分"
+          "time_info": "03时51分"
         },
         {
           "title": "WTI原油期货向下触及97美元/桶，日内跌0.90%。",
@@ -289,9 +318,42 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
+        },
+        {
+          "title": "WTI原油日内跌幅达2.00%，现报96.02美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260411031012973800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时51分"
+        },
+        {
+          "title": "美国能源部：借用美国战略石油储备原油的企业包括麦格理和菲利普斯66。",
+          "url": "https://flash.jin10.com/detail/20260411030740606800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时51分"
+        },
+        {
+          "title": "美国能源部：将从战略石油储备中向4家公司出借850万桶原油。",
+          "url": "https://flash.jin10.com/detail/20260411030651442800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时51分"
         },
         {
           "title": "美国3月政府预算 -1640亿美元，预期-1567亿美元，前值-3080亿美元。",
@@ -300,7 +362,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
         },
@@ -311,7 +373,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
         }
@@ -319,8 +381,30 @@
     },
     {
       "keyword_group": "特朗普 马斯克 加密货币 美联储",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
+        {
+          "title": "外媒辛辣提问北约秘书长：你现在还想叫特朗普“爸爸”吗？",
+          "url": "https://news.ifeng.com/c/8sDM78iyrZJ",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 03时51分]"
+        },
+        {
+          "title": "美媒：特朗普施压，以黎将于华盛顿开展首轮对话",
+          "url": "https://news.ifeng.com/c/8sDJxBFO6Wy",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 03时51分]"
+        },
         {
           "title": "特朗普推动芯片出口的计划或正受阻于官僚体制",
           "url": "https://flash.jin10.com/detail/20260411013302688800",
@@ -333,15 +417,26 @@
           "time_info": "01时53分"
         },
         {
-          "title": "外媒辛辣提问北约秘书长：你现在还想叫特朗普“爸爸”吗？",
-          "url": "https://news.ifeng.com/c/8sDM78iyrZJ",
+          "title": "泰前总理佩通坦：骗子模仿特朗普让我捐款，我差点信了",
+          "url": "https://news.ifeng.com/c/8sDD7X7ONjw",
           "source": "凤凰网",
           "ranks": [
-            7
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 02时59分]"
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 03时51分]"
+        },
+        {
+          "title": "美财长与美联储主席召开紧急会议，称 Claude 新模型对金融业有巨大风险，是指什么？究竟有多危险？",
+          "url": "https://www.zhihu.com/question/2025899367144453577",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 03时51分]"
         },
         {
           "title": "报道：特朗普推动芯片出口的计划或正受阻于官僚体制",
@@ -349,11 +444,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            10
+            10,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时53分 ~ 02时59分]"
+          "appearance_count": 3,
+          "time_info": "[01时53分 ~ 03时51分]"
         },
         {
           "title": "特朗普称若未达成协议，将加大对伊朗军事打击",
@@ -367,39 +463,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时58分 ~ 02时59分]"
-        },
-        {
-          "title": "美媒：特朗普施压，以黎将于华盛顿开展首轮对话",
-          "url": "https://news.ifeng.com/c/8sDJxBFO6Wy",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 02时59分]"
-        },
-        {
-          "title": "泰前总理佩通坦：骗子模仿特朗普让我捐款，我差点信了",
-          "url": "https://news.ifeng.com/c/8sDD7X7ONjw",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 02时59分]"
-        },
-        {
-          "title": "美财长与美联储主席召开紧急会议，称 Claude 新模型对金融业有巨大风险，是指什么？究竟有多危险？",
-          "url": "https://www.zhihu.com/question/2025899367144453577",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 02时59分]"
         },
         {
           "title": "以总理指示尽快启动与黎巴嫩直接谈判，特朗普要求以减少袭黎，伊朗称为再发生冲突做好准备",
@@ -460,6 +523,17 @@
           "time_info": "00时58分"
         },
         {
+          "title": "据华尔街日报：美国总统特朗普承诺在离任前对幕僚进行大规模赦免。",
+          "url": "https://flash.jin10.com/detail/20260411032227829800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时51分"
+        },
+        {
           "title": "【特朗普：与伊朗的会谈结果将在24小时内明朗】美国总统特朗普10日接受《纽约邮报》采访时表示，与伊朗的会谈结果将在24小时内明朗。（新华社）",
           "url": "https://wallstreetcn.com/livenews/3086016",
           "source": "华尔街见闻-快讯",
@@ -488,7 +562,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
         },
@@ -539,114 +613,66 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek AI openai 机器人 小米 特斯拉 英伟达",
-      "match_count": 9,
+      "keyword_group": "黄金 白银 铜 铝 稀土",
+      "match_count": 11,
       "titles": [
         {
-          "title": "小米食堂发布「小米」冰激凌，有标准版、 Pro 版、 Max 版三种版本，怎样看待小米把产品思维刻进日常？",
-          "url": "https://www.zhihu.com/question/2025963750629423063",
-          "source": "知乎",
+          "title": "美国商品期货交易委员会（CFTC）：截至4月7日当周，COMEX铜期货投机性净多头头寸减少489手至38,804手。",
+          "url": "https://flash.jin10.com/detail/20260411033908498800",
+          "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 02时59分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时51分"
         },
         {
-          "title": "AI换脸偷声侵权，那么大模型训练呢？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32934233",
-          "source": "澎湃新闻",
+          "title": "美国商品期货交易委员会（CFTC）：4月7日当周，投机者所持COMEX黄金净多头头寸减少1,759手合约，至92,113手合约，创两年新低。",
+          "url": "https://wallstreetcn.com/livenews/3086067",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时51分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：截至4月7日当周，COMEX白银期货投机性净多头头寸减少777手至10,039手。",
+          "url": "https://flash.jin10.com/detail/20260411033835234800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时51分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：截至4月7日当周，COMEX黄金期货投机性净多头头寸减少1,760手至92,113手。",
+          "url": "https://flash.jin10.com/detail/20260411033756068800",
+          "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 02时59分]"
-        },
-        {
-          "title": "据福克斯新闻：OpenAI的一位发言人证实，一名嫌疑人向OpenAI创始人奥尔特曼的住所投掷了一枚燃烧瓶，目前该嫌疑人已被警方拘留。",
-          "url": "https://flash.jin10.com/detail/20260411023746377800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时59分"
+          "time_info": "03时51分"
         },
         {
-          "title": "软件股受累于AI颠覆担忧进一步下跌，芯片股继续上涨",
-          "url": "https://wallstreetcn.com/livenews/3086054",
+          "title": "国际铜夜盘收涨1.20%，沪铜收涨1.04%，沪铝收涨0.32%，沪锌收跌0.59%，沪铅收跌0.54%，沪镍收涨0.04%，沪锡收跌0.09%。 氧化铝夜盘收涨0.15%，铝合金收涨0.59%。 不锈钢夜盘收涨2.01%。",
+          "url": "https://wallstreetcn.com/livenews/3086037",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时59分"
-        },
-        {
-          "title": "雷军回应小米冰淇淋",
-          "url": "https://www.cls.cn/detail/2340697",
-          "source": "财联社热门",
-          "ranks": [
-            10
+            10,
+            19,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 02时59分]"
+          "appearance_count": 3,
+          "time_info": "[01时53分 ~ 03时51分]"
         },
-        {
-          "title": "“大空头”Michael Burry：加仓英伟达看跌期权。买入了京东、阿里巴巴等股票。",
-          "url": "https://wallstreetcn.com/livenews/3086034",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时53分"
-        },
-        {
-          "title": "夫妻称用AI写公众号年赚200万被封号",
-          "url": "https://www.toutiao.com/trending/7626953352832040996/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时59分"
-        },
-        {
-          "title": "“大空头”Burry增持英伟达看跌期权，买入京东和阿里巴巴股票",
-          "url": "https://wallstreetcn.com/livenews/3086034",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时59分"
-        },
-        {
-          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850504&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/L0FUuQ9wjv5TrILFaKkYG.jpg/lite\" height=\"120\"/></a>",
-          "url": "https://flash.jin10.com/detail/20260410233017921800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金 白银 铜 铝 稀土",
-      "match_count": 4,
-      "titles": [
         {
           "title": "1吨旧手机能提炼200克黄金？专家回应",
           "url": "https://www.baidu.com/s?wd=1%E5%90%A8%E6%97%A7%E6%89%8B%E6%9C%BA%E8%83%BD%E6%8F%90%E7%82%BC200%E5%85%8B%E9%BB%84%E9%87%91%EF%BC%9F%E4%B8%93%E5%AE%B6%E5%9B%9E%E5%BA%94",
@@ -658,18 +684,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时57分 ~ 01时53分]"
-        },
-        {
-          "title": "国际铜夜盘收涨1.20%，沪铜收涨1.04%，沪铝收涨0.32%，沪锌收跌0.59%，沪铅收跌0.54%，沪镍收涨0.04%，沪锡收跌0.09%。 氧化铝夜盘收涨0.15%，铝合金收涨0.59%。 不锈钢夜盘收涨2.01%。",
-          "url": "https://wallstreetcn.com/livenews/3086037",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时53分 ~ 02时59分]"
         },
         {
           "title": "LME期铜收涨164美元，报12846美元/吨。 LME期铝收涨54美元，报3498美元/吨。 LME期锌收涨6美元，报3333美元/吨。 LME期铅收跌5美元，报1922美元/吨。 LME期镍收涨153美元，报17241美元/吨。 LME期锡收涨301美元，报47987美元/吨。 LME期钴收平，报56290美元/吨。",
@@ -690,15 +704,166 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
+        },
+        {
+          "title": "智利国家铜委员会：智利科利亚瓦西铜矿2月份铜产量同比增长56.5%，达到2.66万吨。",
+          "url": "https://flash.jin10.com/detail/20260411031007226800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时51分"
+        },
+        {
+          "title": "智利国家铜委员会：智利埃斯孔迪达铜矿2月份铜产量同比下降7.4%，至10.5万吨。",
+          "url": "https://flash.jin10.com/detail/20260411030820355800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时51分"
+        },
+        {
+          "title": "智利国家铜委员会：智利国家铜业公司2月份铜产量同比下降9.8%，至8.85万吨。",
+          "url": "https://flash.jin10.com/detail/20260411030758061800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek AI openai 机器人 小米 特斯拉 英伟达",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "小米食堂发布「小米」冰激凌，有标准版、 Pro 版、 Max 版三种版本，怎样看待小米把产品思维刻进日常？",
+          "url": "https://www.zhihu.com/question/2025963750629423063",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 03时51分]"
+        },
+        {
+          "title": "AI换脸偷声侵权，那么大模型训练呢？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32934233",
+          "source": "澎湃新闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 03时51分]"
+        },
+        {
+          "title": "雷军回应小米冰淇淋",
+          "url": "https://www.cls.cn/detail/2340697",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 03时51分]"
+        },
+        {
+          "title": "据福克斯新闻：OpenAI的一位发言人证实，一名嫌疑人向OpenAI创始人奥尔特曼的住所投掷了一枚燃烧瓶，目前该嫌疑人已被警方拘留。",
+          "url": "https://flash.jin10.com/detail/20260411023746377800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时59分"
+        },
+        {
+          "title": "加拿大央行与大型银行机构开会，讨论Anthropic AI所构成的网络风险。",
+          "url": "https://wallstreetcn.com/livenews/3086064",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时51分"
+        },
+        {
+          "title": "软件股受累于AI颠覆担忧进一步下跌，芯片股继续上涨",
+          "url": "https://wallstreetcn.com/livenews/3086054",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时59分 ~ 03时51分]"
+        },
+        {
+          "title": "“大空头”Burry增持英伟达看跌期权，买入京东和阿里巴巴股票",
+          "url": "https://wallstreetcn.com/livenews/3086034",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时59分 ~ 03时51分]"
+        },
+        {
+          "title": "“大空头”Michael Burry：加仓英伟达看跌期权。买入了京东、阿里巴巴等股票。",
+          "url": "https://wallstreetcn.com/livenews/3086034",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时53分"
+        },
+        {
+          "title": "夫妻称用AI写公众号年赚200万被封号",
+          "url": "https://www.toutiao.com/trending/7626953352832040996/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时59分"
+        },
+        {
+          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850504&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/L0FUuQ9wjv5TrILFaKkYG.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260410233017921800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时58分"
         }
       ]
     },
     {
       "keyword_group": "外交部 商务部 证监会 央行",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "外交部回应日本“降级”日中关系",
@@ -708,8 +873,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 02时59分]"
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 03时51分]"
         },
         {
           "title": "外交部回应日本「降级」日中关系，表示日方应以实际行动维护中日关系政治基础，如何看待日本这一举动？",
@@ -719,8 +884,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 02时59分]"
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 03时51分]"
         },
         {
           "title": "外交部：美方大肆迫害中国学生学者",
@@ -729,11 +894,23 @@
           "ranks": [
             28,
             18,
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时57分 ~ 02时59分]"
+          "appearance_count": 6,
+          "time_info": "[00时57分 ~ 03时51分]"
+        },
+        {
+          "title": "市场消息：加拿大央行、该国各大银行及金融机构于周五举行会议，讨论Anthropic最新人工智能模型所带来的网络安全风险。",
+          "url": "https://flash.jin10.com/detail/20260411033527040800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时51分"
         }
       ]
     }
