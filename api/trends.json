@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-11T12:58:44.217967+08:00",
-  "total_titles_processed": 889,
+  "generated_at": "2026-04-11T14:06:09.286632+08:00",
+  "total_titles_processed": 954,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 美债 美元 石油 战争",
-      "match_count": 57,
+      "match_count": 58,
       "titles": [
         {
           "title": "伊朗战争丨霍尔木兹海峡过去2天仍保持关闭状态",
@@ -28,8 +28,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[02时59分 ~ 12时58分]"
+          "appearance_count": 13,
+          "time_info": "[02时59分 ~ 14时06分]"
         },
         {
           "title": "A股交易规则为何要进行重大调整",
@@ -41,6 +41,19 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时57分 ~ 07时39分]"
+        },
+        {
+          "title": "美股收盘：芯片股走强纳指八连升 道指标普回落仍周涨超3%",
+          "url": "https://www.cls.cn/detail/2341126",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时39分 ~ 14时06分]"
         },
         {
           "title": "金十图示：2026年04月10日（周五）美股热门股票行情一览（美股收盘）",
@@ -63,19 +76,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时42分 ~ 07时39分]"
-        },
-        {
-          "title": "美股收盘：芯片股走强纳指八连升 道指标普回落仍周涨超3%",
-          "url": "https://www.cls.cn/detail/2341126",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时39分 ~ 12时58分]"
         },
         {
           "title": "伊朗战争丨美伊谈判开始前，伊朗提出两大条件",
@@ -109,6 +109,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时33分 ~ 12时58分]"
+        },
+        {
+          "title": "伊朗战争丨伊朗谈判代表团人员组成公布",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时05分 ~ 14时06分]"
         },
         {
           "title": "伊朗战争丨特朗普：若未达成协议，将加大对伊朗打击",
@@ -175,17 +186,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
-        },
-        {
-          "title": "美国银行：美国增长与通胀对石油的敏感度亦已降低",
-          "url": "https://flash.jin10.com/detail/20260411122629984800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时58分"
         },
         {
           "title": "标普：稳定前景反映出市场预期，即英国经济将能抵御与中东冲突相关的石油、天然气及其他投入品价格上涨所带来的冲击。",
@@ -310,6 +310,18 @@
           "time_info": "[00时58分 ~ 01时53分]"
         },
         {
+          "title": "美国银行：美国增长与通胀对石油的敏感度亦已降低",
+          "url": "https://flash.jin10.com/detail/20260411122629984800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时58分 ~ 14时06分]"
+        },
+        {
           "title": "美联储：美国上周银行存款19.085万亿美元，之前一周18.996万亿美元。",
           "url": "https://wallstreetcn.com/livenews/3086088",
           "source": "华尔街见闻-快讯",
@@ -383,6 +395,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时53分 ~ 03时51分]"
+        },
+        {
+          "title": "演员克鲁尼称特朗普摧毁伊朗的威胁为“战争罪”，被白宫反怼：他的电影和演技才构成战争罪",
+          "url": "https://wallstreetcn.com/livenews/3086139",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            24,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时33分 ~ 14时06分]"
         },
         {
           "title": "周五（4月10日）纽约尾盘，ICE美元指数跌0.15%，报98.672点，本周累计下跌1.36%，整体持续下挫，交投区间为100.273-98.525点。 彭博美元指数跌0.10%，报1198.47点，本周累跌1.43%，交投区间为1217.98-1196.85点。 美元兑日元涨0.20%，报159.28日元，本周累跌0.24%，交投区间为160.03-157.89日元。 本周，欧元兑日元累涨1.65%，英镑兑日元累涨1.89%。",
@@ -493,16 +518,16 @@
           "time_info": "[10时33分 ~ 12时58分]"
         },
         {
-          "title": "演员克鲁尼称特朗普摧毁伊朗的威胁为“战争罪”，被白宫反怼：他的电影和演技才构成战争罪",
-          "url": "https://wallstreetcn.com/livenews/3086139",
-          "source": "华尔街见闻-快讯",
+          "title": "美国银行：经济对石油冲击的韧性增强",
+          "url": "https://flash.jin10.com/detail/20260411113254636800",
+          "source": "金十数据",
           "ranks": [
-            13,
-            24
+            12,
+            21
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时33分 ~ 12时58分]"
+          "time_info": "[12时58分 ~ 14时06分]"
         },
         {
           "title": "纳斯达克网络安全ETF收跌3.71%，报60.74美元，本周累计下跌5.37%。 %，ETFMG网络安全ETF收跌4.85%，报71.17美元，本周累跌7.78%。",
@@ -570,17 +595,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时33分"
-        },
-        {
-          "title": "美国银行：经济对石油冲击的韧性增强",
-          "url": "https://flash.jin10.com/detail/20260411113254636800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时58分"
         },
         {
           "title": "伊朗教育部公共关系处：美国和以色列对伊朗发动战争以来，已造成344名学生和教师死亡。",
@@ -730,19 +744,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时33分 ~ 12时58分]"
+          "appearance_count": 4,
+          "time_info": "[10时33分 ~ 14时06分]"
         },
         {
           "title": "谈判前夜美伊“剑拔弩张”：伊朗提“新条件”，特朗普威胁“加大打击”",
           "url": "https://wallstreetcn.com/articles/3769722",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时33分 ~ 12时58分]"
+          "appearance_count": 4,
+          "time_info": "[10时33分 ~ 14时06分]"
         },
         {
           "title": "特朗普：谈判结果24小时内明朗",
@@ -753,8 +768,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时33分 ~ 12时58分]"
+          "appearance_count": 4,
+          "time_info": "[10时33分 ~ 14时06分]"
         },
         {
           "title": "特朗普推动芯片出口的计划或正受阻于官僚体制",
@@ -766,6 +781,43 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
+        },
+        {
+          "title": "特朗普称若未达成协议 将加大对伊朗军事打击 | 环球市场",
+          "url": "https://www.cls.cn/detail/2341138",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时39分 ~ 14时06分]"
+        },
+        {
+          "title": "无视特朗普力挺！“大空头”伯里放话：Palantir股价腰斩都不够",
+          "url": "https://www.cls.cn/detail/2341106",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时39分 ~ 14时06分]"
+        },
+        {
+          "title": "伊朗代表团已经抵达伊斯兰堡，特朗普称未来 24 小时将成为关键窗口，美伊谈判前景如何？",
+          "url": "https://www.zhihu.com/question/2026203195517477584",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时33分 ~ 14时06分]"
         },
         {
           "title": "报道：特朗普推动芯片出口的计划或正受阻于官僚体制",
@@ -818,32 +870,6 @@
           "time_info": "[00时57分 ~ 01时53分]"
         },
         {
-          "title": "特朗普称若未达成协议 将加大对伊朗军事打击 | 环球市场",
-          "url": "https://www.cls.cn/detail/2341138",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时39分 ~ 12时58分]"
-        },
-        {
-          "title": "无视特朗普力挺！“大空头”伯里放话：Palantir股价腰斩都不够",
-          "url": "https://www.cls.cn/detail/2341106",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时39分 ~ 12时58分]"
-        },
-        {
           "title": "特朗普：不会允许伊朗收取霍尔木兹海峡通行费",
           "url": "https://wallstreetcn.com/livenews/3086110",
           "source": "华尔街见闻-快讯",
@@ -868,17 +894,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时39分 ~ 12时58分]"
-        },
-        {
-          "title": "伊朗代表团已经抵达伊斯兰堡，特朗普称未来 24 小时将成为关键窗口，美伊谈判前景如何？",
-          "url": "https://www.zhihu.com/question/2026203195517477584",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时33分 ~ 12时58分]"
         },
         {
           "title": "特朗普称若未达成协议 将加大对伊朗军事打击",
@@ -1075,7 +1090,7 @@
     },
     {
       "keyword_group": "DeepSeek AI openai 机器人 小米 特斯拉 英伟达",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "小米食堂发布「小米」冰激凌，有标准版、 Pro 版、 Max 版三种版本，怎样看待小米把产品思维刻进日常？",
@@ -1126,6 +1141,19 @@
           "time_info": "[04时42分 ~ 07时39分]"
         },
         {
+          "title": "郑丽文参访清华附中称想带机器人回家",
+          "url": "https://www.toutiao.com/trending/7626947452634234922/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时33分 ~ 14时06分]"
+        },
+        {
           "title": "据福克斯新闻：OpenAI的一位发言人证实，一名嫌疑人向OpenAI创始人奥尔特曼的住所投掷了一枚燃烧瓶，目前该嫌疑人已被警方拘留。",
           "url": "https://flash.jin10.com/detail/20260411023746377800",
           "source": "金十数据",
@@ -1135,17 +1163,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
-        },
-        {
-          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850504&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/3E_Vzh_i3rotK1w6yvq7f.jpg/lite\" height=\"120\"/></a>",
-          "url": "https://flash.jin10.com/detail/20260411124514356800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时58分"
         },
         {
           "title": "特斯拉：受监督管理的FSD（全自动驾驶）在荷兰获批。",
@@ -1172,18 +1189,6 @@
           "time_info": "[02时59分 ~ 07时39分]"
         },
         {
-          "title": "郑丽文参访清华附中称想带机器人回家",
-          "url": "https://www.toutiao.com/trending/7626947452634234922/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时33分 ~ 12时58分]"
-        },
-        {
           "title": "美国白宫针对未来即将面世的一系列AI模型协调网络响应。 白宫准备回应Anthropic与OpenAI的诸多模型。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3086136",
           "source": "华尔街见闻-快讯",
@@ -1202,11 +1207,37 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            15
+            15,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时33分 ~ 14时06分]"
+        },
+        {
+          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850504&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/3E_Vzh_i3rotK1w6yvq7f.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260411124514356800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时33分 ~ 12时58分]"
+          "time_info": "[12时58分 ~ 14时06分]"
+        },
+        {
+          "title": "郑丽文访清华附中：想带机器人回台湾",
+          "url": "https://www.baidu.com/s?wd=%E9%83%91%E4%B8%BD%E6%96%87%E8%AE%BF%E6%B8%85%E5%8D%8E%E9%99%84%E4%B8%AD%EF%BC%9A%E6%83%B3%E5%B8%A6%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%9B%9E%E5%8F%B0%E6%B9%BE",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时33分 ~ 14时06分]"
         },
         {
           "title": "OpenAI：在第三方安全事件中，密码和OpenAI API密钥未受影响。",
@@ -1245,24 +1276,24 @@
           "time_info": "[03时51分 ~ 04时42分]"
         },
         {
+          "title": "侵入式脑机“首秀”、康养机器人扎堆CMEF，前沿技术能否撑起智慧康养新蓝海？",
+          "url": "https://www.cls.cn/detail/2341198",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时58分 ~ 14时06分]"
+        },
+        {
           "title": "OpenAI：事件的根本原因是GitHub Actions工作流中的配置错误，已予以解决。",
           "url": "https://flash.jin10.com/detail/20260411094831132800",
           "source": "金十数据",
           "ranks": [
             6,
             24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时33分 ~ 12时58分]"
-        },
-        {
-          "title": "郑丽文访清华附中：想带机器人回台湾",
-          "url": "https://www.baidu.com/s?wd=%E9%83%91%E4%B8%BD%E6%96%87%E8%AE%BF%E6%B8%85%E5%8D%8E%E9%99%84%E4%B8%AD%EF%BC%9A%E6%83%B3%E5%B8%A6%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%9B%9E%E5%8F%B0%E6%B9%BE",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            7
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -1291,6 +1322,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时33分 ~ 12时58分]"
+        },
+        {
+          "title": "突发！OpenAI掌门奥尔特曼家差点被烧 本人愤怒发长文回应",
+          "url": "https://www.cls.cn/detail/2341199",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时05分 ~ 14时06分]"
         },
         {
           "title": "特斯拉：“受监督的全自动驾驶”（FSD Supervised）已在荷兰获批，并将很快在该国开始推行。",
@@ -1326,17 +1368,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
-        },
-        {
-          "title": "侵入式脑机“首秀”、康养机器人扎堆CMEF，前沿技术能否撑起智慧康养新蓝海？",
-          "url": "https://www.cls.cn/detail/2341198",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时58分"
         },
         {
           "title": "“大空头”Michael Burry：加仓英伟达看跌期权。买入了京东、阿里巴巴等股票。",
@@ -1400,7 +1431,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时58分"
         },
@@ -1422,7 +1453,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时58分"
         }
@@ -1501,6 +1532,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时53分 ~ 03时51分]"
+        },
+        {
+          "title": "女游客被功夫茶铜壶砸伤头缝7针，成都鹤鸣茶社：已暂停功夫茶表演，协商赔偿中",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32941349",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时58分 ~ 14时06分]"
         },
         {
           "title": "1吨旧手机能提炼200克黄金？专家回应",
@@ -1606,17 +1649,6 @@
           "time_info": "03时51分"
         },
         {
-          "title": "女游客被功夫茶铜壶砸伤头缝7针，成都鹤鸣茶社：已暂停功夫茶表演，协商赔偿中",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32941349",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时58分"
-        },
-        {
           "title": "美国商品期货交易委员会（CFTC）：4月7日当周，投机者所持COMEX黄金净多头头寸减少1,759手合约，至92,113手合约，创两年新低。 所持COMEX白银净多头头寸创三周新低。 所持NYMEX铂金净多头头寸创16周月新高。 所持NYMEX钯金净空头头寸创六个月新高。",
           "url": "https://wallstreetcn.com/livenews/3086067",
           "source": "华尔街见闻-快讯",
@@ -1664,7 +1696,7 @@
     },
     {
       "keyword_group": "外交部 商务部 证监会 央行",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "外交部回应日本“降级”日中关系",
@@ -1712,11 +1744,23 @@
           "url": "https://www.cls.cn/detail/2341141",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时33分 ~ 12时58分]"
+          "appearance_count": 4,
+          "time_info": "[10时33分 ~ 14时06分]"
+        },
+        {
+          "title": "证监会发布创业板改革意见，增设第四套上市标准",
+          "url": "https://wallstreetcn.com/articles/3769674",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时39分 ~ 14时06分]"
         },
         {
           "title": "巴基斯坦外交部：伊朗代表团抵达 巴方高官现场迎接",
@@ -1742,15 +1786,16 @@
           "time_info": "[04时42分 ~ 07时39分]"
         },
         {
-          "title": "证监会发布创业板改革意见，增设第四套上市标准",
-          "url": "https://wallstreetcn.com/articles/3769674",
-          "source": "华尔街见闻",
+          "title": "俄外交部：联合国安理会航行安全会议定于4月27日举行",
+          "url": "https://flash.jin10.com/detail/20260411115153462800",
+          "source": "金十数据",
           "ranks": [
-            10
+            10,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时39分 ~ 12时58分]"
+          "appearance_count": 2,
+          "time_info": "[12时58分 ~ 14时06分]"
         },
         {
           "title": "证监会上市公司治理专项行动4月全面铺开，直击财务造假等重点",
@@ -1764,6 +1809,17 @@
           "time_info": "[05时41分 ~ 05时42分]"
         },
         {
+          "title": "日本降级对华关系，外交部：中日当前局面根源是高市早苗涉台谬论",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32941547",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时05分 ~ 14时06分]"
+        },
+        {
           "title": "市场消息：加拿大央行、该国各大银行及金融机构于周五举行会议，讨论Anthropic最新人工智能模型所带来的网络安全风险。",
           "url": "https://flash.jin10.com/detail/20260411033527040800",
           "source": "金十数据",
@@ -1773,17 +1829,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时51分"
-        },
-        {
-          "title": "俄外交部：联合国安理会航行安全会议定于4月27日举行",
-          "url": "https://flash.jin10.com/detail/20260411115153462800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时58分"
         },
         {
           "title": "巴基斯坦外交部：伊朗代表团今天抵达伊斯兰堡，将参与同美国的磋商。",
