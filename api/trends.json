@@ -1,493 +1,11 @@
 {
-  "generated_at": "2026-04-12T19:37:49.937003+08:00",
-  "total_titles_processed": 1225,
+  "generated_at": "2026-04-12T21:08:31.630859+08:00",
+  "total_titles_processed": 1331,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "DeepSeek AI openai 机器人 小米 特斯拉 英伟达",
-      "match_count": 38,
-      "titles": [
-        {
-          "title": "AI恐慌的“标志性事件”：Altman家里差点被炸了",
-          "url": "https://wallstreetcn.com/articles/3769738",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时41分 ~ 10时53分]"
-        },
-        {
-          "title": "从华尔街到硅谷，Anthropic 抢走了OpenAI“所有的风头”",
-          "url": "https://wallstreetcn.com/articles/3769740",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时41分 ~ 10时53分]"
-        },
-        {
-          "title": "突发！OpenAI掌门奥尔特曼家差点被烧 本人愤怒发长文回应",
-          "url": "https://www.cls.cn/detail/2341199",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            6,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时41分 ~ 19时37分]"
-        },
-        {
-          "title": "水军机器人走错片场露马脚",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353086&amp;topic_name=%E6%B0%B4%E5%86%9B%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B5%B0%E9%94%99%E7%89%87%E5%9C%BA%E9%9C%B2%E9%A9%AC%E8%84%9A",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            9,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时41分 ~ 19时37分]"
-        },
-        {
-          "title": "宇树机器人百米冲刺 10 米每秒，逼近博尔特记录，这个速度是什么水平？能应用到哪些现实场景？",
-          "url": "https://www.zhihu.com/question/2026580932996456466",
-          "source": "知乎",
-          "ranks": [
-            4,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时19分 ~ 19时37分]"
-        },
-        {
-          "title": "公众号批量删除 AI 写作文章，新规则打击自动化方式的创作，这是怎么判断的？会带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2025695905764962890",
-          "source": "知乎",
-          "ranks": [
-            20,
-            4,
-            8,
-            7,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时52分 ~ 18时42分]"
-        },
-        {
-          "title": "我也来试一下这个wait",
-          "url": "https://www.douyin.com/hot/2462368",
-          "source": "抖音",
-          "ranks": [
-            17,
-            19,
-            25,
-            24,
-            20,
-            22,
-            21,
-            23,
-            29,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时41分 ~ 19时37分]"
-        },
-        {
-          "title": "小米推出 MiMo 大模型订阅套餐，罗福莉称不想「贱卖」token，将如何影响市场格局？",
-          "url": "https://www.zhihu.com/question/2025491195443311364",
-          "source": "知乎",
-          "ranks": [
-            4,
-            3,
-            8,
-            9,
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时52分 ~ 19时37分]"
-        },
-        {
-          "title": "机器人闪电展现提速能力",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%97%AA%E7%94%B5%E5%B1%95%E7%8E%B0%E6%8F%90%E9%80%9F%E8%83%BD%E5%8A%9B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            18,
-            15,
-            17,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时52分 ~ 19时37分]"
-        },
-        {
-          "title": "机器人短跑破纪录有什么用",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%9F%AD%E8%B7%91%E7%A0%B4%E7%BA%AA%E5%BD%95%E6%9C%89%E4%BB%80%E4%B9%88%E7%94%A8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时54分 ~ 19时37分]"
-        },
-        {
-          "title": "宇树H1人形机器人奔跑速度再破纪录",
-          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91H1%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%A5%94%E8%B7%91%E9%80%9F%E5%BA%A6%E5%86%8D%E7%A0%B4%E7%BA%AA%E5%BD%95",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            25,
-            26,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时51分 ~ 07时39分]"
-        },
-        {
-          "title": "宇树科技人形机器人跑出10米/秒",
-          "url": "https://www.toutiao.com/trending/7627639296832327218/",
-          "source": "今日头条",
-          "ranks": [
-            1,
-            10,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时52分 ~ 15时20分]"
-        },
-        {
-          "title": "机器人坐车里休息 一只脚搭在车架上",
-          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%9D%90%E8%BD%A6%E9%87%8C%E4%BC%91%E6%81%AF+%E4%B8%80%E5%8F%AA%E8%84%9A%E6%90%AD%E5%9C%A8%E8%BD%A6%E6%9E%B6%E4%B8%8A",
-          "source": "百度热搜",
-          "ranks": [
-            2,
-            7,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时27分 ~ 16时54分]"
-        },
-        {
-          "title": "宇树机器人跑出10米/秒逼近人类巅峰",
-          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B7%91%E5%87%BA10%E7%B1%B3%2F%E7%A7%92%E9%80%BC%E8%BF%91%E4%BA%BA%E7%B1%BB%E5%B7%85%E5%B3%B0",
-          "source": "百度热搜",
-          "ranks": [
-            1,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时52分 ~ 13时28分]"
-        },
-        {
-          "title": "小米推出 MiMo 大模型订阅套餐，罗福莉称不想「贱卖」词元，将如何影响市场格局？",
-          "url": "https://www.zhihu.com/question/2025491195443311364",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时27分 ~ 13时28分]"
-        },
-        {
-          "title": "国产AI模型为何大多免费",
-          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E4%BA%A7AI%E6%A8%A1%E5%9E%8B%E4%B8%BA%E4%BD%95%E5%A4%A7%E5%A4%9A%E5%85%8D%E8%B4%B9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时50分 ~ 19时37分]"
-        },
-        {
-          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850504&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/D4supSq6s7-gSzJkAz87N.jpg/lite\" height=\"120\"/></a>",
-          "url": "https://flash.jin10.com/detail/20260412130705252800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时28分 ~ 15时20分]"
-        },
-        {
-          "title": "磁吸爬壁、多场景作业 我国特种机器人迈上具身智能新台阶",
-          "url": "https://wallstreetcn.com/livenews/3086377",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时42分 ~ 19时37分]"
-        },
-        {
-          "title": "人形机器人半马完成全流程测试",
-          "url": "https://www.douyin.com/hot/2463701",
-          "source": "抖音",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时54分 ~ 19时37分]"
-        },
-        {
-          "title": "宇树机器人百米冲刺10米每秒",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%99%BE%E7%B1%B3%E5%86%B2%E5%88%BA10%E7%B1%B3%E6%AF%8F%E7%A7%92%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时52分 ~ 13时28分]"
-        },
-        {
-          "title": "让AI与AI互相聊天会聊出什么",
-          "url": "https://www.baidu.com/s?wd=%E8%AE%A9AI%E4%B8%8EAI%E4%BA%92%E7%9B%B8%E8%81%8A%E5%A4%A9%E4%BC%9A%E8%81%8A%E5%87%BA%E4%BB%80%E4%B9%88",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时27分 ~ 15时20分]"
-        },
-        {
-          "title": "五部门发文普及中小学 AI 教育，纳入地方课程体系，下一步，AI 会不会进中考、高考？农村孩子怎么办？",
-          "url": "https://www.zhihu.com/question/2025885699283382999",
-          "source": "知乎",
-          "ranks": [
-            7,
-            13,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时39分 ~ 10时53分]"
-        },
-        {
-          "title": "70多款机器人深夜竞速",
-          "url": "https://s.weibo.com/weibo?q=%2370%E5%A4%9A%E6%AC%BE%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%B7%B1%E5%A4%9C%E7%AB%9E%E9%80%9F%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时19分 ~ 16时54分]"
-        },
-        {
-          "title": "机器人冲线后坐车休息脚搭车架上",
-          "url": "https://www.toutiao.com/trending/7626734057791455275/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时42分 ~ 19时37分]"
-        },
-        {
-          "title": "小米股票为何跌跌不休",
-          "url": "https://www.toutiao.com/trending/7627799526945852991/",
-          "source": "今日头条",
-          "ranks": [
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时42分 ~ 19时37分]"
-        },
-        {
-          "title": "机器人半马夜测跑姿大赏",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8D%8A%E9%A9%AC%E5%A4%9C%E6%B5%8B%E8%B7%91%E5%A7%BF%E5%A4%A7%E8%B5%8F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时19分 ~ 15时20分]"
-        },
-        {
-          "title": "2026智元合作伙伴大会本月17日举行，将发布4个本体新品、4个AI大模型",
-          "url": "https://wallstreetcn.com/livenews/3086367",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时42分 ~ 19时37分]"
-        },
-        {
-          "title": "宇树科技宣布人形机器人跑出10米/秒，逼近人类巅峰水平",
-          "url": "https://wallstreetcn.com/livenews/3086307",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时53分 ~ 13时28分]"
-        },
-        {
-          "title": "人形机器人跑步姿势像成龙",
-          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B7%91%E6%AD%A5%E5%A7%BF%E5%8A%BF%E5%83%8F%E6%88%90%E9%BE%99",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时42分 ~ 19时37分]"
-        },
-        {
-          "title": "「机器人三定律」现实可行吗？",
-          "url": "https://www.zhihu.com/question/2013070255845557921",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时19分 ~ 15时20分]"
-        },
-        {
-          "title": "郑丽文探访小米汽车工厂",
-          "url": "https://www.douyin.com/hot/2463571",
-          "source": "抖音",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时19分 ~ 15时20分]"
-        },
-        {
-          "title": "人形机器人半马完成全流程全要素测试",
-          "url": "https://www.toutiao.com/trending/7626527243027972137/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时27分 ~ 13时28分]"
-        },
-        {
-          "title": "彭博社汇总的数据显示，随着人工智能（AI）的发展和伊朗战争给低迷的退出市场带来巨大压力，今年的私募股权出售交易量已下降超过三分之一。",
-          "url": "https://wallstreetcn.com/livenews/3086390",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时37分"
-        },
-        {
-          "title": "OpenAI CEO住所遭袭",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%20CEO%E4%BD%8F%E6%89%80%E9%81%AD%E8%A2%AD",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时54分"
-        },
-        {
-          "title": "孩子用 AI 写作文，我该夸他会用新科技，还是得拆穿他是在「作弊」？",
-          "url": "https://www.zhihu.com/question/2002055091918697271",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时35分"
-        },
-        {
-          "title": "小米正式调价",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E6%AD%A3%E5%BC%8F%E8%B0%83%E4%BB%B7",
-          "source": "百度热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
-        },
-        {
-          "title": "宇树科技H1人形机器人奔跑速度打破人形机器人世界纪录",
-          "url": "https://flash.jin10.com/detail/20260412105716390800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时28分"
-        },
-        {
-          "title": "2026机器人半马完成全流程测试",
-          "url": "https://search.bilibili.com/all?keyword=2026%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8D%8A%E9%A9%AC%E5%AE%8C%E6%88%90%E5%85%A8%E6%B5%81%E7%A8%8B%E6%B5%8B%E8%AF%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时37分"
-        }
-      ]
-    },
-    {
       "keyword_group": "特朗普 马斯克 加密货币 美联储",
-      "match_count": 38,
+      "match_count": 44,
       "titles": [
         {
           "title": "谈判前夜美伊“剑拔弩张”：伊朗提“新条件”，特朗普威胁“加大打击”",
@@ -522,8 +40,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时52分 ~ 19时37分]"
+          "appearance_count": 11,
+          "time_info": "[10时52分 ~ 21时08分]"
         },
         {
           "title": "仅3国掏钱，170亿就凑了个零头，特朗普的“和平委员会”要黄？",
@@ -586,6 +104,17 @@
           "time_info": "[10时52分 ~ 16时54分]"
         },
         {
+          "title": "特朗普：核问题没谈拢，即刻起将封锁霍尔木兹海峡",
+          "url": "https://flash.jin10.com/detail/20260412205920833800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
+        },
+        {
           "title": "特朗普威胁通过控制霍尔木兹海峡打击伊朗经济",
           "url": "https://wallstreetcn.com/livenews/3086335",
           "source": "华尔街见闻-快讯",
@@ -599,6 +128,39 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[13时28分 ~ 18时42分]"
+        },
+        {
+          "title": "美国总统特朗普：任何向我们或和平船只开火的伊朗人，都将被炸进“地狱”。",
+          "url": "https://flash.jin10.com/detail/20260412205546072800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
+        },
+        {
+          "title": "美国总统特朗普：我们也将开始摧毁伊朗人在海峡中布下的水雷。",
+          "url": "https://flash.jin10.com/detail/20260412205517971800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
+        },
+        {
+          "title": "美国总统特朗普：我还指示美国海军在国际水域搜查并扣押每一艘向伊朗缴纳过通行费的船只。",
+          "url": "https://flash.jin10.com/detail/20260412205511864800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
         },
         {
           "title": "以色列总理内塔尼亚胡：正如特朗普所说，必须清除伊朗的浓缩铀，要么通过协议，要么通过其它方式。",
@@ -615,15 +177,15 @@
           "time_info": "[02时52分 ~ 05时37分]"
         },
         {
-          "title": "迫于特朗普“强烈反对”，英国暂缓归还查戈斯群岛主权",
-          "url": "https://wallstreetcn.com/livenews/3086393",
-          "source": "华尔街见闻-快讯",
+          "title": "美国总统特朗普：（美伊）会谈进行得不错，大部分议题都达成了共识，但唯一真正重要的核问题没有谈拢。即刻起，美国海军将开始对任何试图进出霍尔木兹海峡的船只实施封锁。",
+          "url": "https://flash.jin10.com/detail/20260412205424024800",
+          "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时37分"
+          "time_info": "21时08分"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-04-12）",
@@ -631,11 +193,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            6
+            6,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时42分 ~ 19时37分]"
+          "appearance_count": 3,
+          "time_info": "[18时42分 ~ 21时08分]"
         },
         {
           "title": "特朗普：是否与伊朗达成协议对我来说无关紧要",
@@ -689,6 +252,29 @@
           "time_info": "[13时28分 ~ 15时20分]"
         },
         {
+          "title": "英国官员：特朗普的言论让英美关系紧张",
+          "url": "https://news.ifeng.com/c/8sGY3tCnh0U",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时50分 ~ 21时08分]"
+        },
+        {
+          "title": "迫于特朗普“强烈反对”，英国暂缓归还查戈斯群岛主权",
+          "url": "https://wallstreetcn.com/livenews/3086393",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时37分 ~ 21时08分]"
+        },
+        {
           "title": "美国总统特朗普：（霍尔木兹海峡）水里可能有几枚水雷。",
           "url": "https://flash.jin10.com/detail/20260412045228541800",
           "source": "金十数据",
@@ -713,17 +299,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时37分 ~ 07时39分]"
-        },
-        {
-          "title": "英国官员：特朗普的言论让英美关系紧张",
-          "url": "https://news.ifeng.com/c/8sGY3tCnh0U",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时50分 ~ 19时37分]"
         },
         {
           "title": "美国总统特朗普：（伊朗）他们也许会达成协议，也许不会。",
@@ -811,6 +386,29 @@
           "time_info": "[13时27分 ~ 13时28分]"
         },
         {
+          "title": "特朗普威胁：如果伊朗拒绝妥协，将控制霍尔木兹海峡打击伊朗经济",
+          "url": "https://wallstreetcn.com/articles/3769762",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时42分 ~ 21时08分]"
+        },
+        {
+          "title": "美国代表团成员在巴基斯坦磋商结束后悉数离境。 总统特朗普女婿库什纳、特使Witkoff、以及技术团队已经离开伊斯兰堡。（CBS）",
+          "url": "https://wallstreetcn.com/livenews/3086389",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时37分 ~ 21时08分]"
+        },
+        {
           "title": "马斯克：Grok要接近Claude Opus 4.6的水平，需要等到五月，而要达到甚至超越它则需等到六月。以常规标准来看，时间很短，但在人工智能领域，这已经算是很长时间了。",
           "url": "https://wallstreetcn.com/livenews/3086308",
           "source": "华尔街见闻-快讯",
@@ -844,28 +442,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时39分"
-        },
-        {
-          "title": "特朗普威胁：如果伊朗拒绝妥协，将控制霍尔木兹海峡打击伊朗经济",
-          "url": "https://wallstreetcn.com/articles/3769762",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时42分"
-        },
-        {
-          "title": "美国代表团成员在巴基斯坦磋商结束后悉数离境。 总统特朗普女婿库什纳、特使Witkoff、以及技术团队已经离开伊斯兰堡。（CBS）",
-          "url": "https://wallstreetcn.com/livenews/3086389",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时37分"
         },
         {
           "title": "马斯克的“西方微信”要上线了",
@@ -907,7 +483,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时37分"
         },
@@ -921,6 +497,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时28分"
+        },
+        {
+          "title": "据美国哥伦比亚广播公司（CBS）：美伊会谈后，美国代表团无一人留在巴基斯坦；特朗普女婿库什纳、美国总统特使威特科夫及技术团队已离开伊斯兰堡。",
+          "url": "https://flash.jin10.com/detail/20260412191654767800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
         },
         {
           "title": "特朗普：我正密切关注化肥价格；美国不会接受化肥垄断企业的价格欺诈行为。",
@@ -947,8 +534,517 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek AI openai 机器人 小米 特斯拉 英伟达",
+      "match_count": 40,
+      "titles": [
+        {
+          "title": "AI恐慌的“标志性事件”：Altman家里差点被炸了",
+          "url": "https://wallstreetcn.com/articles/3769738",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时41分 ~ 10时53分]"
+        },
+        {
+          "title": "宇树机器人百米冲刺 10 米每秒，逼近博尔特记录，这个速度是什么水平？能应用到哪些现实场景？",
+          "url": "https://www.zhihu.com/question/2026580932996456466",
+          "source": "知乎",
+          "ranks": [
+            4,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时19分 ~ 21时08分]"
+        },
+        {
+          "title": "从华尔街到硅谷，Anthropic 抢走了OpenAI“所有的风头”",
+          "url": "https://wallstreetcn.com/articles/3769740",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时41分 ~ 10时53分]"
+        },
+        {
+          "title": "突发！OpenAI掌门奥尔特曼家差点被烧 本人愤怒发长文回应",
+          "url": "https://www.cls.cn/detail/2341199",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            6,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 21,
+          "time_info": "[00时41分 ~ 21时08分]"
+        },
+        {
+          "title": "水军机器人走错片场露马脚",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353086&amp;topic_name=%E6%B0%B4%E5%86%9B%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B5%B0%E9%94%99%E7%89%87%E5%9C%BA%E9%9C%B2%E9%A9%AC%E8%84%9A",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            9,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 21,
+          "time_info": "[00时41分 ~ 21时08分]"
+        },
+        {
+          "title": "公众号批量删除 AI 写作文章，新规则打击自动化方式的创作，这是怎么判断的？会带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2025695905764962890",
+          "source": "知乎",
+          "ranks": [
+            20,
+            4,
+            8,
+            7,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时52分 ~ 18时42分]"
+        },
+        {
+          "title": "我也来试一下这个wait",
+          "url": "https://www.douyin.com/hot/2462368",
+          "source": "抖音",
+          "ranks": [
+            17,
+            19,
+            25,
+            24,
+            20,
+            22,
+            21,
+            23,
+            29,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时41分 ~ 21时08分]"
+        },
+        {
+          "title": "机器人闪电展现提速能力",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%97%AA%E7%94%B5%E5%B1%95%E7%8E%B0%E6%8F%90%E9%80%9F%E8%83%BD%E5%8A%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            18,
+            15,
+            17,
+            25,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时52分 ~ 21时08分]"
+        },
+        {
+          "title": "小米推出 MiMo 大模型订阅套餐，罗福莉称不想「贱卖」token，将如何影响市场格局？",
+          "url": "https://www.zhihu.com/question/2025491195443311364",
+          "source": "知乎",
+          "ranks": [
+            4,
+            3,
+            8,
+            9,
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时52分 ~ 19时37分]"
+        },
+        {
+          "title": "机器人短跑破纪录有什么用",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%9F%AD%E8%B7%91%E7%A0%B4%E7%BA%AA%E5%BD%95%E6%9C%89%E4%BB%80%E4%B9%88%E7%94%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时54分 ~ 21时08分]"
+        },
+        {
+          "title": "宇树H1人形机器人奔跑速度再破纪录",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91H1%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%A5%94%E8%B7%91%E9%80%9F%E5%BA%A6%E5%86%8D%E7%A0%B4%E7%BA%AA%E5%BD%95",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            25,
+            26,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时51分 ~ 07时39分]"
+        },
+        {
+          "title": "宇树科技人形机器人跑出10米/秒",
+          "url": "https://www.toutiao.com/trending/7627639296832327218/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            10,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时52分 ~ 15时20分]"
+        },
+        {
+          "title": "机器人坐车里休息 一只脚搭在车架上",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%9D%90%E8%BD%A6%E9%87%8C%E4%BC%91%E6%81%AF+%E4%B8%80%E5%8F%AA%E8%84%9A%E6%90%AD%E5%9C%A8%E8%BD%A6%E6%9E%B6%E4%B8%8A",
+          "source": "百度热搜",
+          "ranks": [
+            2,
+            7,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时27分 ~ 16时54分]"
+        },
+        {
+          "title": "宇树机器人跑出10米/秒逼近人类巅峰",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B7%91%E5%87%BA10%E7%B1%B3%2F%E7%A7%92%E9%80%BC%E8%BF%91%E4%BA%BA%E7%B1%BB%E5%B7%85%E5%B3%B0",
+          "source": "百度热搜",
+          "ranks": [
+            1,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时52分 ~ 13时28分]"
+        },
+        {
+          "title": "小米推出 MiMo 大模型订阅套餐，罗福莉称不想「贱卖」词元，将如何影响市场格局？",
+          "url": "https://www.zhihu.com/question/2025491195443311364",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时27分 ~ 13时28分]"
+        },
+        {
+          "title": "国产AI模型为何大多免费",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E4%BA%A7AI%E6%A8%A1%E5%9E%8B%E4%B8%BA%E4%BD%95%E5%A4%A7%E5%A4%9A%E5%85%8D%E8%B4%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            8,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时50分 ~ 21时08分]"
+        },
+        {
+          "title": "人形机器人半马完成全流程测试",
+          "url": "https://www.douyin.com/hot/2463701",
+          "source": "抖音",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时54分 ~ 21时08分]"
+        },
+        {
+          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850504&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/D4supSq6s7-gSzJkAz87N.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260412130705252800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时28分 ~ 15时20分]"
+        },
+        {
+          "title": "磁吸爬壁、多场景作业 我国特种机器人迈上具身智能新台阶",
+          "url": "https://wallstreetcn.com/livenews/3086377",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时42分 ~ 19时37分]"
+        },
+        {
+          "title": "宇树机器人百米冲刺10米每秒",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%99%BE%E7%B1%B3%E5%86%B2%E5%88%BA10%E7%B1%B3%E6%AF%8F%E7%A7%92%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时52分 ~ 13时28分]"
+        },
+        {
+          "title": "让AI与AI互相聊天会聊出什么",
+          "url": "https://www.baidu.com/s?wd=%E8%AE%A9AI%E4%B8%8EAI%E4%BA%92%E7%9B%B8%E8%81%8A%E5%A4%A9%E4%BC%9A%E8%81%8A%E5%87%BA%E4%BB%80%E4%B9%88",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时27分 ~ 15时20分]"
+        },
+        {
+          "title": "机器人冲线后坐车休息脚搭车架上",
+          "url": "https://www.toutiao.com/trending/7626734057791455275/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时42分 ~ 21时08分]"
+        },
+        {
+          "title": "五部门发文普及中小学 AI 教育，纳入地方课程体系，下一步，AI 会不会进中考、高考？农村孩子怎么办？",
+          "url": "https://www.zhihu.com/question/2025885699283382999",
+          "source": "知乎",
+          "ranks": [
+            7,
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时39分 ~ 10时53分]"
+        },
+        {
+          "title": "70多款机器人深夜竞速",
+          "url": "https://s.weibo.com/weibo?q=%2370%E5%A4%9A%E6%AC%BE%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%B7%B1%E5%A4%9C%E7%AB%9E%E9%80%9F%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时19分 ~ 16时54分]"
+        },
+        {
+          "title": "人形机器人跑步姿势像成龙",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B7%91%E6%AD%A5%E5%A7%BF%E5%8A%BF%E5%83%8F%E6%88%90%E9%BE%99",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            15,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时42分 ~ 21时08分]"
+        },
+        {
+          "title": "小米股票为何跌跌不休",
+          "url": "https://www.toutiao.com/trending/7627799526945852991/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时42分 ~ 19时37分]"
+        },
+        {
+          "title": "机器人半马夜测跑姿大赏",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8D%8A%E9%A9%AC%E5%A4%9C%E6%B5%8B%E8%B7%91%E5%A7%BF%E5%A4%A7%E8%B5%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时19分 ~ 15时20分]"
+        },
+        {
+          "title": "彭博社汇总的数据显示，随着人工智能（AI）的发展和伊朗战争给低迷的退出市场带来巨大压力，今年的私募股权出售交易量已下降超过三分之一。",
+          "url": "https://wallstreetcn.com/livenews/3086390",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时37分 ~ 21时08分]"
+        },
+        {
+          "title": "2026智元合作伙伴大会本月17日举行，将发布4个本体新品、4个AI大模型",
+          "url": "https://wallstreetcn.com/livenews/3086367",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时42分 ~ 19时37分]"
+        },
+        {
+          "title": "宇树科技宣布人形机器人跑出10米/秒，逼近人类巅峰水平",
+          "url": "https://wallstreetcn.com/livenews/3086307",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时53分 ~ 13时28分]"
+        },
+        {
+          "title": "「机器人三定律」现实可行吗？",
+          "url": "https://www.zhihu.com/question/2013070255845557921",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时19分 ~ 15时20分]"
+        },
+        {
+          "title": "郑丽文探访小米汽车工厂",
+          "url": "https://www.douyin.com/hot/2463571",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时19分 ~ 15时20分]"
+        },
+        {
+          "title": "人形机器人半马完成全流程全要素测试",
+          "url": "https://www.toutiao.com/trending/7626527243027972137/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时27分 ~ 13时28分]"
+        },
+        {
+          "title": "OpenAI CEO住所遭袭",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%20CEO%E4%BD%8F%E6%89%80%E9%81%AD%E8%A2%AD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时54分"
+        },
+        {
+          "title": "荣耀自研机器人“闪电”“元气仔”将出征北京亦庄马拉松",
+          "url": "https://wallstreetcn.com/livenews/3086407",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
+        },
+        {
+          "title": "据英国金融时报：英国金融监管机构紧急评估Anthropic最新AI模型的风险。",
+          "url": "https://flash.jin10.com/detail/20260412194528448800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
+        },
+        {
+          "title": "孩子用 AI 写作文，我该夸他会用新科技，还是得拆穿他是在「作弊」？",
+          "url": "https://www.zhihu.com/question/2002055091918697271",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时35分"
+        },
+        {
+          "title": "小米正式调价",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E6%AD%A3%E5%BC%8F%E8%B0%83%E4%BB%B7",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时41分"
+        },
+        {
+          "title": "宇树科技H1人形机器人奔跑速度打破人形机器人世界纪录",
+          "url": "https://flash.jin10.com/detail/20260412105716390800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时28分"
+        },
+        {
+          "title": "2026机器人半马完成全流程测试",
+          "url": "https://search.bilibili.com/all?keyword=2026%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8D%8A%E9%A9%AC%E5%AE%8C%E6%88%90%E5%85%A8%E6%B5%81%E7%A8%8B%E6%B5%8B%E8%AF%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时37分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股 A股 港股 美债 美元 石油 战争",
-      "match_count": 29,
+      "match_count": 37,
       "titles": [
         {
           "title": "锂电池龙头创历史新高 锂矿A股名单及相关产能一览",
@@ -959,8 +1055,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时41分 ~ 19时37分]"
+          "appearance_count": 21,
+          "time_info": "[00时41分 ~ 21时08分]"
         },
         {
           "title": "A股一季报行情热火朝天 11家上市公司净利最高同比预增超500%",
@@ -969,11 +1065,12 @@
           "ranks": [
             3,
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时41分 ~ 19时37分]"
+          "appearance_count": 21,
+          "time_info": "[00时41分 ~ 21时08分]"
         },
         {
           "title": "伊朗战争丨美伊谈判未能达成协议，双方互相指责",
@@ -1014,8 +1111,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时41分 ~ 19时37分]"
+          "appearance_count": 21,
+          "time_info": "[00时41分 ~ 21时08分]"
+        },
+        {
+          "title": "当市场聚焦美伊谈判，一场石油争夺战正上演，“未来几周原油缺口将十分巨大”",
+          "url": "https://wallstreetcn.com/articles/3769759",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时19分 ~ 21时08分]"
         },
         {
           "title": "伊朗战争丨伊美即将举行第三轮会谈",
@@ -1029,18 +1138,6 @@
           "time_info": "[02时51分 ~ 03时38分]"
         },
         {
-          "title": "当市场聚焦美伊谈判，一场石油争夺战正上演，“未来几周原油缺口将十分巨大”",
-          "url": "https://wallstreetcn.com/articles/3769759",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时19分 ~ 19时37分]"
-        },
-        {
           "title": "伊朗战争丨美军称在霍尔木兹海峡进行扫雷，伊军回应",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -1052,6 +1149,17 @@
           "time_info": "[04时38分 ~ 06时36分]"
         },
         {
+          "title": "伊朗战争丨美伊谈判后以方为战火重燃作准备",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时42分 ~ 21时08分]"
+        },
+        {
           "title": "伊朗战争丨美伊谈判虽无果而终，但有4个积极信号",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -1061,17 +1169,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时54分 ~ 17时50分]"
-        },
-        {
-          "title": "伊朗战争丨美伊谈判后以方为战火重燃作准备",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时42分 ~ 19时37分]"
         },
         {
           "title": "日本如何应对石油危机",
@@ -1119,26 +1216,33 @@
           "time_info": "07时39分"
         },
         {
-          "title": "分析师：美伊谈判无果将使美元获得进一步上涨动力",
-          "url": "https://flash.jin10.com/detail/20260412185611698800",
-          "source": "金十数据",
+          "title": "A股交易重要调整来了",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E4%BA%A4%E6%98%93%E9%87%8D%E8%A6%81%E8%B0%83%E6%95%B4%E6%9D%A5%E4%BA%86%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
           "ranks": [
-            1
+            17,
+            7,
+            9,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时37分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时54分 ~ 21时08分]"
         },
         {
-          "title": "以色列3月外汇储备下滑至2282.7亿美元，2月份修正值2345.5亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3086395",
-          "source": "华尔街见闻-快讯",
+          "title": "以色列为何最不愿意停止战争",
+          "url": "https://www.toutiao.com/trending/7627781380826467866/",
+          "source": "今日头条",
           "ranks": [
-            4
+            22,
+            16,
+            11,
+            14,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时37分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时54分 ~ 21时08分]"
         },
         {
           "title": "银河证券：油价高位运行、政策持续发力带动下 关注A股三条配置机会",
@@ -1154,6 +1258,18 @@
           "time_info": "[17时50分 ~ 19时37分]"
         },
         {
+          "title": "分析师：美伊谈判无果将使美元获得进一步上涨动力",
+          "url": "https://flash.jin10.com/detail/20260412185611698800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时37分 ~ 21时08分]"
+        },
+        {
           "title": "伊朗石油部官员：预计受损炼油厂短期可至少恢复至此前七成产能",
           "url": "https://flash.jin10.com/detail/20260412161145962800",
           "source": "金十数据",
@@ -1167,31 +1283,30 @@
           "time_info": "[16时54分 ~ 18时42分]"
         },
         {
-          "title": "A股交易重要调整来了",
-          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E4%BA%A4%E6%98%93%E9%87%8D%E8%A6%81%E8%B0%83%E6%95%B4%E6%9D%A5%E4%BA%86%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
+          "title": "以色列3月外汇储备下滑至2282.7亿美元，2月份修正值2345.5亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3086395",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            17,
-            7,
-            9
+            4,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时54分 ~ 19时37分]"
+          "appearance_count": 2,
+          "time_info": "[19时37分 ~ 21时08分]"
         },
         {
           "title": "以色列为何最不愿意停止战争",
-          "url": "https://www.toutiao.com/trending/7627781380826467866/",
-          "source": "今日头条",
+          "url": "https://www.baidu.com/s?wd=%E4%BB%A5%E8%89%B2%E5%88%97%E4%B8%BA%E4%BD%95%E6%9C%80%E4%B8%8D%E6%84%BF%E6%84%8F%E5%81%9C%E6%AD%A2%E6%88%98%E4%BA%89",
+          "source": "百度热搜",
           "ranks": [
+            27,
+            24,
             22,
-            16,
-            11,
-            14
+            7
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[16时54分 ~ 19时37分]"
+          "time_info": "[17时50分 ~ 21时08分]"
         },
         {
           "title": "据阿曼国家通讯社：阿曼向本地及国际石油公司提供五个油气特许区块。",
@@ -1207,17 +1322,15 @@
           "time_info": "[17时50分 ~ 19时37分]"
         },
         {
-          "title": "以色列为何最不愿意停止战争",
-          "url": "https://www.baidu.com/s?wd=%E4%BB%A5%E8%89%B2%E5%88%97%E4%B8%BA%E4%BD%95%E6%9C%80%E4%B8%8D%E6%84%BF%E6%84%8F%E5%81%9C%E6%AD%A2%E6%88%98%E4%BA%89",
-          "source": "百度热搜",
+          "title": "环球下周看点：中东两周停火暂稳市场 美股财报季检验盈利韧性",
+          "url": "https://www.cls.cn/detail/2341358",
+          "source": "财联社热门",
           "ranks": [
-            27,
-            24,
-            22
+            13
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[17时50分 ~ 19时37分]"
+          "time_info": "[16时54分 ~ 21时08分]"
         },
         {
           "title": "“原油贸易巨头”维多在伊朗战争遭重创，华裔明星衍生品交易员重仓巨亏",
@@ -1256,17 +1369,6 @@
           "time_info": "[16时54分 ~ 17时50分]"
         },
         {
-          "title": "环球下周看点：中东两周停火暂稳市场 美股财报季检验盈利韧性",
-          "url": "https://www.cls.cn/detail/2341358",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时54分 ~ 17时50分]"
-        },
-        {
           "title": "A股4000点时刻如何跟上投资节奏",
           "url": "https://www.toutiao.com/trending/7627050049071726601/",
           "source": "今日头条",
@@ -1290,6 +1392,83 @@
           "time_info": "[15时19分 ~ 15时20分]"
         },
         {
+          "title": "分析师：美伊谈崩使不确定性扎根，美元将短时走强",
+          "url": "https://flash.jin10.com/detail/20260412204222767800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
+        },
+        {
+          "title": "报道：特朗普与财长贝森特讨论如何应付伊朗战争持续8-12周",
+          "url": "https://wallstreetcn.com/livenews/3086412",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
+        },
+        {
+          "title": "据华尔街日报：知情人士透露，美国财长贝森特曾与特朗普讨论过如果伊朗战争持续八到十二周，财政部可能采取的多种应对措施，以及美国在汽油价格可能上涨面前的脆弱性。",
+          "url": "https://flash.jin10.com/detail/20260412201048067800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
+        },
+        {
+          "title": "阿布扎比国有石油公司（ADNOC）的CEO Sultan al Jaber：霍尔木兹海峡从来就不（单独）属于伊朗，也不是该国能够限制通行的。",
+          "url": "https://wallstreetcn.com/livenews/3086409",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
+        },
+        {
+          "title": "阿联酋阿布扎比国家石油公司首席执行官：霍尔木兹海峡从来就不是伊朗可以关闭或限制通行的。（外媒更正，非“一直是由伊朗来决定关闭或限制通行的”。）",
+          "url": "https://flash.jin10.com/detail/20260412195556753800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
+        },
+        {
+          "title": "以色列央行：3月份外汇储备为2228.71亿美元，2月份为2345.45亿美元。（外媒更正，非“2236.97亿美元”与“2299.09亿美元”。）",
+          "url": "https://flash.jin10.com/detail/20260412193931563800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
+        },
+        {
+          "title": "中信建投：A股迎修复行情，围绕景气行业布局",
+          "url": "https://flash.jin10.com/detail/20260412192600712800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
+        },
+        {
           "title": "伊朗外交部发言人：过去24小时内，各方就谈判的主要议题进行了讨论，包括霍尔木兹海峡、核问题、战争赔偿、解除制裁、彻底结束对伊朗的战争以及地区局势等。",
           "url": "https://flash.jin10.com/detail/20260412084040764800",
           "source": "金十数据",
@@ -1299,6 +1478,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时53分"
+        },
+        {
+          "title": "伊朗法医组织：超过3300人死于“强加给伊朗的战争”",
+          "url": "https://wallstreetcn.com/livenews/3086392",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
         }
       ]
     },
@@ -1501,7 +1691,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时37分"
         },
