@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-04-29T06:02:04.025117+08:00",
-  "total_titles_processed": 534,
+  "generated_at": "2026-04-29T07:58:32.835067+08:00",
+  "total_titles_processed": 644,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 美债 美元 石油 战争",
-      "match_count": 47,
+      "match_count": 59,
       "titles": [
         {
           "title": "报道：阿联酋宣布5月1日起退出OPEC和OPEC+，将逐步提高石油产量",
           "url": "https://wallstreetcn.com/articles/3771148",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 06时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 07时58分]"
         },
         {
           "title": "中方回应日称“为长期战争做准备”",
@@ -24,11 +25,40 @@
           "source": "今日头条",
           "ranks": [
             2,
+            1,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 07时58分]"
+        },
+        {
+          "title": "阿联酋宣布退出石油输出国组织",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33071521",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            10,
+            4,
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 06时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 07时58分]"
+        },
+        {
+          "title": "中方回应高市称要为长期战争做准备，「日方挑衅动作频频，戳穿了其『和平国家』的自我标榜」，如何解读？",
+          "url": "https://www.zhihu.com/question/2032480791591134465",
+          "source": "知乎",
+          "ranks": [
+            11,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 07时58分]"
         },
         {
           "title": "阿联酋退出石油输出国组织",
@@ -40,34 +70,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 06时02分]"
-        },
-        {
-          "title": "中方回应高市称要为长期战争做准备，「日方挑衅动作频频，戳穿了其『和平国家』的自我标榜」，如何解读？",
-          "url": "https://www.zhihu.com/question/2032480791591134465",
-          "source": "知乎",
-          "ranks": [
-            11,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 06时02分]"
-        },
-        {
-          "title": "阿联酋宣布退出石油输出国组织",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33071521",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            10,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 06时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 07时58分]"
         },
         {
           "title": "阿联酋退出石油输出国组织",
@@ -77,11 +81,23 @@
             8,
             14,
             9,
-            5
+            5,
+            23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 06时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 07时58分]"
+        },
+        {
+          "title": "阿联酋为何退出石油输出国组织",
+          "url": "https://www.toutiao.com/trending/7633508445018849316/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
         },
         {
           "title": "市场消息：伊朗议会国家安全委员会成员赫兹里安表示，阿联酋正采取措施与美国结盟，企图对伊朗发动新一轮攻击。阿联酋公民应当明白，在未来任何可能爆发的战争中，该国都将遭到严厉教训。",
@@ -95,13 +111,37 @@
           "time_info": "02时20分"
         },
         {
+          "title": "高市称为长期战争做好准备，外交部：日本是不是要重蹈历史覆辙？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33061755",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 07时58分]"
+        },
+        {
+          "title": "韩国资金涌入 港股硬科技资产受青睐",
+          "url": "https://wallstreetcn.com/livenews/3096064",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        },
+        {
           "title": "美元指数28日上涨",
           "url": "https://flash.jin10.com/detail/20260429050156496800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
         },
@@ -123,7 +163,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
         },
@@ -167,21 +207,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
         },
         {
-          "title": "高市称为长期战争做好准备，外交部：日本是不是要重蹈历史覆辙？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33061755",
-          "source": "澎湃新闻",
+          "title": "伊朗陆军：战争尚未结束，正严阵以待",
+          "url": "https://news.ifeng.com/c/8shTPbRP5sB",
+          "source": "凤凰网",
           "ranks": [
-            10,
-            11
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 06时02分]"
+          "appearance_count": 4,
+          "time_info": "[04时19分 ~ 07时58分]"
         },
         {
           "title": "华尔街已经担心“120甚至150美元油价”：手机、汽车、衣服、化妆品……都在涨价路上",
@@ -219,17 +258,6 @@
           "time_info": "[04时19分 ~ 06时02分]"
         },
         {
-          "title": "伊朗陆军：战争尚未结束，正严阵以待",
-          "url": "https://news.ifeng.com/c/8shTPbRP5sB",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时19分 ~ 06时02分]"
-        },
-        {
           "title": "伊朗军方：当前仍定性为战争状态",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%86%9B%E6%96%B9%EF%BC%9A%E5%BD%93%E5%89%8D%E4%BB%8D%E5%AE%9A%E6%80%A7%E4%B8%BA%E6%88%98%E4%BA%89%E7%8A%B6%E6%80%81",
           "source": "百度热搜",
@@ -251,6 +279,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时55分 ~ 02时20分]"
+        },
+        {
+          "title": "伊朗战争丨受战事影响，特朗普支持率跌至任内新低",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
         },
         {
           "title": "对冲基金经理比尔·阿克曼（Bill Ackman）正逼近其期盼已久的公开上市目标，预计此次上市的募资额将达到其最高目标的一半。据三位知情人士透露，潘兴广场美国公司（Pershing Square USA）这支新的封闭式基金的上市预计将募集约50亿美元。潘兴广场最初曾表示，此次上市的募资额可能高达100亿美元。",
@@ -281,7 +320,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
         },
@@ -295,6 +334,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
+        },
+        {
+          "title": "世界银行预测：受中东战争影响，今年全球能源价格将大涨24%",
+          "url": "https://www.cls.cn/detail/2358761",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
         },
         {
           "title": "周二（4月28日），美联储隔夜逆回购协议（RRP）使用规模为6.43亿美元（交易对手6家），上个交易日报3.63亿美元。",
@@ -341,6 +391,17 @@
           "time_info": "04时19分"
         },
         {
+          "title": "淡水河谷一季度净利润18.9亿美元，分析师预期21.8亿美元。 一季度净运营收入92.6亿美元，分析师预期96.3亿美元。 一季度调整后EBITDA为38.3亿美元。 一季度Proforma EBITDA（形式上的息税折旧摊销前利润）为39亿美元，分析师预期41.1亿美元。 一季度Proforma EBITDA利润率42%，上年同期40%。 一季度资本开支10.9亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3096052",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        },
+        {
           "title": "美股盘前纳指跌超1.4%",
           "url": "https://www.toutiao.com/trending/7633808777389277227/",
           "source": "今日头条",
@@ -358,7 +419,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
         },
@@ -402,7 +463,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
         },
@@ -413,9 +474,31 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
+        },
+        {
+          "title": "阿联酋为何退出石油输出国组织",
+          "url": "https://www.baidu.com/s?wd=%E9%98%BF%E8%81%94%E9%85%8B%E4%B8%BA%E4%BD%95%E9%80%80%E5%87%BA%E7%9F%B3%E6%B2%B9%E8%BE%93%E5%87%BA%E5%9B%BD%E7%BB%84%E7%BB%87",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        },
+        {
+          "title": "高市早苗称要为长期战争做准备，外交部：要重蹈覆辙？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33069795",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
         },
         {
           "title": "阿联酋阿布扎比国家石油公司ADNOC首席执行官与卡塔尔能源大臣探讨阿联酋与卡塔尔在能源领域的合作方向。",
@@ -427,6 +510,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
+        },
+        {
+          "title": "据华尔街日报：美国参议院搁置古巴战争权力决议案。",
+          "url": "https://flash.jin10.com/detail/20260429063013277800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
         },
         {
           "title": "阿联酋阿布扎比国家石油公司ADNOC将5月乌姆卢卢（UMM Lulu）原油价格设定为与穆尔班原油持平。",
@@ -446,9 +540,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
+        },
+        {
+          "title": "美国防部正式申请更名为“战争部”",
+          "url": "https://www.toutiao.com/trending/7633931706562756662/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
         },
         {
           "title": "阿联酋阿布扎比国家石油公司ADNOC将5月份的穆尔班原油官方售价定为每桶110.75美元。",
@@ -473,6 +578,17 @@
           "time_info": "04时19分"
         },
         {
+          "title": "WTI原油日内跌幅达0.5%，报99.43美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3096041",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        },
+        {
           "title": "路透社/益普索调查：因生活成本担忧和伊朗战争，美国总统特朗普的支持率持续下滑，降至其任期内最低水平。",
           "url": "https://flash.jin10.com/detail/20260429010805616800",
           "source": "金十数据",
@@ -495,6 +611,17 @@
           "time_info": "04时19分"
         },
         {
+          "title": "美国电网运营商MISO夏季拍卖出清价为每兆瓦日424美元",
+          "url": "https://wallstreetcn.com/livenews/3096040",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        },
+        {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.8372元，较周一夜盘收盘跌97点。成交量522.63亿美元。",
           "url": "https://wallstreetcn.com/livenews/3095969",
           "source": "华尔街见闻-快讯",
@@ -512,9 +639,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
+        },
+        {
+          "title": "A股低迷原因找到了",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E4%BD%8E%E8%BF%B7%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
         },
         {
           "title": "两名伊拉克石油部门官员称，伊拉克不打算退出OPEC、或OPEC+，需要通过强大的联盟来稳定石油价格。（路透）",
@@ -542,7 +680,7 @@
     },
     {
       "keyword_group": "DeepSeek AI openai 机器人 小米 特斯拉 英伟达",
-      "match_count": 32,
+      "match_count": 41,
       "titles": [
         {
           "title": "美伊悬而未决，OpenAI“鬼故事”扰动，纳指盘初跌1.2%，半导体集体回调，WTI涨破百元大关，金银下挫",
@@ -582,11 +720,25 @@
           "url": "https://www.cls.cn/detail/2358592",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 06时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 07时58分]"
+        },
+        {
+          "title": "报道：OpenAI用户和营收双双未达标，CFO警告“还没准备好上市，或难以履行算力采购合同”",
+          "url": "https://wallstreetcn.com/articles/3771064",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 07时58分]"
         },
         {
           "title": "如何评价红果下架播放量 8 亿的 AI 短剧《菩提临世》？问题出在哪？AI 短剧创作要注意什么？",
@@ -596,11 +748,61 @@
             5,
             9,
             20,
-            13
+            13,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 06时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 07时58分]"
+        },
+        {
+          "title": "创业板跌超1%，医药逆势拉升、药明康德涨停，恒科指跌超2%，“全球AI硅光芯片第一股”暴涨近400%",
+          "url": "https://wallstreetcn.com/articles/3771068",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 07时58分]"
+        },
+        {
+          "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股美债齐跌，半导体回调，WTI破百，金银大跌",
+          "url": "https://wallstreetcn.com/articles/3771095",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        },
+        {
+          "title": "小米宣布MiMo V2.5正式开源",
+          "url": "https://www.douyin.com/hot/2481790",
+          "source": "抖音",
+          "ranks": [
+            14,
+            28,
+            9,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 07时58分]"
+        },
+        {
+          "title": "AI海报杀疯,设计师饭碗被砸",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353780&amp;topic_name=AI%E6%B5%B7%E6%8A%A5%E6%9D%80%E7%96%AF%2C%E8%AE%BE%E8%AE%A1%E5%B8%88%E9%A5%AD%E7%A2%97%E8%A2%AB%E7%A0%B8",
+          "source": "贴吧",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 07时58分]"
         },
         {
           "title": "OpenAI的Codex登陆亚马逊Bedrock平台",
@@ -620,32 +822,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
-        },
-        {
-          "title": "报道：OpenAI用户和营收双双未达标，CFO警告“还没准备好上市，或难以履行算力采购合同”",
-          "url": "https://wallstreetcn.com/articles/3771064",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 06时02分]"
-        },
-        {
-          "title": "创业板跌超1%，医药逆势拉升、药明康德涨停，恒科指跌超2%，“全球AI硅光芯片第一股”暴涨近400%",
-          "url": "https://wallstreetcn.com/articles/3771068",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 06时02分]"
         },
         {
           "title": "据知情人士透露，黑石集团旗下QTS要求银行业提供20亿美元资金，用于保障（来自公用事业行业）AI电力供应。（彭博）",
@@ -659,29 +838,16 @@
           "time_info": "02时20分"
         },
         {
-          "title": "小米宣布MiMo V2.5正式开源",
-          "url": "https://www.douyin.com/hot/2481790",
-          "source": "抖音",
+          "title": "美股收盘：OpenAI相关股票承压 三大指数集体下跌",
+          "url": "https://www.cls.cn/detail/2358855",
+          "source": "财联社热门",
           "ranks": [
-            14,
-            28,
-            9,
-            10
+            11,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 06时02分]"
-        },
-        {
-          "title": "AI海报杀疯,设计师饭碗被砸",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353780&amp;topic_name=AI%E6%B5%B7%E6%8A%A5%E6%9D%80%E7%96%AF%2C%E8%AE%BE%E8%AE%A1%E5%B8%88%E9%A5%AD%E7%A2%97%E8%A2%AB%E7%A0%B8",
-          "source": "贴吧",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 06时02分]"
+          "appearance_count": 3,
+          "time_info": "[06时01分 ~ 07时58分]"
         },
         {
           "title": "马斯克律师：OpenAI“偷走了一个慈善机构”，针对AI公司及Altman的审判开启",
@@ -696,17 +862,6 @@
           "time_info": "[00时55分 ~ 02时20分]"
         },
         {
-          "title": "美股收盘：OpenAI相关股票承压 三大指数集体下跌",
-          "url": "https://www.cls.cn/detail/2358855",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时01分 ~ 06时02分]"
-        },
-        {
           "title": "岗位被AI替代怎么办？杭州发布指引",
           "url": "https://www.baidu.com/s?wd=%E5%B2%97%E4%BD%8D%E8%A2%ABAI%E6%9B%BF%E4%BB%A3%E6%80%8E%E4%B9%88%E5%8A%9E%EF%BC%9F%E6%9D%AD%E5%B7%9E%E5%8F%91%E5%B8%83%E6%8C%87%E5%BC%95",
           "source": "百度热搜",
@@ -719,6 +874,17 @@
           "time_info": "[02时20分 ~ 04时19分]"
         },
         {
+          "title": "因OpenAI未能达成目标，软银股价创六个月来最大跌幅，甲骨文、AMD也被拖累",
+          "url": "https://wallstreetcn.com/articles/3771151",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        },
+        {
           "title": "纳斯达克金龙中国指数初步收跌0.4%。 热门中概股里，金山云初步收跌6.4%，万国数据跌4.8%，世纪互联跌3.7%，小米跌3.3%，小鹏跌2.6%，比亚迪跌2.3%，阿里、拼多多跌1.2%，蔚来涨1.8%，新东方涨2.1%，阿特斯太阳能涨6.6%。",
           "url": "https://wallstreetcn.com/livenews/3095992",
           "source": "华尔街见闻-快讯",
@@ -728,6 +894,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时19分"
+        },
+        {
+          "title": "英伟达推全新开源模型 效率提升9倍",
+          "url": "https://www.toutiao.com/trending/7633950924704058899/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        },
+        {
+          "title": "AI算力需求持续爆发，工业富联Q1营收同比增长57%，净利润增长103%｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3771123",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
         },
         {
           "title": "英伟达推出NEMOTRON 3 NANO OMNI模型，实现视觉、音频和语言的统一，使AI智能体的效率提高至9倍。",
@@ -851,6 +1039,17 @@
           "time_info": "04时19分"
         },
         {
+          "title": "报道：OpenAI预计用户将大规模转向更廉价的ChatGPT订阅层级",
+          "url": "https://wallstreetcn.com/livenews/3096044",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        },
+        {
           "title": "据知情人士透露，Airtel Africa Plc.考虑将Mobile Money部门英国IPO，寻求按高达100亿美元估值融资至多20亿美元。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3095904",
           "source": "华尔街见闻-快讯",
@@ -895,6 +1094,17 @@
           "time_info": "02时20分"
         },
         {
+          "title": "据The Information：OpenAI预计今年将有1.12亿用户订阅ChatGPT Go。",
+          "url": "https://flash.jin10.com/detail/20260429060010713800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        },
+        {
           "title": "马斯克将成为自己起诉OpenAI与Altman一案的第一位（出庭的）证人。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3095967",
           "source": "华尔街见闻-快讯",
@@ -904,13 +1114,309 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时19分"
+        },
+        {
+          "title": "据The Information：OpenAI预计今年“8美元ChatGPT Go”的订阅量将大幅增长。",
+          "url": "https://flash.jin10.com/detail/20260429055922440800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        },
+        {
+          "title": "OpenAI与Anthropic（上）周四向美国众议院国土安全委员会做了一次简报。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3096036",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        },
+        {
+          "title": "据AXIOS：OpenAI与Anthropic就先进网络模型与美国众议院委员会举行会议。",
+          "url": "https://flash.jin10.com/detail/20260429055656678800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普 马斯克 加密货币 美联储",
+      "match_count": 22,
+      "titles": [
+        {
+          "title": "90秒｜被控刺杀总统，实景还原：枪手离特朗普到底有多近",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33069746",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 07时58分]"
+        },
+        {
+          "title": "特朗普解散国家科学委员会引震动，学者：将对美基础科研生态造成长期伤害",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33069415",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 07时58分]"
+        },
+        {
+          "title": "Robinhood预警特朗普账户相关支出，股价盘后下跌",
+          "url": "https://wallstreetcn.com/livenews/3096034",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
+          "title": "美国参议院否决限制特朗普对古巴动武的决议",
+          "url": "https://wallstreetcn.com/livenews/3096062",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        },
+        {
+          "title": "白宫晚宴提前结束，没上桌的2600份龙虾去哪了？特朗普希望重办",
+          "url": "https://news.ifeng.com/c/8sh8ue4fj2Y",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 02时20分]"
+        },
+        {
+          "title": "经济学家前瞻美联储决议：就业改善通胀居高 需静待变化",
+          "url": "https://flash.jin10.com/detail/20260429073427279800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        },
+        {
+          "title": "已经破产了的加密货币交易所FTX联合创始人Sam Bankman-Fried（SBF）请求重新审判，自称掌握了新的证据，但被美国法官Lewis Kaplan驳回，法官认为SBF意图“挽回自己的颜面”。",
+          "url": "https://wallstreetcn.com/livenews/3096030",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
+          "title": "特朗普爆伊朗“崩溃”请求开海峡！伊朗却宣布绝对控制，要求缴纳通行费",
+          "url": "https://flash.jin10.com/detail/20260429072129903800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        },
+        {
+          "title": "因与特朗普存在分歧，美国驻乌克兰大使即将离任",
+          "url": "https://flash.jin10.com/detail/20260429032221127800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时19分"
+        },
+        {
+          "title": "美参议院否决限制特朗普对古巴动武决议",
+          "url": "https://flash.jin10.com/detail/20260429071003456800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        },
+        {
+          "title": "美最新民调显示特朗普支持率跌至任内新低",
+          "url": "https://wallstreetcn.com/livenews/3096055",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        },
+        {
+          "title": "据美媒Bulwark和福克斯新闻报道，美国国务院正在敲定将特朗普的头像印在美国护照上的计划。",
+          "url": "https://flash.jin10.com/detail/20260429013410217800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时20分"
+        },
+        {
+          "title": "美国情报机构研判伊朗将如何回应特朗普单方面宣布胜利",
+          "url": "https://flash.jin10.com/detail/20260429031029178800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时19分"
+        },
+        {
+          "title": "因与特朗普分歧加剧，美驻乌临时代办将离任",
+          "url": "https://wallstreetcn.com/livenews/3096049",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        },
+        {
+          "title": "纪念建国250周年 美国将发行印有特朗普肖像的护照",
+          "url": "https://flash.jin10.com/detail/20260429063235658800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        },
+        {
+          "title": "美国参议院民主党成员Warren发函给美联储理事鲍曼，谈及信用卡费率政策上限的时间线。",
+          "url": "https://wallstreetcn.com/livenews/3096045",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        },
+        {
+          "title": "据CBS：特朗普政府要求对移民申请者进行更严格的安全审查。",
+          "url": "https://flash.jin10.com/detail/20260429062107996800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        },
+        {
+          "title": "路透社/益普索调查：22%的美国人认可美国总统特朗普对生活成本问题的处理，较此前调查中的25%下降。",
+          "url": "https://flash.jin10.com/detail/20260429010845585800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时20分"
+        },
+        {
+          "title": "路透社/益普索调查：34%的美国人对美国总统特朗普的工作表现表示认可，较4月中旬的36%下降。",
+          "url": "https://flash.jin10.com/detail/20260429010823654800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时20分"
+        },
+        {
+          "title": "据美国财经媒体Semafor：美国参议员Fetterman表示，他将支持凯文·沃什出任美联储主席的提名。他可能会成为唯一支持这一提名的民主党人。",
+          "url": "https://flash.jin10.com/detail/20260429061437577800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        },
+        {
+          "title": "星巴克：（美国总统特朗普造成的）关税压力和咖啡价格对今年后期的影响将是轻微的。",
+          "url": "https://wallstreetcn.com/livenews/3096010",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
+          "title": "美联储次日凌晨维持利率不变的概率为100%",
+          "url": "https://flash.jin10.com/detail/20260429060246857800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
         }
       ]
     },
     {
       "keyword_group": "黄金 白银 铜 铝 稀土",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
+        {
+          "title": "金十图示：2026年04月29日（周三）白银ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260429074622516800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        },
         {
           "title": "阿根廷圣胡安省司法部门允许维库尼亚铜矿项目继续运营。",
           "url": "https://flash.jin10.com/detail/20260429034651732800",
@@ -965,7 +1471,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
         },
@@ -976,7 +1482,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
         },
@@ -1009,7 +1515,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
         },
@@ -1025,13 +1531,24 @@
           "time_info": "04时19分"
         },
         {
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日减少3.428吨，当前持仓量为1040.909吨。",
+          "url": "https://flash.jin10.com/detail/20260429061903013800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        },
+        {
           "title": "美股大类资产类ETF多数收跌，黄金ETF跌超1.8%，布油基金涨超2.7%",
           "url": "https://wallstreetcn.com/livenews/3096006",
           "source": "华尔街见闻-快讯",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
         },
@@ -1042,137 +1559,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普 马斯克 加密货币 美联储",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "Robinhood预警特朗普账户相关支出，股价盘后下跌",
-          "url": "https://wallstreetcn.com/livenews/3096034",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时02分"
-        },
-        {
-          "title": "90秒｜被控刺杀总统，实景还原：枪手离特朗普到底有多近",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33069746",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            13
-          ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 06时02分]"
-        },
-        {
-          "title": "特朗普解散国家科学委员会引震动，学者：将对美基础科研生态造成长期伤害",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33069415",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 06时02分]"
-        },
-        {
-          "title": "白宫晚宴提前结束，没上桌的2600份龙虾去哪了？特朗普希望重办",
-          "url": "https://news.ifeng.com/c/8sh8ue4fj2Y",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时55分 ~ 02时20分]"
-        },
-        {
-          "title": "已经破产了的加密货币交易所FTX联合创始人Sam Bankman-Fried（SBF）请求重新审判，自称掌握了新的证据，但被美国法官Lewis Kaplan驳回，法官认为SBF意图“挽回自己的颜面”。",
-          "url": "https://wallstreetcn.com/livenews/3096030",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时02分"
-        },
-        {
-          "title": "因与特朗普存在分歧，美国驻乌克兰大使即将离任",
-          "url": "https://flash.jin10.com/detail/20260429032221127800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时19分"
-        },
-        {
-          "title": "据美媒Bulwark和福克斯新闻报道，美国国务院正在敲定将特朗普的头像印在美国护照上的计划。",
-          "url": "https://flash.jin10.com/detail/20260429013410217800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时20分"
-        },
-        {
-          "title": "美国情报机构研判伊朗将如何回应特朗普单方面宣布胜利",
-          "url": "https://flash.jin10.com/detail/20260429031029178800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时19分"
-        },
-        {
-          "title": "路透社/益普索调查：22%的美国人认可美国总统特朗普对生活成本问题的处理，较此前调查中的25%下降。",
-          "url": "https://flash.jin10.com/detail/20260429010845585800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时20分"
-        },
-        {
-          "title": "路透社/益普索调查：34%的美国人对美国总统特朗普的工作表现表示认可，较4月中旬的36%下降。",
-          "url": "https://flash.jin10.com/detail/20260429010823654800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时20分"
-        },
-        {
-          "title": "星巴克：（美国总统特朗普造成的）关税压力和咖啡价格对今年后期的影响将是轻微的。",
-          "url": "https://wallstreetcn.com/livenews/3096010",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "06时02分"
         }
@@ -1180,7 +1567,7 @@
     },
     {
       "keyword_group": "外交部 商务部 证监会 央行",
-      "match_count": 5,
+      "match_count": 9,
       "titles": [
         {
           "title": "全球迎来超级央行周",
@@ -1190,11 +1577,12 @@
             9,
             13,
             10,
-            11
+            11,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 06时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 07时58分]"
         },
         {
           "title": "外交部再次提醒中国公民暂勿赴伊朗",
@@ -1206,6 +1594,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时01分 ~ 06时02分]"
+        },
+        {
+          "title": "英国国家经济社会研究院：预计在温和情景下，英国央行的利率将上调至4%。",
+          "url": "https://flash.jin10.com/detail/20260429070259394800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
         },
         {
           "title": "阿联酋外交部发言人：阿联酋将继续与合作伙伴紧密合作，深化双边和多边合作，并为更灵活、更高效的稳定市场做出贡献。",
@@ -1230,6 +1629,17 @@
           "time_info": "00时55分"
         },
         {
+          "title": "英国国家经济社会研究院：在不利情景下，英国央行的关键利率应上升至5.25%。",
+          "url": "https://flash.jin10.com/detail/20260429070145059800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        },
+        {
           "title": "卡塔尔外交部：反对将霍尔木兹海峡作为施压工具",
           "url": "https://wallstreetcn.com/livenews/3095905",
           "source": "华尔街见闻-快讯",
@@ -1239,6 +1649,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
+        },
+        {
+          "title": "智利央行一致决定维持利率在4.50%不变。",
+          "url": "https://flash.jin10.com/detail/20260429060037235800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        },
+        {
+          "title": "智利央行维持关键利率在4.5%不变，符合预期。 全球经济继续表现出不确定性。",
+          "url": "https://wallstreetcn.com/livenews/3096038",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
         }
       ]
     }
