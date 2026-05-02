@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-02T08:41:38.046425+08:00",
-  "total_titles_processed": 691,
+  "generated_at": "2026-05-02T11:21:16.101722+08:00",
+  "total_titles_processed": 816,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 美债 美元 石油 战争",
-      "match_count": 70,
+      "match_count": 73,
       "titles": [
         {
           "title": "美股收盘：标普纳指再创新高 谷歌劲升10%闪迪盘后重挫",
@@ -16,8 +16,34 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时03分 ~ 08时41分]"
+          "appearance_count": 11,
+          "time_info": "[00时03分 ~ 11时21分]"
+        },
+        {
+          "title": "狼终于来了！日本两年来首度干预，日元飙升，油价、美股和美债“联动”",
+          "url": "https://wallstreetcn.com/articles/3771452",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时03分 ~ 11时21分]"
+        },
+        {
+          "title": "马斯克去年总薪酬：1583.6亿美元？实际到手：0美元！",
+          "url": "https://www.cls.cn/detail/2361824",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时03分 ~ 11时21分]"
         },
         {
           "title": "伊朗提新谈判方案，美股高开，苹果绩后一度涨近6%，美油盘中跌超5%",
@@ -31,32 +57,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时01分 ~ 05时58分]"
-        },
-        {
-          "title": "狼终于来了！日本两年来首度干预，日元飙升，油价、美股和美债“联动”",
-          "url": "https://wallstreetcn.com/articles/3771452",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时03分 ~ 08时41分]"
-        },
-        {
-          "title": "马斯克去年总薪酬：1583.6亿美元？实际到手：0美元！",
-          "url": "https://www.cls.cn/detail/2361824",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时03分 ~ 08时41分]"
         },
         {
           "title": "加拿大的石油储备世界第二，为什么大家似乎都关注中东的石油为多呢？",
@@ -99,11 +99,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            10
+            10,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时57分 ~ 08时41分]"
+          "appearance_count": 5,
+          "time_info": "[04时57分 ~ 11时21分]"
         },
         {
           "title": "金十图示：2026年05月01日（周五）热门中概股行情一览（美股收盘）",
@@ -111,11 +112,23 @@
           "source": "金十数据",
           "ranks": [
             5,
-            11
+            11,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时57分 ~ 08时41分]"
+          "appearance_count": 5,
+          "time_info": "[04时57分 ~ 11时21分]"
+        },
+        {
+          "title": "伊朗战争丨特朗普：说我们没赢，这是叛国",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时20分 ~ 11时21分]"
         },
         {
           "title": "据知情人士透露，Cerebras Systems考虑通过美国IPO融资至多40亿美元，已经获得超过100亿美元认购意向。（彭博）",
@@ -127,17 +140,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时57分"
-        },
-        {
-          "title": "据AXIOS：美国国防部估计美国封锁已使伊朗损失48亿美元。",
-          "url": "https://flash.jin10.com/detail/20260502080556644800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时41分"
         },
         {
           "title": "报道：WildFire Energy股东正寻求按逾40亿美元出售该美国页岩油运营商",
@@ -162,15 +164,17 @@
           "time_info": "05时58分"
         },
         {
-          "title": "美国总统特朗普：已经销售1亿桶委内瑞拉石油。 多家大型美国石油公司正前往委内瑞拉。",
-          "url": "https://wallstreetcn.com/livenews/3098088",
+          "title": "巴克莱：虽然阿拉伯联合酋长国计划退出石油输出国组织（OPEC，欧佩克）可能有助于缩小非OPEC供应增长与需求之间的中期差距，但不太可能完全弥补这一缺口，并且会降低闲置产能。",
+          "url": "https://wallstreetcn.com/livenews/3098075",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            2,
+            10,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时41分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时58分 ~ 11时21分]"
         },
         {
           "title": "伊朗提新谈判方案，美股高开高走，苹果绩后一度涨近6%，美油盘中跌超5%",
@@ -206,18 +210,6 @@
           "time_info": "03时25分"
         },
         {
-          "title": "巴克莱：虽然阿拉伯联合酋长国计划退出石油输出国组织（OPEC，欧佩克）可能有助于缩小非OPEC供应增长与需求之间的中期差距，但不太可能完全弥补这一缺口，并且会降低闲置产能。",
-          "url": "https://wallstreetcn.com/livenews/3098075",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时58分 ~ 08时41分]"
-        },
-        {
           "title": "美国原油期货结算价为每桶101.94美元，下跌3.13美元，跌幅2.98%。",
           "url": "https://flash.jin10.com/detail/20260502023138406800",
           "source": "金十数据",
@@ -229,17 +221,6 @@
           "time_info": "03时25分"
         },
         {
-          "title": "国际货币基金组织：安哥拉石油产量显著下降，预计2025年财政和外部形势将进一步恶化。",
-          "url": "https://flash.jin10.com/detail/20260502080342462800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时41分"
-        },
-        {
           "title": "WTI 6月原油期货收跌3.13美元，跌幅2.98%，报101.94美元/桶。 布伦特7月原油期货收跌2.23美元，跌幅2.02%，报108.17美元/桶。 中东Abu Dhabi Murban原油期货跌3.70%，报104.02美元/桶，本周累涨3.90%。 NYMEX 6月天然气期货收报2.78美元/百万英热单位。 NYMEX 6月汽油期货收报3.5952美元/加仑，NYMEX 6月取暖油期货收报3.9496美元/加仑。",
           "url": "https://wallstreetcn.com/livenews/3098015",
           "source": "华尔街见闻-快讯",
@@ -249,17 +230,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时25分"
-        },
-        {
-          "title": "油轮期货指数ETF收涨6.64%，报174.18美元，突破4月9日所创收盘历史最高位169.97美元、逼近当天所创盘中历史最高位179.8999美元，本周累计上涨24.62%。",
-          "url": "https://wallstreetcn.com/livenews/3098085",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时41分"
         },
         {
           "title": "伊朗战争丨特朗普：对伊朗最新的谈判方案不满意",
@@ -284,6 +254,31 @@
           "time_info": "[05时58分 ~ 08时41分]"
         },
         {
+          "title": "游戏驿站（GME）美股盘后涨4%，报道称该公司考虑收购eBay。 eBay盘后涨幅扩大至13%。",
+          "url": "https://wallstreetcn.com/livenews/3098073",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            11,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时57分 ~ 11时21分]"
+        },
+        {
+          "title": "据AXIOS：美国国防部估计美国封锁已使伊朗损失48亿美元。",
+          "url": "https://flash.jin10.com/detail/20260502080556644800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时41分 ~ 11时21分]"
+        },
+        {
           "title": "美国芝加哥商业交易所（CME）集团：4月30日，EBS平台受理的日元成交量达到858亿美元，创最近十年来新高。 通过CME旗下FX Link产品的日元成交量突破9.2万合约，创历史新高。 日元期权成交总额42亿美元。 4月30日，期货、期权、现货市场的日元成交量1407亿美元。",
           "url": "https://wallstreetcn.com/livenews/3097997",
           "source": "华尔街见闻-快讯",
@@ -296,16 +291,16 @@
           "time_info": "[02时02分 ~ 03时25分]"
         },
         {
-          "title": "游戏驿站（GME）美股盘后涨4%，报道称该公司考虑收购eBay。 eBay盘后涨幅扩大至13%。",
-          "url": "https://wallstreetcn.com/livenews/3098073",
+          "title": "美国总统特朗普：已经销售1亿桶委内瑞拉石油。 多家大型美国石油公司正前往委内瑞拉。",
+          "url": "https://wallstreetcn.com/livenews/3098088",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            11
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时57分 ~ 08时41分]"
+          "time_info": "[08时41分 ~ 11时21分]"
         },
         {
           "title": "周五（5月1日），美联储隔夜逆回购协议（RRP）使用规模为6.07亿美元（交易对手5家），上个交易日报82.61亿美元。",
@@ -318,6 +313,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时02分 ~ 03时25分]"
+        },
+        {
+          "title": "国际货币基金组织：安哥拉石油产量显著下降，预计2025年财政和外部形势将进一步恶化。",
+          "url": "https://flash.jin10.com/detail/20260502080342462800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时41分 ~ 11时21分]"
+        },
+        {
+          "title": "油轮期货指数ETF收涨6.64%，报174.18美元，突破4月9日所创收盘历史最高位169.97美元、逼近当天所创盘中历史最高位179.8999美元，本周累计上涨24.62%。",
+          "url": "https://wallstreetcn.com/livenews/3098085",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时41分 ~ 11时21分]"
         },
         {
           "title": "美股收盘，道指初步收跌0.31%、标普500指数涨0.29%、纳指涨0.89%。因Q1财报靓丽，苹果(AAPL.O)收涨3.24%、闪迪(SNDK.O)涨8.25%。英特尔(INTC.O)涨5.44%，收盘价为99.62美元创下新高。",
@@ -428,6 +447,17 @@
           "time_info": "[05时58分 ~ 08时41分]"
         },
         {
+          "title": "伊朗战争会再次影响访华行程吗？特朗普答凤凰记者问",
+          "url": "https://news.ifeng.com/c/8snAXIe1Bbr",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时20分 ~ 11时21分]"
+        },
+        {
           "title": "比特币涨超2%，美股盘初曾逼近7.9万美元，狗狗币最近七天涨超10%",
           "url": "https://wallstreetcn.com/livenews/3097992",
           "source": "华尔街见闻-快讯",
@@ -438,6 +468,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时02分 ~ 03时25分]"
+        },
+        {
+          "title": "美股存储芯片指数涨3.5%创收盘历史新高，成分股闪迪、希捷、美光领跑",
+          "url": "https://wallstreetcn.com/livenews/3098084",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时41分 ~ 11时21分]"
+        },
+        {
+          "title": "美股七巨头收盘播报｜周五（5月1日），美国科技股七巨头（Magnificent 7）指数涨1.01%，报215.12点，早盘曾达到216.83点——突破4月27日所创收盘历史最高位215.24点，本周累计上涨0.91%。 “超大”市值科技股指数涨1.26%，报426.01点，突破2025年10月29日所创收盘历史最高位422.72点，刷新盘中历史高位至428.31点，本周累涨1.08%。",
+          "url": "https://wallstreetcn.com/livenews/3098081",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时41分 ~ 11时21分]"
         },
         {
           "title": "美国5月1日当周石油钻井数 408，前值 407。",
@@ -462,6 +516,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时57分 ~ 08时41分]"
+        },
+        {
+          "title": "顶住特朗普压力，美国两大能源巨头拒绝提高石油产量",
+          "url": "https://wallstreetcn.com/articles/3771461",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时20分 ~ 11时21分]"
         },
         {
           "title": "美国总统特朗普兜售股市上涨，宣称本来以为（美国和以色列发动的伊朗）战争会让股市暴跌25%。",
@@ -509,17 +574,6 @@
           "time_info": "04时57分"
         },
         {
-          "title": "美股存储芯片指数涨3.5%创收盘历史新高，成分股闪迪、希捷、美光领跑",
-          "url": "https://wallstreetcn.com/livenews/3098084",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时41分"
-        },
-        {
           "title": "据知情人士透露，英国石油公司将评估北海资产。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3097951",
           "source": "华尔街见闻-快讯",
@@ -529,17 +583,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
-        },
-        {
-          "title": "美股七巨头收盘播报｜周五（5月1日），美国科技股七巨头（Magnificent 7）指数涨1.01%，报215.12点，早盘曾达到216.83点——突破4月27日所创收盘历史最高位215.24点，本周累计上涨0.91%。 “超大”市值科技股指数涨1.26%，报426.01点，突破2025年10月29日所创收盘历史最高位422.72点，刷新盘中历史高位至428.31点，本周累涨1.08%。",
-          "url": "https://wallstreetcn.com/livenews/3098081",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时41分"
         },
         {
           "title": "布伦特原油期货跌2美元/桶，伊朗提出和平建议。",
@@ -669,7 +712,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时41分"
         },
@@ -809,8 +852,46 @@
     },
     {
       "keyword_group": "特朗普 马斯克 加密货币 美联储",
-      "match_count": 65,
+      "match_count": 70,
       "titles": [
+        {
+          "title": "伊朗总统表示美国海上封锁不可容忍 特朗普称已摧毁伊朗核能力 | 环球市场",
+          "url": "https://www.cls.cn/detail/2361654",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时03分 ~ 11时21分]"
+        },
+        {
+          "title": "屡遭暗杀还不考虑穿防弹衣？特朗普：穿着显胖",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33088375",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时03分 ~ 11时21分]"
+        },
+        {
+          "title": "总统能上太空吗？特朗普现场发问，NASA局长：可以安排",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33088692",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时03分 ~ 11时21分]"
+        },
         {
           "title": "根据53年前颁布的这项法案，今天以后特朗普还能继续打伊朗吗？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33084769",
@@ -825,44 +906,6 @@
           "time_info": "[00时03分 ~ 06时57分]"
         },
         {
-          "title": "伊朗总统表示美国海上封锁不可容忍 特朗普称已摧毁伊朗核能力 | 环球市场",
-          "url": "https://www.cls.cn/detail/2361654",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时03分 ~ 08时41分]"
-        },
-        {
-          "title": "屡遭暗杀还不考虑穿防弹衣？特朗普：穿着显胖",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33088375",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时03分 ~ 08时41分]"
-        },
-        {
-          "title": "总统能上太空吗？特朗普现场发问，NASA局长：可以安排",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33088692",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时03分 ~ 08时41分]"
-        },
-        {
           "title": "伊朗经调解方转交谈判新方案，特朗普称“不满意”、告知国会与伊敌对行动“结束”",
           "url": "https://wallstreetcn.com/articles/3771465",
           "source": "华尔街见闻",
@@ -875,6 +918,17 @@
           "time_info": "[05时58分 ~ 08时41分]"
         },
         {
+          "title": "德副总理：不需要特朗普指点，他该先关注自己捅出的篓子",
+          "url": "https://news.ifeng.com/c/8smXkOIlSF7",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时41分 ~ 11时21分]"
+        },
+        {
           "title": "郑丽文希望去美国见特朗普，黄国昌回应",
           "url": "https://news.ifeng.com/c/8sm9eTtZoPK",
           "source": "凤凰网",
@@ -884,6 +938,28 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时01分 ~ 06时57分]"
+        },
+        {
+          "title": "伊朗转交新方案，“放宽谈判条件”，特朗普称“不满意”，但“倾向于不打击”",
+          "url": "https://wallstreetcn.com/articles/3771465",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时20分 ~ 11时21分]"
+        },
+        {
+          "title": "马斯克承认蒸馏ChatGPT",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E6%89%BF%E8%AE%A4%E8%92%B8%E9%A6%8FChatGPT",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时20分 ~ 11时21分]"
         },
         {
           "title": "特朗普：下周将提高欧盟输美的汽车和卡车关税",
@@ -919,17 +995,6 @@
           "time_info": "03时25分"
         },
         {
-          "title": "美国总统特朗普：（关于伊朗）我们不会提前离开，问题会再次出现。",
-          "url": "https://flash.jin10.com/detail/20260502080736827800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时41分"
-        },
-        {
           "title": "特朗普：上调欧盟汽车关税",
           "url": "https://wallstreetcn.com/livenews/3097961",
           "source": "华尔街见闻-快讯",
@@ -939,17 +1004,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
-        },
-        {
-          "title": "德副总理：不需要特朗普指点，他该先关注自己捅出的篓子",
-          "url": "https://news.ifeng.com/c/8smXkOIlSF7",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时41分"
         },
         {
           "title": "美国总统特朗普：如果他们在美国工厂生产汽车和卡车，就不会有关税。",
@@ -1018,6 +1072,19 @@
           "time_info": "02时02分"
         },
         {
+          "title": "美国总统特朗普正将大约5000名美军士兵撤出美国。（CBS）",
+          "url": "https://wallstreetcn.com/livenews/3098071",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            13,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时58分 ~ 11时21分]"
+        },
+        {
           "title": "特朗普声称美国拥有比以往任何时候都多的武器库存",
           "url": "https://flash.jin10.com/detail/20260502011527654800",
           "source": "金十数据",
@@ -1040,16 +1107,16 @@
           "time_info": "[02时01分 ~ 05时58分]"
         },
         {
-          "title": "美国总统特朗普正将大约5000名美军士兵撤出美国。（CBS）",
-          "url": "https://wallstreetcn.com/livenews/3098071",
-          "source": "华尔街见闻-快讯",
+          "title": "美国总统特朗普：（关于伊朗）我们不会提前离开，问题会再次出现。",
+          "url": "https://flash.jin10.com/detail/20260502080736827800",
+          "source": "金十数据",
           "ranks": [
-            5,
-            13
+            1,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时58分 ~ 08时41分]"
+          "appearance_count": 2,
+          "time_info": "[08时41分 ~ 11时21分]"
         },
         {
           "title": "美国总统特朗普对古巴官员、企业、政府的支持者实施广泛制裁。",
@@ -1098,6 +1165,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时57分 ~ 08时41分]"
+        },
+        {
+          "title": "【早报】白宫：与伊朗的敌对行动已经“结束”；特朗普：下周对欧盟输美汽车和卡车加征25%关税",
+          "url": "https://www.cls.cn/detail/2362026",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时41分 ~ 11时21分]"
         },
         {
           "title": "美国总统特朗普：将会对那些想要拥有核武器的国家采取措施。",
@@ -1214,15 +1292,15 @@
           "time_info": "03时25分"
         },
         {
-          "title": "【早报】白宫：与伊朗的敌对行动已经“结束”；特朗普：下周对欧盟输美汽车和卡车加征25%关税",
-          "url": "https://www.cls.cn/detail/2362026",
-          "source": "财联社热门",
+          "title": "知情人士透露，特朗普政府与精神航空控股公司（Spirit Aviation Holdings Inc.）之间的谈判已经结束，未能达成救助这家陷入困境的航空公司的协议。上述人士表示，该航司正准备在纽约时间周六凌晨3点左右停止运营。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3098096",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时41分"
+          "time_info": "11时21分"
         },
         {
           "title": "郑丽文拟访美盼见特朗普，黄国昌回应",
@@ -1245,6 +1323,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "特朗普声称美国“几乎能立即”接管古巴",
+          "url": "https://wallstreetcn.com/livenews/3098094",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时21分"
+        },
+        {
+          "title": "特朗普称美国“几乎能立即接管”古巴",
+          "url": "https://flash.jin10.com/detail/20260502084948231800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时21分"
         },
         {
           "title": "德国副总理：我们不需要特朗普的建议",
@@ -1547,7 +1647,7 @@
     },
     {
       "keyword_group": "DeepSeek AI openai 机器人 小米 特斯拉 英伟达",
-      "match_count": 21,
+      "match_count": 28,
       "titles": [
         {
           "title": "谷歌“历史最大涨幅”、英伟达反而大跌！高盛资深半导体分析师建议“做多云、减持芯片”",
@@ -1555,11 +1655,12 @@
           "source": "华尔街见闻",
           "ranks": [
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时03分 ~ 08时41分]"
+          "appearance_count": 11,
+          "time_info": "[00时03分 ~ 11时21分]"
         },
         {
           "title": "谷歌、卡特彼勒成“大赢家”，AI和财报压倒战争，4月的美股创2020年以来最强",
@@ -1571,8 +1672,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时03分 ~ 08时41分]"
+          "appearance_count": 11,
+          "time_info": "[00时03分 ~ 11时21分]"
         },
         {
           "title": "DeepSeek破底价,友商瑟瑟发抖",
@@ -1580,11 +1681,12 @@
           "source": "贴吧",
           "ranks": [
             16,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时03分 ~ 08时41分]"
+          "appearance_count": 11,
+          "time_info": "[00时03分 ~ 11时21分]"
         },
         {
           "title": "AI古代铠甲勇士完结篇",
@@ -1599,8 +1701,20 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时03分 ~ 08时41分]"
+          "appearance_count": 11,
+          "time_info": "[00时03分 ~ 11时21分]"
+        },
+        {
+          "title": "假设 AI 蒸馏出了「李白的所有创作规律」，然后生成了十万首新诗，那么真正的李白，底牌是什么？",
+          "url": "https://www.zhihu.com/question/2029888609017422176",
+          "source": "知乎",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时41分 ~ 11时21分]"
         },
         {
           "title": "小米手机毛利率跌至 8.3%，卢伟冰称涨价需理解，这会如何影响其性价比策略？",
@@ -1616,15 +1730,15 @@
           "time_info": "[00时03分 ~ 04时57分]"
         },
         {
-          "title": "假设 AI 蒸馏出了「李白的所有创作规律」，然后生成了十万首新诗，那么真正的李白，底牌是什么？",
-          "url": "https://www.zhihu.com/question/2029888609017422176",
-          "source": "知乎",
+          "title": "新一代小米SU7锁单超7万台",
+          "url": "https://wallstreetcn.com/livenews/3098102",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时41分"
+          "time_info": "11时21分"
         },
         {
           "title": "美国航空公司Spirit Airlines准备最早周六美东时间03:00停止营业。（纽约时报）",
@@ -1638,6 +1752,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时57分 ~ 08时41分]"
+        },
+        {
+          "title": "AI热潮导致供应短缺 苹果公司将Mac Mini的起售价提高至799美元",
+          "url": "https://flash.jin10.com/detail/20260502095648869800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时21分"
         },
         {
           "title": "甲骨文加入五角大楼AI项目，股价刷新日高",
@@ -1688,6 +1813,18 @@
           "time_info": "[05时58分 ~ 06时57分]"
         },
         {
+          "title": "人形机器人跟随特警在深圳街头巡逻",
+          "url": "https://www.toutiao.com/trending/7634832740928520228/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时41分 ~ 11时21分]"
+        },
+        {
           "title": "航空公司Spirit Airlines预计将于美东时间周六03:00左右停止运营。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3098046",
           "source": "华尔街见闻-快讯",
@@ -1698,6 +1835,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时57分 ~ 06时57分]"
+        },
+        {
+          "title": "女子被AI误导闯入毒蛇窝，AI道歉承认“和送死没有区别”",
+          "url": "https://news.ifeng.com/c/8sn1WIx976g",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时41分 ~ 11时21分]"
         },
         {
           "title": "因AI热潮耗尽库存，苹果将Mac Mini起售价调高200美元",
@@ -1722,6 +1870,39 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时58分 ~ 08时41分]"
+        },
+        {
+          "title": "美军使用AI技术在霍尔木兹海峡扫雷",
+          "url": "https://www.toutiao.com/trending/7634071718033837610/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时20分 ~ 11时21分]"
+        },
+        {
+          "title": "AI手搓小黄人产生意识了",
+          "url": "https://s.weibo.com/weibo?q=AI%E6%89%8B%E6%90%93%E5%B0%8F%E9%BB%84%E4%BA%BA%E4%BA%A7%E7%94%9F%E6%84%8F%E8%AF%86%E4%BA%86&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时20分 ~ 11时21分]"
+        },
+        {
+          "title": "DeepSeek拟人 哇呀啧呜哇",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E6%8B%9F%E4%BA%BA%20%E5%93%87%E5%91%80%E5%95%A7%E5%91%9C%E5%93%87&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时20分 ~ 11时21分]"
         },
         {
           "title": "AI踩平量化门槛，普通人入局机会在哪？",
@@ -1757,28 +1938,6 @@
           "time_info": "00时03分"
         },
         {
-          "title": "人形机器人跟随特警在深圳街头巡逻",
-          "url": "https://www.toutiao.com/trending/7634832740928520228/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时41分"
-        },
-        {
-          "title": "女子被AI误导闯入毒蛇窝，AI道歉承认“和送死没有区别”",
-          "url": "https://news.ifeng.com/c/8sn1WIx976g",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时41分"
-        },
-        {
           "title": "Spirit Air股价暴跌逾70%，报道称特朗普没能提供救助、该航司准备停止运营",
           "url": "https://wallstreetcn.com/livenews/3097947",
           "source": "华尔街见闻-快讯",
@@ -1788,6 +1947,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
+        },
+        {
+          "title": "美军使用AI技术在霍尔木兹海峡扫雷",
+          "url": "https://flash.jin10.com/detail/20260502085918272800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时21分"
+        },
+        {
+          "title": "美军使用AI技术在霍尔木兹海峡扫雷",
+          "url": "https://wallstreetcn.com/livenews/3098092",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时21分"
         },
         {
           "title": "特朗普：仍在考虑对Spirit Airlines的纾困方案，可能本周发布声明",
@@ -1803,9 +1984,187 @@
       ]
     },
     {
-      "keyword_group": "外交部 商务部 证监会 央行",
-      "match_count": 9,
+      "keyword_group": "黄金 白银 铜 铝 稀土",
+      "match_count": 14,
       "titles": [
+        {
+          "title": "中超大连英博1:0重庆铜梁龙",
+          "url": "https://www.douyin.com/hot/2486045",
+          "source": "抖音",
+          "ranks": [
+            18,
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[02时01分 ~ 11时21分]"
+        },
+        {
+          "title": "女子15年前买的金条完全不含黄金",
+          "url": "https://www.toutiao.com/trending/7634657327857614889/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时20分 ~ 11时21分]"
+        },
+        {
+          "title": "女子15年前买的金条经检测不含黄金",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%9015%E5%B9%B4%E5%89%8D%E4%B9%B0%E7%9A%84%E9%87%91%E6%9D%A1%E7%BB%8F%E6%A3%80%E6%B5%8B%E4%B8%8D%E5%90%AB%E9%BB%84%E9%87%91",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时20分 ~ 11时21分]"
+        },
+        {
+          "title": "915亿“真金白银”直达16个领域",
+          "url": "https://www.baidu.com/s?wd=915%E4%BA%BF%E2%80%9C%E7%9C%9F%E9%87%91%E7%99%BD%E9%93%B6%E2%80%9D%E7%9B%B4%E8%BE%BE16%E4%B8%AA%E9%A2%86%E5%9F%9F",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时20分 ~ 11时21分]"
+        },
+        {
+          "title": "915亿“真金白银”直达16个领域",
+          "url": "https://www.douyin.com/hot/2486329",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时20分 ~ 11时21分]"
+        },
+        {
+          "title": "全球最大的黄金ETF SPDR Gold Trust持仓量为1035.768吨，较前一个交易日维持不变。",
+          "url": "https://flash.jin10.com/detail/20260502102042473800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时21分"
+        },
+        {
+          "title": "周五（5月1日）纽约尾盘，现货黄金跌0.04%，报4616.35美元/盎司，本周累计下跌2.02%，4月27-29日持续下挫，本周大部分时间交投于4600美元附近。 现货白银涨2.22%，报75.3804美元/盎司，本周累跌0.46%，呈现出宽底U形走势。 现货铂金涨0.11%，报1990.05美元/盎司，本周累跌1.31%，4月30日纽约尾盘曾跌至1876.62美元。 现货钯金跌0.41%，报1526.71美元/盎司，本周累涨3.68%，4月28-29日低位持稳，随后持续走高。",
+          "url": "https://wallstreetcn.com/livenews/3098061",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时58分 ~ 08时41分]"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：截至4月28日当周，COMEX期铜投机性净多头头寸增加了1,665手，至60,796手。",
+          "url": "https://flash.jin10.com/detail/20260502033202142800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时57分 ~ 06时57分]"
+        },
+        {
+          "title": "LME期铜收涨10美元，报12996美元/吨。 LME期铝收涨48美元，报3522美元/吨。 LME期锌收跌16美元，报3344美元/吨。 LME期铅收跌6美元，报1949美元/吨。 LME期镍收跌103美元，报19365美元/吨。 LME期锡收涨209美元，报49423美元/吨。 LME期钴收平，报56290美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3097987",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时02分 ~ 03时25分]"
+        },
+        {
+          "title": "男子30年前被扣押2859克黄金申请退赔被拒受理续：辽宁盖州警方被责令重新作出决定",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33084131",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时20分 ~ 11时21分]"
+        },
+        {
+          "title": "全球最大白银ETF--iShares Silver Trust持仓较上日减少22.52吨，当前持仓量为15042.08吨。欢迎点击查看数据中心…",
+          "url": "https://flash.jin10.com/detail/20260502082257768800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时21分"
+        },
+        {
+          "title": "WTI原油日内跌幅达5.0%，报99.73美元/桶；布伦特原油日内跌幅达3.5%，报106.53美元/桶。 现货白银日内涨幅达4.0%，报76.67美元/盎司；纽约银日内涨幅达4.5%，报77.38美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3097935",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时03分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：4月28日当周，投机者所持COMEX黄金净多头头寸减少3,924手合约，至91,574手合约。",
+          "url": "https://wallstreetcn.com/livenews/3098027",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时57分"
+        },
+        {
+          "title": "全球第四大黄金矿业公司据悉暂停IPO计划",
+          "url": "https://flash.jin10.com/detail/20260502015205388800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "外交部 商务部 证监会 央行",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "证监会原主席易会满被双开",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AF%81%E7%9B%91%E4%BC%9A%E5%8E%9F%E4%B8%BB%E5%B8%AD%E6%98%93%E4%BC%9A%E6%BB%A1%E8%A2%AB%E5%8F%8C%E5%BC%80",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19,
+            20,
+            23,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时03分 ~ 11时21分]"
+        },
         {
           "title": "美国拟禁止被列入所谓“覆盖清单”实体在美开展电信业务，商务部回应",
           "url": "https://m.thepaper.cn/newsDetail_forward_33088694",
@@ -1820,29 +2179,38 @@
           "time_info": "[00时03分 ~ 08时41分]"
         },
         {
-          "title": "证监会原主席易会满被双开",
-          "url": "https://search.bilibili.com/all?keyword=%E8%AF%81%E7%9B%91%E4%BC%9A%E5%8E%9F%E4%B8%BB%E5%B8%AD%E6%98%93%E4%BC%9A%E6%BB%A1%E8%A2%AB%E5%8F%8C%E5%BC%80",
-          "source": "bilibili 热搜",
+          "title": "据华尔街日报：特朗普政府已于当地时间周四终止了对精神航空的救助计划。美国商务部长卢特尼克已将精神航空首席执行官转介至美国交通部，以寻求帮助以结束该航空公司的运营。",
+          "url": "https://flash.jin10.com/detail/20260502095753000800",
+          "source": "金十数据",
           "ranks": [
-            19,
-            20,
-            23,
-            18
+            4
           ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时03分 ~ 08时41分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时21分"
+        },
+        {
+          "title": "美国商务部长卢特尼克与精神航空（Spirit）CEO Dave Davis达成共识，一致认为这家廉价航空公司已无路走。卢特尼克建议其寻求交通部的帮助，以进行该航空公司的关停清算工作。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3098101",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时21分"
         },
         {
           "title": "原日本央行行长黑田东彦：实现了2%这一通胀目标。 有鉴于此，日本无需实施财政宽松、也无需放宽货币政策。 日本央行4月28日对加息选项保持克制是正确的。（日本读卖新闻）",
           "url": "https://wallstreetcn.com/livenews/3098090",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时41分 ~ 11时21分]"
         },
         {
           "title": "印度央行行长：银行和市场参与者有责任确保每位用户都能轻松进入金融市场。",
@@ -1909,93 +2277,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金 白银 铜 铝 稀土",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "中超大连英博1:0重庆铜梁龙",
-          "url": "https://www.douyin.com/hot/2486045",
-          "source": "抖音",
-          "ranks": [
-            18,
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时01分 ~ 08时41分]"
-        },
-        {
-          "title": "周五（5月1日）纽约尾盘，现货黄金跌0.04%，报4616.35美元/盎司，本周累计下跌2.02%，4月27-29日持续下挫，本周大部分时间交投于4600美元附近。 现货白银涨2.22%，报75.3804美元/盎司，本周累跌0.46%，呈现出宽底U形走势。 现货铂金涨0.11%，报1990.05美元/盎司，本周累跌1.31%，4月30日纽约尾盘曾跌至1876.62美元。 现货钯金跌0.41%，报1526.71美元/盎司，本周累涨3.68%，4月28-29日低位持稳，随后持续走高。",
-          "url": "https://wallstreetcn.com/livenews/3098061",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时58分 ~ 08时41分]"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：截至4月28日当周，COMEX期铜投机性净多头头寸增加了1,665手，至60,796手。",
-          "url": "https://flash.jin10.com/detail/20260502033202142800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时57分 ~ 06时57分]"
-        },
-        {
-          "title": "LME期铜收涨10美元，报12996美元/吨。 LME期铝收涨48美元，报3522美元/吨。 LME期锌收跌16美元，报3344美元/吨。 LME期铅收跌6美元，报1949美元/吨。 LME期镍收跌103美元，报19365美元/吨。 LME期锡收涨209美元，报49423美元/吨。 LME期钴收平，报56290美元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3097987",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时02分 ~ 03时25分]"
-        },
-        {
-          "title": "WTI原油日内跌幅达5.0%，报99.73美元/桶；布伦特原油日内跌幅达3.5%，报106.53美元/桶。 现货白银日内涨幅达4.0%，报76.67美元/盎司；纽约银日内涨幅达4.5%，报77.38美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3097935",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时03分"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：4月28日当周，投机者所持COMEX黄金净多头头寸减少3,924手合约，至91,574手合约。",
-          "url": "https://wallstreetcn.com/livenews/3098027",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时57分"
-        },
-        {
-          "title": "全球第四大黄金矿业公司据悉暂停IPO计划",
-          "url": "https://flash.jin10.com/detail/20260502015205388800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时25分"
         }
       ]
     }
