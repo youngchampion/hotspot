@@ -1,22 +1,556 @@
 {
-  "generated_at": "2026-05-05T00:49:40.155651+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-05-05T02:18:00.562743+08:00",
+  "total_titles_processed": 397,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "DeepSeek AI openai 机器人 小米 特斯拉 英伟达",
-      "match_count": 14,
+      "keyword_group": "特朗普 马斯克 加密货币 美联储",
+      "match_count": 25,
       "titles": [
         {
-          "title": "豆包测试付费版本，三档订阅曝光，AI进入“分层收费”时代",
-          "url": "https://wallstreetcn.com/articles/3771537",
+          "title": "“非军事”疏通霍尔木兹海峡？特朗普祭出新招“4日启动引导行动”，伊朗“干涉视为违反停火协议”",
+          "url": "https://wallstreetcn.com/articles/3771515",
           "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时49分 ~ 02时18分]"
+        },
+        {
+          "title": "事关霍尔木兹海峡，特朗普预告4日上午启动，伊朗发出警告",
+          "url": "https://news.ifeng.com/c/8sqiRql55lX",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时49分 ~ 02时18分]"
+        },
+        {
+          "title": "美联储威廉姆斯：美国相较于其他国家受到能源冲击的影响将更小。",
+          "url": "https://flash.jin10.com/detail/20260505015334806800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
+          "title": "美联储威廉姆斯：美国通胀顽固地高于目标，这绝对引起地方联储主席们的注意。 尚未看到通胀蔓延至基本趋势的迹象。",
+          "url": "https://wallstreetcn.com/livenews/3098583",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
+          "title": "【早报】特朗普：伊朗的“新提议”不可接受；余额宝收益率跌破1%",
+          "url": "https://www.cls.cn/detail/2362404",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时49分 ~ 02时18分]"
+        },
+        {
+          "title": "美财长保证特朗普访华不会再推迟",
+          "url": "https://news.ifeng.com/c/8sqceV545op",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时49分 ~ 02时18分]"
+        },
+        {
+          "title": "特朗普又有新绰号：NACHO",
+          "url": "https://news.ifeng.com/c/8srAt1fCSlE",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时49分 ~ 02时18分]"
+        },
+        {
+          "title": "特朗普称将审查伊朗提出的结束冲突新方案",
+          "url": "https://www.cls.cn/detail/2362213",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时49分 ~ 02时18分]"
+        },
+        {
+          "title": "美联储威廉姆斯：在暗示政府债务将变成一场危机方面，并没有魔幻数字。",
+          "url": "https://wallstreetcn.com/livenews/3098581",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
+          "title": "美国中央司令部司令布拉德·库珀上将：我们将根据特朗普总统的指示应对伊朗的攻击。",
+          "url": "https://flash.jin10.com/detail/20260505002813048800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时49分"
+        },
+        {
+          "title": "美联储威廉姆斯：尚未看到通胀蔓延至基本趋势的迹象。",
+          "url": "https://flash.jin10.com/detail/20260505015117042800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
+          "title": "美联储威廉姆斯：并不存在一个“神奇的数字”表明政府债务会演变为危机。",
+          "url": "https://flash.jin10.com/detail/20260505014305396800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
+          "title": "美联储威廉姆斯：预计未来几年人工智能将带来更高的生产率增长。",
+          "url": "https://flash.jin10.com/detail/20260505014047392800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
+          "title": "美联储威廉姆斯：R*（中性利率）可能高于近期出现的低水平数据。 3%可能是长期的联邦基金利率。",
+          "url": "https://wallstreetcn.com/livenews/3098575",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
+          "title": "特朗普：提议韩国加入在霍尔木兹海峡的护航行动",
+          "url": "https://wallstreetcn.com/livenews/3098572",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
+          "title": "美联储威廉姆斯：当存在极大不确定性时，FOMC更容易出现持异议。 美国劳动力增长已经出现巨大的转变。",
+          "url": "https://wallstreetcn.com/livenews/3098571",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
+          "title": "特朗普宣称：伊朗若攻击美国船只，将会被“炸飞”",
+          "url": "https://wallstreetcn.com/livenews/3098566",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
+          "title": "特朗普呼吁韩国加入霍尔木兹海峡行动",
+          "url": "https://flash.jin10.com/detail/20260505013344120800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
+          "title": "美联储威廉姆斯：长期来看，联邦基金利率可能在3%左右。",
+          "url": "https://flash.jin10.com/detail/20260505013224845800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
+          "title": "美联储威廉姆斯：中性利率（R-star）可能高于近期的低位读数。",
+          "url": "https://flash.jin10.com/detail/20260505013128321800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
+          "title": "美联储威廉姆斯：基于关税的通胀应会减缓。",
+          "url": "https://flash.jin10.com/detail/20260505012735197800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
+          "title": "学者：特朗普2.0经济政策逻辑与趋势",
+          "url": "https://www.toutiao.com/trending/7636043656511622662/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时49分"
+        },
+        {
+          "title": "美联储威廉姆斯：美联储的职责是确保通胀预期保持稳定。",
+          "url": "https://flash.jin10.com/detail/20260505012727636800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
+          "title": "美联储威廉姆斯：平衡的就业市场有助于抑制通胀。",
+          "url": "https://flash.jin10.com/detail/20260505012610590800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
+          "title": "美联储威廉姆斯：我们没有看到长期通胀预期有太大变化，这令人鼓舞。",
+          "url": "https://flash.jin10.com/detail/20260505012604560800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股 A股 港股 美债 美元 石油 战争",
+      "match_count": 21,
+      "titles": [
+        {
+          "title": "回应特朗普“引导行动”！伊朗发射导弹击退美国军舰，油价应声大涨，美股期货跳水",
+          "url": "https://wallstreetcn.com/articles/3771543",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时49分 ~ 02时18分]"
+        },
+        {
+          "title": "张雪机车WSBK再夺冠 A股“朋友圈”不断刷新：谁将分享胜利？",
+          "url": "https://www.cls.cn/detail/2362321",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时49分 ~ 02时18分]"
+        },
+        {
+          "title": "伊朗战争丨美军称两艘悬挂美国旗商船通过霍尔木兹，伊朗否认",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时49分 ~ 02时18分]"
+        },
+        {
+          "title": "【早报】伊朗公布伊方最新谈判方案；商务部发布禁令阻断美国对5家中国企业实施涉伊朗石油制裁措施",
+          "url": "https://www.cls.cn/detail/2362210",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时49分 ~ 02时18分]"
+        },
+        {
+          "title": "商务部发布禁令，阻断美国对5家中国企业实施涉伊朗石油制裁措施",
+          "url": "https://www.cls.cn/detail/2362134",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时49分 ~ 02时18分]"
+        },
+        {
+          "title": "雪佛龙(CVX.N)CEO：伊朗冲突导致石油供应形势趋紧。",
+          "url": "https://flash.jin10.com/detail/20260505015448536800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
+          "title": "雪佛龙：由于伊朗战争的缘故，石油供应形势“趋紧”。",
+          "url": "https://wallstreetcn.com/livenews/3098584",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
+          "title": "金十图示：2026年05月04日（周一）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260505003152134800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时49分"
+        },
+        {
+          "title": "雪佛龙(CVX.N)CEO：石油库存缓冲正在被消耗。",
+          "url": "https://flash.jin10.com/detail/20260505015310104800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
+          "title": "阿曼北部一栋居民楼遭袭，导致两名外籍人士受中度伤。 WTI原油跌破105美元/桶关口，报104.93美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3098560",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时49分 ~ 02时18分]"
+        },
+        {
+          "title": "彭博美元指数涨0.3%，刷新日高。",
+          "url": "https://wallstreetcn.com/livenews/3098558",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时49分 ~ 02时18分]"
+        },
+        {
+          "title": "金十图示：2026年05月04日（周一）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260505003052330800",
+          "source": "金十数据",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时49分"
+        },
+        {
+          "title": "圭亚那告知国际法院：委内瑞拉对石油资源丰富的埃塞奎博地区的领土主张构成威胁",
+          "url": "https://wallstreetcn.com/livenews/3098579",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
+          "title": "阿联酋富查伊拉媒体办公室：三名印度公民在无人机打击当地石油设施期间受伤。",
+          "url": "https://wallstreetcn.com/livenews/3098547",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时49分"
+        },
+        {
+          "title": "【无人机袭击，致阿联酋富查伊拉石油工业区起火】阿联酋富查伊拉媒体办公室4日证实，富查伊拉石油工业区发生火灾，原因是受到一架来自伊朗方向的无人机袭击。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3098541",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时49分"
+        },
+        {
+          "title": "周一（5月4日），美联储隔夜逆回购协议（RRP）使用规模为6.18亿美元（交易对手11家）。",
+          "url": "https://wallstreetcn.com/livenews/3098570",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
+          "title": "欧洲央行管委兼德国央行行长Nagel：我们准备在任何时候采取行动。 欧洲央行的观望状态并非迟疑不决。 （伊朗）战争存在持续更长时间的风险，这会让通胀保持在高位。",
+          "url": "https://wallstreetcn.com/livenews/3098569",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨0.82%，暂报2640.13点，北京时间10:00前后显著拉升，18:00显著跳水。 MarketVectorTM数字资产100中盘指数涨1.08%，报2837.48点。 MarketVector数字资产100指数涨1.42%，报15669.37点。 目前，Solana涨0.15%，狗狗币涨1.83%，XRP涨0.39%。 比特币涨1.64%，暂报80048.10美元；以太坊涨0.96%，暂报2356.34美元。",
+          "url": "https://wallstreetcn.com/livenews/3098567",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
+          "title": "美国纽约联储主席（在职时享有FOMC永久投票权，号称美联储三把手）威廉姆斯：在伊朗战争造成不确定性期间，利率政策准备就绪。 劳动力市场数据值得持续的密切关注。 剔除进口、能源的基础通胀迄今是稳定的。 基本假设是，2026年通胀大约为3%，2027年为2%；长期通胀预期被牢牢锚定。 预计2026年GDP将增长2%-2.25%，失业率为4.25%-4.50%。",
+          "url": "https://wallstreetcn.com/livenews/3098565",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
+          "title": "美股延续下跌，道指下跌1%。",
+          "url": "https://flash.jin10.com/detail/20260505000844864800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时49分"
+        },
+        {
+          "title": "阿联酋外交部声明称，阿联酋保留对伊朗袭击做出回应的“全部及合法权利”。 伊朗的袭击标志着局势严重升级，并对该国的安全构成直接威胁。 WTI原油5分钟内上涨0.51美元/桶，报105.53美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3098563",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek AI openai 机器人 小米 特斯拉 英伟达",
+      "match_count": 16,
+      "titles": [
+        {
+          "title": "小米集团股价自 2021 年以来，首次跌破 30 港币 / 股，发生了什么，后期预计何时反转？",
+          "url": "https://www.zhihu.com/question/2032516572552671242",
+          "source": "知乎",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时49分 ~ 02时18分]"
+        },
+        {
+          "title": "豆包测试付费版本，三档订阅曝光，AI进入“分层收费”时代",
+          "url": "https://wallstreetcn.com/articles/3771537",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时49分 ~ 02时18分]"
         },
         {
           "title": "达里欧：未来两年“风险极高”，“AI、美债和地缘”合成风暴，投资者择时不会成功",
@@ -26,8 +560,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时49分"
+          "appearance_count": 3,
+          "time_info": "[00时49分 ~ 02时18分]"
         },
         {
           "title": "美国豪赌AI,取代人类科学家",
@@ -37,19 +571,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时49分"
-        },
-        {
-          "title": "小米集团股价自 2021 年以来，首次跌破 30 港币 / 股，发生了什么，后期预计何时反转？",
-          "url": "https://www.zhihu.com/question/2032516572552671242",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时49分"
+          "appearance_count": 3,
+          "time_info": "[00时49分 ~ 02时18分]"
         },
         {
           "title": "AI主播上电视,虚拟人抢饭碗?",
@@ -59,19 +582,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时49分"
-        },
-        {
-          "title": "“从未见过此等增速”！Anthropic年化收入两个月翻番，首超OpenAI",
-          "url": "https://wallstreetcn.com/articles/3771533",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时49分"
+          "appearance_count": 3,
+          "time_info": "[00时49分 ~ 02时18分]"
         },
         {
           "title": "马上评｜AI替岗，还是“科技向善”吗",
@@ -81,8 +593,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时49分"
+          "appearance_count": 3,
+          "time_info": "[00时49分 ~ 02时18分]"
         },
         {
           "title": "宇树机器人在美买票坐飞机",
@@ -92,8 +604,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时49分"
+          "appearance_count": 3,
+          "time_info": "[00时49分 ~ 02时18分]"
         },
         {
           "title": "科创板PCB板块一季报扫描：超七成企业营收净利双增长 AI算力催生高端产能扩张",
@@ -103,8 +615,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时49分"
+          "appearance_count": 3,
+          "time_info": "[00时49分 ~ 02时18分]"
         },
         {
           "title": "豆包付费版本曝光，每月 68-500 元三档，你愿意付费吗？国产 AI 推付费服务是一种趋势吗？",
@@ -112,6 +624,39 @@
           "source": "知乎",
           "ranks": [
             11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时49分 ~ 02时18分]"
+        },
+        {
+          "title": "美光CEO：AI才刚开始，但内存已经不够了，今年DRAM与NAND需求或吞噬过半市场",
+          "url": "https://wallstreetcn.com/articles/3771542",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时17分 ~ 02时18分]"
+        },
+        {
+          "title": "DeepSeek员工为何不加班",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%91%98%E5%B7%A5%E4%B8%BA%E4%BD%95%E4%B8%8D%E5%8A%A0%E7%8F%AD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时17分 ~ 02时18分]"
+        },
+        {
+          "title": "“从未见过此等增速”！Anthropic年化收入两个月翻番，首超OpenAI",
+          "url": "https://wallstreetcn.com/articles/3771533",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -164,234 +709,52 @@
       ]
     },
     {
-      "keyword_group": "美股 A股 港股 美债 美元 石油 战争",
-      "match_count": 12,
+      "keyword_group": "外交部 商务部 证监会 央行",
+      "match_count": 4,
       "titles": [
         {
-          "title": "回应特朗普“引导行动”！伊朗发射导弹击退美国军舰，油价应声大涨，美股期货跳水",
-          "url": "https://wallstreetcn.com/articles/3771543",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时49分"
-        },
-        {
-          "title": "张雪机车WSBK再夺冠 A股“朋友圈”不断刷新：谁将分享胜利？",
-          "url": "https://www.cls.cn/detail/2362321",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时49分"
-        },
-        {
-          "title": "伊朗战争丨美军称两艘悬挂美国旗商船通过霍尔木兹，伊朗否认",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时49分"
-        },
-        {
-          "title": "阿曼北部一栋居民楼遭袭，导致两名外籍人士受中度伤。 WTI原油跌破105美元/桶关口，报104.93美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3098560",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时49分"
-        },
-        {
-          "title": "【早报】伊朗公布伊方最新谈判方案；商务部发布禁令阻断美国对5家中国企业实施涉伊朗石油制裁措施",
-          "url": "https://www.cls.cn/detail/2362210",
-          "source": "财联社热门",
+          "title": "商务部出手,美国禁令失效",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353987&amp;topic_name=%E5%95%86%E5%8A%A1%E9%83%A8%E5%87%BA%E6%89%8B%2C%E7%BE%8E%E5%9B%BD%E7%A6%81%E4%BB%A4%E5%A4%B1%E6%95%88",
+          "source": "贴吧",
           "ranks": [
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时49分"
+          "appearance_count": 3,
+          "time_info": "[00时49分 ~ 02时18分]"
         },
         {
-          "title": "金十图示：2026年05月04日（周一）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260505003152134800",
+          "title": "美联储威廉姆斯：通胀持续高于目标显然是央行官员关注的重点。",
+          "url": "https://flash.jin10.com/detail/20260505015009314800",
           "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时49分"
-        },
-        {
-          "title": "彭博美元指数涨0.3%，刷新日高。",
-          "url": "https://wallstreetcn.com/livenews/3098558",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时49分"
-        },
-        {
-          "title": "商务部发布禁令，阻断美国对5家中国企业实施涉伊朗石油制裁措施",
-          "url": "https://www.cls.cn/detail/2362134",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时49分"
-        },
-        {
-          "title": "金十图示：2026年05月04日（周一）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260505003052330800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时49分"
-        },
-        {
-          "title": "阿联酋富查伊拉媒体办公室：三名印度公民在无人机打击当地石油设施期间受伤。",
-          "url": "https://wallstreetcn.com/livenews/3098547",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时49分"
-        },
-        {
-          "title": "【无人机袭击，致阿联酋富查伊拉石油工业区起火】阿联酋富查伊拉媒体办公室4日证实，富查伊拉石油工业区发生火灾，原因是受到一架来自伊朗方向的无人机袭击。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3098541",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时49分"
-        },
-        {
-          "title": "美股延续下跌，道指下跌1%。",
-          "url": "https://flash.jin10.com/detail/20260505000844864800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时49分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普 马斯克 加密货币 美联储",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "“非军事”疏通霍尔木兹海峡？特朗普祭出新招“4日启动引导行动”，伊朗“干涉视为违反停火协议”",
-          "url": "https://wallstreetcn.com/articles/3771515",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时49分"
-        },
-        {
-          "title": "事关霍尔木兹海峡，特朗普预告4日上午启动，伊朗发出警告",
-          "url": "https://news.ifeng.com/c/8sqiRql55lX",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时49分"
-        },
-        {
-          "title": "【早报】特朗普：伊朗的“新提议”不可接受；余额宝收益率跌破1%",
-          "url": "https://www.cls.cn/detail/2362404",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时49分"
-        },
-        {
-          "title": "美国中央司令部司令布拉德·库珀上将：我们将根据特朗普总统的指示应对伊朗的攻击。",
-          "url": "https://flash.jin10.com/detail/20260505002813048800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时49分"
-        },
-        {
-          "title": "美财长保证特朗普访华不会再推迟",
-          "url": "https://news.ifeng.com/c/8sqceV545op",
-          "source": "凤凰网",
           "ranks": [
             8
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时49分"
+          "time_info": "02时18分"
         },
         {
-          "title": "特朗普又有新绰号：NACHO",
-          "url": "https://news.ifeng.com/c/8srAt1fCSlE",
-          "source": "凤凰网",
+          "title": "欧洲央行内格尔：若通胀前景未改善，6月将需要加息",
+          "url": "https://flash.jin10.com/detail/20260505013800578800",
+          "source": "金十数据",
           "ranks": [
-            9
+            18
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时49分"
+          "time_info": "02时18分"
         },
         {
-          "title": "特朗普称将审查伊朗提出的结束冲突新方案",
-          "url": "https://www.cls.cn/detail/2362213",
-          "source": "财联社热门",
+          "title": "南非储备银行（央行）行长Kganyago：CPI仍然对利率前景有利。 无法对央行未来的行动提供确定性。 “维持我们的选项开放性”是合理的。 南非兰特汇率迄今一直都“意外地具有韧性”。",
+          "url": "https://wallstreetcn.com/livenews/3098562",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            25
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时49分"
-        },
-        {
-          "title": "学者：特朗普2.0经济政策逻辑与趋势",
-          "url": "https://www.toutiao.com/trending/7636043656511622662/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时49分"
+          "time_info": "02时18分"
         }
       ]
     },
@@ -404,11 +767,12 @@
           "url": "https://www.toutiao.com/trending/7636037468252278318/",
           "source": "今日头条",
           "ranks": [
-            7
+            7,
+            16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时49分"
+          "appearance_count": 3,
+          "time_info": "[00时49分 ~ 02时18分]"
         },
         {
           "title": "阿联酋称，防空系统正针对另外一轮空袭做出响应。 WTI原油5分钟内上涨0.53美元/桶，报105.81美元/桶；布伦特原油5分钟内上涨0.54美元/桶，报114.45美元/桶。 标普500日内跌幅达0.5%，报7193.42。 现货黄金5分钟内下跌7.2美元/盎司，报4520.09美元/盎司；纽约金5分钟内下跌6.29美元/盎司，报4530.9美元/盎司。",
@@ -416,23 +780,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时49分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "外交部 商务部 证监会 央行",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "商务部出手,美国禁令失效",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353987&amp;topic_name=%E5%95%86%E5%8A%A1%E9%83%A8%E5%87%BA%E6%89%8B%2C%E7%BE%8E%E5%9B%BD%E7%A6%81%E4%BB%A4%E5%A4%B1%E6%95%88",
-          "source": "贴吧",
-          "ranks": [
-            3
           ],
           "is_new": false,
           "appearance_count": 1,
