@@ -1,24 +1,12 @@
 {
-  "generated_at": "2026-05-11T11:50:32.323776+08:00",
-  "total_titles_processed": 790,
+  "generated_at": "2026-05-11T15:46:38.075593+08:00",
+  "total_titles_processed": 982,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 美债 美元 石油 战争",
-      "match_count": 41,
+      "match_count": 48,
       "titles": [
-        {
-          "title": "远超预期！刚刚过去的财报季，美股“强得惊人”",
-          "url": "https://wallstreetcn.com/articles/3771916",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时05分 ~ 07时56分]"
-        },
         {
           "title": "伊朗已回应美国提出的结束战争方案",
           "url": "https://www.cls.cn/detail/2367306",
@@ -31,8 +19,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时05分 ~ 11时50分]"
+          "appearance_count": 10,
+          "time_info": "[01时05分 ~ 15时46分]"
+        },
+        {
+          "title": "远超预期！刚刚过去的财报季，美股“强得惊人”",
+          "url": "https://wallstreetcn.com/articles/3771916",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时05分 ~ 07时56分]"
         },
         {
           "title": "世界杯中国转播费3亿腰斩到1.5亿美元",
@@ -156,9 +156,32 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时50分"
+        },
+        {
+          "title": "伊朗战争丨一艘超大型油轮通过霍尔木兹海",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时46分"
+        },
+        {
+          "title": "【早报】伊朗回应美国所提结束战争方案，美称“完全不可接受”；全球芯片LOF、中韩半导体ETF华泰柏瑞停牌1小时",
+          "url": "https://www.cls.cn/detail/2367370",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时56分 ~ 15时46分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨1.75%，暂报3056.02点，逼近2月4日顶部3104.13点、1月31日顶部3352.34点，1月11曾拉升至6268.44点。 MarketVectorTM数字资产100中盘指数涨3.40%，报3325.00点，逼近1月29日顶部3518.94点，2025年11月11日顶部在5063.12点。 MarketVector数字资产100指数涨1.20%，报16100.89点。 目前，Solana涨1.44%，狗狗币跌0.21%，XRP涨3.30%。 比特币涨0.59%，暂报81338.26美元，最近三天迄今累涨1.84%，整体持续走高；以太坊涨0.87%，暂报2349.68美元，最近三天迄今累涨2.66%。",
@@ -201,18 +224,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时53分 ~ 07时56分]"
-        },
-        {
-          "title": "【早报】伊朗回应美国所提结束战争方案，美称“完全不可接受”；全球芯片LOF、中韩半导体ETF华泰柏瑞停牌1小时",
-          "url": "https://www.cls.cn/detail/2367370",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时56分 ~ 11时50分]"
         },
         {
           "title": "伊朗提议美方在30天内撤销对伊石油销售制裁",
@@ -291,6 +302,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时53分 ~ 06时53分]"
+        },
+        {
+          "title": "伊朗回应“提议30天内撤销石油制裁”，特朗普称“完全不可接受”，内塔尼亚胡“美以对伊朗的军事行动尚未结束”",
+          "url": "https://wallstreetcn.com/articles/3771940",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时50分 ~ 15时46分]"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社援引消息人士报道，伊朗在回应中要求立即结束战争，并确保不再对伊朗发动新的袭击。",
@@ -377,15 +400,16 @@
           "time_info": "[04时53分 ~ 05时52分]"
         },
         {
-          "title": "伊朗回应“提议30天内撤销石油制裁”，特朗普称“完全不可接受”，内塔尼亚胡“美以对伊朗的军事行动尚未结束”",
-          "url": "https://wallstreetcn.com/articles/3771940",
-          "source": "华尔街见闻",
+          "title": "A股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=23&Refer=top",
+          "source": "微博",
           "ranks": [
-            8
+            23,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时50分 ~ 15时46分]"
         },
         {
           "title": "伊朗回应美方提议：聚焦结束地区战争 愿就核计划与海峡问题谈判",
@@ -399,15 +423,48 @@
           "time_info": "03时09分"
         },
         {
+          "title": "中美元首将讨论有关伊朗事务，外交部：中方的立场是一贯的",
+          "url": "https://flash.jin10.com/detail/20260511152533733800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时46分"
+        },
+        {
+          "title": "A股进入牛市下半场",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E8%BF%9B%E5%85%A5%E7%89%9B%E5%B8%82%E4%B8%8B%E5%8D%8A%E5%9C%BA%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时46分"
+        },
+        {
           "title": "现货钯金日内涨幅达2.00%，现报1498.56美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260511111020105800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时50分"
+        },
+        {
+          "title": "天舟十号发射成功！6.3吨“太空快递”启程 A股公司谁在护航“太空飞船”",
+          "url": "https://www.cls.cn/detail/2367468",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时46分"
         },
         {
           "title": "美国总统特朗普在社交媒体上发帖批评最高法院大法官关税裁决让美国损失了1590亿美元、出生公民权裁决危害国家安全。",
@@ -419,6 +476,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
+        },
+        {
+          "title": "金十数据整理：A股每日市场要闻回顾（2026-05-11）",
+          "url": "https://flash.jin10.com/detail/20260511152221096800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时46分"
         },
         {
           "title": "PIMCO：伊朗战争可能导致美联储加息",
@@ -443,17 +511,6 @@
           "time_info": "06时53分"
         },
         {
-          "title": "A股",
-          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时50分"
-        },
-        {
           "title": "据法新社：以色列总理本雅明·内塔尼亚胡周日在接受采访时表示，只有将伊朗的浓缩铀库存“清除掉”，美以对伊朗的战争才算真正结束。",
           "url": "https://flash.jin10.com/detail/20260510233703874800",
           "source": "金十数据",
@@ -471,7 +528,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时50分"
         },
@@ -487,6 +544,17 @@
           "time_info": "03时09分"
         },
         {
+          "title": "杰富瑞：将英特尔(INTC.O)目标价从80美元上调至120美元。",
+          "url": "https://flash.jin10.com/detail/20260511151127398800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时46分"
+        },
+        {
           "title": "以色列总理内塔尼亚胡：与伊朗的战争尚未结束。",
           "url": "https://flash.jin10.com/detail/20260510232041608800",
           "source": "金十数据",
@@ -496,6 +564,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时06分"
+        },
+        {
+          "title": "匈牙利经济与能源事务部长候选人卡皮塔尼：石油进口不能是一项政治决定。",
+          "url": "https://flash.jin10.com/detail/20260511151049463800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时46分"
         },
         {
           "title": "受伊朗战争推升油价影响，沙特阿美利润飙升26%",
@@ -512,7 +591,7 @@
     },
     {
       "keyword_group": "特朗普 马斯克 加密货币 美联储",
-      "match_count": 37,
+      "match_count": 39,
       "titles": [
         {
           "title": "特朗普5月13日至15日访华",
@@ -521,9 +600,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时50分 ~ 15时46分]"
         },
         {
           "title": "特朗普5月13日至15日访华",
@@ -532,20 +611,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时50分"
-        },
-        {
-          "title": "中方官宣特朗普访华日期",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354165&amp;topic_name=%E4%B8%AD%E6%96%B9%E5%AE%98%E5%AE%A3%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E6%97%A5%E6%9C%9F",
-          "source": "贴吧",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时50分 ~ 15时46分]"
         },
         {
           "title": "美国总统特朗普将于 5 月 13 日至 15 日访华，有哪些信息值得关注？",
@@ -554,20 +622,21 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时50分 ~ 15时46分]"
         },
         {
-          "title": "中方宣布特朗普访华日期",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%AE%A3%E5%B8%83%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E6%97%A5%E6%9C%9F%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
+          "title": "中方官宣特朗普访华日期",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354165&amp;topic_name=%E4%B8%AD%E6%96%B9%E5%AE%98%E5%AE%A3%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E6%97%A5%E6%9C%9F",
+          "source": "贴吧",
           "ranks": [
+            1,
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时50分 ~ 15时46分]"
         },
         {
           "title": "特朗普5月13日至15日访华",
@@ -576,9 +645,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时50分 ~ 15时46分]"
         },
         {
           "title": "伊朗知情人士：特朗普不满意反而更好",
@@ -587,9 +656,44 @@
           "ranks": [
             3
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时50分 ~ 15时46分]"
+        },
+        {
+          "title": "美国总统特朗普将对中国进行国事访问",
+          "url": "https://wallstreetcn.com/articles/3771944",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时50分 ~ 15时46分]"
+        },
+        {
+          "title": "美国总统特朗普将对中国进行国事访问",
+          "url": "https://www.cls.cn/detail/2367458",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时50分 ~ 15时46分]"
+        },
+        {
+          "title": "特朗普5月13日至15日访华",
+          "url": "https://www.toutiao.com/trending/7638433306853281331/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时50分"
+          "time_info": "15时46分"
         },
         {
           "title": "特朗普拒绝伊朗和平方案：完全不可接受！",
@@ -629,28 +733,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时53分 ~ 07时56分]"
-        },
-        {
-          "title": "美国总统特朗普将对中国进行国事访问",
-          "url": "https://wallstreetcn.com/articles/3771944",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时50分"
-        },
-        {
-          "title": "美国总统特朗普将对中国进行国事访问",
-          "url": "https://www.cls.cn/detail/2367458",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时50分"
         },
         {
           "title": "内塔尼亚胡与特朗普通电话",
@@ -704,6 +786,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时52分 ~ 07时56分]"
+        },
+        {
+          "title": "中方宣布特朗普访华日期",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%AE%A3%E5%B8%83%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E6%97%A5%E6%9C%9F%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时50分 ~ 15时46分]"
         },
         {
           "title": "美国共和党参议员Roger Wicker敦促特朗普重启疏导霍尔木兹海峡受困船只的“自由计划”行动。",
@@ -781,6 +875,17 @@
           "time_info": "[03时09分 ~ 05时52分]"
         },
         {
+          "title": "嘴仗还没完！“是的，我特朗普，比教皇更懂圣经”",
+          "url": "https://news.ifeng.com/c/8t25hVF16bh",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时50分 ~ 15时46分]"
+        },
+        {
           "title": "内塔尼亚胡与特朗普通电话",
           "url": "https://flash.jin10.com/detail/20260511034627624800",
           "source": "金十数据",
@@ -815,6 +920,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时53分 ~ 07时56分]"
+        },
+        {
+          "title": "美国总统特朗普将于5月13日至15日访华",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33154395",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时50分 ~ 15时46分]"
         },
         {
           "title": "美媒：特朗普对伊朗最新回应表示拒绝 未明确说明后续计划",
@@ -853,17 +970,6 @@
           "time_info": "[06时53分 ~ 07时56分]"
         },
         {
-          "title": "嘴仗还没完！“是的，我特朗普，比教皇更懂圣经”",
-          "url": "https://news.ifeng.com/c/8t25hVF16bh",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时50分"
-        },
-        {
           "title": "本周重要事件与数据预告——鲍威尔美联储主席任期结束、中美经贸磋商",
           "url": "https://flash.jin10.com/detail/20260511065619823800",
           "source": "金十数据",
@@ -897,17 +1003,6 @@
           "time_info": "03时09分"
         },
         {
-          "title": "美国总统特朗普将于5月13日至15日访华",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33154395",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时50分"
-        },
-        {
           "title": "特朗普斥伊朗“玩弄美国47年” 称不再容忍",
           "url": "https://flash.jin10.com/detail/20260511015611933800",
           "source": "金十数据",
@@ -930,13 +1025,24 @@
           "time_info": "03时09分"
         },
         {
+          "title": "唐湘龙：特朗普急需来中国“冲喜”",
+          "url": "https://www.toutiao.com/trending/7638499818361831466/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时46分"
+        },
+        {
           "title": "高盛：预计美联储将在2026年12月和2027年3月各降息25个基点，此前预测为今年9月和12月降息。",
           "url": "https://flash.jin10.com/detail/20260511105340516800",
           "source": "金十数据",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时50分"
         },
@@ -947,7 +1053,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时50分"
         }
@@ -955,7 +1061,7 @@
     },
     {
       "keyword_group": "DeepSeek AI openai 机器人 小米 特斯拉 英伟达",
-      "match_count": 17,
+      "match_count": 27,
       "titles": [
         {
           "title": "【早报】字节被爆今年AI支出将超2000亿；我国第四代自主超导量子计算机上线",
@@ -1003,25 +1109,12 @@
             10,
             9,
             17,
-            21
+            21,
+            20
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时05分 ~ 11时50分]"
-        },
-        {
-          "title": "周末要闻汇总：DeepSeek据悉拟募资最高500亿元人民币；证监会查处2起财务造假案件",
-          "url": "https://www.cls.cn/detail/2367192",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时05分 ~ 11时50分]"
+          "appearance_count": 10,
+          "time_info": "[01时05分 ~ 15时46分]"
         },
         {
           "title": "GAI新歌太费口红",
@@ -1034,11 +1127,12 @@
             18,
             19,
             15,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时05分 ~ 11时50分]"
+          "appearance_count": 10,
+          "time_info": "[01时05分 ~ 15时46分]"
         },
         {
           "title": "韩国机器人出家,皈依佛门受戒",
@@ -1046,7 +1140,22 @@
           "source": "贴吧",
           "ranks": [
             19,
-            23
+            23,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时05分 ~ 15时46分]"
+        },
+        {
+          "title": "周末要闻汇总：DeepSeek据悉拟募资最高500亿元人民币；证监会查处2起财务造假案件",
+          "url": "https://www.cls.cn/detail/2367192",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            12,
+            8
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -1102,6 +1211,28 @@
           "time_info": "[01时05分 ~ 11时50分]"
         },
         {
+          "title": "论文严查AI使用率是否合理",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AE%BA%E6%96%87%E4%B8%A5%E6%9F%A5AI%E4%BD%BF%E7%94%A8%E7%8E%87%E6%98%AF%E5%90%A6%E5%90%88%E7%90%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时46分"
+        },
+        {
+          "title": "AI热潮主导亚洲市场、SK海力士涨10%，美伊局势推高油价，现货黄金跌破4660",
+          "url": "https://wallstreetcn.com/articles/3771942",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时46分"
+        },
+        {
           "title": "AI正在污染我们的判断力",
           "url": "https://www.toutiao.com/trending/7638257796718267946/",
           "source": "今日头条",
@@ -1126,15 +1257,48 @@
           "time_info": "[01时05分 ~ 01时06分]"
         },
         {
+          "title": "美国“人形机器人格斗大赛”上演中国德比：宇树PK众擎",
+          "url": "https://news.ifeng.com/c/8t1c0Vp6Gi5",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时50分 ~ 15时46分]"
+        },
+        {
+          "title": "CPU、存储、光通信……华尔街解读AI股史诗级狂热：市场热衷追逐“瓶颈”！",
+          "url": "https://www.cls.cn/detail/2367427",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时46分"
+        },
+        {
           "title": "美伊局势再度紧张，油价跳涨、黄金下跌，AI浪潮下韩股涨超4%，SK海力士涨10%、三星再创新高",
           "url": "https://wallstreetcn.com/articles/3771942",
           "source": "华尔街见闻",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时50分"
+        },
+        {
+          "title": "花生AI是什么",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8A%B1%E7%94%9FAI%E6%98%AF%E4%BB%80%E4%B9%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时46分"
         },
         {
           "title": "阿里千问与淘宝全面打通，打通AI购物全链路",
@@ -1143,20 +1307,42 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时50分"
         },
         {
-          "title": "美国“人形机器人格斗大赛”上演中国德比：宇树PK众擎",
-          "url": "https://news.ifeng.com/c/8t1c0Vp6Gi5",
-          "source": "凤凰网",
+          "title": "AI原创短片国产爱死机",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%8E%9F%E5%88%9B%E7%9F%AD%E7%89%87%E5%9B%BD%E4%BA%A7%E7%88%B1%E6%AD%BB%E6%9C%BA",
+          "source": "bilibili 热搜",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时50分"
+          "time_info": "15时46分"
+        },
+        {
+          "title": "阿里或将整合千问与淘宝，打造 AI 对话式购物，你会把购物交给 AI 吗？",
+          "url": "https://www.zhihu.com/question/2037110129963661155",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时46分"
+        },
+        {
+          "title": "如何缓解 AI 带来的焦虑？",
+          "url": "https://www.zhihu.com/question/2034614995724543663",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时46分"
         },
         {
           "title": "英伟达竞争对手Cerebras据悉将上调IPO定价区间",
@@ -1168,12 +1354,298 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时53分"
+        },
+        {
+          "title": "眉姐姐终于用AI穿对衣服了",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%9C%89%E5%A7%90%E5%A7%90%E7%BB%88%E4%BA%8E%E7%94%A8AI%E7%A9%BF%E5%AF%B9%E8%A1%A3%E6%9C%8D%E4%BA%86%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时46分"
+        },
+        {
+          "title": "小米新一代智能座舱入网",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E6%96%B0%E4%B8%80%E4%BB%A3%E6%99%BA%E8%83%BD%E5%BA%A7%E8%88%B1%E5%85%A5%E7%BD%91%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时46分"
+        },
+        {
+          "title": "AI 掠夺水资源",
+          "url": "https://s.weibo.com/weibo?q=AI%20%E6%8E%A0%E5%A4%BA%E6%B0%B4%E8%B5%84%E6%BA%90&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时46分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "外交部 商务部 证监会 央行",
+      "match_count": 22,
+      "titles": [
+        {
+          "title": "外交部官宣特朗普访华日期",
+          "url": "https://www.toutiao.com/trending/7638433306853281331/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时50分"
+        },
+        {
+          "title": "外交部介绍特朗普访华安排和中方期待",
+          "url": "https://www.toutiao.com/trending/7638111822163496490/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时46分"
+        },
+        {
+          "title": "伊朗外交部：伊朗向美国提出的提议“并不过分”",
+          "url": "https://wallstreetcn.com/livenews/3101451",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时46分"
+        },
+        {
+          "title": "据半岛电视台：伊朗外交部表示，美国实施的敌对行为是中东地区不稳定的原因。",
+          "url": "https://flash.jin10.com/detail/20260511152953708800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时46分"
+        },
+        {
+          "title": "外交部：中方愿同俄方推动构建更加公正合理的全球治理体系",
+          "url": "https://flash.jin10.com/detail/20260511152925600800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时46分"
+        },
+        {
+          "title": "据伊朗学生通讯社：伊朗与埃及外交部长通话，就地区最新局势以及在巴基斯坦斡旋下进行的伊美外交进程相关议题进行了讨论与磋商。",
+          "url": "https://flash.jin10.com/detail/20260511062016303800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时53分 ~ 07时56分]"
+        },
+        {
+          "title": "沙特外交部：沙特重申与海湾兄弟国家站在一起，共同维护其安全与稳定。",
+          "url": "https://flash.jin10.com/detail/20260511024020107800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时09分 ~ 04时53分]"
+        },
+        {
+          "title": "卡塔尔外交部：卡塔尔外交国务大臣会见德国总理政治与安全顾问。",
+          "url": "https://flash.jin10.com/detail/20260511022831048800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时09分 ~ 04时53分]"
+        },
+        {
+          "title": "伊朗外交部：伊朗外长与荷兰外长通话，就双边关系及最新的地区和外交动态交换了意见。",
+          "url": "https://flash.jin10.com/detail/20260511055903355800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时53分 ~ 07时56分]"
+        },
+        {
+          "title": "伊朗外交部：伊朗新任驻越南大使与越南外长会面。",
+          "url": "https://flash.jin10.com/detail/20260511032317652800",
+          "source": "金十数据",
+          "ranks": [
+            18,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时53分 ~ 05时52分]"
+        },
+        {
+          "title": "外交部介绍特朗普访华具体安排",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E4%BB%8B%E7%BB%8D%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E5%85%B7%E4%BD%93%E5%AE%89%E6%8E%92",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时46分"
+        },
+        {
+          "title": "外交部：中方将继续为停火止战、劝和促谈发挥积极作用",
+          "url": "https://wallstreetcn.com/livenews/3101445",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时46分"
+        },
+        {
+          "title": "外交部：中方正同东盟国家就南海行为准则案文保持密切磋商",
+          "url": "https://flash.jin10.com/detail/20260511152813129800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时46分"
+        },
+        {
+          "title": "外交部：中方愿同俄方推动构建更加公正合理的全球治理体系",
+          "url": "https://wallstreetcn.com/livenews/3101444",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时46分"
+        },
+        {
+          "title": "据沙特媒体哈达斯：伊朗外交部表示，我们对美国的回应是合理的要求。",
+          "url": "https://flash.jin10.com/detail/20260511152620525800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时46分"
+        },
+        {
+          "title": "外交部：中方决定不同意台湾地区参加今年世卫大会",
+          "url": "https://wallstreetcn.com/livenews/3101443",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时46分"
+        },
+        {
+          "title": "外交部：中方决定不同意台湾地区参加今年世卫大会",
+          "url": "https://flash.jin10.com/detail/20260511152617822800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时46分"
+        },
+        {
+          "title": "【外交部介绍特朗普访华具体安排和中方期待】外交部发言人郭嘉昆主持例行记者会。 总台央视记者提问：中方已经发布美国总统特朗普来华进行国事访问的消息。能否进一步介绍此访具体安排和中方期待？ 郭嘉昆表示，应国家主席习近平邀请，特朗普总统即将对中国进行国事访问。这是中美两国元首继去年10月釜山之后再次面对面会晤，也是美国总统时隔9年再次访华。习近平主席将同特朗普总统就事关中美关系以及世界和平与发展的重大问题深入交换意见。元首外交对中美关系具有不可替代的战略引领作用。中方愿同美方一道，秉持平等、尊重、互惠的精神，扩大合作、管控分歧，为变乱交织的世界注入更多的稳定性和确定性。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3101442",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时46分"
+        },
+        {
+          "title": "阿联酋外交部：阿联酋强烈谴责在卡塔尔领海内对商船的无人机恐怖袭击。",
+          "url": "https://flash.jin10.com/detail/20260511001525161800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时06分"
+        },
+        {
+          "title": "美国制裁三家中国公司，外交部回应",
+          "url": "https://flash.jin10.com/detail/20260511152501229800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时46分"
+        },
+        {
+          "title": "美国制裁三家中国公司，外交部回应",
+          "url": "https://wallstreetcn.com/livenews/3101440",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时46分"
+        },
+        {
+          "title": "外交部介绍美国总统特朗普访华安排和中方期待",
+          "url": "https://flash.jin10.com/detail/20260511152357142800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时46分"
         }
       ]
     },
     {
       "keyword_group": "黄金 白银 铜 铝 稀土",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "历史的回归：德意志银行谈黄金、美元与货币未来",
@@ -1186,6 +1658,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时05分 ~ 07时56分]"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 5月11日（周一）收盘下跌1.09%报1025.0元/克；<br/>上海黄金交易所白银T+D 5月11日（周一）收盘上涨0.39%报19895.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260511153251016800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时46分"
         },
         {
           "title": "美伊未达成一致：原油走高3% 黄金跌破4700",
@@ -1258,13 +1741,24 @@
           "time_info": "07时56分"
         },
         {
+          "title": "三菱日联：美伊谈判僵局加剧引发通胀担忧 黄金价格下跌",
+          "url": "https://flash.jin10.com/detail/20260511151831686800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时46分"
+        },
+        {
           "title": "创业板指涨超2%，沪指涨0.74%，深成指涨1.62%，存储芯片、光纤、稀土、房地产等方向涨幅居前，沪深京三市上涨个股超2600只。",
           "url": "https://wallstreetcn.com/livenews/3101293",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时50分"
         },
@@ -1275,7 +1769,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时50分"
         },
@@ -1286,7 +1780,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时50分"
         },
@@ -1300,94 +1794,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时52分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "外交部 商务部 证监会 央行",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "外交部官宣特朗普访华日期",
-          "url": "https://www.toutiao.com/trending/7638433306853281331/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时50分"
-        },
-        {
-          "title": "据伊朗学生通讯社：伊朗与埃及外交部长通话，就地区最新局势以及在巴基斯坦斡旋下进行的伊美外交进程相关议题进行了讨论与磋商。",
-          "url": "https://flash.jin10.com/detail/20260511062016303800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时53分 ~ 07时56分]"
-        },
-        {
-          "title": "沙特外交部：沙特重申与海湾兄弟国家站在一起，共同维护其安全与稳定。",
-          "url": "https://flash.jin10.com/detail/20260511024020107800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时09分 ~ 04时53分]"
-        },
-        {
-          "title": "卡塔尔外交部：卡塔尔外交国务大臣会见德国总理政治与安全顾问。",
-          "url": "https://flash.jin10.com/detail/20260511022831048800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时09分 ~ 04时53分]"
-        },
-        {
-          "title": "伊朗外交部：伊朗外长与荷兰外长通话，就双边关系及最新的地区和外交动态交换了意见。",
-          "url": "https://flash.jin10.com/detail/20260511055903355800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时53分 ~ 07时56分]"
-        },
-        {
-          "title": "伊朗外交部：伊朗新任驻越南大使与越南外长会面。",
-          "url": "https://flash.jin10.com/detail/20260511032317652800",
-          "source": "金十数据",
-          "ranks": [
-            18,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时53分 ~ 05时52分]"
-        },
-        {
-          "title": "阿联酋外交部：阿联酋强烈谴责在卡塔尔领海内对商船的无人机恐怖袭击。",
-          "url": "https://flash.jin10.com/detail/20260511001525161800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时06分"
         }
       ]
     }
