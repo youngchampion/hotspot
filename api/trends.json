@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-01T08:09:30.869731+08:00",
-  "total_titles_processed": 551,
+  "generated_at": "2026-06-01T14:06:47.166325+08:00",
+  "total_titles_processed": 795,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek AI openai 机器人 小米 特斯拉 英伟达",
-      "match_count": 21,
+      "match_count": 49,
       "titles": [
         {
           "title": "周末要闻汇总：全国首个绿色算力全栈AI平台上线；MiniMax启动A股上市辅导",
@@ -159,7 +159,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
         },
@@ -174,6 +174,50 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时13分 ~ 06时03分]"
+        },
+        {
+          "title": "黄仁勋：Vera Rubin全面量产，AI Agent是重点方向，挑战英特尔剑指下一代AI PC入口",
+          "url": "https://wallstreetcn.com/articles/3773548",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时06分"
+        },
+        {
+          "title": "直击英伟达GTC 2026黄仁勋演讲：英伟达正式进军PC芯片市场",
+          "url": "https://www.cls.cn/detail/2386626",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时06分"
+        },
+        {
+          "title": "LobsterAI上线图片视频大模型矩阵",
+          "url": "https://flash.jin10.com/detail/20260601133424599800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时06分"
+        },
+        {
+          "title": "英伟达：计划除了与中国宇树科技合作外，也将与美国、欧洲及韩国的人形机器人制造商合作，开展研究机器人项目。",
+          "url": "https://wallstreetcn.com/livenews/3112198",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时06分"
         },
         {
           "title": "让小孩学AI是浪费时间吗",
@@ -215,11 +259,111 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33276405",
           "source": "澎湃新闻",
           "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时09分 ~ 14时06分]"
+        },
+        {
+          "title": "SpaceX、OpenAI上市在即，亚洲投资者“卖芯片，买瓶颈”，押注“新一轮资本开支”",
+          "url": "https://wallstreetcn.com/articles/3773518",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时06分"
+        },
+        {
+          "title": "英伟达(NVDA.O)：台积电(TSM.N)正在探索使用英伟达Omniverse库构建FabTwin虚拟晶圆厂环境，并使用英伟达Metropolis和TAO工具套件推进缺陷检测。",
+          "url": "https://flash.jin10.com/detail/20260601132644360800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时06分"
+        },
+        {
+          "title": "英伟达(NVDA.O)：台积电(TSM.N)使用英伟达CUDA-X库和AI模型加速英伟达GPU上的工作负载。",
+          "url": "https://flash.jin10.com/detail/20260601132527452800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时06分"
+        },
+        {
+          "title": "AI热情主导市场，日韩股市齐创新高，韩股一度触发熔断，三星电子大涨10%",
+          "url": "https://wallstreetcn.com/articles/3773537",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时06分"
+        },
+        {
+          "title": "英伟达(NVDA.O)：台积电(TSM.N) 利用英伟达技术提升先进晶圆厂的周转时间、能效、良率和运营生产力。",
+          "url": "https://flash.jin10.com/detail/20260601132504780800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时06分"
+        },
+        {
+          "title": "机器人能给人类永恒的爱吗",
+          "url": "https://www.douyin.com/hot/2517756",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时06分"
+        },
+        {
+          "title": "英伟达：将与台积电合作将AI引入晶圆厂，推动半导体设计与制造创新。",
+          "url": "https://wallstreetcn.com/livenews/3112187",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时06分"
+        },
+        {
+          "title": "日经首破67000点，软银击败丰田登顶：AI正在重写日本股市",
+          "url": "https://flash.jin10.com/detail/20260601132322498800",
+          "source": "金十数据",
+          "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时09分"
+          "time_info": "14时06分"
+        },
+        {
+          "title": "英伟达：包括比亚迪、吉利、极氪、小米以及小马智行等在内的中国主流车企和自动驾驶公司，均已采用或正在基于NVIDIA Hyperion 平台开发智驾。",
+          "url": "https://wallstreetcn.com/livenews/3112186",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时06分"
         },
         {
           "title": "SpaceX购入特斯拉Cybertruck总销量的8% 且未获任何折扣",
@@ -233,15 +377,92 @@
           "time_info": "06时03分"
         },
         {
+          "title": "英伟达(NVDA.O)高管：英伟达计划与美国、欧洲和韩国的人形机器人制造商合作，开展研究机器人项目。",
+          "url": "https://flash.jin10.com/detail/20260601132203037800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时06分"
+        },
+        {
+          "title": "英伟达正面挑战英特尔",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%AD%A3%E9%9D%A2%E6%8C%91%E6%88%98%E8%8B%B1%E7%89%B9%E5%B0%94",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时06分"
+        },
+        {
+          "title": "英伟达发布用于学术研究的NVIDIA Isaac GR00T人形机器人参考平台。",
+          "url": "https://wallstreetcn.com/livenews/3112183",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时06分"
+        },
+        {
+          "title": "英伟达推出用于自动驾驶出租车的Alpamayo 2超级开放推理模型，宣布NVIDIA DRIVE Hyperion成为全球自动驾驶出租车平台。",
+          "url": "https://wallstreetcn.com/livenews/3112181",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时06分"
+        },
+        {
           "title": "行业机构称，5月份法国新车注册量同比增长3.68%，达到128484辆。5月份特斯拉(TSLA.O)在法国的注册量同比增长655.34%。",
           "url": "https://flash.jin10.com/detail/20260601074034712800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：公司推出面向机器人AI的新一代模型。",
+          "url": "https://wallstreetcn.com/livenews/3112179",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时06分"
+        },
+        {
+          "title": "英伟达推出面向Windows的DGX Station，为企业配备拥有万亿参数的人工智能超级计算机。",
+          "url": "https://wallstreetcn.com/livenews/3112177",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时06分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：英伟达将随每一代AI处理器同步推出新一代个人电脑（PC）芯片。",
+          "url": "https://wallstreetcn.com/livenews/3112175",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时06分"
         },
         {
           "title": "国泰海通：维持海外AI算力及应用产业链“增持”评级",
@@ -253,12 +474,100 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时13分"
+        },
+        {
+          "title": "英伟达(NVDA.O)推出Cosmos 3开放世界基础模型，旨在推动物理人工智能的发展。",
+          "url": "https://flash.jin10.com/detail/20260601130620830800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时06分"
+        },
+        {
+          "title": "英伟达美股夜盘股价上涨2.7%。",
+          "url": "https://wallstreetcn.com/livenews/3112174",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时06分"
+        },
+        {
+          "title": "英伟达公布面向Windows系统个人电脑的新款处理器，挑战英特尔。 英伟达将与联发科合作开发RTX SPARK个人电脑芯片，台积电将生产该芯片。 英伟达个人电脑芯片将于今年秋季面市，适用于笔记本和台式机。",
+          "url": "https://wallstreetcn.com/livenews/3112170",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时06分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：推出全新AI模型Nemotron 3 Ultra。",
+          "url": "https://wallstreetcn.com/livenews/3112168",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时06分"
+        },
+        {
+          "title": "英伟达(NVDA.O)与台积电(TSM.N)携手将人工智能引入晶圆厂，推动半导体设计与制造技术升级。",
+          "url": "https://flash.jin10.com/detail/20260601130243574800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时06分"
+        },
+        {
+          "title": "英伟达超级芯片平台Vera Rubin全面投产",
+          "url": "https://www.toutiao.com/trending/7646273216465342006/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时06分"
+        },
+        {
+          "title": "小米汽车5月交付量再超3万台",
+          "url": "https://www.toutiao.com/trending/7645176662707503145/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时06分"
+        },
+        {
+          "title": "AIPC概念股集体大涨",
+          "url": "https://s.weibo.com/weibo?q=%23AIPC%E6%A6%82%E5%BF%B5%E8%82%A1%E9%9B%86%E4%BD%93%E5%A4%A7%E6%B6%A8%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时06分"
         }
       ]
     },
     {
       "keyword_group": "美股 A股 港股 美债 美元 石油 战争",
-      "match_count": 21,
+      "match_count": 28,
       "titles": [
         {
           "title": "新西兰财长阴阳美防长：我们沙发底下可没藏几十亿美元",
@@ -309,6 +618,19 @@
           "time_info": "[00时13分 ~ 06时03分]"
         },
         {
+          "title": "战争阴霾笼罩世界杯，伊朗国家队运动员仍未获得赴美签证",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33276489",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[04时13分 ~ 14时06分]"
+        },
+        {
           "title": "罗马尼亚遭袭后，梅德韦杰夫警告：欧盟已进入与俄罗斯的战争",
           "url": "https://m.thepaper.cn/newsDetail_forward_33275395",
           "source": "澎湃新闻",
@@ -345,16 +667,26 @@
           "time_info": "06时03分"
         },
         {
-          "title": "战争阴霾笼罩世界杯，伊朗国家队运动员仍未获得赴美签证",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33276489",
-          "source": "澎湃新闻",
+          "title": "日企黑科技:塑料变石油",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354745&amp;topic_name=%E6%97%A5%E4%BC%81%E9%BB%91%E7%A7%91%E6%8A%80%3A%E5%A1%91%E6%96%99%E5%8F%98%E7%9F%B3%E6%B2%B9",
+          "source": "贴吧",
           "ranks": [
-            11,
-            12
+            3
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时13分 ~ 08时09分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时06分"
+        },
+        {
+          "title": "A股电机制造板块短线拉升，神力股份、星德胜此前涨停，卧龙电驱涨逾3%，江苏雷利、三协电机等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260601133424557800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时06分"
         },
         {
           "title": "美国财长贝森特：霍尔木兹海峡必须恢复至（美国和以色列挑起伊朗战争）之前的水平。 海峡关闭直接造成化肥价格上涨。",
@@ -416,13 +748,24 @@
           "time_info": "06时03分"
         },
         {
+          "title": "A股PCB概念板块短线拉升，圣泉集团涨停，合锻智能、龙旗科技、中京电子此前封板，宏昌电子、澳弘电子、芯碁微装、鹏鼎控股、德福科技等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3112194",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时06分"
+        },
+        {
           "title": "美元基金募资回暖 硬科技领域成共识",
           "url": "https://wallstreetcn.com/livenews/3112010",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
         },
@@ -444,9 +787,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
+        },
+        {
+          "title": "A股PCB概念震荡回升，圣泉集团涨停，龙旗科技、中京电子此前封板，奥士康、宏昌电子、德福科技等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260601132404101800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时06分"
         },
         {
           "title": "南向资金密集扫货港股科技股 对多只标的持仓倍增",
@@ -455,9 +809,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
+        },
+        {
+          "title": "A股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时06分"
         },
         {
           "title": "美国科技记者古尔曼：戴尔(DELL.N)推出了重新设计的XPS 13笔记本电脑，起售价为699美元，将该设备定位为直接对抗苹果公司广受欢迎的MacBook Neo的产品。",
@@ -466,9 +831,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
+        },
+        {
+          "title": "A股互联网电商板块走高，狮头股份涨停，壹网壹创涨超10%，丽人丽妆、跨境通、赛维时代、凯淳股份、三态股份等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260601130441835800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时06分"
         },
         {
           "title": "6月基金经理调研：A股仍是最受青睐的方向之一",
@@ -477,7 +853,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
         },
@@ -488,9 +864,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
+        },
+        {
+          "title": "巴克莱银行初次覆盖IBM，给予“超配”评级，目标价350美元。",
+          "url": "https://wallstreetcn.com/livenews/3112167",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时06分"
         },
         {
           "title": "美股的“午夜钟声”或将敲响",
@@ -507,7 +894,7 @@
     },
     {
       "keyword_group": "特朗普 马斯克 加密货币 美联储",
-      "match_count": 15,
+      "match_count": 19,
       "titles": [
         {
           "title": "美伊谈判进入关键拉锯：特朗普临时改协议，签署时间再生变数",
@@ -542,6 +929,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时05分 ~ 06时03分]"
+        },
+        {
+          "title": "特朗普提出更强硬条款，伊朗：已准备好谈判破裂",
+          "url": "https://news.ifeng.com/c/8taubWZltKg",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时06分"
         },
         {
           "title": "美国总统特朗普：Tom Barrack将兼任土耳其大使和叙利亚特使。",
@@ -614,6 +1012,28 @@
           "time_info": "06时03分"
         },
         {
+          "title": "沃什改写“美联储最爱的通胀指标”，2021年“通胀低估”会重演吗？",
+          "url": "https://wallstreetcn.com/articles/3773529",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时06分"
+        },
+        {
+          "title": "特朗普：伊朗真的很想达成协议，最终一切都会顺利解决，大家只需坐下来，放轻松。",
+          "url": "https://wallstreetcn.com/livenews/3112190",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时06分"
+        },
+        {
           "title": "美媒称特朗普政府损失大量法律人才 特朗普：是件好事",
           "url": "https://flash.jin10.com/detail/20260601042418213800",
           "source": "金十数据",
@@ -642,7 +1062,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
         },
@@ -653,7 +1073,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
         },
@@ -664,7 +1084,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
         },
@@ -678,6 +1098,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时13分"
+        },
+        {
+          "title": "特朗普：伊朗确实想达成协议",
+          "url": "https://flash.jin10.com/detail/20260601130259143800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时06分"
         }
       ]
     },
@@ -763,7 +1194,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
         },
@@ -793,7 +1224,7 @@
     },
     {
       "keyword_group": "黄金 白银 铜 铝 稀土",
-      "match_count": 3,
+      "match_count": 7,
       "titles": [
         {
           "title": "高盛将2026年底LME铜价预测上调至13,735美元/吨，将2027年LME平均铜价预测上调至13,800美元/吨。",
@@ -802,7 +1233,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
         },
@@ -813,9 +1244,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
+        },
+        {
+          "title": "花旗：上调铜价预测，短期目标价为14,500美元/吨，未来6至12个月目标价为15,000美元/吨。 美国铜关税担忧预计将在6月持续推升价格，直到关税政策明朗为止。",
+          "url": "https://wallstreetcn.com/livenews/3112191",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时06分"
         },
         {
           "title": "高盛将2026年底LME铜价预测上调至13,735美元/吨。",
@@ -824,9 +1266,42 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
+        },
+        {
+          "title": "花旗：美国铜关税担忧可能在6月之前持续对价格形成支持，直到关税明朗化。",
+          "url": "https://flash.jin10.com/detail/20260601130830131800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时06分"
+        },
+        {
+          "title": "印度商品交易所MCX推出“白银100”期货合约。",
+          "url": "https://wallstreetcn.com/livenews/3112178",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时06分"
+        },
+        {
+          "title": "花旗：将近期铜价预测上调至14,500美元/吨，6-12个月内目标价为15,000美元/吨。",
+          "url": "https://flash.jin10.com/detail/20260601130714876800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时06分"
         }
       ]
     }
