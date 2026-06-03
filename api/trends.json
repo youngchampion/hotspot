@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-06-03T17:29:27.317593+08:00",
-  "total_titles_processed": 930,
+  "generated_at": "2026-06-03T22:44:17.497105+08:00",
+  "total_titles_processed": 1125,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek AI openai 机器人 小米 特斯拉 英伟达",
-      "match_count": 57,
+      "match_count": 64,
       "titles": [
+        {
+          "title": "AI热情力撑美股新高，纳指、标普九连涨，半导体指数大涨近6%，比特币重挫，铜上涨",
+          "url": "https://wallstreetcn.com/articles/3773650",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时48分 ~ 22时44分]"
+        },
         {
           "title": "黄仁勋、Marvell CEO同台对谈：未来AI拼的不是算力是连接，“能用铜就用铜，必须用光才用光”！",
           "url": "https://wallstreetcn.com/articles/3773656",
@@ -18,6 +30,20 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时42分 ~ 12时25分]"
+        },
+        {
+          "title": "白嫖结束!豆包AI开始收费",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354786&amp;topic_name=%E7%99%BD%E5%AB%96%E7%BB%93%E6%9D%9F%21%E8%B1%86%E5%8C%85AI%E5%BC%80%E5%A7%8B%E6%94%B6%E8%B4%B9",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            9,
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[02时42分 ~ 22时44分]"
         },
         {
           "title": "基于CPO技术！英伟达Spectrum-X硅光交换机全面量产",
@@ -45,18 +71,6 @@
           "time_info": "[02时42分 ~ 07时49分]"
         },
         {
-          "title": "AI热情力撑美股新高，纳指、标普九连涨，半导体指数大涨近6%，比特币重挫，铜上涨",
-          "url": "https://wallstreetcn.com/articles/3773650",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时48分 ~ 17时29分]"
-        },
-        {
           "title": "英伟达：Spectrum-X以太网硅光技术现已全面量产",
           "url": "https://www.cls.cn/detail/2388684",
           "source": "财联社热门",
@@ -66,19 +80,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时42分 ~ 07时49分]"
-        },
-        {
-          "title": "白嫖结束!豆包AI开始收费",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354786&amp;topic_name=%E7%99%BD%E5%AB%96%E7%BB%93%E6%9D%9F%21%E8%B1%86%E5%8C%85AI%E5%BC%80%E5%A7%8B%E6%94%B6%E8%B4%B9",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            9,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时42分 ~ 17时29分]"
         },
         {
           "title": "美股收盘：三大股指小幅收涨 标普首次突破7600点 AI狂热压倒中东忧虑",
@@ -104,6 +105,18 @@
           "time_info": "[02时42分 ~ 05时51分]"
         },
         {
+          "title": "AI脸泛滥成灾,建模师没活了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354826&amp;topic_name=AI%E8%84%B8%E6%B3%9B%E6%BB%A5%E6%88%90%E7%81%BE%2C%E5%BB%BA%E6%A8%A1%E5%B8%88%E6%B2%A1%E6%B4%BB%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时29分 ~ 22时44分]"
+        },
+        {
           "title": "AI坑健身小白买20kg哑铃",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354756&amp;topic_name=AI%E5%9D%91%E5%81%A5%E8%BA%AB%E5%B0%8F%E7%99%BD%E4%B9%B020kg%E5%93%91%E9%93%83",
           "source": "贴吧",
@@ -114,6 +127,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时42分 ~ 12时25分]"
+        },
+        {
+          "title": "孙正义重登亚洲首富，称 AI 才刚起步，体量有望达到互联网热潮 50 倍，怎么理解该判断？其首富位子能坐多久？",
+          "url": "https://www.zhihu.com/question/2045380781644763655",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时43分 ~ 22时44分]"
         },
         {
           "title": "微软发布可充当行政助理的AI软件",
@@ -133,7 +157,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
         },
@@ -147,17 +171,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时42分"
-        },
-        {
-          "title": "AI脸泛滥成灾,建模师没活了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354826&amp;topic_name=AI%E8%84%B8%E6%B3%9B%E6%BB%A5%E6%88%90%E7%81%BE%2C%E5%BB%BA%E6%A8%A1%E5%B8%88%E6%B2%A1%E6%B4%BB%E4%BA%86",
-          "source": "贴吧",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时29分"
         },
         {
           "title": "市场消息：人形机器人公司帕西尼据悉考虑香港IPO。",
@@ -230,6 +243,17 @@
           "time_info": "[02时42分 ~ 05时51分]"
         },
         {
+          "title": "胡彦斌一个月开发出 App，AI 时代将给普通人带来哪些机会？",
+          "url": "https://www.zhihu.com/question/2044389352550164119",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时43分 ~ 22时44分]"
+        },
+        {
           "title": "OpenAI举行“AI上岗”发布会：股票研究、投行路演都能干",
           "url": "https://www.cls.cn/detail/2388950",
           "source": "财联社热门",
@@ -239,6 +263,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时24分 ~ 12时25分]"
+        },
+        {
+          "title": "腾讯云宣布 DeepSeek-V4 系列模型降价，最高降幅达 97.5%，将带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2045220633466725057",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时43分 ~ 22时44分]"
+        },
+        {
+          "title": "王珞丹谈手搓AI短片创作过程",
+          "url": "https://www.toutiao.com/trending/7646685572421238803/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时43分 ~ 22时44分]"
         },
         {
           "title": "当小米车主遇到问界车主",
@@ -285,6 +331,17 @@
           "time_info": "[07时48分 ~ 07时49分]"
         },
         {
+          "title": "AI数据中心 淡水资源",
+          "url": "https://s.weibo.com/weibo?q=AI%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%20%E6%B7%A1%E6%B0%B4%E8%B5%84%E6%BA%90&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时43分 ~ 22时44分]"
+        },
+        {
           "title": "AI演员已经有眼神戏了",
           "url": "https://s.weibo.com/weibo?q=%23AI%E6%BC%94%E5%91%98%E5%B7%B2%E7%BB%8F%E6%9C%89%E7%9C%BC%E7%A5%9E%E6%88%8F%E4%BA%86%23&t=31&band_rank=26&Refer=top",
           "source": "微博",
@@ -324,7 +381,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
         },
@@ -478,7 +535,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
         },
@@ -489,7 +546,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
         },
@@ -503,6 +560,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时42分"
+        },
+        {
+          "title": "京东开源JoyAI-Echo长音视频生成框架",
+          "url": "https://wallstreetcn.com/livenews/3113847",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时44分"
         },
         {
           "title": "优步（Uber Technologies Inc.）对Claude等AI工具设置员工使用上限，希望借机管控成本。",
@@ -533,7 +601,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
         },
@@ -555,7 +623,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
         },
@@ -599,7 +667,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
         },
@@ -624,6 +692,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时25分"
+        },
+        {
+          "title": "美股开盘涨跌不一，纳指涨0.02%，标普500指数跌0.15%，道指跌0.4%。Marvell延续涨势，上涨9.5%；英特尔上涨超8%，新处理器Xeon 6 Plus亮相，进军AI整机柜市场。",
+          "url": "https://wallstreetcn.com/livenews/3113835",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时44分"
         },
         {
           "title": "摩根大通：特斯拉销售势头正在加速",
@@ -651,7 +730,7 @@
     },
     {
       "keyword_group": "美股 A股 港股 美债 美元 石油 战争",
-      "match_count": 51,
+      "match_count": 60,
       "titles": [
         {
           "title": "夏威夷野鸡泛滥数量或超几十万只，政府诱捕一只要花超 100 美元，为啥会这样？有没有好的解决办法？",
@@ -692,13 +771,25 @@
           "time_info": "[12时24分 ~ 17时29分]"
         },
         {
+          "title": "1.75万亿美元估值，5%的股票发行，低于0.75%的承销费率--SpaceX IPO或周三披露价格区间",
+          "url": "https://wallstreetcn.com/articles/3773700",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时29分 ~ 22时44分]"
+        },
+        {
           "title": "大V：A股午后经历“过山车”",
           "url": "https://www.toutiao.com/trending/7647070572244897286/",
           "source": "今日头条",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
         },
@@ -721,7 +812,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
         },
@@ -788,20 +879,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
         },
         {
-          "title": "1.75万亿美元估值，5%的股票发行，低于0.75%的承销费率--SpaceX IPO或周三披露价格区间",
-          "url": "https://wallstreetcn.com/articles/3773700",
-          "source": "华尔街见闻",
+          "title": "EIA数据显示，美国至5月29日当周EIA战略石油储备库存减少799.3万桶至3.571亿桶，降幅2.19%，库存为2024年1月19日当周以来最低。",
+          "url": "https://flash.jin10.com/detail/20260603223358936800",
+          "source": "金十数据",
           "ranks": [
-            5
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时29分"
+          "time_info": "22时44分"
         },
         {
           "title": "英特尔(INTC.O)美股盘前涨幅达5%。",
@@ -810,7 +901,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
         },
@@ -885,6 +976,85 @@
           "time_info": "[02时42分 ~ 05时51分]"
         },
         {
+          "title": "大戏即将开演！美股IPO市场今年显著回暖 三大独角兽即将接力登场",
+          "url": "https://www.cls.cn/detail/2389478",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时29分 ~ 22时44分]"
+        },
+        {
+          "title": "比特币自 4 月以来首次跌破 7 万美元关口，以太坊跌破 2000 美元，后市可能会怎么走？",
+          "url": "https://www.zhihu.com/question/2045160987662321150",
+          "source": "知乎",
+          "ranks": [
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时29分 ~ 22时44分]"
+        },
+        {
+          "title": "美股两个月狂飙16%：历史只出现过4次，最近一次是1987崩盘前！",
+          "url": "https://wallstreetcn.com/articles/3773769",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时43分 ~ 22时44分]"
+        },
+        {
+          "title": "特朗普言论提振有限，美股指涨跌互现，Marvell开盘涨近10%，油价涨幅收窄",
+          "url": "https://wallstreetcn.com/articles/3773742",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时43分 ~ 22时44分]"
+        },
+        {
+          "title": "750亿美元！SpaceX或大幅打破融资纪录 一图速览全球前十大IPO",
+          "url": "https://www.cls.cn/detail/2389692",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时43分 ~ 22时44分]"
+        },
+        {
+          "title": "美股期指下跌 布油站上98美元 比特币跌破6.7万美元 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2389957",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时43分 ~ 22时44分]"
+        },
+        {
+          "title": "美股开盘：半导体板块维持强势",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%BC%80%E7%9B%98%EF%BC%9A%E5%8D%8A%E5%AF%BC%E4%BD%93%E6%9D%BF%E5%9D%97%E7%BB%B4%E6%8C%81%E5%BC%BA%E5%8A%BF",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时43分 ~ 22时44分]"
+        },
+        {
           "title": "A股第4只两千元股诞生",
           "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E7%AC%AC4%E5%8F%AA%E4%B8%A4%E5%8D%83%E5%85%83%E8%82%A1%E8%AF%9E%E7%94%9F%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
@@ -907,6 +1077,17 @@
           "time_info": "07时49分"
         },
         {
+          "title": "美国至5月29日当周EIA战略石油储备库存 -799.3万桶，前值-906.3万桶。",
+          "url": "https://flash.jin10.com/detail/20260603223005581800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时44分"
+        },
+        {
           "title": "交易员称，印度央行可能在抛售美元以限制卢比跌势。（路透）",
           "url": "https://wallstreetcn.com/livenews/3113487",
           "source": "华尔街见闻-快讯",
@@ -924,7 +1105,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
         },
@@ -962,17 +1143,6 @@
           "time_info": "05时51分"
         },
         {
-          "title": "大戏即将开演！美股IPO市场今年显著回暖 三大独角兽即将接力登场",
-          "url": "https://www.cls.cn/detail/2389478",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时29分"
-        },
-        {
           "title": "高盛上周末一通电话促成伯克希尔出手，800亿美元大单火速敲定",
           "url": "https://wallstreetcn.com/livenews/3113220",
           "source": "华尔街见闻-快讯",
@@ -990,7 +1160,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
         },
@@ -1028,17 +1198,6 @@
           "time_info": "02时42分"
         },
         {
-          "title": "比特币自 4 月以来首次跌破 7 万美元关口，以太坊跌破 2000 美元，后市可能会怎么走？",
-          "url": "https://www.zhihu.com/question/2045160987662321150",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时29分"
-        },
-        {
           "title": "WTI原油日内涨超1.00%，现报96.23美元/桶。",
           "url": "https://flash.jin10.com/detail/20260603070243928800",
           "source": "金十数据",
@@ -1056,7 +1215,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
         },
@@ -1111,7 +1270,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
         },
@@ -1136,6 +1295,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时51分"
+        },
+        {
+          "title": "谷歌母公司Alphabet将股权融资规模增至847.5亿美元",
+          "url": "https://wallstreetcn.com/livenews/3113836",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时44分"
         },
         {
           "title": "周二（6月2日），美股信息科技指数涨2.38%，报461.64点，连续多日创收盘历史新高，5月19日以来累计上涨23.35%。 标普500信息技术/科技板块涨0.92%，报7262.03点，也连续三天创收盘历史新高。",
@@ -1171,13 +1341,24 @@
           "time_info": "05时51分"
         },
         {
+          "title": "晨星公司：SpaceX实际价值不足其1.75万亿美元IPO目标的一半",
+          "url": "https://wallstreetcn.com/livenews/3113845",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时44分"
+        },
+        {
           "title": "评论员：A股正成为全民财富新蓄水池",
           "url": "https://www.toutiao.com/trending/7647043750434180627/",
           "source": "今日头条",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
         },
@@ -1228,300 +1409,8 @@
       ]
     },
     {
-      "keyword_group": "外交部 商务部 证监会 央行",
-      "match_count": 26,
-      "titles": [
-        {
-          "title": "日本央行行长植田和男：很难确定中性利率的确切水平，我们将仔细观察日本经济对短期利率变化的反应。",
-          "url": "https://flash.jin10.com/detail/20260603171849056800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时29分"
-        },
-        {
-          "title": "欧洲央行管委：即使美伊达成和平协议，也不会削弱加息理由",
-          "url": "https://flash.jin10.com/detail/20260603120627452800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时25分"
-        },
-        {
-          "title": "欧洲央行管委温施：伊朗和平协议不会影响欧洲央行加息的理由。",
-          "url": "https://flash.jin10.com/detail/20260603120325901800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时25分"
-        },
-        {
-          "title": "欧洲央行管委、比利时央行行长Wunsch：伊朗和平协议不会动摇欧洲央行加息的理由。（英国《金融时报》）",
-          "url": "https://wallstreetcn.com/livenews/3113494",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时25分"
-        },
-        {
-          "title": "外交部：关税战、贸易战不符合任何一方的利益",
-          "url": "https://www.cls.cn/detail/2389546",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时29分"
-        },
-        {
-          "title": "外交部批“台独”民族败类有何深意",
-          "url": "https://www.toutiao.com/trending/7646948488215511082/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时24分 ~ 12时25分]"
-        },
-        {
-          "title": "日本央行行长植田和男：我们将通过仔细审视经济、价格实现我们预测的可能性以及风险，来决定未来加息的步伐，同时关注中东冲突的影响。",
-          "url": "https://flash.jin10.com/detail/20260603171634553800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时29分"
-        },
-        {
-          "title": "中埃两国央行续签双边本币互换协议",
-          "url": "https://wallstreetcn.com/livenews/3113674",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时29分"
-        },
-        {
-          "title": "央行逆回购操作“归零”背后有何信号？业内：银行间市场资金面过于宽松 避免资金空转",
-          "url": "https://www.cls.cn/detail/2389557",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时29分"
-        },
-        {
-          "title": "瑞士央行行长：瑞士央行已提高在外汇市场干预的准备。",
-          "url": "https://flash.jin10.com/detail/20260603171514148800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时29分"
-        },
-        {
-          "title": "日本央行行长植田和男：将根据各种数据和信息做出适当的政策决策。",
-          "url": "https://flash.jin10.com/detail/20260603171509963800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时29分"
-        },
-        {
-          "title": "日本央行行长植田和男：（被问及6月加息的可能性）如果我们判断通胀风险大于经济下行风险，我们将探讨加息的利弊。",
-          "url": "https://flash.jin10.com/detail/20260603171431674800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时29分"
-        },
-        {
-          "title": "日本央行行长植田和男：许多企业指出，劳动力短缺、原材料等价格飙升，而非融资利率上升，是制约增长性投资的潜在障碍。 尽管迄今为止已经加息，日本的金融和经济活动并未受到抑制。 宽松的金融环境为经济活动提供了有力支撑。 中东局势对企业融资状况的影响似乎有限。",
-          "url": "https://wallstreetcn.com/livenews/3113667",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时29分"
-        },
-        {
-          "title": "瑞士央行行长：瑞士的中期通胀压力几乎没有变化。",
-          "url": "https://flash.jin10.com/detail/20260603171408035800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时29分"
-        },
-        {
-          "title": "日本央行行长植田和男：需要特别关注实际物价上涨是否会推高公众的通胀预期，导致基础CPI通胀率偏离2%的目标并上行。 近期长期利率的上升反映了市场通胀预期的超调。 虽然需关注经济下行风险，但日本央行更需关注通胀上行风险的实现及其对经济造成的负面影响。",
-          "url": "https://wallstreetcn.com/livenews/3113666",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时29分"
-        },
-        {
-          "title": "瑞士央行行长：尽管瑞士法郎上涨，瑞士酒店业仍保持价格竞争力。",
-          "url": "https://flash.jin10.com/detail/20260603171404903800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时29分"
-        },
-        {
-          "title": "瑞士央行行长：全球经济增长可能会暂时放缓，不确定性明显加大。",
-          "url": "https://flash.jin10.com/detail/20260603171230183800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时29分"
-        },
-        {
-          "title": "外交部：关税战不符合任何一方利益",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%EF%BC%9A%E5%85%B3%E7%A8%8E%E6%88%98%E4%B8%8D%E7%AC%A6%E5%90%88%E4%BB%BB%E4%BD%95%E4%B8%80%E6%96%B9%E5%88%A9%E7%9B%8A",
-          "source": "百度热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时29分"
-        },
-        {
-          "title": "外交部：战事再起不符合任何一方利益",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%EF%BC%9A%E6%88%98%E4%BA%8B%E5%86%8D%E8%B5%B7%E4%B8%8D%E7%AC%A6%E5%90%88%E4%BB%BB%E4%BD%95%E4%B8%80%E6%96%B9%E5%88%A9%E7%9B%8A",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时29分"
-        },
-        {
-          "title": "日本央行行长植田和男：如果中东动荡持续，可能会加大供应冲击影响潜在通胀的可能性。 价格传导的速度相比过去可能有所加快。 日本的实际利率仍然较低。 与其他主要经济体相比，日本的状况更容易让二次效应导致潜在通胀超预期。 根据目前的数据和相关信息，整体来看价格上行风险更大，并且可能更早出现。 目前的价格上涨可能并非暂时现象，可能导致潜在通胀超预期。 通胀超预期可能会损害经济，因为这会削弱家庭的购买力。",
-          "url": "https://wallstreetcn.com/livenews/3113654",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时29分"
-        },
-        {
-          "title": "外交部谈中东局势再次升级动向",
-          "url": "https://www.toutiao.com/trending/7646362341522259994/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时29分"
-        },
-        {
-          "title": "日本央行行长植田和男：私人消费有望继续受到工资增长和政府措施的支撑。 没有迹象显示过去的加息正在抑制企业资金需求。 宽松的金融环境正在支持经济活动。 不仅大型企业，较小企业也同意了大约5%的工资增长率。",
-          "url": "https://wallstreetcn.com/livenews/3113651",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时29分"
-        },
-        {
-          "title": "日本央行行长植田和男：不能排除供应链出现大规模中断的可能性，这将对日本企业的生产活动产生重大影响。 将仔细审视日本经济是否有能力抵御来自中东冲突的负面冲击，避免经济急剧恶化。 日本的出口和产出总体持平，但电子零部件和芯片的产出表现出较强韧性，这对于避免严重风险情景来说非常重要。",
-          "url": "https://wallstreetcn.com/livenews/3113650",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时29分"
-        },
-        {
-          "title": "外交部回应日方不当言论",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E6%97%A5%E6%96%B9%E4%B8%8D%E5%BD%93%E8%A8%80%E8%AE%BA",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时29分"
-        },
-        {
-          "title": "日本央行行长植田和男：随着日本央行逐步减少国债购买规模，日本国债市场的流动性正在稳步改善。 预计经济将继续温和增长，尽管增速有所放缓，但仍有望受到企业高利润、各类经济政策措施以及宽松金融环境的支撑。 CPI同比涨幅预计将大幅上升，尤其是在2026财年。 日本央行必须关注国债市场的稳定，银行的资产组合调整及个人投资者的反应预计还需一段时间。 经济和物价前景本身可能会因未来中东局势及其他因素的发展而发生重大变化，这值得关注。",
-          "url": "https://wallstreetcn.com/livenews/3113647",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时29分"
-        },
-        {
-          "title": "日本央行行长植田和男：与四年前相比，日本当前的环境发生了重大变化，通缩思维已被消除，企业的工资和定价行为也变得更加积极。 由于原油价格上涨导致的价格传导速度很可能比以往更快，且更容易扩散至更广泛的商品。 中东局势的动荡并未如最初预期那样迅速平息，目前仍不明朗。 日本央行将通过适当的货币政策努力实现其价格稳定的使命。",
-          "url": "https://wallstreetcn.com/livenews/3113646",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时29分"
-        }
-      ]
-    },
-    {
       "keyword_group": "特朗普 马斯克 加密货币 美联储",
-      "match_count": 25,
+      "match_count": 32,
       "titles": [
         {
           "title": "特朗普：美伊暂停谈判？假新闻！",
@@ -1558,6 +1447,18 @@
           "time_info": "[02时42分 ~ 07时49分]"
         },
         {
+          "title": "美联储“变天”序幕拉开？沃什首份内部备忘录流出 两大亲信已就位！",
+          "url": "https://www.cls.cn/detail/2389432",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时29分 ~ 22时44分]"
+        },
+        {
           "title": "美伊谈判反复背后，特朗普痛骂内塔尼亚胡：你他妈疯了，要不是我你早进监狱了！",
           "url": "https://wallstreetcn.com/articles/3773679",
           "source": "华尔街见闻",
@@ -1568,6 +1469,39 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时42分 ~ 12时25分]"
+        },
+        {
+          "title": "特朗普为何骂内塔尼亚胡“疯了”？",
+          "url": "https://news.ifeng.com/c/8ter8XhY8eS",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时43分 ~ 22时44分]"
+        },
+        {
+          "title": "特朗普：确实对内塔尼亚胡“爆粗口”，愿与伊朗最高领袖会面，正与伊朗达成协议，海上封锁或持续到9月",
+          "url": "https://wallstreetcn.com/articles/3773781",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时43分 ~ 22时44分]"
+        },
+        {
+          "title": "特朗普任命房屋监管主管兼任情报总监",
+          "url": "https://news.ifeng.com/c/8tetwuxA0Fy",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时43分 ~ 22时44分]"
         },
         {
           "title": "被特朗普斥“疯了”后，内塔尼亚胡最新强硬表态",
@@ -1592,15 +1526,15 @@
           "time_info": "02时42分"
         },
         {
-          "title": "美联储“变天”序幕拉开？沃什首份内部备忘录流出 两大亲信已就位！",
-          "url": "https://www.cls.cn/detail/2389432",
-          "source": "财联社热门",
+          "title": "美国纽约联储主席（享有FOMC永久投票权、号称美联储三把手）威廉姆斯：目前认为，没必要加息或降息。 看不到未来利率的明确方向。 不认为前瞻指引特别有帮助。",
+          "url": "https://wallstreetcn.com/livenews/3113863",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时29分"
+          "time_info": "22时44分"
         },
         {
           "title": "特朗普要求伊朗就核问题作出更坚定的承诺",
@@ -1614,13 +1548,24 @@
           "time_info": "05时51分"
         },
         {
+          "title": "美国纽约联储主席（享有FOMC永久投票权、号称美联储三把手）威廉姆斯：新关税不会对通胀造成重大影响。 基础通胀仍然面临一定程度上的下行压力。",
+          "url": "https://wallstreetcn.com/livenews/3113862",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时44分"
+        },
+        {
           "title": "美伊谈判反复背后，特朗普痛骂内塔尼亚胡“疯了”：要不是我你早进监狱了！",
           "url": "https://wallstreetcn.com/articles/3773679",
           "source": "华尔街见闻",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
         },
@@ -1631,7 +1576,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
         },
@@ -1659,6 +1604,18 @@
           "time_info": "[07时48分 ~ 12时25分]"
         },
         {
+          "title": "一个想谈一个想打！特朗普破口大骂内塔尼亚胡，美以分歧公开化",
+          "url": "https://wallstreetcn.com/articles/3773725",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时29分 ~ 22时44分]"
+        },
+        {
           "title": "特朗普最终还是签了，曾忧心这会“让中国领先”",
           "url": "https://news.ifeng.com/c/8teNmgDJ0FF",
           "source": "凤凰网",
@@ -1682,6 +1639,17 @@
           "time_info": "[07时48分 ~ 07时49分]"
         },
         {
+          "title": "美国纽约联储主席（享有FOMC永久投票权、号称美联储三把手）威廉姆斯：如果（霍尔木兹海峡）重新开放，美国通胀将在未来两个月见顶。 当前，我们担心通胀的顽固性。 经济仍然稳固地增长，就业形势稳定。",
+          "url": "https://wallstreetcn.com/livenews/3113859",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时44分"
+        },
+        {
           "title": "美国总统特朗普敦促伊朗做出更坚定的核承诺。（ABC）",
           "url": "https://wallstreetcn.com/livenews/3113300",
           "source": "华尔街见闻-快讯",
@@ -1693,24 +1661,13 @@
           "time_info": "05时51分"
         },
         {
-          "title": "一个想谈一个想打！特朗普破口大骂内塔尼亚胡，美以分歧公开化",
-          "url": "https://wallstreetcn.com/articles/3773725",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时29分"
-        },
-        {
           "title": "“罗生门”再现！伊方曝信息交换“已暂停数日” 特朗普坚称对话持续进行",
           "url": "https://www.cls.cn/detail/2389030",
           "source": "财联社热门",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
         },
@@ -1781,6 +1738,17 @@
           "time_info": "07时49分"
         },
         {
+          "title": "SpaceX上市或让特朗普班底身家再增 披露文件显示多名官员持有股份",
+          "url": "https://wallstreetcn.com/livenews/3113839",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时44分"
+        },
+        {
           "title": "特朗普：已接受在白宫记者晚宴发言的邀请",
           "url": "https://flash.jin10.com/detail/20260603020332024800",
           "source": "金十数据",
@@ -1805,8 +1773,302 @@
       ]
     },
     {
+      "keyword_group": "外交部 商务部 证监会 央行",
+      "match_count": 26,
+      "titles": [
+        {
+          "title": "外交部：关税战、贸易战不符合任何一方的利益",
+          "url": "https://www.cls.cn/detail/2389546",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时29分 ~ 22时44分]"
+        },
+        {
+          "title": "日本央行行长植田和男：很难确定中性利率的确切水平，我们将仔细观察日本经济对短期利率变化的反应。",
+          "url": "https://flash.jin10.com/detail/20260603171849056800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时29分"
+        },
+        {
+          "title": "欧洲央行管委：即使美伊达成和平协议，也不会削弱加息理由",
+          "url": "https://flash.jin10.com/detail/20260603120627452800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时25分"
+        },
+        {
+          "title": "欧洲央行管委温施：伊朗和平协议不会影响欧洲央行加息的理由。",
+          "url": "https://flash.jin10.com/detail/20260603120325901800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时25分"
+        },
+        {
+          "title": "欧洲央行管委、比利时央行行长Wunsch：伊朗和平协议不会动摇欧洲央行加息的理由。（英国《金融时报》）",
+          "url": "https://wallstreetcn.com/livenews/3113494",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时25分"
+        },
+        {
+          "title": "央行逆回购操作“归零”背后有何信号？业内：银行间市场资金面过于宽松 避免资金空转",
+          "url": "https://www.cls.cn/detail/2389557",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时29分 ~ 22时44分]"
+        },
+        {
+          "title": "外交部批“台独”民族败类有何深意",
+          "url": "https://www.toutiao.com/trending/7646948488215511082/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时24分 ~ 12时25分]"
+        },
+        {
+          "title": "日本央行行长植田和男：我们将通过仔细审视经济、价格实现我们预测的可能性以及风险，来决定未来加息的步伐，同时关注中东冲突的影响。",
+          "url": "https://flash.jin10.com/detail/20260603171634553800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时29分"
+        },
+        {
+          "title": "中埃两国央行续签双边本币互换协议",
+          "url": "https://wallstreetcn.com/livenews/3113674",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时29分"
+        },
+        {
+          "title": "瑞士央行行长：瑞士央行已提高在外汇市场干预的准备。",
+          "url": "https://flash.jin10.com/detail/20260603171514148800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时29分"
+        },
+        {
+          "title": "日本央行行长植田和男：将根据各种数据和信息做出适当的政策决策。",
+          "url": "https://flash.jin10.com/detail/20260603171509963800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时29分"
+        },
+        {
+          "title": "日本央行行长植田和男：（被问及6月加息的可能性）如果我们判断通胀风险大于经济下行风险，我们将探讨加息的利弊。",
+          "url": "https://flash.jin10.com/detail/20260603171431674800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时29分"
+        },
+        {
+          "title": "日本央行行长植田和男：许多企业指出，劳动力短缺、原材料等价格飙升，而非融资利率上升，是制约增长性投资的潜在障碍。 尽管迄今为止已经加息，日本的金融和经济活动并未受到抑制。 宽松的金融环境为经济活动提供了有力支撑。 中东局势对企业融资状况的影响似乎有限。",
+          "url": "https://wallstreetcn.com/livenews/3113667",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时29分"
+        },
+        {
+          "title": "瑞士央行行长：瑞士的中期通胀压力几乎没有变化。",
+          "url": "https://flash.jin10.com/detail/20260603171408035800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时29分"
+        },
+        {
+          "title": "日本央行行长植田和男：需要特别关注实际物价上涨是否会推高公众的通胀预期，导致基础CPI通胀率偏离2%的目标并上行。 近期长期利率的上升反映了市场通胀预期的超调。 虽然需关注经济下行风险，但日本央行更需关注通胀上行风险的实现及其对经济造成的负面影响。",
+          "url": "https://wallstreetcn.com/livenews/3113666",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时29分"
+        },
+        {
+          "title": "瑞士央行行长：尽管瑞士法郎上涨，瑞士酒店业仍保持价格竞争力。",
+          "url": "https://flash.jin10.com/detail/20260603171404903800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时29分"
+        },
+        {
+          "title": "瑞士央行行长：全球经济增长可能会暂时放缓，不确定性明显加大。",
+          "url": "https://flash.jin10.com/detail/20260603171230183800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时29分"
+        },
+        {
+          "title": "外交部：关税战不符合任何一方利益",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%EF%BC%9A%E5%85%B3%E7%A8%8E%E6%88%98%E4%B8%8D%E7%AC%A6%E5%90%88%E4%BB%BB%E4%BD%95%E4%B8%80%E6%96%B9%E5%88%A9%E7%9B%8A",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时29分"
+        },
+        {
+          "title": "外交部：战事再起不符合任何一方利益",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%EF%BC%9A%E6%88%98%E4%BA%8B%E5%86%8D%E8%B5%B7%E4%B8%8D%E7%AC%A6%E5%90%88%E4%BB%BB%E4%BD%95%E4%B8%80%E6%96%B9%E5%88%A9%E7%9B%8A",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时29分"
+        },
+        {
+          "title": "日本央行行长植田和男：如果中东动荡持续，可能会加大供应冲击影响潜在通胀的可能性。 价格传导的速度相比过去可能有所加快。 日本的实际利率仍然较低。 与其他主要经济体相比，日本的状况更容易让二次效应导致潜在通胀超预期。 根据目前的数据和相关信息，整体来看价格上行风险更大，并且可能更早出现。 目前的价格上涨可能并非暂时现象，可能导致潜在通胀超预期。 通胀超预期可能会损害经济，因为这会削弱家庭的购买力。",
+          "url": "https://wallstreetcn.com/livenews/3113654",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时29分"
+        },
+        {
+          "title": "外交部谈中东局势再次升级动向",
+          "url": "https://www.toutiao.com/trending/7646362341522259994/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时29分"
+        },
+        {
+          "title": "日本央行行长植田和男：私人消费有望继续受到工资增长和政府措施的支撑。 没有迹象显示过去的加息正在抑制企业资金需求。 宽松的金融环境正在支持经济活动。 不仅大型企业，较小企业也同意了大约5%的工资增长率。",
+          "url": "https://wallstreetcn.com/livenews/3113651",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时29分"
+        },
+        {
+          "title": "日本央行行长植田和男：不能排除供应链出现大规模中断的可能性，这将对日本企业的生产活动产生重大影响。 将仔细审视日本经济是否有能力抵御来自中东冲突的负面冲击，避免经济急剧恶化。 日本的出口和产出总体持平，但电子零部件和芯片的产出表现出较强韧性，这对于避免严重风险情景来说非常重要。",
+          "url": "https://wallstreetcn.com/livenews/3113650",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时29分"
+        },
+        {
+          "title": "外交部回应日方不当言论",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E6%97%A5%E6%96%B9%E4%B8%8D%E5%BD%93%E8%A8%80%E8%AE%BA",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时29分"
+        },
+        {
+          "title": "日本央行行长植田和男：随着日本央行逐步减少国债购买规模，日本国债市场的流动性正在稳步改善。 预计经济将继续温和增长，尽管增速有所放缓，但仍有望受到企业高利润、各类经济政策措施以及宽松金融环境的支撑。 CPI同比涨幅预计将大幅上升，尤其是在2026财年。 日本央行必须关注国债市场的稳定，银行的资产组合调整及个人投资者的反应预计还需一段时间。 经济和物价前景本身可能会因未来中东局势及其他因素的发展而发生重大变化，这值得关注。",
+          "url": "https://wallstreetcn.com/livenews/3113647",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时29分"
+        },
+        {
+          "title": "日本央行行长植田和男：与四年前相比，日本当前的环境发生了重大变化，通缩思维已被消除，企业的工资和定价行为也变得更加积极。 由于原油价格上涨导致的价格传导速度很可能比以往更快，且更容易扩散至更广泛的商品。 中东局势的动荡并未如最初预期那样迅速平息，目前仍不明朗。 日本央行将通过适当的货币政策努力实现其价格稳定的使命。",
+          "url": "https://wallstreetcn.com/livenews/3113646",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时29分"
+        }
+      ]
+    },
+    {
       "keyword_group": "黄金 白银 铜 铝 稀土",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "上海黄金交易所黄金T+D 6月2日（周二）晚盘收盘下跌0.14%报977.8元/克；<br/>上海黄金交易所白银T+D 6月2日（周二）晚盘收盘下跌0.41%报18141.0元/千克。",
@@ -1842,6 +2104,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时48分 ~ 12时25分]"
+        },
+        {
+          "title": "欧洲央行：黄金替代美元成全球官方储备第一大资产",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33295479",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时43分 ~ 22时44分]"
         },
         {
           "title": "黄金替代美元成官方储备第一大资产",
