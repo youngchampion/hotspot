@@ -1,1370 +1,44 @@
 {
-  "generated_at": "2026-06-13T22:05:47.980419+08:00",
-  "total_titles_processed": 1237,
+  "generated_at": "2026-06-14T00:16:17.817869+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美股 A股 港股 美债 美元 石油 战争",
-      "match_count": 77,
-      "titles": [
-        {
-          "title": "2万亿巨头来了！SpaceX首秀收涨19%，超3500亿美元疯抢史上最大IPO",
-          "url": "https://wallstreetcn.com/articles/3774544",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时20分 ~ 22时05分]"
-        },
-        {
-          "title": "美伊协议曙光重燃，原油两连跌，美股指全线收涨、债汇承压，SpaceX首日大涨19%",
-          "url": "https://wallstreetcn.com/articles/3774481",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            2,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时20分 ~ 22时05分]"
-        },
-        {
-          "title": "美股收盘：SpaceX首秀升19%市值破2万亿 三大指数集体上涨",
-          "url": "https://www.cls.cn/detail/2398916",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时20分 ~ 22时05分]"
-        },
-        {
-          "title": "SpaceX上市引发“虹吸效应” 美股太空概念集体跳水",
-          "url": "https://www.cls.cn/detail/2398893",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[05时49分 ~ 22时05分]"
-        },
-        {
-          "title": "美国银行存款从上周的19.338万亿美元降至19.296万亿美元。",
-          "url": "https://flash.jin10.com/detail/20260613041905027800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时50分 ~ 07时20分]"
-        },
-        {
-          "title": "2万亿航天巨头来了！SpaceX首秀收涨19%，超3500亿美元疯抢史上最大IPO",
-          "url": "https://wallstreetcn.com/articles/3774544",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时49分 ~ 05时50分]"
-        },
-        {
-          "title": "SpaceX上市首日上涨19% 市值破2万亿美元成美国第六大公司",
-          "url": "https://flash.jin10.com/detail/20260613041809603800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时50分 ~ 07时20分]"
-        },
-        {
-          "title": "SpaceX开盘狂飙29%，美股指转跌，太空概念股跳水，布油跌幅收窄",
-          "url": "https://wallstreetcn.com/articles/3774481",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 05时50分]"
-        },
-        {
-          "title": "【早报】5月金融数据出炉；马斯克成万亿美元富豪",
-          "url": "https://www.cls.cn/detail/2398924",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时03分 ~ 22时05分]"
-        },
-        {
-          "title": "据The Information：Meta Platforms(META.O)在一份内部备忘录中表示，随着人工智能成本飙升，公司计划加强对员工token使用量的管控。Meta内部人工智能使用成本预计将在2026年达到数十亿美元规模。",
-          "url": "https://flash.jin10.com/detail/20260613025928526800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "SpaceX正式开盘定价150美元 马斯克跃升全球首位万亿富翁",
-          "url": "https://flash.jin10.com/detail/20260612235747344800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
-        },
-        {
-          "title": "2万亿航天巨头来了！SpaceX首秀盘中大涨30%，超3500亿美元疯抢史上最大IPO",
-          "url": "https://wallstreetcn.com/articles/3774544",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7641元，较周四夜盘收盘涨79点。成交量382.94亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3119044",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "1.8万亿航天巨头要来了！SpaceX开盘指示价一度暴涨30%，超3500亿美元疯抢史上最大IPO",
-          "url": "https://wallstreetcn.com/articles/3774544",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
-        },
-        {
-          "title": "SpaceX(SPCX.O)股价涨至160美元，日内涨约18%。",
-          "url": "https://flash.jin10.com/detail/20260612235059734800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
-        },
-        {
-          "title": "古巴国家主席谴责美国收紧对古石油封锁",
-          "url": "https://flash.jin10.com/detail/20260613023735646800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "SpaceX IPO反响热烈：散户认购超1000亿美元，贝莱德等全球大资管订单“规模惊人”，“超级富豪”也在猛抢",
-          "url": "https://wallstreetcn.com/articles/3774485",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时21分 ~ 07时20分]"
-        },
-        {
-          "title": "全球首位万亿美元级别富豪，马斯克=7个巴菲特！美民主党呼吁征收富人税",
-          "url": "https://wallstreetcn.com/articles/3774553",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时23分 ~ 22时05分]"
-        },
-        {
-          "title": "水均益：美国举办的世界杯是战争杯",
-          "url": "https://www.baidu.com/s?wd=%E6%B0%B4%E5%9D%87%E7%9B%8A%EF%BC%9A%E7%BE%8E%E5%9B%BD%E4%B8%BE%E5%8A%9E%E7%9A%84%E4%B8%96%E7%95%8C%E6%9D%AF%E6%98%AF%E6%88%98%E4%BA%89%E6%9D%AF",
-          "source": "百度热搜",
-          "ranks": [
-            2,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时17分 ~ 22时05分]"
-        },
-        {
-          "title": "2/10年期美债收益率周五涨约2个基点，本周两年期实际收益率涨超11个基点",
-          "url": "https://wallstreetcn.com/livenews/3119088",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            11,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时50分 ~ 12时03分]"
-        },
-        {
-          "title": "周五（6月12日）纽约尾盘（周六北京时间04:59），离岸人民币（CNH）兑美元报6.7636元，较周四纽约尾盘跌1点，日内整体交投于6.7592-6.7692元区间。 本周，离岸人民币累计上涨大约270点，涨幅0.40%。",
-          "url": "https://wallstreetcn.com/livenews/3119083",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            15,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时50分 ~ 12时03分]"
-        },
-        {
-          "title": "SpaceX敲钟上市！马斯克成首位万亿美元富翁：我们想带每一个“你”去超越",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33369933",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            14,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时03分 ~ 22时05分]"
-        },
-        {
-          "title": "SpaceX 今日上市，超级 IPO 能否助力美国国际收支平衡，并让美元再度走强？",
-          "url": "https://www.zhihu.com/question/2048345137051444395",
-          "source": "知乎",
-          "ranks": [
-            14,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时49分 ~ 07时20分]"
-        },
-        {
-          "title": "影子市场：SpaceX上市首日预期大涨超35%，估值或突破2万亿美元",
-          "url": "https://wallstreetcn.com/articles/3774506",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时49分 ~ 07时20分]"
-        },
-        {
-          "title": "水均益称美国举办的世界杯是战争杯",
-          "url": "https://www.toutiao.com/trending/7649555910590939182/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时23分 ~ 19时17分]"
-        },
-        {
-          "title": "中证登报告：A股投资者已超2.5亿",
-          "url": "https://wallstreetcn.com/livenews/3119141",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时17分 ~ 22时05分]"
-        },
-        {
-          "title": "金十图示：2026年06月12日（周五）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260613040515542800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时50分 ~ 07时20分]"
-        },
-        {
-          "title": "美国法官同意暂缓撤销10万美元H-1B签证费的裁决",
-          "url": "https://wallstreetcn.com/livenews/3119080",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时50分 ~ 07时20分]"
-        },
-        {
-          "title": "金十图示：2026年06月12日（周五）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260613040511043800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时50分 ~ 07时20分]"
-        },
-        {
-          "title": "周五（6月12日），美股存储芯片与硬件供应链指数涨3.91%，报233.15点，美股早盘显著上涨，北京时间22:00以来持续交投于2340点附近、高位窄幅震荡，本周累计上涨17.34%。 成分股普遍走高，希捷科技涨7.25%，西部数据涨6.35%，泰瑞达、闪迪至少涨5.24%，应用材料、Rambus、拉姆研究至少涨1.18%，美光科技则收跌1.43%。",
-          "url": "https://wallstreetcn.com/livenews/3119078",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时50分 ~ 07时20分]"
-        },
-        {
-          "title": "美股七巨头收盘播报｜周五（6月12日），美国科技股七巨头（Magnificent 7）指数跌0.23%，报210.45点，本周累跌2.86%，6月8-11日持续走低，期内主要持稳于210点附近。 “超大”市值科技股指数涨0.60%，报433.85点，本周累跌1.50%。",
-          "url": "https://wallstreetcn.com/livenews/3119077",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时50分 ~ 07时20分]"
-        },
-        {
-          "title": "美联储：美国上周银行存款19.296万亿美元，之前一周19.338万亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3119075",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时50分 ~ 07时20分]"
-        },
-        {
-          "title": "华纳兄弟探索公司（WBD）美股盘后增长2%，据Politico报道，美国总统特朗普的司法部批准派拉蒙天舞（Paramount SkyDance）收购该公司的交易。",
-          "url": "https://wallstreetcn.com/livenews/3119074",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时50分 ~ 07时20分]"
-        },
-        {
-          "title": "美股大类资产类ETF涨跌各异，可转债ETF涨约1.2%，布油基金跌约2.7%",
-          "url": "https://wallstreetcn.com/livenews/3119073",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时50分 ~ 07时20分]"
-        },
-        {
-          "title": "周五（6月12日），美股行业ETF多数收涨，全球航空业ETF涨1.93%，半导体ETF、区域银行ETF、银行业ETF、金融业ETF、公用事业ETF至多涨1.72%，科技行业ETF、能源业ETF、全球科技股指数ETF至多涨0.87%，网络股指数ETF跌0.26%。",
-          "url": "https://wallstreetcn.com/livenews/3119072",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时50分 ~ 07时20分]"
-        },
-        {
-          "title": "美股收盘，SpaceX上市首日收涨19%",
-          "url": "https://flash.jin10.com/detail/20260613040143470800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时50分 ~ 07时20分]"
-        },
-        {
-          "title": "马斯克成史上首位万亿美元富豪！SpaceX上市首日涨19%，市值2.1万亿美元",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33372407",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时17分 ~ 22时05分]"
-        },
-        {
-          "title": "交易员对美元看涨程度升至逾一年来最高水平",
-          "url": "https://flash.jin10.com/detail/20260613034912838800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时50分 ~ 07时20分]"
-        },
-        {
-          "title": "伊朗外长：美国在谅解备忘录中承诺不发动战争",
-          "url": "https://flash.jin10.com/detail/20260613033606513800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时50分 ~ 07时20分]"
-        },
-        {
-          "title": "SpaceX上市首日开盘价报150美元",
-          "url": "https://flash.jin10.com/detail/20260612234703586800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
-        },
-        {
-          "title": "人类历史上最大规模IPO来了：SpaceX美国IPO首日开盘上涨11%，报150美元，此前给出的IPO发行价为每股135美元。 据报道，此次IPO融资规模750亿美元，吸引逾3500亿美元认购需求，近三分之一机构未获配。",
-          "url": "https://wallstreetcn.com/livenews/3118987",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
-        },
-        {
-          "title": "WTI 7月原油期货收报84.88美元/桶。 中东Abu Dhabi Murban原油期货跌3.74%，报83.99美元/桶，本周累跌7.38%。 NYMEX 7月天然气期货收报3.12美元/百万英热单位。 NYMEX 7月汽油期货收报3.0498美元/加仑，NYMEX 7月取暖油期货收报3.4044美元/加仑。",
-          "url": "https://wallstreetcn.com/livenews/3119040",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "美国宣布向波兰提供40亿美元军事贷款",
-          "url": "https://flash.jin10.com/detail/20260613100814860800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时03分"
-        },
-        {
-          "title": "阿联酋已同意向伊朗释放总计100亿美元的资金。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3119037",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "又一家万亿美元级别IPO！SK海力士计划8月在纳斯达克上市，募资高达140亿美元",
-          "url": "https://wallstreetcn.com/articles/3774573",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时05分"
-        },
-        {
-          "title": "美国资本竞逐委内瑞拉油田 拟打造纳斯达克首家委石油公司",
-          "url": "https://flash.jin10.com/detail/20260613182957516800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时17分"
-        },
-        {
-          "title": "机构：海湾石油供应实际正在增加 减少量远低于最初估计",
-          "url": "https://flash.jin10.com/detail/20260612234158632800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
-        },
-        {
-          "title": "据英国金融时报：投资公司加入美国总统特朗普的1000亿美元委内瑞拉石油竞赛。狮心资本（Lionheart Capital）计划通过与旗下空白支票公司Lionheart Holdings合并，以约10亿美元的估值将一家委内瑞拉石油公司上市。",
-          "url": "https://flash.jin10.com/detail/20260613182624858800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时17分"
-        },
-        {
-          "title": "乌克兰军方：乌克兰军队袭击了俄罗斯伏尔加格勒地区的石油基础设施。",
-          "url": "https://flash.jin10.com/detail/20260613181323527800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时17分"
-        },
-        {
-          "title": "提醒：SpaceX美国IPO开盘预示价已经下滑至150美元——意味着涨幅将为11%，之前最高曾到过175美元；IPO发行价为每股135美元。",
-          "url": "https://wallstreetcn.com/livenews/3118982",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
-        },
-        {
-          "title": "周五（6月12日），韩元兑美元最终涨0.96%，报1517.22韩元。 本周，韩元累涨2.63%，6月8日显著上扬，9-12日持续高位窄幅震荡、9日北京时间14:00达到1509.58韩元。",
-          "url": "https://wallstreetcn.com/livenews/3119034",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "报道称阿联酋同意为伊朗解冻数十亿美元资金",
-          "url": "https://flash.jin10.com/detail/20260613022138398800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "伊朗外交部发言人：伊斯兰堡谅解备忘录侧重于结束现阶段战争，不讨论核问题。",
-          "url": "https://flash.jin10.com/detail/20260613205541727800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时05分"
-        },
-        {
-          "title": "SpaceX 的万亿美元估值，核心到底是火箭、星链，还是未来想象力？",
-          "url": "https://www.zhihu.com/question/2046296202283410356",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时03分"
-        },
-        {
-          "title": "据路透：两名消息人士称，阿联酋已同意释放总计100亿美元资金，其中超过30亿美元已完成交付。",
-          "url": "https://flash.jin10.com/detail/20260613021046077800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "雪佛龙CEO Mike Wirth：公司对（波斯湾）石油外流规模的看法并没有美国总统特朗普的能源部长Wright那样乐观。 到7月左右，石油库存水平可能达到令人不安的程度。",
-          "url": "https://wallstreetcn.com/livenews/3118976",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
-        },
-        {
-          "title": "SpaceX亏损达413亿美元",
-          "url": "https://s.weibo.com/weibo?q=%23SpaceX%E4%BA%8F%E6%8D%9F%E8%BE%BE413%E4%BA%BF%E7%BE%8E%E5%85%83%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时05分"
-        },
-        {
-          "title": "据路透：消息人士称，阿联酋已同意为伊朗解冻数十亿美元资金。",
-          "url": "https://flash.jin10.com/detail/20260613021007048800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "报道：壳牌计划出售10亿美元海上风电资产，继续退出可再生能源领域",
-          "url": "https://wallstreetcn.com/livenews/3118975",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
-        },
-        {
-          "title": "中证登报告：A股投资者已超2.5亿",
-          "url": "https://flash.jin10.com/detail/20260613174249496800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时17分"
-        },
-        {
-          "title": "哥伦比亚比索兑美元收涨1.10%，报3,455，为2021年1月以来最强水平。",
-          "url": "https://flash.jin10.com/detail/20260613020721161800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "提醒：SpaceX美国IPO开盘预示价已经下滑至160美元——意味着涨幅将为19%，之前最高曾到过175美元；IPO发行价为每股135美元。",
-          "url": "https://wallstreetcn.com/livenews/3118973",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
-        },
-        {
-          "title": "英特尔股价上涨8.1%，报126.44美元/股，总市值报6355亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3119022",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "SpaceX美国IPO首日收涨19.22%，报160.95美元，收盘市值2.10万亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3119065",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时50分"
-        },
-        {
-          "title": "雪佛龙(CVX.N)CEO：到7月左右，石油库存水平可能达到令人不安的程度。",
-          "url": "https://flash.jin10.com/detail/20260612232354744800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
-        },
-        {
-          "title": "美元指数本周跌超0.3%",
-          "url": "https://wallstreetcn.com/livenews/3119062",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时50分"
-        },
-        {
-          "title": "SpaceX亏损达413亿美元",
-          "url": "https://www.baidu.com/s?wd=SpaceX%E4%BA%8F%E6%8D%9F%E8%BE%BE413%E4%BA%BF%E7%BE%8E%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时05分"
-        },
-        {
-          "title": "美国国务院：计划与国会合作，向流行病防范创新联盟提供5000万美元资金。上述资金将用于支持针对本迪布焦型埃博拉病毒株医疗对抗措施的研发工作。",
-          "url": "https://flash.jin10.com/detail/20260613015548610800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "周五（6月12日），美联储隔夜逆回购协议（RRP）使用规模为4.54亿美元（交易对手6家），上个交易日报4.60亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3119019",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "A股投资者已超2.5亿",
-          "url": "https://www.toutiao.com/trending/7649992226688925738/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时17分"
-        },
-        {
-          "title": "SpaceX盘中涨幅扩大至超过30%，刷新日高至176.49美元，盘中市值达到2.30778324万亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3119018",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "交易员对美元看涨情绪为去年2月以来新高",
-          "url": "https://wallstreetcn.com/livenews/3119060",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时50分"
-        },
-        {
-          "title": "A股又一4倍大牛股诞生",
-          "url": "https://www.toutiao.com/trending/7650145858994094107/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时05分"
-        },
-        {
-          "title": "WTI原油5分钟内下跌1.17美元/桶，报85.32美元/桶。 布伦特原油5分钟内下跌1.23美元/桶，报87.97美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3118965",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
-        },
-        {
-          "title": "美国6月12日当周石油钻井数 433，前值 431。",
-          "url": "https://wallstreetcn.com/livenews/3119014",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "伊朗外长：美国在谅解备忘录中承诺不发动战争，霍尔木兹海峡相关服务将收费",
-          "url": "https://wallstreetcn.com/livenews/3119056",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时50分"
-        },
-        {
-          "title": "美国应急储备原油出口飙升至历史新高，战争扰乱供应",
-          "url": "https://wallstreetcn.com/livenews/3119054",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时50分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek AI openai 机器人 小米 特斯拉 英伟达",
-      "match_count": 33,
-      "titles": [
-        {
-          "title": "SpaceX万亿美元IPO背后：一场由星链造血、星舰远征、AI叙事支撑的资本盛宴",
-          "url": "https://www.cls.cn/detail/2398996",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时23分 ~ 22时05分]"
-        },
-        {
-          "title": "SpaceX总裁不排除未来与特斯拉合并：两家公司目标正趋于一致",
-          "url": "https://www.cls.cn/detail/2398816",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[05时49分 ~ 22时05分]"
-        },
-        {
-          "title": "特斯拉(TSLA.O)股价在SpaceX上市后下跌2.1%。",
-          "url": "https://flash.jin10.com/detail/20260612235856822800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
-        },
-        {
-          "title": "抖音AI创作大赛首个爆款出现",
-          "url": "https://www.douyin.com/hot/2532139",
-          "source": "抖音",
-          "ranks": [
-            2,
-            11,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 05时50分]"
-        },
-        {
-          "title": "走出实验室 机器人如何“上岗”",
-          "url": "https://www.baidu.com/s?wd=%E8%B5%B0%E5%87%BA%E5%AE%9E%E9%AA%8C%E5%AE%A4+%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%A6%82%E4%BD%95%E2%80%9C%E4%B8%8A%E5%B2%97%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时05分"
-        },
-        {
-          "title": "随着SpaceX(SPCX.O)开始交易，特斯拉(TSLA.O)跌幅扩大至2.2%。",
-          "url": "https://flash.jin10.com/detail/20260612235257041800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
-        },
-        {
-          "title": "SpaceX美国IPO首日盘初涨幅扩大至25%，报168.75美元，盘中市值2.206575万亿美元；马斯克成为全球第一位万亿美元级别的富豪。 特斯拉跌幅扩大至2.2%，标普500指数涨幅收窄至0.36%，纳指涨0.11%，半导体指数涨1.77%。",
-          "url": "https://wallstreetcn.com/livenews/3118990",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
-        },
-        {
-          "title": "猛男舞团翻跳Dai Dai",
-          "url": "https://search.bilibili.com/all?keyword=%E7%8C%9B%E7%94%B7%E8%88%9E%E5%9B%A2%E7%BF%BB%E8%B7%B3Dai%20Dai",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时21分 ~ 07时20分]"
-        },
-        {
-          "title": "涉及中国，英伟达否认",
-          "url": "https://news.ifeng.com/c/8ttGAgbmaV3",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时21分 ~ 07时20分]"
-        },
-        {
-          "title": "雷军：小米汽车高度重视测试工作 目前整个测试团队有800多人",
-          "url": "https://wallstreetcn.com/livenews/3119142",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时17分 ~ 22时05分]"
-        },
-        {
-          "title": "“机器人伴侣”来了 10天预售3800台",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BC%B4%E4%BE%A3%E2%80%9D%E6%9D%A5%E4%BA%86+10%E5%A4%A9%E9%A2%84%E5%94%AE3800%E5%8F%B0",
-          "source": "百度热搜",
-          "ranks": [
-            20,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时23分 ~ 22时05分]"
-        },
-        {
-          "title": "抖音AI反网暴行动来了",
-          "url": "https://www.douyin.com/hot/2531858",
-          "source": "抖音",
-          "ranks": [
-            17,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时49分 ~ 07时20分]"
-        },
-        {
-          "title": "全抖音都在DaiDai",
-          "url": "https://www.douyin.com/hot/2531421",
-          "source": "抖音",
-          "ranks": [
-            28,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 05时50分]"
-        },
-        {
-          "title": "世界杯AI视频绿茵恩仇录火了",
-          "url": "https://www.douyin.com/hot/2531568",
-          "source": "抖音",
-          "ranks": [
-            20,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时03分 ~ 16时23分]"
-        },
-        {
-          "title": "周五（6月12日），彭博电动汽车价格回报指数涨3.59%，报3785.58点，北京时间08:00高开高走，12:00之前开始持稳于3760点附近，美股开盘后略微扩大涨幅。 本周累计上涨0.07%，整体呈现出W形走势。 成分股中，淡水河谷印尼公司收涨10.30%，ITM能源涨8.98%，“特斯拉劲敌”Rivian涨7.85%，理想汽车H股涨7.24%，美国雅宝涨7.14%表现第五，在下跌的六只成分股中，普拉格动力跌2.47%，MobilEye跌2.51%。",
-          "url": "https://wallstreetcn.com/livenews/3119076",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时50分 ~ 07时20分]"
-        },
-        {
-          "title": "我们真的需要又一个 DeepSeek V5 吗？",
-          "url": "https://www.zhihu.com/question/2031303606524186735",
-          "source": "知乎",
-          "ranks": [
-            11,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 03时08分]"
-        },
-        {
-          "title": "报道：美国封锁境外获取Anthropic先进AI模型的渠道",
-          "url": "https://wallstreetcn.com/livenews/3119106",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时03分 ~ 16时23分]"
-        },
-        {
-          "title": "OpenAI遭美国多个州的总检察长联盟调查。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3119103",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时03分 ~ 16时23分]"
-        },
-        {
-          "title": "周五（6月12日），美股人工智能（AI）赢家指数涨1.93%，报424.15点，本周累计上涨5.43%。 成分股中，Arm控股收涨11.27%，希捷科技涨7.25%，西部数据涨6.35%，高意公司Coherent涨5.90%表现第四，阿斯麦ADR收跌1.89%跌幅第四大。",
-          "url": "https://wallstreetcn.com/livenews/3119107",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时03分 ~ 16时23分]"
-        },
-        {
-          "title": "用AI打开七时吉祥原著",
-          "url": "https://www.douyin.com/hot/2532352",
-          "source": "抖音",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时49分 ~ 05时50分]"
-        },
-        {
-          "title": "SpaceX上市幕后大戏：抢跑OpenAI、疯狂并购装资产，华尔街全程被牵着鼻子走",
-          "url": "https://wallstreetcn.com/articles/3774577",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时05分"
-        },
-        {
-          "title": "AI材料短缺蔓延：英伟达亲自下场抢购HVLP4铜箔，2026年缺口达1500吨",
-          "url": "https://wallstreetcn.com/articles/3774502",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时03分"
-        },
-        {
-          "title": "首尔禁止中小学生戴AI眼镜参加期末考试",
-          "url": "https://flash.jin10.com/detail/20260613145419111800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时23分"
-        },
-        {
-          "title": "软件股迈向二十年来最长连跌，AI扰动之忧再度来袭",
-          "url": "https://wallstreetcn.com/livenews/3118978",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
-        },
-        {
-          "title": "ARCRaiders国服首测PV",
-          "url": "https://search.bilibili.com/all?keyword=ARCRaiders%E5%9B%BD%E6%9C%8D%E9%A6%96%E6%B5%8BPV",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时17分"
-        },
-        {
-          "title": "雷军：小米汽车高度重视测试工作 目前整个测试团队有800多人",
-          "url": "https://flash.jin10.com/detail/20260613174940854800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时17分"
-        },
-        {
-          "title": "小米SU7一拆一个不吱声",
-          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3SU7%E4%B8%80%E6%8B%86%E4%B8%80%E4%B8%AA%E4%B8%8D%E5%90%B1%E5%A3%B0&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
-        },
-        {
-          "title": "太空AI算力泡沫有多大",
-          "url": "https://www.toutiao.com/trending/7650812029468413450/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时05分"
-        },
-        {
-          "title": "如何评价 HDC 官宣鸿蒙高校创新赛？国赛平台和零门槛 AI 开发，能为参赛大学生带来哪些价值？",
-          "url": "https://www.zhihu.com/question/2048803279166088696",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时05分"
-        },
-        {
-          "title": "九鹭非香把七时吉祥重新做成AI剧了",
-          "url": "https://s.weibo.com/weibo?q=%E4%B9%9D%E9%B9%AD%E9%9D%9E%E9%A6%99%E6%8A%8A%E4%B8%83%E6%97%B6%E5%90%89%E7%A5%A5%E9%87%8D%E6%96%B0%E5%81%9A%E6%88%90AI%E5%89%A7%E4%BA%86&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时23分"
-        },
-        {
-          "title": "小米徐洁云回应车厘子事件",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E5%BE%90%E6%B4%81%E4%BA%91%E5%9B%9E%E5%BA%94%E8%BD%A6%E5%8E%98%E5%AD%90%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时03分"
-        },
-        {
-          "title": "小米家用充电机械臂预计四季度上市",
-          "url": "https://www.toutiao.com/trending/7650067057091985444/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时23分"
-        },
-        {
-          "title": "作家自曝用AI写作",
-          "url": "https://s.weibo.com/weibo?q=%E4%BD%9C%E5%AE%B6%E8%87%AA%E6%9B%9D%E7%94%A8AI%E5%86%99%E4%BD%9C&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        }
-      ]
-    },
-    {
       "keyword_group": "特朗普 马斯克 加密货币 美联储",
-      "match_count": 33,
+      "match_count": 12,
       "titles": [
-        {
-          "title": "今晚，SpaceX历史性IPO：马斯克“信仰溢价”迎来资本公投！",
-          "url": "https://wallstreetcn.com/articles/3774523",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 19时17分]"
-        },
-        {
-          "title": "几小时内反转！特朗普称取消打击伊朗计划，协议基本定稿、伊朗各方批准，或周末在欧洲签署",
-          "url": "https://wallstreetcn.com/articles/3774457",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 03时08分]"
-        },
-        {
-          "title": "特朗普说了30多次“即将达成协议”，市场却一直相信他",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33365641",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            14,
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 12时03分]"
-        },
         {
           "title": "70年首富榜背后的财富密码：为什么首位万亿富豪是马斯克",
           "url": "https://m.thepaper.cn/newsDetail_forward_33333532",
           "source": "澎湃新闻",
           "ranks": [
-            17,
-            12,
-            6,
-            5
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时03分 ~ 22时05分]"
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 00时16分]"
         },
         {
-          "title": "特朗普涉伊朗表态“大转弯”，以总理“猝不及防”",
-          "url": "https://news.ifeng.com/c/8ttnDWEmW7E",
-          "source": "凤凰网",
+          "title": "特朗普将在G7峰会期间会晤中东伙伴",
+          "url": "https://flash.jin10.com/detail/20260614000131278800",
+          "source": "金十数据",
           "ranks": [
-            11
+            3
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时21分 ~ 07时20分]"
-        },
-        {
-          "title": "特朗普否认伊媒披露的美伊协议草案：与双方书面协议毫无关系",
-          "url": "https://www.cls.cn/detail/2398839",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时03分 ~ 22时05分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时16分"
         },
         {
           "title": "联手打造太空算力？SpaceX刚上市，马斯克就喊话黄仁勋：合作升级！",
           "url": "https://wallstreetcn.com/articles/3774568",
           "source": "华尔街见闻",
           "ranks": [
-            9,
             7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时17分 ~ 22时05分]"
+          "time_info": "[00时15分 ~ 00时16分]"
         },
         {
           "title": "特朗普姓名被从肯尼迪中心外墙移除",
@@ -1375,679 +49,432 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时17分 ~ 22时05分]"
-        },
-        {
-          "title": "特朗普说打死委内瑞拉一黑帮团伙头目",
-          "url": "https://wallstreetcn.com/livenews/3119112",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时03分 ~ 16时23分]"
-        },
-        {
-          "title": "SpaceX美国IPO要点总结：马斯克的财富相当于七个巴菲特",
-          "url": "https://wallstreetcn.com/livenews/3119089",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时20分 ~ 12时03分]"
-        },
-        {
-          "title": "马斯克成全球首位万亿富翁",
-          "url": "https://www.douyin.com/hot/2532626",
-          "source": "抖音",
-          "ranks": [
-            23,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时08分 ~ 07时20分]"
-        },
-        {
-          "title": "美国内政部长道格·伯格姆：（谈及伊朗谈判）特朗普已经让该地区各方与其保持一致立场。",
-          "url": "https://flash.jin10.com/detail/20260613033812680800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时50分 ~ 07时20分]"
-        },
-        {
-          "title": "据伊朗媒体Fars News：伊朗外长被指控为迎合特朗普路线而损害伊朗谈判立场。",
-          "url": "https://flash.jin10.com/detail/20260613104207547800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时03分"
-        },
-        {
-          "title": "美军被曝制订抢夺伊朗浓缩铀计划 特朗普未批准",
-          "url": "https://wallstreetcn.com/livenews/3119159",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时05分"
-        },
-        {
-          "title": "美媒细数特朗普曾39次说与伊朗谈好",
-          "url": "https://wallstreetcn.com/livenews/3119158",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时05分"
+          "time_info": "[00时15分 ~ 00时16分]"
         },
         {
           "title": "很难赌马斯克会输！散户一边骂贵一边疯抢SpaceX，但绝大多数不打算长期持股",
           "url": "https://wallstreetcn.com/articles/3774560",
           "source": "华尔街见闻",
           "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时05分"
-        },
-        {
-          "title": "特朗普：美军打死“阿拉瓜火车”组织首领",
-          "url": "https://news.ifeng.com/c/8tuxrPNiEYB",
-          "source": "凤凰网",
-          "ranks": [
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时23分"
-        },
-        {
-          "title": "提醒：美国总统特朗普在自家社交媒体平台上张贴伊朗外长关于两国“协议”（谅解备忘录/MoU）社交媒体帖子的截图。",
-          "url": "https://wallstreetcn.com/livenews/3118983",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
-        },
-        {
-          "title": "马斯克的“冰与火”",
-          "url": "https://www.toutiao.com/trending/7649995098096386090/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时17分"
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 00时16分]"
         },
         {
           "title": "马斯克成万亿富豪不值得庆祝？美议员抨击税制不公要求对富人征税",
           "url": "https://m.thepaper.cn/newsDetail_forward_33374147",
           "source": "澎湃新闻",
           "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时05分"
-        },
-        {
-          "title": "SpaceX上市首日即成2万亿巨头 马斯克财富迈入万亿时代",
-          "url": "https://www.cls.cn/detail/2398920",
-          "source": "财联社热门",
-          "ranks": [
-            13
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时17分"
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 00时16分]"
         },
         {
-          "title": "美国总统特朗普在社交平台上发布了伊朗外长阿拉格齐关于美伊协议的推文截图。",
-          "url": "https://flash.jin10.com/detail/20260612233459476800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
-        },
-        {
-          "title": "特朗普：美军打死“阿拉瓜火车”组织首领尼尼奥·格雷罗",
-          "url": "https://flash.jin10.com/detail/20260613092918763800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时03分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-06-13）",
-          "url": "https://flash.jin10.com/detail/20260613203149483800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时05分"
-        },
-        {
-          "title": "一周热榜精选：美伊达成和平协议文本？SPCX涨19%马斯克成万亿富豪",
-          "url": "https://flash.jin10.com/detail/20260613090819670800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时03分"
-        },
-        {
-          "title": "马斯克回应史上最大IPO",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%9B%9E%E5%BA%94%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7IPO%23&t=31&band_rank=19&Refer=top",
+          "title": "特朗普政府多次使用日本动漫素材",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E5%A4%9A%E6%AC%A1%E4%BD%BF%E7%94%A8%E6%97%A5%E6%9C%AC%E5%8A%A8%E6%BC%AB%E7%B4%A0%E6%9D%90%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时20分"
-        },
-        {
-          "title": "美国总统特朗普：此次行动是在与我们委内瑞拉的朋友密切协调下进行的，我们与委内瑞拉方面合作得非常顺利。",
-          "url": "https://flash.jin10.com/detail/20260613090715507800",
-          "source": "金十数据",
           "ranks": [
             20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时03分"
-        },
-        {
-          "title": "美国总统特朗普：在我重返总统办公室之前，乔·拜登向数百万非法犯罪分子敞开了我们的南部边境，任由这支外来军队强暴、残害、谋杀美国公民而完全不受惩罚。",
-          "url": "https://flash.jin10.com/detail/20260613090651699800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时03分"
-        },
-        {
-          "title": "美法院驳回上诉 维持肯尼迪中心移除特朗普名字裁决",
-          "url": "https://flash.jin10.com/detail/20260613135132785800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时23分"
-        },
-        {
-          "title": "美国总统特朗普：在我的指示下，美国南方司令部发动了一次迅速而致命的打击，成功击毙了“阿拉瓜火车”这一地球上最残暴的恐怖组织之一的臭名昭著的头目“尼诺·格雷罗”（Niño Guerrero）。",
-          "url": "https://flash.jin10.com/detail/20260613090539450800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时03分"
-        },
-        {
-          "title": "美国官员：相信盟友会支持与伊朗的这项协议。 相信以色列会支持。 总统特朗普6月11日与以色列总理内塔尼亚胡通话。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3119021",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "特朗普押注“超级周末”：80岁生日前签下美伊“终战”协议",
-          "url": "https://flash.jin10.com/detail/20260612231948150800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
-        },
-        {
-          "title": "马斯克亮相敲钟仪式",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E4%BA%AE%E7%9B%B8%E6%95%B2%E9%92%9F%E4%BB%AA%E5%BC%8F%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "外交部 商务部 证监会 央行",
-      "match_count": 21,
-      "titles": [
-        {
-          "title": "美方制裁中方个人及实体，外交部：坚决反对",
-          "url": "https://news.ifeng.com/c/8tti1InpA3A",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时21分 ~ 07时20分]"
-        },
-        {
-          "title": "央行征求意见：将个人投资人认购大额存单起点金额降至不低于20万元",
-          "url": "https://www.cls.cn/detail/2398470",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 12时03分]"
-        },
-        {
-          "title": "德国央行行长Nagel：欧洲央行不得不做出反应，（6月11日加息决定）做得如此冷静。",
-          "url": "https://wallstreetcn.com/livenews/3118989",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
-        },
-        {
-          "title": "阿联酋外交部驳斥媒体报道，称：我们尚未释放任何被冻结的伊朗资金。",
-          "url": "https://wallstreetcn.com/livenews/3119102",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            15,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时20分 ~ 16时23分]"
-        },
-        {
-          "title": "对菲律宾防长的制裁是否会影响中国未来对菲援助？外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33365901",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时08分 ~ 12时03分]"
-        },
-        {
-          "title": "外交部回应美方制裁中方个人和实体",
-          "url": "https://www.toutiao.com/trending/7650410734011088915/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时08分 ~ 05时50分]"
-        },
-        {
-          "title": "商务部新闻发言人就美国防部将部分中国企业列入“中国军事企业清单”事答记者问",
-          "url": "https://wallstreetcn.com/livenews/3119111",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            22
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时03分 ~ 16时23分]"
+          "time_info": "[00时15分 ~ 00时16分]"
         },
         {
-          "title": "印度外交部长：我重申了印度对美国海军在海湾袭击导致三名印度水手遇难的强烈抗议。",
-          "url": "https://flash.jin10.com/detail/20260613033650521800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时50分 ~ 07时20分]"
-        },
-        {
-          "title": "印度外交部长：今晚与美国国务卿鲁比奥通了电话。",
-          "url": "https://flash.jin10.com/detail/20260613033624642800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时50分 ~ 07时20分]"
-        },
-        {
-          "title": "伊朗外交部：伊美谅解备忘录不会在明天签署",
-          "url": "https://wallstreetcn.com/livenews/3119160",
+          "title": "特朗普在Truth Social上分享了巴基斯坦总理谢里夫称协议比以往任何时候都更接近达成的帖子的截图。",
+          "url": "https://wallstreetcn.com/livenews/3119171",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时05分"
+          "time_info": "00时16分"
         },
         {
-          "title": "欧洲央行加息，三大关键利率同步上调 25Bp，其它主要经济体是否会跟随，其对资本市场走势有何影响？",
-          "url": "https://www.zhihu.com/question/2048699352194011845",
-          "source": "知乎",
+          "title": "法国总统府：马克龙将于周三在凡尔赛宫设晚宴招待美国总统特朗普。",
+          "url": "https://flash.jin10.com/detail/20260613234554532800",
+          "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
-        },
-        {
-          "title": "伊朗外交部：伊美谅解备忘录不会在明天签署",
-          "url": "https://flash.jin10.com/detail/20260613210012560800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时05分"
+          "time_info": "00时16分"
         },
         {
-          "title": "伊朗外交部发言人：由于对方犹豫不决，我们必须对签署日期的任何评论保持谨慎。",
-          "url": "https://flash.jin10.com/detail/20260613205949121800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时05分"
-        },
-        {
-          "title": "【伊朗外交部：伊方正在审议谅解备忘录草案】伊朗外交部发言人巴加埃表示，目前伊美双方已经在大多数问题上达成谅解，伊朗内部正在对谅解备忘录文本进行最后阶段的汇总。因此，伊朗外长阿拉格齐此前关于“双方已非常接近达成谅解”的表态是准确且值得关注的。相关决策机构的会议正在举行，这是一个持续推进的过程。为达成一个最终且具有决定性的结果，决策机构和相关部门之间必须形成共识。 巴加埃还表示，目前有关协议文本内容的各种猜测均未获得证实。虽然外交进程中的具体细节暂不便公开讨论，但这并不意味着公众没有知情权。（央视）",
-          "url": "https://wallstreetcn.com/livenews/3119035",
+          "title": "美军被曝制订抢夺伊朗浓缩铀计划 特朗普未批准",
+          "url": "https://wallstreetcn.com/livenews/3119159",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "伊朗外交部发言人：不排除在未来几天内签署伊斯兰堡谅解备忘录的可能性。",
-          "url": "https://flash.jin10.com/detail/20260613205713059800",
-          "source": "金十数据",
-          "ranks": [
-            12
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时05分"
+          "time_info": "00时16分"
         },
         {
-          "title": "欧洲央行管委卡兹米尔：必须进一步提高利率以应对通胀",
-          "url": "https://flash.jin10.com/detail/20260612233348884800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
-        },
-        {
-          "title": "伊朗外交部发言人：签署备忘录的确切时间不会是明天。",
-          "url": "https://flash.jin10.com/detail/20260613205447005800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时05分"
-        },
-        {
-          "title": "伊朗外交部：伊方正在审议谅解备忘录草案",
-          "url": "https://flash.jin10.com/detail/20260613020830003800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "秘鲁央行首席经济学家Adrian Armas：厄尔尼诺对秘鲁渔业的影响最大。",
-          "url": "https://wallstreetcn.com/livenews/3119023",
+          "title": "美媒细数特朗普曾39次说与伊朗谈好",
+          "url": "https://wallstreetcn.com/livenews/3119158",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            16
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时08分"
+          "time_info": "00时16分"
         },
         {
-          "title": "商务部新闻发言人就美国防部将部分中国企业列入“中国军事企业清单”事答记者问",
-          "url": "https://flash.jin10.com/detail/20260613090101877800",
+          "title": "美国高级政府官员：以色列总理内塔尼亚胡将不会参加美国总统特朗普与中东领导人在七国集团会议上的双边会晤。",
+          "url": "https://flash.jin10.com/detail/20260613223904277800",
           "source": "金十数据",
           "ranks": [
             23
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时03分"
-        },
-        {
-          "title": "商务部回应“美将部分中企列清单”",
-          "url": "https://www.toutiao.com/trending/7650678435374956582/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时03分"
+          "time_info": "00时16分"
         }
       ]
     },
     {
-      "keyword_group": "黄金 白银 铜 铝 稀土",
-      "match_count": 13,
+      "keyword_group": "美股 A股 港股 美债 美元 石油 战争",
+      "match_count": 10,
       "titles": [
         {
-          "title": "澎湃回声｜男子30年前被扣押2859克黄金续：盖州市公安局已返还财产，双方和解",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33364376",
-          "source": "澎湃新闻",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 12时03分]"
-        },
-        {
-          "title": "特朗普“TACO”主导市场，原油大跌，美股债大反弹，半导体指数大涨8%，黄金收复4200",
-          "url": "https://wallstreetcn.com/articles/3774389",
+          "title": "2万亿巨头来了！SpaceX首秀收涨19%，超3500亿美元疯抢史上最大IPO",
+          "url": "https://wallstreetcn.com/articles/3774544",
           "source": "华尔街见闻",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时21分 ~ 07时20分]"
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 00时16分]"
         },
         {
-          "title": "云南铜业：今年以来硫酸销售价格持续处于高位",
-          "url": "https://flash.jin10.com/detail/20260613152517398800",
-          "source": "金十数据",
+          "title": "美股收盘：SpaceX首秀升19%市值破2万亿 三大指数集体上涨",
+          "url": "https://www.cls.cn/detail/2398916",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 00时16分]"
+        },
+        {
+          "title": "美伊协议曙光重燃，原油两连跌，美股指全线收涨、债汇承压，SpaceX首日大涨19%",
+          "url": "https://wallstreetcn.com/articles/3774481",
+          "source": "华尔街见闻",
           "ranks": [
             4
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 00时16分]"
+        },
+        {
+          "title": "全球首位万亿美元级别富豪，马斯克=7个巴菲特！美民主党呼吁征收富人税",
+          "url": "https://wallstreetcn.com/articles/3774553",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 00时16分]"
+        },
+        {
+          "title": "【早报】5月金融数据出炉；马斯克成万亿美元富豪",
+          "url": "https://www.cls.cn/detail/2398924",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 00时16分]"
+        },
+        {
+          "title": "水均益：美国举办的世界杯是战争杯",
+          "url": "https://www.baidu.com/s?wd=%E6%B0%B4%E5%9D%87%E7%9B%8A%EF%BC%9A%E7%BE%8E%E5%9B%BD%E4%B8%BE%E5%8A%9E%E7%9A%84%E4%B8%96%E7%95%8C%E6%9D%AF%E6%98%AF%E6%88%98%E4%BA%89%E6%9D%AF",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 00时16分]"
+        },
+        {
+          "title": "又一家万亿美元级别IPO！SK海力士计划8月在纳斯达克上市，募资高达140亿美元",
+          "url": "https://wallstreetcn.com/articles/3774573",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 00时16分]"
+        },
+        {
+          "title": "SpaceX上市引发“虹吸效应” 美股太空概念集体跳水",
+          "url": "https://www.cls.cn/detail/2398893",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 00时16分]"
+        },
+        {
+          "title": "SpaceX亏损达413亿美元",
+          "url": "https://www.baidu.com/s?wd=SpaceX%E4%BA%8F%E6%8D%9F%E8%BE%BE413%E4%BA%BF%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 00时16分]"
+        },
+        {
+          "title": "A股又一4倍大牛股诞生",
+          "url": "https://www.toutiao.com/trending/7650145858994094107/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 00时16分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "外交部 商务部 证监会 央行",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "据伊朗法尔斯通讯社：伊朗外交部发言人表示，伊朗将必须对在霍尔木兹海峡提供的服务收取费用。",
+          "url": "https://flash.jin10.com/detail/20260613235931570800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时23分"
+          "time_info": "00时16分"
         },
         {
-          "title": "纽约期金本周跌约3%，纽约铜累涨超3.5%",
-          "url": "https://wallstreetcn.com/livenews/3119081",
-          "source": "华尔街见闻-快讯",
+          "title": "巴基斯坦外交部：美伊协议电子签署仪式14日举行",
+          "url": "https://flash.jin10.com/detail/20260613234934583800",
+          "source": "金十数据",
           "ranks": [
-            6,
-            16
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时16分"
+        },
+        {
+          "title": "商务部就美国防部将部分中国企业列入“中国军事企业清单”事答问",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33372598",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时50分 ~ 07时20分]"
+          "time_info": "[00时15分 ~ 00时16分]"
         },
         {
-          "title": "云南铜业：今年以来硫酸销售价格持续处于高位",
-          "url": "https://wallstreetcn.com/livenews/3119139",
-          "source": "华尔街见闻-快讯",
+          "title": "据伊朗法尔斯通讯社：伊朗外交部发言人表示，伊朗为保障霍尔木兹海峡安全通航所采取的举措，符合维护国家安全与国际社会共同利益的原则。",
+          "url": "https://flash.jin10.com/detail/20260613234732044800",
+          "source": "金十数据",
           "ranks": [
-            8,
-            26
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时17分 ~ 22时05分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时16分"
         },
         {
-          "title": "上海黄金交易所黄金T+D 6月12日（周五）晚盘收盘上涨1.22%报919.5元/克；<br/>上海黄金交易所白银T+D 6月12日（周五）晚盘收盘上涨3.57%报16420.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260613023021026800",
+          "title": "据伊朗法尔斯通讯社：伊朗外交部发言人表示，地区内外国基地和军事存在必须结束。",
+          "url": "https://flash.jin10.com/detail/20260613234657838800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时16分"
+        },
+        {
+          "title": "据伊朗法尔斯通讯社：伊朗外交部发言人表示，释放伊朗被冻结的资金是协议的重要组成部分。",
+          "url": "https://flash.jin10.com/detail/20260613234625047800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时16分"
+        },
+        {
+          "title": "伊朗外交部：未来一两天内暂无出访计划",
+          "url": "https://flash.jin10.com/detail/20260613230649930800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时08分"
+          "time_info": "00时16分"
         },
         {
-          "title": "CME补上周末交易，黄金以后更容易V反？",
-          "url": "https://flash.jin10.com/detail/20260612233021430800",
+          "title": "伊朗外交部：伊美潜在谅解仅为继续对话 非最终协议",
+          "url": "https://flash.jin10.com/detail/20260613224429349800",
           "source": "金十数据",
           "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
-        },
-        {
-          "title": "现货白银日内涨幅达1.0%，报67.98美元/盎司。 现货黄金日内涨幅达0.5%，报4233.91美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3118977",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
-        },
-        {
-          "title": "美伊签约就差临门一脚？沃什“首秀”在即，黄金等待筑底",
-          "url": "https://flash.jin10.com/detail/20260613200807915800",
-          "source": "金十数据",
-          "ranks": [
-            19
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时05分"
+          "time_info": "00时16分"
         },
         {
-          "title": "现货白银日内涨幅扩大至1.00%，现报68.02美元/盎司。现货黄金现涨0.5%。",
-          "url": "https://flash.jin10.com/detail/20260612232656052800",
+          "title": "伊朗外交部：伊美谅解备忘录不会在明天签署",
+          "url": "https://wallstreetcn.com/livenews/3119160",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时16分"
+        },
+        {
+          "title": "卡塔尔外交部：卡塔尔首相兼外交大臣与巴基斯坦总理讨论了地区局势的最新进展，以及伊斯兰堡为缓和紧张局势所做的调解努力。",
+          "url": "https://flash.jin10.com/detail/20260613223848444800",
           "source": "金十数据",
           "ranks": [
-            20
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek AI openai 机器人 小米 特斯拉 英伟达",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "走出实验室 机器人如何“上岗”",
+          "url": "https://www.baidu.com/s?wd=%E8%B5%B0%E5%87%BA%E5%AE%9E%E9%AA%8C%E5%AE%A4+%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%A6%82%E4%BD%95%E2%80%9C%E4%B8%8A%E5%B2%97%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 00时16分]"
         },
         {
-          "title": "黄金上涨原因",
-          "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91%E4%B8%8A%E6%B6%A8%E5%8E%9F%E5%9B%A0&t=31&band_rank=20&Refer=top",
+          "title": "SpaceX万亿美元IPO背后：一场由星链造血、星舰远征、AI叙事支撑的资本盛宴",
+          "url": "https://www.cls.cn/detail/2398996",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 00时16分]"
+        },
+        {
+          "title": "SpaceX上市幕后大戏：抢跑OpenAI、疯狂并购装资产，华尔街全程被牵着鼻子走",
+          "url": "https://wallstreetcn.com/articles/3774577",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 00时16分]"
+        },
+        {
+          "title": "SpaceX总裁不排除未来与特斯拉合并：两家公司目标正趋于一致",
+          "url": "https://www.cls.cn/detail/2398816",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 00时16分]"
+        },
+        {
+          "title": "万亿富豪马斯克的“冰与火”：AI卫星要上天 地面算力却“卡了壳”",
+          "url": "https://www.cls.cn/detail/2399065",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 00时16分]"
+        },
+        {
+          "title": "AI赋能2026世界杯：高清第一视角+3D数字人判越位+生成式战术平台",
+          "url": "https://www.cls.cn/detail/2399104",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 00时16分]"
+        },
+        {
+          "title": "这才是AI发展真正的意义",
+          "url": "https://s.weibo.com/weibo?q=%E8%BF%99%E6%89%8D%E6%98%AFAI%E5%8F%91%E5%B1%95%E7%9C%9F%E6%AD%A3%E7%9A%84%E6%84%8F%E4%B9%89&t=31&band_rank=17&Refer=top",
           "source": "微博",
           "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 00时16分]"
+        },
+        {
+          "title": "当AI深度融入生活，人与AI如何和谐相处？看看他们怎么做",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33369600",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 00时16分]"
+        },
+        {
+          "title": "“机器人伴侣”来了 10天预售3800台",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BC%B4%E4%BE%A3%E2%80%9D%E6%9D%A5%E4%BA%86+10%E5%A4%A9%E9%A2%84%E5%94%AE3800%E5%8F%B0",
+          "source": "百度热搜",
+          "ranks": [
             20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时03分"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：6月9日当周，投机者所持COMEX黄金净多头头寸减少7,681手合约，至103,660手合约。 所持COMEX白银净多头头寸降低至9,794手合约，创七周新低。 所持COMEX铜净多头头寸减少至71,127手合约，创五周新低。 所持NYMEX铂金净多头头寸减少至8,377手合约，创三个月新低。 所持NYMEX钯金净空头头寸增至4,520手合约，创八个月新高。",
-          "url": "https://wallstreetcn.com/livenews/3119058",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时50分"
-        },
-        {
-          "title": "国际铜夜盘收涨0.88%，沪铜收涨0.68%，沪铝收涨0.43%，沪锌收涨1.48%，沪铅收涨0.16%，沪镍收涨0.36%，沪锡收涨2.19%。 氧化铝夜盘收涨0.86%，铝合金收涨0.45%。 不锈钢夜盘收涨0.03%。",
-          "url": "https://wallstreetcn.com/livenews/3119012",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 00时16分]"
         }
       ]
     }
