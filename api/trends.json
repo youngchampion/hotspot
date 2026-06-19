@@ -1,22 +1,262 @@
 {
-  "generated_at": "2026-06-20T00:07:43.336492+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-20T02:58:11.091169+08:00",
+  "total_titles_processed": 421,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美股 A股 港股 美债 美元 石油 战争",
-      "match_count": 13,
+      "keyword_group": "特朗普 马斯克 加密货币 美联储",
+      "match_count": 21,
       "titles": [
         {
-          "title": "美伊瑞士会谈生变，韩股收跌0.1%，印度IT股大跌，纳指期货跌1%，美元指数站上101关口",
-          "url": "https://wallstreetcn.com/articles/3775074",
+          "title": "中国大模型何时能达Fable级别？马斯克预计明年Q1 唐杰称不用那么久",
+          "url": "https://www.cls.cn/detail/2404332",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 02时58分]"
+        },
+        {
+          "title": "网友提问“中国大模型何时达到Fable级别？”，马斯克“可能明年Q1”，智谱CEO唐杰“不需要那么久”",
+          "url": "https://wallstreetcn.com/articles/3775064",
           "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 02时58分]"
+        },
+        {
+          "title": "特朗普对伊朗协议定调 旨在驳斥美国失败论",
+          "url": "https://flash.jin10.com/detail/20260619235405420800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时07分"
+        },
+        {
+          "title": "美国总统特朗普：今天稍早与以色列对话。 （为了伊朗协议）要求以色列同意与黎巴嫩真主党停火。（NBC）",
+          "url": "https://wallstreetcn.com/livenews/3122171",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时58分"
+        },
+        {
+          "title": "市场消息：特朗普对伊朗协议定调，意在驳斥美国失败论。",
+          "url": "https://flash.jin10.com/detail/20260619235253993800",
+          "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时07分"
+        },
+        {
+          "title": "特朗普和高市早苗因珍珠港发生争吵",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%92%8C%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%9B%A0%E7%8F%8D%E7%8F%A0%E6%B8%AF%E5%8F%91%E7%94%9F%E4%BA%89%E5%90%B5%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 02时58分]"
+        },
+        {
+          "title": "特朗普接受采访 谈及伊以、古巴、权力边界等问题",
+          "url": "https://flash.jin10.com/detail/20260620022213077800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时58分"
+        },
+        {
+          "title": "美国总统特朗普：不要将Anthropic视为国家安全威胁。",
+          "url": "https://flash.jin10.com/detail/20260620021254404800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时58分"
+        },
+        {
+          "title": "据AXIOS：美国总统特朗普表示，我们将能够控制以色列不攻击黎巴嫩。",
+          "url": "https://flash.jin10.com/detail/20260620021240794800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时58分"
+        },
+        {
+          "title": "特朗普和高市早苗被爆在G7因珍珠港争吵",
+          "url": "https://news.ifeng.com/c/8u5cA2CLh6U",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 02时58分]"
+        },
+        {
+          "title": "特朗普发表疑似嘲讽言论，梅洛尼回应：震惊",
+          "url": "https://news.ifeng.com/c/8u5ipgperKS",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 02时58分]"
+        },
+        {
+          "title": "利率期货成交“四倍异动”！交易员押注美联储下月就加息？",
+          "url": "https://www.cls.cn/detail/2404221",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 02时58分]"
+        },
+        {
+          "title": "万斯警告以色列：只有特朗普同情你们",
+          "url": "https://www.toutiao.com/trending/7652359820477693994/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 02时58分]"
+        },
+        {
+          "title": "特朗普移动首款手机竟是中国制造",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%BB%E5%8A%A8%E9%A6%96%E6%AC%BE%E6%89%8B%E6%9C%BA%E7%AB%9F%E6%98%AF%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 02时58分]"
+        },
+        {
+          "title": "中国大模型何时达「fable 级别」？马斯克与智谱 CEO 预测不同，你更认同谁？",
+          "url": "https://www.zhihu.com/question/2051267421386937558",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时57分 ~ 02时58分]"
+        },
+        {
+          "title": "据AXIOS：美国总统特朗普表示，古巴非常希望进行对话。",
+          "url": "https://flash.jin10.com/detail/20260620021043624800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时58分"
+        },
+        {
+          "title": "美联储监管副主席静默期出席美银私人晚宴 合规性遭质疑",
+          "url": "https://flash.jin10.com/detail/20260620020923234800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时58分"
+        },
+        {
+          "title": "美国总统特朗普周五早些时候与以色列进行了对话，要求他们同意与黎巴嫩真主党停火。（NBC新闻）",
+          "url": "https://wallstreetcn.com/livenews/3122163",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时58分"
+        },
+        {
+          "title": "万斯警告以色列：只有特朗普同情你们",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%87%E6%96%AF%E8%AD%A6%E5%91%8A%E4%BB%A5%E8%89%B2%E5%88%97%EF%BC%9A%E5%8F%AA%E6%9C%89%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%8C%E6%83%85%E4%BD%A0%E4%BB%AC",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时07分"
+        },
+        {
+          "title": "美国情报部门警告特朗普政府：以色列可能会破坏美国与伊朗的协议。（华盛顿邮报）",
+          "url": "https://wallstreetcn.com/livenews/3122151",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时58分"
+        },
+        {
+          "title": "美媒：特朗普周五与以色列通话 要求以方同意与真主党停火",
+          "url": "https://flash.jin10.com/detail/20260620010737139800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股 A股 港股 美债 美元 石油 战争",
+      "match_count": 18,
+      "titles": [
+        {
+          "title": "美伊瑞士会谈生变，韩股收跌0.1%，印度IT股大跌，纳指期货跌1%，美元指数站上101关口",
+          "url": "https://wallstreetcn.com/articles/3775074",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 02时58分]"
         },
         {
           "title": "端午前夜“雷”声密：A股十余家公司收罚单 有五年财务造假有实控人操纵股价|速读公告",
@@ -26,52 +266,124 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时07分"
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 02时58分]"
         },
         {
-          "title": "美股收盘：科技题材迎新高浪潮 存储、半导体设备牛股带头冲锋",
-          "url": "https://www.cls.cn/detail/2404196",
-          "source": "财联社热门",
+          "title": "2026 年，美元潮汐怎么玩不动了？",
+          "url": "https://www.zhihu.com/question/2050766119007524198",
+          "source": "知乎",
           "ranks": [
-            5
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时07分"
+          "appearance_count": 2,
+          "time_info": "[02时57分 ~ 02时58分]"
         },
         {
           "title": "龙头4天2板 本周披露并购重组进展的A股名单一览",
           "url": "https://www.cls.cn/detail/2404440",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时07分"
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 02时58分]"
+        },
+        {
+          "title": "美股收盘：科技题材迎新高浪潮 存储、半导体设备牛股带头冲锋",
+          "url": "https://www.cls.cn/detail/2404196",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 02时58分]"
         },
         {
           "title": "A股“审美”转向，中际旭创市值超越茅台，主力正如何进出？",
           "url": "https://www.cls.cn/detail/2404026",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时07分"
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 02时58分]"
+        },
+        {
+          "title": "如何看待 6 月 19 日人民币兑日元突破 23.8 、美元兑日元突破 161？",
+          "url": "https://www.zhihu.com/question/2051265976675604351",
+          "source": "知乎",
+          "ranks": [
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 02时58分]"
+        },
+        {
+          "title": "越南前女首富爱马仕包拍出44万美元",
+          "url": "https://www.toutiao.com/trending/7652907945642135082/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 02时58分]"
+        },
+        {
+          "title": "国际金价再跳水失守4200美元，国内金饰克价破1300元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33415889",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 02时58分]"
         },
         {
           "title": "欧洲STOXX 600个人护理、药品及食品杂货店指数跌超0.8%，刷新日低至155.50点下方。 在美国针对德国药品定价发起关税调查后，德国总理默茨预计，美国将继续遵守与欧洲的贸易承诺。 药品报销决定属于德国国内事务，如有需要，其政府将向美国提供相关信息。 6月18日美股盘后，美国对德国降低药品价格的努力提出批评，美国贸易代表格里尔指责德国“长期低价采购创新药品”。",
           "url": "https://wallstreetcn.com/livenews/3122141",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            30
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时07分 ~ 02时58分]"
+        },
+        {
+          "title": "据AXIOS：美国总统特朗普表示，（关于伊朗战争）这种事可能引发全球性大萧条，达成的协议避免了这一命运。",
+          "url": "https://flash.jin10.com/detail/20260620021212398800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时07分"
+          "time_info": "02时58分"
+        },
+        {
+          "title": "布伦特8月原油期货收报80.57美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3122166",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时58分"
         },
         {
           "title": "库克称苹果将涨价，网传 iPhone 18 Pro 涨 270 美元，价格上涨有哪些原因？你还会买吗？",
@@ -96,37 +408,26 @@
           "time_info": "00时07分"
         },
         {
-          "title": "越南前女首富爱马仕包拍出44万美元",
-          "url": "https://www.toutiao.com/trending/7652907945642135082/",
-          "source": "今日头条",
+          "title": "伊拉克石油部：南部油田在一到两个月内有望恢复到超过300万桶/日的产量。",
+          "url": "https://flash.jin10.com/detail/20260620013209964800",
+          "source": "金十数据",
           "ranks": [
-            15
+            16
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时07分"
+          "time_info": "02时58分"
         },
         {
-          "title": "国际金价再跳水失守4200美元，国内金饰克价破1300元",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33415889",
-          "source": "澎湃新闻",
+          "title": "布伦特原油日内涨幅达1.0%，报80.34美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3122153",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            18
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时07分"
-        },
-        {
-          "title": "如何看待 6 月 19 日人民币兑日元突破 23.8 、美元兑日元突破 161？",
-          "url": "https://www.zhihu.com/question/2051265976675604351",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时07分"
+          "time_info": "02时58分"
         },
         {
           "title": "艾伯维接近达成近110亿美元收购Apogee Therapeutics的交易。（英国金融时报）",
@@ -153,157 +454,43 @@
       ]
     },
     {
-      "keyword_group": "特朗普 马斯克 加密货币 美联储",
-      "match_count": 11,
+      "keyword_group": "外交部 商务部 证监会 央行",
+      "match_count": 10,
       "titles": [
         {
-          "title": "特朗普对伊朗协议定调 旨在驳斥美国失败论",
-          "url": "https://flash.jin10.com/detail/20260619235405420800",
+          "title": "乌克兰外交部长：波兰决定撤销乌克兰总统泽连斯基的荣誉勋章是一个“战略错误”。",
+          "url": "https://flash.jin10.com/detail/20260620023402653800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时07分"
+          "time_info": "02时58分"
         },
-        {
-          "title": "市场消息：特朗普对伊朗协议定调，意在驳斥美国失败论。",
-          "url": "https://flash.jin10.com/detail/20260619235253993800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时07分"
-        },
-        {
-          "title": "中国大模型何时能达Fable级别？马斯克预计明年Q1 唐杰称不用那么久",
-          "url": "https://www.cls.cn/detail/2404332",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时07分"
-        },
-        {
-          "title": "网友提问“中国大模型何时达到Fable级别？”，马斯克“可能明年Q1”，智谱CEO唐杰“不需要那么久”",
-          "url": "https://wallstreetcn.com/articles/3775064",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时07分"
-        },
-        {
-          "title": "特朗普和高市早苗被爆在G7因珍珠港争吵",
-          "url": "https://news.ifeng.com/c/8u5cA2CLh6U",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时07分"
-        },
-        {
-          "title": "特朗普发表疑似嘲讽言论，梅洛尼回应：震惊",
-          "url": "https://news.ifeng.com/c/8u5ipgperKS",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时07分"
-        },
-        {
-          "title": "特朗普和高市早苗因珍珠港发生争吵",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%92%8C%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%9B%A0%E7%8F%8D%E7%8F%A0%E6%B8%AF%E5%8F%91%E7%94%9F%E4%BA%89%E5%90%B5%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时07分"
-        },
-        {
-          "title": "利率期货成交“四倍异动”！交易员押注美联储下月就加息？",
-          "url": "https://www.cls.cn/detail/2404221",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时07分"
-        },
-        {
-          "title": "万斯警告以色列：只有特朗普同情你们",
-          "url": "https://www.toutiao.com/trending/7652359820477693994/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时07分"
-        },
-        {
-          "title": "万斯警告以色列：只有特朗普同情你们",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%87%E6%96%AF%E8%AD%A6%E5%91%8A%E4%BB%A5%E8%89%B2%E5%88%97%EF%BC%9A%E5%8F%AA%E6%9C%89%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%8C%E6%83%85%E4%BD%A0%E4%BB%AC",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时07分"
-        },
-        {
-          "title": "特朗普移动首款手机竟是中国制造",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%BB%E5%8A%A8%E9%A6%96%E6%AC%BE%E6%89%8B%E6%9C%BA%E7%AB%9F%E6%98%AF%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时07分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "外交部 商务部 证监会 央行",
-      "match_count": 6,
-      "titles": [
         {
           "title": "瑞士外交部证实美伊会谈取消",
           "url": "https://m.thepaper.cn/newsDetail_forward_33415764",
           "source": "澎湃新闻",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时07分"
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 02时58分]"
         },
         {
           "title": "瑞士外交部证实美伊会谈取消，原因可能有哪些？双方还能坐下谈吗？",
           "url": "https://www.zhihu.com/question/2051280034514429417",
           "source": "知乎",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时07分"
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 02时58分]"
         },
         {
           "title": "英国央行：将在第三季度举行五场债券拍卖。",
@@ -315,6 +502,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时07分"
+        },
+        {
+          "title": "法国外交部：真主党不应成为伊朗的工具。",
+          "url": "https://flash.jin10.com/detail/20260620013136048800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时58分"
+        },
+        {
+          "title": "法国外交部：以色列应从黎巴嫩撤军。美伊协议包括在黎巴嫩停火。",
+          "url": "https://flash.jin10.com/detail/20260620013055849800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时58分"
         },
         {
           "title": "伊朗外交部否认霍尔木兹海峡关闭",
@@ -339,6 +548,17 @@
           "time_info": "00时07分"
         },
         {
+          "title": "伊朗外交部副部长：60天后，我们将采用新的机制来管理霍尔木兹海峡，并向该地区国家提出特别倡议。",
+          "url": "https://flash.jin10.com/detail/20260620005722575800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时58分"
+        },
+        {
           "title": "伊朗外交部证实伊美谈判推迟：正讨论未来几天举行",
           "url": "https://wallstreetcn.com/livenews/3122126",
           "source": "华尔街见闻-快讯",
@@ -353,7 +573,7 @@
     },
     {
       "keyword_group": "DeepSeek AI openai 机器人 小米 特斯拉 英伟达",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "AI写作涌入市场，“人”的信任和感动何处安放？",
@@ -363,8 +583,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时07分"
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 02时58分]"
+        },
+        {
+          "title": "美参议员桑德斯：对美国大型AI公司一次性征收50%股权税，设立主权财富基金",
+          "url": "https://wallstreetcn.com/articles/3775053",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时57分 ~ 02时58分]"
         },
         {
           "title": "剑指英伟达！报道：亚马逊洽谈向其他公司出售自研AI芯片",
@@ -381,7 +612,7 @@
     },
     {
       "keyword_group": "黄金 白银 铜 铝 稀土",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "霍尔木兹海峡重开提振股债，半导体指数收创新高，原油走V，美元两连涨，黄金承压",
@@ -391,8 +622,30 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 02时58分]"
+        },
+        {
+          "title": "第一量子巴拿马铜矿被认定总体合规",
+          "url": "https://wallstreetcn.com/livenews/3122161",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时07分"
+          "time_info": "02时58分"
+        },
+        {
+          "title": "LME期铜收跌96美元，报13595美元/吨。 LME期铝收涨10美元，报3396美元/吨。 LME期锌收跌82美元，报3556美元/吨。 LME期铅收跌30美元，报1954美元/吨。 LME期镍收跌262美元，报17580美元/吨。 LME期锡收跌360美元，报53293美元/吨。 LME期钴收平，报56290美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3122159",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时58分"
         }
       ]
     }
