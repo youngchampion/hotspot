@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-08T04:01:14.054212+08:00",
-  "total_titles_processed": 430,
+  "generated_at": "2026-07-08T05:37:50.234914+08:00",
+  "total_titles_processed": 498,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 美债 美元 石油 战争",
-      "match_count": 21,
+      "match_count": 35,
       "titles": [
         {
           "title": "美元指数大幅上升，我国6月外储规模环比下跌，央行连续20个月增持购金",
@@ -15,8 +15,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 04时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时18分 ~ 05时37分]"
+        },
+        {
+          "title": "美伊局势叠加三星财报扰动，美股全线下挫，半导体指数大跌5%，原油大涨，金银承压",
+          "url": "https://wallstreetcn.com/articles/3776355",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时37分"
         },
         {
           "title": "美国财政部拍卖580亿美元三年期国债，得标利率4.179%（6月9日为4.192%），投标倍数2.60（前次为2.64）。",
@@ -30,26 +41,26 @@
           "time_info": "01时19分"
         },
         {
-          "title": "【美国撤销伊朗石油销售豁免，美伊临时和平协议承压】在霍尔木兹海峡发生新的油轮遇袭事件后，美国财政部撤销了一项允许伊朗石油销售的豁免，推翻了此前与德黑兰达成的临时和平协议中的一项关键内容。美国财政部外国资产控制办公室（OFAC）表示，自7月7日起，不得开展新的相关交易。此前在临时和平协议达成后发布的豁免允许相关交易持续60天，原定有效期至8月21日。受此消息影响，油价上涨。",
-          "url": "https://wallstreetcn.com/livenews/3130141",
+          "title": "周二（7月7日）纽约尾盘（周三北京时间04:59），离岸人民币（CNH）兑美元报6.8035元，较周一纽约尾盘跌93点，日内整体交投于6.7892-6.8050元区间。",
+          "url": "https://wallstreetcn.com/livenews/3130177",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时01分"
+          "time_info": "05时37分"
         },
         {
-          "title": "美国恢复对伊朗石油制裁",
-          "url": "https://flash.jin10.com/detail/20260708032206907800",
+          "title": "据美国证交会（SEC）文件显示，亚马逊(AMZN.O)定价242.5亿美元多期限债券发行，利率介于4.6%至6.25%。",
+          "url": "https://flash.jin10.com/detail/20260708051404780800",
           "source": "金十数据",
           "ranks": [
-            5
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时01分"
+          "time_info": "05时37分"
         },
         {
           "title": "华尔街分析师警告：美股正形成\"双重泡沫\"，一旦破裂或引发30%-50%暴跌",
@@ -60,8 +71,41 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 04时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时18分 ~ 05时37分]"
+        },
+        {
+          "title": "美国恢复对伊朗石油制裁",
+          "url": "https://news.ifeng.com/c/8uZxW8JiojM",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时37分"
+        },
+        {
+          "title": "美国恢复对伊朗石油制裁",
+          "url": "https://flash.jin10.com/detail/20260708032206907800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时01分"
+        },
+        {
+          "title": "跌个不停！美股半导体连跌第四天",
+          "url": "https://www.baidu.com/s?wd=%E8%B7%8C%E4%B8%AA%E4%B8%8D%E5%81%9C%EF%BC%81%E7%BE%8E%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E8%BF%9E%E8%B7%8C%E7%AC%AC%E5%9B%9B%E5%A4%A9",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时18分 ~ 05时37分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.61%，暂报2240.35点。 MarketVectorTM数字资产100中盘指数跌0.61%，报2611.74点。 MarketVector数字资产100指数涨0.40%，报12789.36点。 目前，Solana涨0.31%，狗狗币跌1.96%，XRP跌1.45%。 比特币涨0.40%，暂报64014美元；以太坊涨0.56%，暂报1804.34美元。",
@@ -76,26 +120,28 @@
           "time_info": "[01时19分 ~ 04时01分]"
         },
         {
-          "title": "跌个不停！美股半导体连跌第四天",
-          "url": "https://www.baidu.com/s?wd=%E8%B7%8C%E4%B8%AA%E4%B8%8D%E5%81%9C%EF%BC%81%E7%BE%8E%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E8%BF%9E%E8%B7%8C%E7%AC%AC%E5%9B%9B%E5%A4%A9",
-          "source": "百度热搜",
+          "title": "【美国撤销伊朗石油销售豁免，美伊临时和平协议承压】在霍尔木兹海峡发生新的油轮遇袭事件后，美国财政部撤销了一项允许伊朗石油销售的豁免，推翻了此前与德黑兰达成的临时和平协议中的一项关键内容。美国财政部外国资产控制办公室（OFAC）表示，自7月7日起，不得开展新的相关交易。此前在临时和平协议达成后发布的豁免允许相关交易持续60天，原定有效期至8月21日。受此消息影响，油价上涨。",
+          "url": "https://wallstreetcn.com/livenews/3130141",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            4,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 04时01分]"
+          "appearance_count": 2,
+          "time_info": "[04时01分 ~ 05时37分]"
         },
         {
           "title": "美股",
           "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=14&Refer=top",
           "source": "微博",
           "ranks": [
-            14
+            14,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时18分 ~ 01时19分]"
+          "appearance_count": 3,
+          "time_info": "[01时18分 ~ 05时37分]"
         },
         {
           "title": "A股失守4000点关口 后市如何演绎",
@@ -109,15 +155,37 @@
           "time_info": "[01时18分 ~ 01时19分]"
         },
         {
+          "title": "美国证券交易委员会表示，“特朗普账户”现已开放申请，鼓励家庭开设账户并领取符合条件的1000美元初始资金。",
+          "url": "https://flash.jin10.com/detail/20260708044045752800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时37分"
+        },
+        {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7942元，较周一夜盘收盘跌18点。成交量512.73亿美元。",
           "url": "https://wallstreetcn.com/livenews/3130138",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
+        },
+        {
+          "title": "埃克森美孚：与第一季度相比，液体价格变动预计将使第二季度上游业务业绩增加35亿至39亿美元。 根据美国证券交易委员会（SEC）文件，与第一季度相比，天然气价格变动预计将使第二季度上游业务业绩减少2亿美元至增加2亿美元。 与第一季度相比，利润率变动预计将使第二季度化工品业务盈利减少10亿至12亿美元。 与第一季度相比，利润率变动预计将使第二季度能源产品业务盈利减少20亿至24亿美元。 预计受中东事件影响，第二季度产量中断将导致上游业务减少6亿至8亿美元，能源产品业务减少2亿至4亿美元。 与第一季度相比，利润率变动预计将使第二季度特种产品业务盈利减少3亿至5亿美元。 预计第二季度中东其他事件对上游业务的影响在减少1亿美元至增加1亿美元之间。 预计第二季度中东其他事件对能源产品业务的影响在减少1亿至3亿美元之间。",
+          "url": "https://wallstreetcn.com/livenews/3130170",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时37分"
         },
         {
           "title": "WTI 8月原油期货收涨1.89美元，涨幅2.76%，报70.44美元/桶。 布伦特9月原油期货收涨2.17美元，涨幅3.01%，报74.16美元/桶。 中东Abu Dhabi Murban原油期货涨3.34%，报68.91美元/桶。 NYMEX 8月天然气期货收报3.2650美元/百万英热单位。 NYMEX 8月汽油期货收报2.9539美元/加仑，NYMEX 8月取暖油期货收报3.3017美元/加仑。",
@@ -126,9 +194,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
+        },
+        {
+          "title": "提醒：北京时间04:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在04:32前后获得数据详情。",
+          "url": "https://wallstreetcn.com/livenews/3130168",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时37分"
         },
         {
           "title": "亚马逊发行250亿美元债券，获得620亿美元认购需求。",
@@ -137,9 +216,42 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
+        },
+        {
+          "title": "新兴市场ETF收跌超2.7%，与纳指ETF领跌美股大类资产类ETF",
+          "url": "https://wallstreetcn.com/livenews/3130167",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时37分"
+        },
+        {
+          "title": "半导体ETF收跌将近3.8%，领跌美股行业ETF，标普能源板块涨3%",
+          "url": "https://wallstreetcn.com/livenews/3130166",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时37分"
+        },
+        {
+          "title": "周二（7月7日），彭博电动汽车价格回报指数跌3.02%，报3475.02点，亚太盘初以来持续走低，美股开盘后跳空下挫。 成分股中，Rivian跌18.12%——创2024年2月份以来最大单日跌幅，Lucid集团跌9.98%，意法半导体巴黎股价跌7.99%，禾赛科技跌7.56%，欧股宝马收涨1.03%，H股蔚来集团涨1.71%、雅迪集团控股涨3.09%、吉利汽车控股涨3.11%。",
+          "url": "https://wallstreetcn.com/livenews/3130160",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时37分"
         },
         {
           "title": "布伦特原油日内涨幅达3.0%，报74.15美元/桶。此前，特朗普政府将今明两年布油价格预期下调超10美元，上调今年美国石油产量预期。",
@@ -159,7 +271,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
         },
@@ -181,7 +293,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
         },
@@ -192,9 +304,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
+        },
+        {
+          "title": "美国终止对伊朗石油制裁豁免",
+          "url": "https://wallstreetcn.com/livenews/3130152",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时37分"
         },
         {
           "title": "金十图示：2026年07月07日（周二）美股热门股票行情一览（美股盘中）",
@@ -214,9 +337,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
+        },
+        {
+          "title": "周二（7月7日）纽约尾盘，ICE美元指数涨0.20%，报101.056点，日内交投区间为100.803-101.126点，北京时间02:49出现一波加速上涨行情。 彭博美元指数涨0.17%，报1220.95点，日内交投区间为1218.04-1221.68点。 美元兑日元跌0.01%，报162.08日元，日内交投区间为161.67-162.18日元。 欧元兑日元跌0.24%，报185.01日元；英镑兑日元跌0.24%，报216.523日元。",
+          "url": "https://wallstreetcn.com/livenews/3130150",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时37分"
         },
         {
           "title": "金十图示：2026年07月07日（周二）热门中概股行情一览（美股盘中）",
@@ -236,15 +370,37 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
+        },
+        {
+          "title": "美债收益率普遍涨超6个基点，投资者紧盯波斯湾局势对油价的影响",
+          "url": "https://wallstreetcn.com/livenews/3130149",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时37分"
+        },
+        {
+          "title": "科威特财政部声明：2025-26财年赤字为71亿第纳尔。 2025-26财年总收入为164.5亿第纳尔。 2025-26财年石油收入为136亿第纳尔。 2025-26财年总支出为236亿第纳尔。",
+          "url": "https://wallstreetcn.com/livenews/3130163",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时37分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek AI openai 机器人 小米 特斯拉 英伟达",
-      "match_count": 15,
+      "match_count": 19,
       "titles": [
         {
           "title": "三星电子Q2季度利润飙升19倍，超越英伟达成“全球最赚钱公司”",
@@ -254,8 +410,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 04时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时18分 ~ 05时37分]"
         },
         {
           "title": "我国人形机器人整机产量有望破十万台",
@@ -265,8 +421,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 04时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时18分 ~ 05时37分]"
         },
         {
           "title": "人形机器人成高端制造出口新名片",
@@ -276,19 +432,30 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 04时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时18分 ~ 05时37分]"
         },
         {
-          "title": "Perplexity计划采用英伟达新款CPU",
-          "url": "https://wallstreetcn.com/livenews/3130145",
+          "title": "SpaceXAI与Cursor最快将于周三发布模型。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3130175",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时01分"
+          "time_info": "05时37分"
+        },
+        {
+          "title": "据The Information：SpaceXAI计划最早于周三发布与Cursor合作的新模型。",
+          "url": "https://flash.jin10.com/detail/20260708045337952800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时37分"
         },
         {
           "title": "前华为“天才少年”公开发文称DeepSeek面试流程不规范",
@@ -299,8 +466,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 04时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时18分 ~ 05时37分]"
         },
         {
           "title": "“我们没有看空英伟达”！SemiAnalysis又发小作文：“AI央行”英伟达撬动7万亿债务雪球",
@@ -311,8 +478,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 04时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时18分 ~ 05时37分]"
         },
         {
           "title": "前华为“天才少年”公开吐槽DeepSeek面试流程",
@@ -322,8 +489,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 04时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时18分 ~ 05时37分]"
+        },
+        {
+          "title": "Perplexity计划采用英伟达新款CPU",
+          "url": "https://wallstreetcn.com/livenews/3130145",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时01分 ~ 05时37分]"
         },
         {
           "title": "如何看待华为首批天才少年计划入选者李博杰吐槽 DeepSeek 的面试流程拖沓，被面试官指控抄袭？",
@@ -365,9 +544,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
+        },
+        {
+          "title": "美国参议院民主党成员Warren声明：就五角大楼AI合同质询英伟达、甲骨文。 Alphabet旗下谷歌公司、微软、马斯克旗下太空探索公司SpaceX、亚马逊旗下AWS也被质询。",
+          "url": "https://wallstreetcn.com/livenews/3130159",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时37分"
         },
         {
           "title": "微软部分应用改用自研AI 替代OpenAI和Anthropic",
@@ -398,7 +588,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
         },
@@ -412,12 +602,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时19分"
+        },
+        {
+          "title": "前华为天才少年吐槽DeepSeek面试",
+          "url": "https://www.toutiao.com/trending/7658530038409969718/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时37分"
         }
       ]
     },
     {
       "keyword_group": "黄金 白银 铜 铝 稀土",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "大摩告诉客户：是时候“卖芯片、买云”，“存储”类似“白银”见顶",
@@ -427,8 +628,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 04时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时18分 ~ 05时37分]"
         },
         {
           "title": "头条世界杯｜C罗的时代结束了，葡萄牙也浪费了黄金一代",
@@ -439,8 +640,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 04时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时18分 ~ 05时37分]"
         },
         {
           "title": "日本从废旧空调中提稀土，这对其稀土战略和全球供应链意味着什么？",
@@ -455,15 +656,15 @@
           "time_info": "[01时18分 ~ 04时01分]"
         },
         {
-          "title": "现货白银跌4%，布油涨6%",
-          "url": "https://wallstreetcn.com/livenews/3130142",
+          "title": "现货黄金跌约1.5%，白银跌超3%",
+          "url": "https://wallstreetcn.com/livenews/3130176",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时01分"
+          "time_info": "05时37分"
         },
         {
           "title": "国际铜夜盘收涨0.18%，沪铜收涨0.14%，沪铝收涨0.59%，沪锌收跌0.02%，沪铅收涨0.88%，沪镍收跌0.16%，沪锡收涨0.51%。 氧化铝夜盘收跌0.18%，铝合金收涨0.85%。 不锈钢夜盘收跌0.27%。",
@@ -490,15 +691,28 @@
           "time_info": "[01时19分 ~ 04时01分]"
         },
         {
+          "title": "现货白银跌4%，布油涨6%",
+          "url": "https://wallstreetcn.com/livenews/3130142",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时01分 ~ 05时37分]"
+        },
+        {
           "title": "日企对稀土问题的警告声越来越大",
           "url": "https://www.toutiao.com/trending/7658806483861913641/",
           "source": "今日头条",
           "ranks": [
-            26
+            26,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时59分 ~ 04时01分]"
+          "appearance_count": 3,
+          "time_info": "[03时59分 ~ 05时37分]"
         },
         {
           "title": "现货黄金日内跌幅达1.5%，报4100.45美元/盎司。",
@@ -507,7 +721,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
         },
@@ -518,7 +732,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
         },
@@ -529,7 +743,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
         },
@@ -540,7 +754,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
         },
@@ -551,148 +765,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "外交部 商务部 证监会 央行",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "多国“批评”中方导弹试射活动，外交部再回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33533461",
-          "source": "澎湃新闻",
-          "ranks": [
-            1
-          ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 04时01分]"
-        },
-        {
-          "title": "多国“批评”中方导弹试射活动，外交部再回应",
-          "url": "https://news.ifeng.com/c/8uZDUuQKXUe",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 04时01分]"
-        },
-        {
-          "title": "证监会”闪电“查处！“南京路宝宝总”造谣中公教育被查",
-          "url": "https://www.cls.cn/detail/2419636",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 04时01分]"
-        },
-        {
-          "title": "证监会：对安某编造传播涉中公教育虚假信息立案调查",
-          "url": "https://www.cls.cn/detail/2419566",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 04时01分]"
-        },
-        {
-          "title": "伊朗外交部通过官方Telegram频道驳斥卡塔尔关于船只遇袭的指称。",
-          "url": "https://wallstreetcn.com/livenews/3130144",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时01分"
-        },
-        {
-          "title": "证监会对安某编造传播涉中公教育虚假信息立案调查",
-          "url": "https://wallstreetcn.com/articles/3776397",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 04时01分]"
-        },
-        {
-          "title": "证监会对安某编造传播涉中公教育虚假信息立案调查，一句低俗赌约，中公教育离奇涨停，其将承担哪些法律责任？",
-          "url": "https://www.zhihu.com/question/2057930097039090211",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 04时01分]"
-        },
-        {
-          "title": "中国海军组织潜射战略导弹试射，外交部回应「有关国家没有必要过度解读」，释放哪些信息？",
-          "url": "https://www.zhihu.com/question/2057806206094284336",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 04时01分]"
-        },
-        {
-          "title": "伊朗外交部发言人：伊方敦促包括卡塔尔在内的地区国家及航运公司避免采取任何违反备忘录的行为。",
-          "url": "https://flash.jin10.com/detail/20260708031839955800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时01分"
-        },
-        {
-          "title": "伊朗外交部发言人：卡塔尔指责伊朗袭击一艘与该国有关联船只的说法令人质疑，违背睦邻友好原则，不可接受。",
-          "url": "https://flash.jin10.com/detail/20260708031820038800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时01分"
-        },
-        {
-          "title": "据华尔街日报：民主党议员调查美国商务部长卢特尼克与康托・菲茨杰拉德公司（Cantor Fitzgerald）交易关系。（卢特尼克曾任康托・菲茨杰拉德公司董事长兼CEO）",
-          "url": "https://flash.jin10.com/detail/20260708004521781800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
-        },
-        {
-          "title": "卡塔尔外交部：卡塔尔召见伊朗副大使。",
-          "url": "https://wallstreetcn.com/livenews/3130128",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "04时01分"
         }
@@ -700,7 +773,7 @@
     },
     {
       "keyword_group": "特朗普 马斯克 加密货币 美联储",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "世界杯最大爽剧！特朗普来护航也没用，比利时打烂潜规则",
@@ -711,8 +784,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 04时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时18分 ~ 05时37分]"
         },
         {
           "title": "芯片股领涨推动纳指反弹，道指首次站上5.3万点，油金承压，比特币随特朗普表态飙升",
@@ -722,8 +795,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 04时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时18分 ~ 05时37分]"
         },
         {
           "title": "特朗普：对北约非常失望",
@@ -733,19 +806,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时59分 ~ 04时01分]"
-        },
-        {
-          "title": "美联储拟修改银行反洗钱监管要求，要求银行将更多资源集中于高风险客户和业务活动。该提案将公开征求意见60天。",
-          "url": "https://flash.jin10.com/detail/20260708033902340800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时01分"
+          "appearance_count": 3,
+          "time_info": "[03时59分 ~ 05时37分]"
         },
         {
           "title": "比利时国防大臣警告特朗普：不准再骚扰“女王”梅洛尼",
@@ -755,8 +817,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 04时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时18分 ~ 05时37分]"
+        },
+        {
+          "title": "美联储拟修改银行反洗钱监管要求，要求银行将更多资源集中于高风险客户和业务活动。该提案将公开征求意见60天。",
+          "url": "https://flash.jin10.com/detail/20260708033902340800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时01分"
         },
         {
           "title": "特朗普承认了：我找了国际足联，美国球员吃红牌的动作不算犯规",
@@ -767,8 +840,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 04时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时18分 ~ 05时37分]"
         },
         {
           "title": "特朗普再次声称格陵兰岛“应该由美国控制”",
@@ -804,6 +877,17 @@
           "time_info": "01时19分"
         },
         {
+          "title": "马斯克旗下太空探索公司SpaceX收跌6.8%，创美国IPO以来收盘新低。",
+          "url": "https://wallstreetcn.com/livenews/3130157",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时37分"
+        },
+        {
           "title": "特朗普再次声称格陵兰岛“应该由美国控制”",
           "url": "https://flash.jin10.com/detail/20260708003417595800",
           "source": "金十数据",
@@ -835,6 +919,148 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "外交部 商务部 证监会 央行",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "多国“批评”中方导弹试射活动，外交部再回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33533461",
+          "source": "澎湃新闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时18分 ~ 05时37分]"
+        },
+        {
+          "title": "多国“批评”中方导弹试射活动，外交部再回应",
+          "url": "https://news.ifeng.com/c/8uZDUuQKXUe",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时18分 ~ 05时37分]"
+        },
+        {
+          "title": "证监会”闪电“查处！“南京路宝宝总”造谣中公教育被查",
+          "url": "https://www.cls.cn/detail/2419636",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时18分 ~ 05时37分]"
+        },
+        {
+          "title": "证监会：对安某编造传播涉中公教育虚假信息立案调查",
+          "url": "https://www.cls.cn/detail/2419566",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时18分 ~ 05时37分]"
+        },
+        {
+          "title": "证监会对安某编造传播涉中公教育虚假信息立案调查",
+          "url": "https://wallstreetcn.com/articles/3776397",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时18分 ~ 05时37分]"
+        },
+        {
+          "title": "证监会对安某编造传播涉中公教育虚假信息立案调查，一句低俗赌约，中公教育离奇涨停，其将承担哪些法律责任？",
+          "url": "https://www.zhihu.com/question/2057930097039090211",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时18分 ~ 05时37分]"
+        },
+        {
+          "title": "中国海军组织潜射战略导弹试射，外交部回应「有关国家没有必要过度解读」，释放哪些信息？",
+          "url": "https://www.zhihu.com/question/2057806206094284336",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时18分 ~ 05时37分]"
+        },
+        {
+          "title": "伊朗外交部通过官方Telegram频道驳斥卡塔尔关于船只遇袭的指称。",
+          "url": "https://wallstreetcn.com/livenews/3130144",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时01分 ~ 05时37分]"
+        },
+        {
+          "title": "伊朗外交部发言人：伊方敦促包括卡塔尔在内的地区国家及航运公司避免采取任何违反备忘录的行为。",
+          "url": "https://flash.jin10.com/detail/20260708031839955800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时01分"
+        },
+        {
+          "title": "伊朗外交部发言人：卡塔尔指责伊朗袭击一艘与该国有关联船只的说法令人质疑，违背睦邻友好原则，不可接受。",
+          "url": "https://flash.jin10.com/detail/20260708031820038800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时01分"
+        },
+        {
+          "title": "据华尔街日报：民主党议员调查美国商务部长卢特尼克与康托・菲茨杰拉德公司（Cantor Fitzgerald）交易关系。（卢特尼克曾任康托・菲茨杰拉德公司董事长兼CEO）",
+          "url": "https://flash.jin10.com/detail/20260708004521781800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时19分"
+        },
+        {
+          "title": "卡塔尔外交部：卡塔尔召见伊朗副大使。",
+          "url": "https://wallstreetcn.com/livenews/3130128",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时01分"
         }
       ]
     }
