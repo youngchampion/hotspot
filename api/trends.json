@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-10T12:54:32.874051+08:00",
-  "total_titles_processed": 800,
+  "generated_at": "2026-07-10T16:25:22.294095+08:00",
+  "total_titles_processed": 980,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 美债 美元 石油 战争",
-      "match_count": 42,
+      "match_count": 50,
       "titles": [
         {
           "title": "特朗普\"开火威胁\"搅动全球市场，降温表态后美股跌幅收窄，芯片股力撑纳指收涨，中概股大涨",
@@ -40,6 +40,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时08分"
+        },
+        {
+          "title": "国际能源署：全球石油需求的复苏正在进行中。",
+          "url": "https://flash.jin10.com/detail/20260710160300129800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
         },
         {
           "title": "SK海力士ADR发行价定在每份149美元，预计将于月10日在纳斯达克开始交易。",
@@ -85,6 +96,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时05分 ~ 08时08分]"
+        },
+        {
+          "title": "报道：SK海力士ADR指导价149美元，较韩股收盘价溢价3.1%",
+          "url": "https://wallstreetcn.com/articles/3776593",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时07分 ~ 16时25分]"
         },
         {
           "title": "美国至7月3日当周外国央行持有美国国债 -286.05亿美元，前值-110.64亿美元。",
@@ -147,16 +170,15 @@
           "time_info": "[06时25分 ~ 08时08分]"
         },
         {
-          "title": "报道：SK海力士ADR指导价149美元，较韩股收盘价溢价3.1%",
-          "url": "https://wallstreetcn.com/articles/3776593",
-          "source": "华尔街见闻",
+          "title": "NPO规模商用有望加速 华为发起首个多源协议 多家A股公司参与",
+          "url": "https://www.cls.cn/detail/2422336",
+          "source": "财联社热门",
           "ranks": [
-            6,
-            8
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时07分 ~ 12时54分]"
+          "appearance_count": 2,
+          "time_info": "[12时54分 ~ 16时25分]"
         },
         {
           "title": "周四（7月9日），美股行业ETF多数收涨，半导体ETF涨2.48%，科技行业ETF涨2.18%，全球科技股指数ETF涨2.06%，日常消费品ETF、能源业ETF至少跌1.40%。",
@@ -188,9 +210,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时54分"
+        },
+        {
+          "title": "IEA月报：全球石油供应在六月反弹410万桶/日，达到9880万桶/日。",
+          "url": "https://flash.jin10.com/detail/20260710160123066800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
         },
         {
           "title": "美元 / 日元从 100 跌到 160 这几年，日本国内有什么变化吗？",
@@ -199,9 +232,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时54分"
+        },
+        {
+          "title": "IEA月报：预计全球石油需求到2027年将增加190万桶/日。",
+          "url": "https://flash.jin10.com/detail/20260710160104502800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
         },
         {
           "title": "美国财政部拍卖220亿美元30年期国债，得标利率5.058%（6月11日为5.020%），投标倍数2.44（前次为2.30）。",
@@ -215,24 +259,13 @@
           "time_info": "02时05分"
         },
         {
-          "title": "NPO规模商用有望加速 华为发起首个多源协议 多家A股公司参与",
-          "url": "https://www.cls.cn/detail/2422336",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时54分"
-        },
-        {
           "title": "布伦特原油日内涨幅达1.00%，现报76.70美元/桶。",
           "url": "https://flash.jin10.com/detail/20260710121717658800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时54分"
         },
@@ -243,7 +276,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时54分"
         },
@@ -279,6 +312,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
+        },
+        {
+          "title": "IEA月报：预计2026年全球石油需求将下降100万桶/日（此前预测为下降110万桶/日）。 2026年全球石油供应量将减少370万桶/日（此前预测为减少390万桶/日）。 随着霍尔木兹海峡通航恢复，6月全球石油供应量增加410万桶/日，但仍较战前水平低940万桶/日。 如果霍尔木兹海峡通航状况改善，预计供应增长为750万桶/日，需求增长为200万桶/日。 美伊敌对局势升级给前景带来不确定性，可能颠覆2027年供应过剩的预测。 6月炼油活动和成品油供应对霍尔木兹海峡重新开放的反应慢于原油，导致夏季需求高峰期间燃料市场收紧。",
+          "url": "https://wallstreetcn.com/livenews/3131866",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
         },
         {
           "title": "美国2026财年前9个月联邦赤字约1.4万亿美元",
@@ -325,6 +369,28 @@
           "time_info": "04时49分"
         },
         {
+          "title": "IEA月报：全球石油供应将在2026年下降370万桶/日（之前预测为下降390万桶/日）。",
+          "url": "https://flash.jin10.com/detail/20260710160049384800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
+        },
+        {
+          "title": "A股收盘：科创50指数冲高回落跌5.53%",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E7%A7%91%E5%88%9B50%E6%8C%87%E6%95%B0%E5%86%B2%E9%AB%98%E5%9B%9E%E8%90%BD%E8%B7%8C5.53%25",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
+        },
+        {
           "title": "美联储在固定利率逆回购操作中总计接纳了6个对手方的57.72亿美元。",
           "url": "https://flash.jin10.com/detail/20260710011634773800",
           "source": "金十数据",
@@ -347,6 +413,17 @@
           "time_info": "06时25分"
         },
         {
+          "title": "IEA：阿联酋6月石油产量创历史新高",
+          "url": "https://wallstreetcn.com/livenews/3131862",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
+        },
+        {
           "title": "市场消息：SK海力士美国ADR发行获近2000亿美元认购需求，吸引超过500家投资者参与，其中前25大账户获约67%份额，前十大账户拿下近一半ADR配售。",
           "url": "https://flash.jin10.com/detail/20260710050625096800",
           "source": "金十数据",
@@ -367,6 +444,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
+        },
+        {
+          "title": "市场消息：国际能源署署长比罗尔敦促欧盟重新审视其在北极钻探石油和天然气的禁令。",
+          "url": "https://flash.jin10.com/detail/20260710155859311800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
         },
         {
           "title": "条款显示：SK海力士美国IPO认购需求接近2000亿美元。 ADR发行获得超500个账户认购。（彭博）",
@@ -452,7 +540,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时54分"
         },
@@ -482,7 +570,7 @@
     },
     {
       "keyword_group": "DeepSeek AI openai 机器人 小米 特斯拉 英伟达",
-      "match_count": 31,
+      "match_count": 38,
       "titles": [
         {
           "title": "午后大反击！创业板暴涨超4%，科创50狂飙8%，中芯国际创新高，港股AI大模型双雄分化，智谱涨11%、MINIMAX大跌18%",
@@ -495,8 +583,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时05分 ~ 12时54分]"
+          "appearance_count": 7,
+          "time_info": "[02时05分 ~ 16时25分]"
         },
         {
           "title": "雷军提出车内空间不该固定，小米澎程主打「空间自定义」，这有必要吗？会不会重新定义未来家用车的设计逻辑？",
@@ -572,6 +660,17 @@
           "time_info": "08时08分"
         },
         {
+          "title": "特斯拉在韩国推出FSD v14 Light 但仅适用于美产车型",
+          "url": "https://flash.jin10.com/detail/20260710160237843800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
+        },
+        {
           "title": "日本高中生携AI爆破被捕",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356003&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%AB%98%E4%B8%AD%E7%94%9F%E6%90%BAAI%E7%88%86%E7%A0%B4%E8%A2%AB%E6%8D%95",
           "source": "贴吧",
@@ -582,6 +681,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时05分 ~ 08时08分]"
+        },
+        {
+          "title": "美股收盘：“AI的光”再度闪耀 纳指涨超1% 存储、光通信概念领涨",
+          "url": "https://www.cls.cn/detail/2422268",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时07分 ~ 16时25分]"
         },
         {
           "title": "一条AI短片演绎杨戬劈山",
@@ -597,17 +707,6 @@
           "time_info": "[04时49分 ~ 08时08分]"
         },
         {
-          "title": "美股收盘：“AI的光”再度闪耀 纳指涨超1% 存储、光通信概念领涨",
-          "url": "https://www.cls.cn/detail/2422268",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时07分 ~ 12时54分]"
-        },
-        {
           "title": "报道：Meta自研AI芯片“Iris”计划9月量产，2027年算力拟翻倍至14吉瓦",
           "url": "https://wallstreetcn.com/articles/3776581",
           "source": "华尔街见闻",
@@ -618,6 +717,29 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时25分 ~ 08时08分]"
+        },
+        {
+          "title": "美联储官宣五大改革工作组领导阵容，前央行行长、硅谷AI大佬、诺奖经济学家加盟",
+          "url": "https://wallstreetcn.com/articles/3776606",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时54分 ~ 16时25分]"
+        },
+        {
+          "title": "美国AI股太贵了？顶级基金经理：转战中国科技股、英股高股息与全球能源",
+          "url": "https://wallstreetcn.com/articles/3776590",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时54分 ~ 16时25分]"
         },
         {
           "title": "AI和空调开始抢电",
@@ -631,17 +753,6 @@
           "time_info": "[08时07分 ~ 08时08分]"
         },
         {
-          "title": "美联储官宣五大改革工作组领导阵容，前央行行长、硅谷AI大佬、诺奖经济学家加盟",
-          "url": "https://wallstreetcn.com/articles/3776606",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时54分"
-        },
-        {
           "title": "OpenAI推出ChatGPT Work智能体，可连续数小时处理任务",
           "url": "https://wallstreetcn.com/livenews/3131490",
           "source": "华尔街见闻-快讯",
@@ -651,6 +762,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
+        },
+        {
+          "title": "港股收盘：恒生指数收涨0.6%，恒生科技指数收跌0.21%。商业航天概念股走高，钧达股份涨超24%，金风科技涨超8%，亚太卫星涨超4%；创新药概念股上涨，派格生物医药涨超28%，乐普生物涨超4%，药明康德涨超4%。AI大模型概念股下挫，智谱跌超19%，MiniMax跌超9%。",
+          "url": "https://wallstreetcn.com/livenews/3131875",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
         },
         {
           "title": "OpenAI高管Fidji Simo将卸任",
@@ -686,15 +808,15 @@
           "time_info": "08时08分"
         },
         {
-          "title": "美国AI股太贵了？顶级基金经理：转战中国科技股、英股高股息与全球能源",
-          "url": "https://wallstreetcn.com/articles/3776590",
-          "source": "华尔街见闻",
+          "title": "AI投资已成通胀主要推手？美联储“三把手”：或被迫加息应对！",
+          "url": "https://www.cls.cn/detail/2422609",
+          "source": "财联社热门",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时54分"
+          "time_info": "16时25分"
         },
         {
           "title": "OpenAI：GPT‑5.6现已成为微软365 Copilot的首选模型。",
@@ -706,6 +828,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
+        },
+        {
+          "title": "村上春树新书发售当天就出现 AI 译本，AI 译文质量靠谱吗？会普及吗？你能接受阅读 AI 译版作品吗？",
+          "url": "https://www.zhihu.com/question/2058240544073937856",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
         },
         {
           "title": "OpenAI正式推出GPT-5.6系列模型",
@@ -730,6 +863,17 @@
           "time_info": "02时05分"
         },
         {
+          "title": "全球首例人形机器人手术登上Nature",
+          "url": "https://www.toutiao.com/trending/7660028234146414598/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
+        },
+        {
           "title": "OpenAI推出ChatGPT Work智能体，可连续数小时处理任务",
           "url": "https://flash.jin10.com/detail/20260710011517619800",
           "source": "金十数据",
@@ -752,13 +896,24 @@
           "time_info": "04时49分"
         },
         {
+          "title": "经纬度：AI硬件、机器人出海，上海外贸新引擎动力十足",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33549462",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
+        },
+        {
           "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850569&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/07/tDG__2dFH6j1LWZb_ueNn.jpg/lite\" height=\"120\"/></a>",
           "url": "https://flash.jin10.com/detail/20260710121143858800",
           "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时54分"
         },
@@ -791,7 +946,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时54分"
         },
@@ -818,6 +973,17 @@
           "time_info": "02时05分"
         },
         {
+          "title": "分析师：SK海力士在美上市为AI硬件投资注入信心",
+          "url": "https://flash.jin10.com/detail/20260710155419980800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
+        },
+        {
           "title": "OpenAI：GPT-5.6系列模型Sol、Terra、Luna将登陆Chatgpt、Codex及API。",
           "url": "https://flash.jin10.com/detail/20260710010603930800",
           "source": "金十数据",
@@ -835,7 +1001,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时54分"
         }
@@ -843,7 +1009,7 @@
     },
     {
       "keyword_group": "特朗普 马斯克 加密货币 美联储",
-      "match_count": 28,
+      "match_count": 31,
       "titles": [
         {
           "title": "美军又袭伊朗！特朗普威胁“今夜”再打、恢复海上封锁，后一度“降温”：美伊局势升级会很快平息",
@@ -858,6 +1024,19 @@
           "time_info": "[02时05分 ~ 06时25分]"
         },
         {
+          "title": "特朗普搞中国那套，拿来对付西班牙？",
+          "url": "https://news.ifeng.com/c/8udchHV60GP",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时07分 ~ 16时25分]"
+        },
+        {
           "title": "特朗普：伊朗这件事上，中国赢得了美国的尊重",
           "url": "https://news.ifeng.com/c/8ubvs5fh8MS",
           "source": "凤凰网",
@@ -867,18 +1046,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时05分 ~ 08时08分]"
-        },
-        {
-          "title": "特朗普搞中国那套，拿来对付西班牙？",
-          "url": "https://news.ifeng.com/c/8udchHV60GP",
-          "source": "凤凰网",
-          "ranks": [
-            10,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时07分 ~ 12时54分]"
         },
         {
           "title": "政治新星、“民主党版特朗普”，涉性侵丑闻“塌房”退选",
@@ -940,6 +1107,17 @@
           "time_info": "[02时05分 ~ 06时25分]"
         },
         {
+          "title": "特朗普称“日本导弹”打美国航母，白宫回应",
+          "url": "https://news.ifeng.com/c/8udg4food2U",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时54分 ~ 16时25分]"
+        },
+        {
           "title": "特朗普重启对伊朗打击 共和党担忧拖累中期选举",
           "url": "https://flash.jin10.com/detail/20260710054645407800",
           "source": "金十数据",
@@ -950,6 +1128,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时25分 ~ 08时08分]"
+        },
+        {
+          "title": "美联储公布“五大改革工作组”领导名单",
+          "url": "https://www.cls.cn/detail/2422250",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时54分 ~ 16时25分]"
+        },
+        {
+          "title": "7月10日会员早报：中东战火重燃 沃什请“外脑”改造美联储",
+          "url": "https://wallstreetcn.com/premium/articles/3776608?layout=wscn-layout",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时54分 ~ 16时25分]"
         },
         {
           "title": "以色列总理办公室：美国总统特朗普通报美方在海湾地区的行动。",
@@ -975,17 +1176,6 @@
           "time_info": "[08时07分 ~ 08时08分]"
         },
         {
-          "title": "特朗普称“日本导弹”打美国航母，白宫回应",
-          "url": "https://news.ifeng.com/c/8udg4food2U",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时54分"
-        },
-        {
           "title": "沃什启动美联储“大改革”：科技圈、学界和企业界人士加入五大任务组",
           "url": "https://flash.jin10.com/detail/20260710070939734800",
           "source": "金十数据",
@@ -995,6 +1185,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时08分"
+        },
+        {
+          "title": "特朗普“把自己困住了”，陷入两难",
+          "url": "https://news.ifeng.com/c/8uddEUs34xh",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
         },
         {
           "title": "内塔尼亚胡与特朗普通话 商定保持两国政策协调",
@@ -1019,35 +1220,13 @@
           "time_info": "06时25分"
         },
         {
-          "title": "7月10日会员早报：中东战火重燃 沃什请“外脑”改造美联储",
-          "url": "https://wallstreetcn.com/premium/articles/3776608?layout=wscn-layout",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时54分"
-        },
-        {
-          "title": "美联储公布“五大改革工作组”领导名单",
-          "url": "https://www.cls.cn/detail/2422250",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时54分"
-        },
-        {
           "title": "美国佛罗里达州棕榈滩机场更名为特朗普机场",
           "url": "https://wallstreetcn.com/livenews/3131752",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时54分"
         },
@@ -1058,7 +1237,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时54分"
         },
@@ -1083,6 +1262,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
+        },
+        {
+          "title": "以色列媒体：以愿参与对伊打击 正等特朗普表态",
+          "url": "https://wallstreetcn.com/livenews/3131864",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
         },
         {
           "title": "以色列总理办公室：特朗普向内塔尼亚胡告知了美国在海湾地区采取的行动。内塔尼亚胡则提及土耳其总统埃尔多安及其盟友针对以色列存在问题发表的强硬言论，并强调维持以色列边境安全区的必要性。",
@@ -1151,13 +1341,24 @@
           "time_info": "08时08分"
         },
         {
+          "title": "特朗普周五将参加闭门政策会议，或与伊朗局势有关",
+          "url": "https://flash.jin10.com/detail/20260710155506777800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
+        },
+        {
           "title": "美联储政策立场现分歧，Kalshi交易员预计2026年加息概率约为50%",
           "url": "https://wallstreetcn.com/livenews/3131755",
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时54分"
         }
@@ -1165,7 +1366,7 @@
     },
     {
       "keyword_group": "黄金 白银 铜 铝 稀土",
-      "match_count": 13,
+      "match_count": 20,
       "titles": [
         {
           "title": "市场暂时搁置地缘风险，油价下跌，芯片股再撑美股，黄金加密货币反弹",
@@ -1175,8 +1376,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时07分 ~ 12时54分]"
+          "appearance_count": 4,
+          "time_info": "[08时07分 ~ 16时25分]"
         },
         {
           "title": "【早报】美股贵金属、存储股集体爆发；油价下挫，黄金走强；兆易创新、工业富联等业绩预计倍增；法国成首支四强球队",
@@ -1187,8 +1388,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时07分 ~ 12时54分]"
+          "appearance_count": 4,
+          "time_info": "[08时07分 ~ 16时25分]"
+        },
+        {
+          "title": "金十图示：2026年07月10日（周五）上海黄金交易所市场行情",
+          "url": "https://flash.jin10.com/detail/20260710160242287800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
         },
         {
           "title": "芯片股领涨提振美股，油价下跌令市场暂时搁置地缘风险，黄金加密货币反弹",
@@ -1211,6 +1423,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时08分"
+        },
+        {
+          "title": "宏桥控股：预计上半年净利润150亿元-160亿元，同比增长69.72%-81.04%；上半年，电解铝市场销售价格同比大幅上涨，相关业务毛利实现显著提升。",
+          "url": "https://wallstreetcn.com/livenews/3131878",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
         },
         {
           "title": "印尼Alamtri公司启动铝出口，向美国发运金属",
@@ -1255,9 +1478,42 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时54分"
+        },
+        {
+          "title": "上海黄金交易所7月10日（周五）交易行情",
+          "url": "https://flash.jin10.com/detail/20260710160137921800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
+        },
+        {
+          "title": "伦敦金属交易所(LME)：铝库存减少1500吨，铅库存减少2050吨，锡库存减少50吨，铜库存减少1250吨，镍库存持平，锌库存减少725吨。",
+          "url": "https://wallstreetcn.com/livenews/3131871",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
+        },
+        {
+          "title": "伦敦金属交易所(LME)：铝库存减少1500吨，铅库存减少2050吨，锡库存减少50吨，铜库存减少1250吨，镍库存持平，锌库存减少725吨。",
+          "url": "https://flash.jin10.com/detail/20260710160101047800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
         },
         {
           "title": "国际铜夜盘收涨1.69%，沪铜收涨1.58%，沪铝收涨0.48%，沪锌收涨1.26%，沪铅收跌0.19%，沪镍收涨1.08%，沪锡收涨2.26%。 氧化铝夜盘收涨0.29%，铝合金收涨0.63%。 不锈钢夜盘收跌0.59%。",
@@ -1288,7 +1544,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时54分"
         },
@@ -1310,9 +1566,31 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时54分"
+        },
+        {
+          "title": "黄金41XX看涨减持百手或限制上行，突破此处将提振上行预期",
+          "url": "https://flash.jin10.com/detail/20260710155246331800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
+        },
+        {
+          "title": "上期所：本周铜库存减少22406吨，铝库存减少24229吨，锌库存增加952吨，铅库存增加858吨，镍库存减少2525吨，锡库存减少351吨，天然橡胶库存增加1317吨。",
+          "url": "https://wallstreetcn.com/livenews/3131842",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
         }
       ]
     },
@@ -1339,11 +1617,12 @@
           "ranks": [
             18,
             19,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时05分 ~ 12时54分]"
+          "appearance_count": 7,
+          "time_info": "[02时05分 ~ 16时25分]"
         },
         {
           "title": "美国白宫：商务部长建议目前不启动232条款加征关税。<br/>",
@@ -1434,7 +1713,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时54分"
         },
