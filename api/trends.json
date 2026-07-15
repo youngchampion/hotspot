@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-07-16T02:10:41.150207+08:00",
-  "total_titles_processed": 409,
+  "generated_at": "2026-07-16T04:12:36.173594+08:00",
+  "total_titles_processed": 496,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 马斯克 加密货币 美联储",
-      "match_count": 35,
+      "match_count": 60,
       "titles": [
-        {
-          "title": "沃什国会听证首秀：即使特朗普批评也会按数据行动，6月CPI降温不代表通胀“任务完成”",
-          "url": "https://wallstreetcn.com/articles/3776932",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 02时10分]"
-        },
         {
           "title": "对抗情绪升温，伊朗人又拿“特朗普”出气",
           "url": "https://news.ifeng.com/c/8umustJIuDD",
@@ -26,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 02时10分]"
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 04时12分]"
         },
         {
           "title": "利润率不足10%，特朗普硬抽20%，拦路式收费方案一天作废？",
@@ -37,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 02时10分]"
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 04时12分]"
         },
         {
           "title": "特朗普为何频频感谢中俄？",
@@ -46,6 +35,17 @@
           "source": "凤凰网",
           "ranks": [
             5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 04时12分]"
+        },
+        {
+          "title": "沃什国会听证首秀：即使特朗普批评也会按数据行动，6月CPI降温不代表通胀“任务完成”",
+          "url": "https://wallstreetcn.com/articles/3776932",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -69,9 +69,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时10分"
+        },
+        {
+          "title": "美媒：特朗普倾向扩大对伊军事行动，选项包括夺取哈尔克岛",
+          "url": "https://flash.jin10.com/detail/20260716034751447800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
         },
         {
           "title": "美联储主席沃什：我喜欢美联储理事会、（12家地方）联储的架构。",
@@ -96,6 +107,28 @@
           "time_info": "00时25分"
         },
         {
+          "title": "美国总统特朗普称赞摩根大通(JPM.N)、波音(BA.N)和通用动力公司CEO。",
+          "url": "https://flash.jin10.com/detail/20260716034427070800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
+        },
+        {
+          "title": "美国总统特朗普：重申美国无需风电。",
+          "url": "https://wallstreetcn.com/livenews/3134588",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
+        },
+        {
           "title": "美联储主席沃什：美联储需要妥善管理纳税人的资金。",
           "url": "https://flash.jin10.com/detail/20260715235710660800",
           "source": "金十数据",
@@ -107,15 +140,37 @@
           "time_info": "00时25分"
         },
         {
+          "title": "美国总统特朗普：国防生产需要再加快一些速度。",
+          "url": "https://flash.jin10.com/detail/20260716034057841800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
+        },
+        {
           "title": "美联储理事库克：FOMC货币政策具有轻度的限制性。",
           "url": "https://wallstreetcn.com/livenews/3134546",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时10分"
+        },
+        {
+          "title": "美国总统特朗普：委内瑞拉领导层表现出色。",
+          "url": "https://wallstreetcn.com/livenews/3134585",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
         },
         {
           "title": "白宫战情室紧急开会！特朗普讨论对伊朗发动大规模进攻计划",
@@ -123,11 +178,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 02时10分]"
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 04时12分]"
         },
         {
           "title": "特朗普重启伊朗战事：美伊“战略韧性”较量下的海峡控制权博弈",
@@ -137,8 +193,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 02时10分]"
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 04时12分]"
         },
         {
           "title": "伊拉克总理到访白宫，特朗普：他年轻又帅，这我就不高兴了",
@@ -148,8 +204,20 @@
             17
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 04时12分]"
+        },
+        {
+          "title": "特朗普称俄罗斯已准备好达成协议以结束俄乌冲突",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33592968",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时25分 ~ 02时10分]"
+          "time_info": "[02时10分 ~ 04时12分]"
         },
         {
           "title": "美联储主席沃什：我非常喜欢美联储理事会和地区联储的结构。",
@@ -174,6 +242,50 @@
           "time_info": "00时25分"
         },
         {
+          "title": "美国总统特朗普：（关于伊朗）我们将看看是否能与他们达成协议。",
+          "url": "https://flash.jin10.com/detail/20260716033730478800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
+        },
+        {
+          "title": "美国总统特朗普：赞赏波音CEO。",
+          "url": "https://wallstreetcn.com/livenews/3134583",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
+        },
+        {
+          "title": "美国总统特朗普：（关于伊朗）他们想要达成协议。",
+          "url": "https://flash.jin10.com/detail/20260716033706872800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
+        },
+        {
+          "title": "美国总统特朗普：赞赏摩根大通CEO戴蒙。",
+          "url": "https://wallstreetcn.com/livenews/3134582",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
+        },
+        {
           "title": "美联储主席沃什：我们可以看到数据中心对经济需求侧的影响。",
           "url": "https://flash.jin10.com/detail/20260715235229951800",
           "source": "金十数据",
@@ -183,6 +295,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
+        },
+        {
+          "title": "据华尔街日报：特朗普正考虑扩大对伊朗的军事行动，包括加强空袭、派地面部队控制霍尔木兹海峡附近岛屿及打击核相关设施，但尚未作出最终决定。",
+          "url": "https://flash.jin10.com/detail/20260716033635016800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗非常渴望达成和解。 会知道我们是和解，还是彻底解决。",
+          "url": "https://wallstreetcn.com/livenews/3134581",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
+        },
+        {
+          "title": "据NewsNation：特朗普称，若无法与伊朗革命卫队达成解决方案，美国可能像打击“伊斯兰国”一样将其消灭。",
+          "url": "https://flash.jin10.com/detail/20260716032925416800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
+        },
+        {
+          "title": "美国总统特朗普倾向于扩大在伊朗的军事行动，可能包括派遣地面部队。 特朗普在周二会议上讨论抢夺伊朗哈尔克岛（Kharg Island）的问题。 特朗普尚未做最终决定。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3134578",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
         },
         {
           "title": "美联储主席沃什：美联储是一个由共识主导的机构，并没有所谓的“魔棒”（magic wand）。 美联储存在一系列意见，不希望依靠任何个别成员的意见。",
@@ -196,6 +352,28 @@
           "time_info": "00时25分"
         },
         {
+          "title": "美国总统特朗普：伊朗想要会面。",
+          "url": "https://flash.jin10.com/detail/20260716032117737800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
+        },
+        {
+          "title": "美国总统特朗普：美国应该拥有全球最低的利率。",
+          "url": "https://flash.jin10.com/detail/20260716032026974800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
+        },
+        {
           "title": "美联储主席沃什：（特朗普政府的）移民决定影响到美国潜在的GDP。",
           "url": "https://wallstreetcn.com/livenews/3134502",
           "source": "华尔街见闻-快讯",
@@ -207,15 +385,81 @@
           "time_info": "00时25分"
         },
         {
+          "title": "美国总统特朗普宣称：伊朗希望会面。",
+          "url": "https://wallstreetcn.com/livenews/3134573",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
+        },
+        {
           "title": "美联储理事库克：由于政府调查数据回收不足，美联储仍有一些方法可以“填补数据空白”。",
           "url": "https://flash.jin10.com/detail/20260716013452036800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时10分"
+        },
+        {
+          "title": "美国总统特朗普：希望我能更快地使用关税手段。",
+          "url": "https://flash.jin10.com/detail/20260716031809880800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
+        },
+        {
+          "title": "特朗普：按兵不动总比加息好",
+          "url": "https://wallstreetcn.com/livenews/3134572",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
+        },
+        {
+          "title": "美国总统特朗普：希望利率下降。",
+          "url": "https://flash.jin10.com/detail/20260716031747837800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
+        },
+        {
+          "title": "美国总统特朗普：油价将波动一段时间。",
+          "url": "https://wallstreetcn.com/livenews/3134571",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
+        },
+        {
+          "title": "美国总统特朗普：暂停加息总比加息更好。",
+          "url": "https://flash.jin10.com/detail/20260716031734648800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
         },
         {
           "title": "美国参议院成员们将于周四会见总统特朗普，讨论加密货币立法问题。（Politico）",
@@ -224,20 +468,53 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时10分"
         },
         {
-          "title": "特朗普称俄罗斯已准备好达成协议以结束俄乌冲突",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33592968",
-          "source": "澎湃新闻",
+          "title": "美国总统特朗普：预计年底通胀将比现在更低。",
+          "url": "https://wallstreetcn.com/livenews/3134570",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
+        },
+        {
+          "title": "美国总统特朗普：我认为年末的通胀会低于现在的水平。",
+          "url": "https://flash.jin10.com/detail/20260716031623183800",
+          "source": "金十数据",
           "ranks": [
             20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时10分"
+          "time_info": "04时12分"
+        },
+        {
+          "title": "美国总统特朗普：油价会波动一段时间。",
+          "url": "https://flash.jin10.com/detail/20260716031615355800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
+        },
+        {
+          "title": "美国总统特朗普重申：国防企业不应该回购股票。",
+          "url": "https://wallstreetcn.com/livenews/3134568",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
         },
         {
           "title": "美联储主席沃什：我并非以货币主义者（monetarist）的身份来到这里。",
@@ -257,7 +534,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时10分"
         },
@@ -279,7 +556,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时10分"
         },
@@ -301,7 +578,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时10分"
         },
@@ -323,7 +600,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时10分"
         },
@@ -345,7 +622,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时10分"
         },
@@ -356,7 +633,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时10分"
         },
@@ -378,7 +655,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时10分"
         },
@@ -397,7 +674,7 @@
     },
     {
       "keyword_group": "美股 A股 港股 美债 美元 石油 战争",
-      "match_count": 29,
+      "match_count": 35,
       "titles": [
         {
           "title": "美国通胀降温，美股指全线反弹，SK海力士ADR飙升27%，IBM暴跌25%，美油闪跌",
@@ -407,8 +684,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 02时10分]"
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 04时12分]"
         },
         {
           "title": "A股被“猴子”刷屏，公募被创新药热点包围，资金要换方向了？",
@@ -418,8 +695,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 02时10分]"
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 04时12分]"
+        },
+        {
+          "title": "美国通胀降温提振美股，存储跌幅扩大，戴尔重挫13%，油价转跌",
+          "url": "https://wallstreetcn.com/articles/3776964",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 04时12分]"
         },
         {
           "title": "为什么阿根廷主帅斯卡洛尼要极力淡化马岛战争对英阿大战的影响，不断强调「这只是一场足球比赛」？",
@@ -430,19 +719,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 02时10分]"
-        },
-        {
-          "title": "美国通胀降温提振美股，存储跌幅扩大，戴尔重挫13%，油价转跌",
-          "url": "https://wallstreetcn.com/articles/3776964",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 02时10分]"
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 04时12分]"
         },
         {
           "title": "美元兑瑞郎USD/CHF日内跌超0.50%，现报0.8046。",
@@ -451,9 +729,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时10分"
+        },
+        {
+          "title": "美股存储芯片指数初步收跌6.4%，半导体指数跌2.1%。 纳斯达克100指数初步收跌0.3%，成分股中，西部数据初步收跌8.7%，闪迪跌8.5%，美光跌7.9%，Lumentum跌7.3%，希捷科技跌6.1%，思科、英特尔、CoreWeave、AMD至少跌3.4%，Meta、谷歌A涨3%，苹果涨4.1%，汤森路透涨4.2%，PayPal涨17.4%。 亚马逊、微软、3M、Merck初步收涨超2%，与苹果、谷歌A领跑道指成分股。",
+          "url": "https://wallstreetcn.com/livenews/3134592",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
         },
         {
           "title": "美国白宫发言人：特朗普将在今天的峰会上宣布规模超过100亿美元的交易。",
@@ -462,7 +751,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时10分"
         },
@@ -473,9 +762,98 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时10分"
+        },
+        {
+          "title": "SK海力士美股单日暴涨27%，较韩股溢价超50%！期权上市刺激交投，资金押注短期看涨",
+          "url": "https://wallstreetcn.com/articles/3776944",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 04时12分]"
+        },
+        {
+          "title": "韩国股市大反弹，SK 海力士美股隔夜暴涨 27%，散户大规模爆仓强平后指数强势反弹，为何波动如此极端？",
+          "url": "https://www.zhihu.com/question/2060658036918719165",
+          "source": "知乎",
+          "ranks": [
+            17,
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 04时12分]"
+        },
+        {
+          "title": "美国6月PPI低于预期 美股期指走高 阿斯麦财报提振芯片股 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2427604",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 04时12分]"
+        },
+        {
+          "title": "A股被“猴子”刷屏",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E8%A2%AB%E2%80%9C%E7%8C%B4%E5%AD%90%E2%80%9D%E5%88%B7%E5%B1%8F",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            13,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 04时12分]"
+        },
+        {
+          "title": "性侵案败诉，特朗普赔付女作家逾560万美元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33590389",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 04时12分]"
+        },
+        {
+          "title": "阿根廷队主教练：不要混淆足球和战争",
+          "url": "https://www.baidu.com/s?wd=%E9%98%BF%E6%A0%B9%E5%BB%B7%E9%98%9F%E4%B8%BB%E6%95%99%E7%BB%83%EF%BC%9A%E4%B8%8D%E8%A6%81%E6%B7%B7%E6%B7%86%E8%B6%B3%E7%90%83%E5%92%8C%E6%88%98%E4%BA%89",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            15,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 04时12分]"
+        },
+        {
+          "title": "伊朗称美进入正式战争状态",
+          "url": "https://www.douyin.com/hot/2571461",
+          "source": "抖音",
+          "ranks": [
+            24,
+            22,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 04时12分]"
         },
         {
           "title": "阿根廷主帅：不要混淆足球和战争",
@@ -489,98 +867,37 @@
           "time_info": "[00时25分 ~ 02时10分]"
         },
         {
-          "title": "SK海力士美股单日暴涨27%，较韩股溢价超50%！期权上市刺激交投，资金押注短期看涨",
-          "url": "https://wallstreetcn.com/articles/3776944",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 02时10分]"
-        },
-        {
-          "title": "美国6月PPI低于预期 美股期指走高 阿斯麦财报提振芯片股 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2427604",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 02时10分]"
-        },
-        {
-          "title": "韩国股市大反弹，SK 海力士美股隔夜暴涨 27%，散户大规模爆仓强平后指数强势反弹，为何波动如此极端？",
-          "url": "https://www.zhihu.com/question/2060658036918719165",
-          "source": "知乎",
-          "ranks": [
-            17,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 02时10分]"
-        },
-        {
-          "title": "A股被“猴子”刷屏",
-          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E8%A2%AB%E2%80%9C%E7%8C%B4%E5%AD%90%E2%80%9D%E5%88%B7%E5%B1%8F",
-          "source": "百度热搜",
-          "ranks": [
-            18,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 02时10分]"
-        },
-        {
-          "title": "性侵案败诉，特朗普赔付女作家逾560万美元",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33590389",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 02时10分]"
-        },
-        {
-          "title": "阿根廷队主教练：不要混淆足球和战争",
-          "url": "https://www.baidu.com/s?wd=%E9%98%BF%E6%A0%B9%E5%BB%B7%E9%98%9F%E4%B8%BB%E6%95%99%E7%BB%83%EF%BC%9A%E4%B8%8D%E8%A6%81%E6%B7%B7%E6%B7%86%E8%B6%B3%E7%90%83%E5%92%8C%E6%88%98%E4%BA%89",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 02时10分]"
-        },
-        {
-          "title": "伊朗称美进入正式战争状态",
-          "url": "https://www.douyin.com/hot/2571461",
-          "source": "抖音",
-          "ranks": [
-            24,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 02时10分]"
-        },
-        {
           "title": "澳元兑美元AUD/USD日内涨幅扩大至0.50%，现报0.7009。",
           "url": "https://flash.jin10.com/detail/20260716013956084800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时10分"
+        },
+        {
+          "title": "美国总统特朗普：将宣布国防工业领域近100亿美元投资。",
+          "url": "https://flash.jin10.com/detail/20260716033827764800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
+        },
+        {
+          "title": "美元指数跌超0.4%，CPI和PPI带来两连跌",
+          "url": "https://wallstreetcn.com/livenews/3134584",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
         },
         {
           "title": "伊朗议会议长卡利巴夫：将谈判与战争割裂开来，并认为二者只能二选一，是一种战略错误。",
@@ -589,7 +906,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时10分"
         },
@@ -600,7 +917,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时10分"
         },
@@ -611,7 +928,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时10分"
         },
@@ -622,7 +939,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时10分"
         },
@@ -644,7 +961,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时10分"
         },
@@ -666,7 +983,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时10分"
         },
@@ -677,7 +994,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时10分"
         },
@@ -688,7 +1005,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时10分"
         },
@@ -699,7 +1016,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时10分"
         },
@@ -710,9 +1027,42 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时10分"
+        },
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7697元，较周二夜盘收盘涨33点。成交量458.02亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3134565",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
+        },
+        {
+          "title": "日本为何抛售大量美债",
+          "url": "https://www.toutiao.com/trending/7662700915773672996/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
+        },
+        {
+          "title": "WTI 8月原油期货收涨0.26美元，涨幅0.33%，报79.60美元/桶。 布伦特9月原油期货收涨0.22美元，涨幅0.26%，报84.95美元/桶。 中东Abu Dhabi Murban原油期货跌4.43%，报78.30美元/桶，北京时间16:27出现瞬间跳水行情，从81.48美元跌至76.45美元。 NYMEX 8月天然气期货收报2.9240美元/百万英热单位。 NYMEX 8月汽油期货收报3.3009美元/加仑，NYMEX 8月取暖油期货收报3.9483美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3134558",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
         },
         {
           "title": "美股中概股大涨 阿里巴巴涨超7%",
@@ -721,7 +1071,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时10分"
         }
@@ -729,29 +1079,19 @@
     },
     {
       "keyword_group": "DeepSeek AI openai 机器人 小米 特斯拉 英伟达",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
-        {
-          "title": "国行苹果AI完成备案",
-          "url": "https://www.douyin.com/hot/2572485",
-          "source": "抖音",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 02时10分]"
-        },
         {
           "title": "如何评价 Q2 全球智能手机出货量同比下滑，小米跌幅最大，三星、苹果、华为逆势上涨？",
           "url": "https://www.zhihu.com/question/2060476741349646921",
           "source": "知乎",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 02时10分]"
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 04时12分]"
         },
         {
           "title": "小浪花看WAIC丨“三地四馆”全攻略：路线、看点、隐藏玩法一次说清",
@@ -761,8 +1101,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 02时10分]"
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 04时12分]"
+        },
+        {
+          "title": "国行苹果AI完成备案",
+          "url": "https://www.douyin.com/hot/2572485",
+          "source": "抖音",
+          "ranks": [
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 04时12分]"
         },
         {
           "title": "身家飙升至 360 亿美元，为什么梁文锋能超越奥特曼和达里奥成全球 AI 大模型创始人首富？",
@@ -773,8 +1125,30 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 02时10分]"
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 04时12分]"
+        },
+        {
+          "title": "DeepSeek工资待遇太恐怖了",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B7%A5%E8%B5%84%E5%BE%85%E9%81%87%E5%A4%AA%E6%81%90%E6%80%96%E4%BA%86&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 04时12分]"
+        },
+        {
+          "title": "AI拿冠军,摄影比赛闹笑话",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356179&amp;topic_name=AI%E6%8B%BF%E5%86%A0%E5%86%9B%2C%E6%91%84%E5%BD%B1%E6%AF%94%E8%B5%9B%E9%97%B9%E7%AC%91%E8%AF%9D",
+          "source": "贴吧",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 04时12分]"
         },
         {
           "title": "有200台小米设备的“米粉”心凉了",
@@ -789,26 +1163,16 @@
           "time_info": "[00时25分 ~ 02时10分]"
         },
         {
-          "title": "DeepSeek工资待遇太恐怖了",
-          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B7%A5%E8%B5%84%E5%BE%85%E9%81%87%E5%A4%AA%E6%81%90%E6%80%96%E4%BA%86&t=31&band_rank=11&Refer=top",
-          "source": "微博",
+          "title": "AI 时代，更稀缺的是「提出好问题」还是「判断好答案」?",
+          "url": "https://www.zhihu.com/question/2058593981005665566",
+          "source": "知乎",
           "ranks": [
-            11
+            19,
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时25分 ~ 02时10分]"
-        },
-        {
-          "title": "AI拿冠军,摄影比赛闹笑话",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356179&amp;topic_name=AI%E6%8B%BF%E5%86%A0%E5%86%9B%2C%E6%91%84%E5%BD%B1%E6%AF%94%E8%B5%9B%E9%97%B9%E7%AC%91%E8%AF%9D",
-          "source": "贴吧",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 02时10分]"
+          "time_info": "[02时10分 ~ 04时12分]"
         },
         {
           "title": "国会山作证第二天，沃什称：AI造成的价格效应未必推高通胀",
@@ -817,7 +1181,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时10分"
         },
@@ -828,7 +1192,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时10分"
         },
@@ -850,7 +1214,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时10分"
         },
@@ -866,15 +1230,15 @@
           "time_info": "00时25分"
         },
         {
-          "title": "AI 时代，更稀缺的是「提出好问题」还是「判断好答案」?",
-          "url": "https://www.zhihu.com/question/2058593981005665566",
+          "title": "面对 AI 冲击，职场人应该赌「专业深度」还是拼「跨界广度」？",
+          "url": "https://www.zhihu.com/question/2058593716542222509",
           "source": "知乎",
           "ranks": [
             19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时10分"
+          "time_info": "04时12分"
         },
         {
           "title": "从硅谷到欧洲，全球企业为何寻找美国之外的AI选项？",
@@ -886,12 +1250,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
+        },
+        {
+          "title": "微软在安全业务更换八名高管、裁员数百人，将侧重于网络防御方面的AI。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3134561",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
         }
       ]
     },
     {
       "keyword_group": "外交部 商务部 证监会 央行",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "美对俄新制裁将俄油气的中印买家列为目标，外交部：只会搬起石头砸自己脚",
@@ -902,8 +1277,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 02时10分]"
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 04时12分]"
         },
         {
           "title": "伊朗外交部：若美方违约，伊朗则反制",
@@ -923,7 +1298,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时10分"
         },
@@ -934,7 +1309,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时10分"
         },
@@ -972,6 +1347,17 @@
           "time_info": "00时25分"
         },
         {
+          "title": "伊朗外交部：伊朗外长阿拉格齐从多哈返回德黑兰。",
+          "url": "https://flash.jin10.com/detail/20260716031404179800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
+        },
+        {
           "title": "加拿大央行行长麦克勒姆：美国经济强劲，需要加拿大的出口。",
           "url": "https://wallstreetcn.com/livenews/3134490",
           "source": "华尔街见闻-快讯",
@@ -995,7 +1381,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时10分"
         },
@@ -1006,7 +1392,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时10分"
         }
