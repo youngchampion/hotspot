@@ -1,24 +1,12 @@
 {
-  "generated_at": "2026-07-23T10:57:23.614300+08:00",
-  "total_titles_processed": 750,
+  "generated_at": "2026-07-23T14:06:20.769093+08:00",
+  "total_titles_processed": 925,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek AI openai 机器人 小米 特斯拉 英伟达",
-      "match_count": 68,
+      "match_count": 75,
       "titles": [
-        {
-          "title": "6000亿美元→7500亿美元 OpenAI被曝大幅提高算力支出预测",
-          "url": "https://www.cls.cn/detail/2434359",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时23分 ~ 10时57分]"
-        },
         {
           "title": "云支出目标狂飙至7500亿美元！OpenAI豪掷超300亿美元建数据中心，推出Presence平台进军企业软件市场",
           "url": "https://wallstreetcn.com/articles/3777699",
@@ -26,6 +14,18 @@
           "ranks": [
             5,
             3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时23分 ~ 14时06分]"
+        },
+        {
+          "title": "6000亿美元→7500亿美元 OpenAI被曝大幅提高算力支出预测",
+          "url": "https://www.cls.cn/detail/2434359",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            4
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -43,6 +43,17 @@
           "time_info": "[01时23分 ~ 05时11分]"
         },
         {
+          "title": "油价飙至六周高位，美股指承压收跌，AI基建股盘后大涨，金银再走强",
+          "url": "https://wallstreetcn.com/articles/3777614",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时07分 ~ 14时06分]"
+        },
+        {
           "title": "为什么要说尽量少跟AI倾诉聊天",
           "url": "https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E8%AF%B4%E5%B0%BD%E9%87%8F%E5%B0%91%E8%B7%9FAI%E5%80%BE%E8%AF%89%E8%81%8A%E5%A4%A9&t=31&band_rank=8&Refer=top",
           "source": "微博",
@@ -56,28 +67,18 @@
           "time_info": "[01时23分 ~ 07时07分]"
         },
         {
-          "title": "油价飙至六周高位，美股指承压收跌，AI基建股盘后大涨，金银再走强",
-          "url": "https://wallstreetcn.com/articles/3777614",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时07分 ~ 10时57分]"
-        },
-        {
           "title": "用AI通关高难度跑步游戏",
           "url": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E9%80%9A%E5%85%B3%E9%AB%98%E9%9A%BE%E5%BA%A6%E8%B7%91%E6%AD%A5%E6%B8%B8%E6%88%8F",
           "source": "bilibili 热搜",
           "ranks": [
             6,
             5,
-            21
+            21,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时23分 ~ 10时57分]"
+          "appearance_count": 6,
+          "time_info": "[01时23分 ~ 14时06分]"
         },
         {
           "title": "【早报】美股AI服务器整机龙头，大涨近20%；特斯拉、谷歌披露财报；油价、黄金齐升；A股又一波公司启动增持回购",
@@ -86,9 +87,34 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时57分 ~ 14时06分]"
+        },
+        {
+          "title": "云积压订单超5000亿美元也难救股价？Alphabet财报会实录：巨额AI投入引分歧",
+          "url": "https://www.cls.cn/detail/2434534",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时57分 ~ 14时06分]"
+        },
+        {
+          "title": "吧友做梗图催更DeepSeekV4",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356411&amp;topic_name=%E5%90%A7%E5%8F%8B%E5%81%9A%E6%A2%97%E5%9B%BE%E5%82%AC%E6%9B%B4DeepSeekV4",
+          "source": "贴吧",
+          "ranks": [
+            15,
+            19,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时23分 ~ 14时06分]"
         },
         {
           "title": "OpenAI模型失控闯祸 中国大模型救场",
@@ -97,7 +123,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
         },
@@ -150,17 +176,6 @@
           "time_info": "[01时23分 ~ 10时57分]"
         },
         {
-          "title": "云积压订单超5000亿美元也难救股价？Alphabet财报会实录：巨额AI投入引分歧",
-          "url": "https://www.cls.cn/detail/2434534",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时57分"
-        },
-        {
           "title": "特斯拉(TSLA.O)CEO马斯克：预计Semi卡车将在今年年底或明年年初配备自动驾驶技术。",
           "url": "https://flash.jin10.com/detail/20260723062308970800",
           "source": "金十数据",
@@ -170,18 +185,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时07分"
-        },
-        {
-          "title": "吧友做梗图催更DeepSeekV4",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356411&amp;topic_name=%E5%90%A7%E5%8F%8B%E5%81%9A%E6%A2%97%E5%9B%BE%E5%82%AC%E6%9B%B4DeepSeekV4",
-          "source": "贴吧",
-          "ranks": [
-            15,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时23分 ~ 10时57分]"
         },
         {
           "title": "震惊硅谷！OpenAI模型“失控越狱”，入侵HuggingFace“抄答案”，智谱GLM 5.2临危救场",
@@ -278,9 +281,56 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时57分 ~ 14时06分]"
+        },
+        {
+          "title": "AI巨头现金流告急：超大规模云计算商的\"代际转移\"时刻已悄然来临",
+          "url": "https://wallstreetcn.com/articles/3777694",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时57分 ~ 14时06分]"
+        },
+        {
+          "title": "黄仁勋谈中国AI模型：非常优秀，就该用",
+          "url": "https://news.ifeng.com/c/8uzEep2s55A",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时57分 ~ 14时06分]"
+        },
+        {
+          "title": "AI演员生成毛孔瑕疵 真人演员磨皮",
+          "url": "https://s.weibo.com/weibo?q=AI%E6%BC%94%E5%91%98%E7%94%9F%E6%88%90%E6%AF%9B%E5%AD%94%E7%91%95%E7%96%B5%20%E7%9C%9F%E4%BA%BA%E6%BC%94%E5%91%98%E7%A3%A8%E7%9A%AE&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时57分 ~ 14时06分]"
+        },
+        {
+          "title": "rain淘汰猎鹰高光集锦",
+          "url": "https://search.bilibili.com/all?keyword=rain%E6%B7%98%E6%B1%B0%E7%8C%8E%E9%B9%B0%E9%AB%98%E5%85%89%E9%9B%86%E9%94%A6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时57分 ~ 14时06分]"
         },
         {
           "title": "谷歌CFO：季度资本开支主要用于AI基础设施。",
@@ -292,6 +342,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
+        },
+        {
+          "title": "五巨头加码AI投资 是空中加油还是强弩之末？",
+          "url": "https://www.cls.cn/detail/2434755",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时06分"
         },
         {
           "title": "特斯拉二季度利润远逊预期，成本攀升拖累业绩",
@@ -311,18 +372,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时57分"
-        },
-        {
-          "title": "AI巨头现金流告急：超大规模云计算商的\"代际转移\"时刻已悄然来临",
-          "url": "https://wallstreetcn.com/articles/3777694",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
         },
@@ -333,7 +383,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
         },
@@ -344,7 +394,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
         },
@@ -371,15 +421,15 @@
           "time_info": "07时07分"
         },
         {
-          "title": "黄仁勋谈中国AI模型：非常优秀，就该用",
-          "url": "https://news.ifeng.com/c/8uzEep2s55A",
-          "source": "凤凰网",
+          "title": "特斯拉Q2营收大增26%但盈利降18%远逊预期，现金流转负，强调处最大投资阶段丨财报见闻",
+          "url": "https://wallstreetcn.com/articles/3777719",
+          "source": "华尔街见闻",
           "ranks": [
-            11
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时57分"
+          "time_info": "14时06分"
         },
         {
           "title": "特斯拉第二季度营收超预期但盈利不及预期",
@@ -402,6 +452,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时07分"
+        },
+        {
+          "title": "特斯拉Q2营收超预期但利润失色 资本开支不及目标引发技术担忧",
+          "url": "https://www.cls.cn/detail/2434491",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时06分"
         },
         {
           "title": "特斯拉(TSLA.O)：我们的能源储存业务恢复增长。",
@@ -448,17 +509,6 @@
           "time_info": "05时11分"
         },
         {
-          "title": "AI演员生成毛孔瑕疵 真人演员磨皮",
-          "url": "https://s.weibo.com/weibo?q=AI%E6%BC%94%E5%91%98%E7%94%9F%E6%88%90%E6%AF%9B%E5%AD%94%E7%91%95%E7%96%B5%20%E7%9C%9F%E4%BA%BA%E6%BC%94%E5%91%98%E7%A3%A8%E7%9A%AE&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时57分"
-        },
-        {
           "title": "特斯拉(TSLA.O)CEO马斯克：美光以合理条件提供了数量可观的存储芯片配额。",
           "url": "https://flash.jin10.com/detail/20260723060842031800",
           "source": "金十数据",
@@ -490,6 +540,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时07分"
+        },
+        {
+          "title": "男子AI伪造烂水果仅退款连累全县",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90AI%E4%BC%AA%E9%80%A0%E7%83%82%E6%B0%B4%E6%9E%9C%E4%BB%85%E9%80%80%E6%AC%BE%E8%BF%9E%E7%B4%AF%E5%85%A8%E5%8E%BF%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时06分"
         },
         {
           "title": "特斯拉(TSLA.O)美股盘后跌2.5%。",
@@ -553,7 +614,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
         },
@@ -613,6 +674,17 @@
           "time_info": "05时11分"
         },
         {
+          "title": "DeepSeek与Kimi的突破说明了什么",
+          "url": "https://www.toutiao.com/trending/7665542730700820004/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时06分"
+        },
+        {
           "title": "特斯拉(TSLA.O)2026年Q2营收282亿美元，去年同期224.96亿美元，市场预期257.06亿美元。",
           "url": "https://flash.jin10.com/detail/20260723040607475800",
           "source": "金十数据",
@@ -657,17 +729,6 @@
           "time_info": "05时11分"
         },
         {
-          "title": "rain淘汰猎鹰高光集锦",
-          "url": "https://search.bilibili.com/all?keyword=rain%E6%B7%98%E6%B1%B0%E7%8C%8E%E9%B9%B0%E9%AB%98%E5%85%89%E9%9B%86%E9%94%A6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时57分"
-        },
-        {
           "title": "特斯拉(TSLA.O)首席财务官：2026年下半年自由现金流负值将扩大。",
           "url": "https://flash.jin10.com/detail/20260723055632246800",
           "source": "金十数据",
@@ -710,6 +771,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时07分"
+        },
+        {
+          "title": "梁文峰称DeepSeek只有一条主线",
+          "url": "https://s.weibo.com/weibo?q=%E6%A2%81%E6%96%87%E5%B3%B0%E7%A7%B0DeepSeek%E5%8F%AA%E6%9C%89%E4%B8%80%E6%9D%A1%E4%B8%BB%E7%BA%BF&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时06分"
         },
         {
           "title": "特斯拉(TSLA.O)首席财务官：预计2026年及以后，主要由研发驱动的运营费用将继续增长。",
@@ -767,6 +839,17 @@
           "time_info": "07时07分"
         },
         {
+          "title": "rain回应战胜猎鹰",
+          "url": "https://search.bilibili.com/all?keyword=rain%E5%9B%9E%E5%BA%94%E6%88%98%E8%83%9C%E7%8C%8E%E9%B9%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时06分"
+        },
+        {
           "title": "马斯克：FSD是车辆销售的一个“重大需求推手”。 特斯拉需要谨慎对待那些无人驾驶出租车（Robotaxi）事故。",
           "url": "https://wallstreetcn.com/livenews/3138427",
           "source": "华尔街见闻-快讯",
@@ -781,7 +864,7 @@
     },
     {
       "keyword_group": "美股 A股 港股 美债 美元 石油 战争",
-      "match_count": 63,
+      "match_count": 69,
       "titles": [
         {
           "title": "A股又一波增持回购潮来了，存储龙头拟最高回购2.5亿元",
@@ -819,6 +902,31 @@
           "time_info": "[01时23分 ~ 07时07分]"
         },
         {
+          "title": "谷歌重磅财报夜，Capex指引有望上调？资深分析师：2026年或冲击2000亿美元",
+          "url": "https://wallstreetcn.com/articles/3777680",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时23分 ~ 14时06分]"
+        },
+        {
+          "title": "美股收盘：三大指数集体收低 美伊互放狠话重燃加息预期",
+          "url": "https://www.cls.cn/detail/2434473",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时07分 ~ 14时06分]"
+        },
+        {
           "title": "科技股力撑美股指反弹，芯片指数大涨，美光市值重回万亿，日元跌破163，金银猛涨",
           "url": "https://wallstreetcn.com/articles/3777518",
           "source": "华尔街见闻",
@@ -830,29 +938,15 @@
           "time_info": "[01时23分 ~ 05时11分]"
         },
         {
-          "title": "谷歌重磅财报夜，Capex指引有望上调？资深分析师：2026年或冲击2000亿美元",
-          "url": "https://wallstreetcn.com/articles/3777680",
+          "title": "谷歌Q2自由现金流首次转负，上调全年资本开支至最高2050亿美元，云业务爆发82%增长｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3777718",
           "source": "华尔街见闻",
           "ranks": [
-            6,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时23分 ~ 10时57分]"
-        },
-        {
-          "title": "美股收盘：三大指数集体收低 美伊互放狠话重燃加息预期",
-          "url": "https://www.cls.cn/detail/2434473",
-          "source": "财联社热门",
-          "ranks": [
-            3,
             2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时07分 ~ 10时57分]"
+          "time_info": "[10时57分 ~ 14时06分]"
         },
         {
           "title": "美国财政部拍卖130亿美元20年期国债，得标利率5.163%（6月16日为4.927%），投标倍数2.64（前次为2.75）。",
@@ -866,24 +960,13 @@
           "time_info": "01时23分"
         },
         {
-          "title": "谷歌Q2自由现金流首次转负，上调全年资本开支至最高2050亿美元，云业务爆发82%增长｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3777718",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时57分"
-        },
-        {
           "title": "伊军方警告：将不允许本地区出口一滴石油",
           "url": "https://news.ifeng.com/c/8uyvegEdrFg",
           "source": "凤凰网",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
         },
@@ -971,9 +1054,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
+        },
+        {
+          "title": "汇丰控股：将网易(NTES.O)目标价从162美元下调至150美元。",
+          "url": "https://flash.jin10.com/detail/20260723134929941800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时06分"
         },
         {
           "title": "伊朗最高联合军事指挥部表示，如果美国兑现威胁，伊朗将切断海湾地区全部石油流动，并将该地区的石油、天然气、电力及经济基础设施作为打击目标。（伊朗国家媒体）",
@@ -985,6 +1079,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
+        },
+        {
+          "title": "A股光伏设备午后走强，赛伍技术涨停，德业股份、艾罗能源、阳光电源、锦浪科技、固德威跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3138635",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时06分"
         },
         {
           "title": "WTI 9月原油期货收涨2.49美元，涨幅超过2.95%，报86.83美元/桶，亚太盘初以来持续上扬，北京时间17:52涨至88.61美元，逼近6月3日顶部89.90美元、5月18日顶部95.30美元。 布伦特9月原油期货收涨3.06美元，涨幅超过3.36%，报94.07美元/桶，逼近6月3日顶部96.22美元、5月18日顶部103.26美元。 中东Abu Dhabi Murban原油期货涨4.31%，报89.47美元/桶，16:29曾涨至91.30美元。 NYMEX 8月天然气期货收报2.9250美元/百万英热单位。 NYMEX 8月汽油期货收报3.4147美元/加仑，NYMEX 8月取暖油期货收报4.1488美元/加仑。",
@@ -1050,7 +1155,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
         },
@@ -1099,6 +1204,17 @@
           "time_info": "03时24分"
         },
         {
+          "title": "A股军工板块异动拉升，长城军工直线涨停，北方长龙涨超15%。",
+          "url": "https://wallstreetcn.com/livenews/3138624",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时06分"
+        },
+        {
           "title": "Alphabet(GOOG.O)：已达成股权分配协议，将通过市场交易计划发行至多400亿美元的A类和C类股票。",
           "url": "https://flash.jin10.com/detail/20260723041602639800",
           "source": "金十数据",
@@ -1108,6 +1224,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
+        },
+        {
+          "title": "A股光伏设备板块午后走强，赛伍技术涨停，德业股份、艾罗能源、阳光电源、锦浪科技、固德威等个股跟涨。",
+          "url": "https://flash.jin10.com/detail/20260723134118095800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时06分"
         },
         {
           "title": "摩根士丹利从SpaceX IPO中获1亿美元，但这仅仅是开始",
@@ -1143,6 +1270,17 @@
           "time_info": "07时07分"
         },
         {
+          "title": "意法半导体第二季度净营收 34.9亿美元，市场预估34.6亿美元。 第二季度营业利润 1.87亿美元，市场预估2.336亿美元。 第二季度净利润 2.22亿美元，市场预估2.041亿美元。 第二季度每股收益 24美分，市场预估23美分。 第二季度自由现金流 7,500万美元，市场预估3.00亿美元。 第二季度资本支出 4.190亿美元，市场预估4.848亿美元 预计第三季度净营收 37.0亿美元，市场预估37.9亿美元。 预计第三季度毛利率 37%，市场预估36.8%。",
+          "url": "https://wallstreetcn.com/livenews/3138619",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时06分"
+        },
+        {
           "title": "IBM(IBM.N)2026年Q2EPS 2.27美元，去年同期2.31美元，市场预期2.44美元。",
           "url": "https://flash.jin10.com/detail/20260723040950885800",
           "source": "金十数据",
@@ -1160,7 +1298,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
         },
@@ -1193,7 +1331,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
         },
@@ -1204,7 +1342,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
         },
@@ -1281,7 +1419,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
         },
@@ -1303,7 +1441,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
         },
@@ -1314,7 +1452,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
         },
@@ -1380,7 +1518,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
         },
@@ -1416,6 +1554,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
+        },
+        {
+          "title": "消息人士称，印尼主权财富基金Danantara正探索发行价值至少5亿美元的美国长期债券。",
+          "url": "https://flash.jin10.com/detail/20260723133109252800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时06分"
         },
         {
           "title": "美国财政部拍卖130亿美元20年期国债，得标利率5.163%——创2020年以来第二高（6月16日为4.927%），投标倍数2.64（前次为2.75）。",
@@ -1468,7 +1617,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
         },
@@ -1487,7 +1636,7 @@
     },
     {
       "keyword_group": "特朗普 马斯克 加密货币 美联储",
-      "match_count": 24,
+      "match_count": 27,
       "titles": [
         {
           "title": "特朗普承认美方干预中国事务，并称“今时不同往日”",
@@ -1501,6 +1650,17 @@
           "time_info": "[01时23分 ~ 07时07分]"
         },
         {
+          "title": "污蔑中国遭驳斥后，特朗普自曝：美国对中国“做过一些事”",
+          "url": "https://news.ifeng.com/c/8uyHXh9awI8",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时57分 ~ 14时06分]"
+        },
+        {
           "title": "美国总统特朗普：9月份将面临政府停摆。",
           "url": "https://flash.jin10.com/detail/20260723044952204800",
           "source": "金十数据",
@@ -1512,26 +1672,50 @@
           "time_info": "05时11分"
         },
         {
+          "title": "马斯克：Grok 4.5虽然不如Fable那么出色，但它速度非常快、性价比高，而且能完成任务。",
+          "url": "https://wallstreetcn.com/livenews/3138639",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时06分"
+        },
+        {
+          "title": "特朗普：我们与伊朗只是小规模冲突",
+          "url": "https://news.ifeng.com/c/8uzZogT1UTe",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时06分"
+        },
+        {
           "title": "特朗普：预计美联邦政府在9月将出现“停摆”",
           "url": "https://news.ifeng.com/c/8uyvegEdrQo",
           "source": "凤凰网",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
         },
         {
-          "title": "污蔑中国遭驳斥后，特朗普自曝：美国对中国“做过一些事”",
-          "url": "https://news.ifeng.com/c/8uyHXh9awI8",
-          "source": "凤凰网",
+          "title": "特朗普威胁：若伊朗袭击霍尔木兹海峡船只 美方将轰炸其桥梁和发电厂",
+          "url": "https://www.cls.cn/detail/2434427",
+          "source": "财联社热门",
           "ranks": [
-            4
+            13,
+            5,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时57分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时11分 ~ 14时06分]"
         },
         {
           "title": "马斯克母亲吐槽纽约脏乱差",
@@ -1546,17 +1730,16 @@
           "time_info": "[01时23分 ~ 10时57分]"
         },
         {
-          "title": "特朗普威胁：若伊朗袭击霍尔木兹海峡船只 美方将轰炸其桥梁和发电厂",
-          "url": "https://www.cls.cn/detail/2434427",
+          "title": "加息概率升至逾三成！美联储决议倒计时一周 市场彻底懵了？",
+          "url": "https://www.cls.cn/detail/2434573",
           "source": "财联社热门",
           "ranks": [
-            13,
-            5,
-            6
+            8,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时11分 ~ 10时57分]"
+          "appearance_count": 2,
+          "time_info": "[10时57分 ~ 14时06分]"
         },
         {
           "title": "国际油价持续拉升！特朗普盯上的伊朗“镐山”有什么奥秘？",
@@ -1583,6 +1766,18 @@
           "time_info": "[01时23分 ~ 05时11分]"
         },
         {
+          "title": "特朗普放话美国不需要霍尔木兹、伊朗袭一船就炸一桥或电厂，伊警告报复美利益设施、“谁都别想卖油”",
+          "url": "https://wallstreetcn.com/articles/3777708",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时57分 ~ 14时06分]"
+        },
+        {
           "title": "特朗普：伊朗想会谈但美国“没兴趣”，“很快”重击镐山核设施，警告胡塞武装勿封红海",
           "url": "https://wallstreetcn.com/articles/3777603",
           "source": "华尔街见闻",
@@ -1594,26 +1789,16 @@
           "time_info": "[01时23分 ~ 03时24分]"
         },
         {
-          "title": "加息概率升至逾三成！美联储决议倒计时一周 市场彻底懵了？",
-          "url": "https://www.cls.cn/detail/2434573",
-          "source": "财联社热门",
+          "title": "特朗普宣布两年后对仿制药征收 100% 关税，该举措出于什么目的？会对相关产业带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2063183942509754265",
+          "source": "知乎",
           "ranks": [
-            8
+            14,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时57分"
-        },
-        {
-          "title": "特朗普放话美国不需要霍尔木兹、伊朗袭一船就炸一桥或电厂，伊警告报复美利益设施、“谁都别想卖油”",
-          "url": "https://wallstreetcn.com/articles/3777708",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时57分 ~ 14时06分]"
         },
         {
           "title": "美媒：美国向中东增派兵力，为特朗普扩大对伊战事提供更多选项",
@@ -1627,13 +1812,24 @@
           "time_info": "07时07分"
         },
         {
+          "title": "从震动硅谷到喊话马斯克“欢迎掰手腕”，Kimi做对了哪些",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33637839",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时06分"
+        },
+        {
           "title": "白宫被曝欲借SVB报告罢免美联储理事巴尔",
           "url": "https://flash.jin10.com/detail/20260723103259416800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
         },
@@ -1693,24 +1889,13 @@
           "time_info": "07时07分"
         },
         {
-          "title": "特朗普宣布两年后对仿制药征收 100% 关税，该举措出于什么目的？会对相关产业带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2063183942509754265",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时57分"
-        },
-        {
           "title": "美国特勤局表示，今年针对其保护对象的威胁较去年同期增加了约40%，至今已记录近万起，且涉及的心理健康干预次数激增了十倍，这导致调配至调查与保护工作的资源极为紧张。此时正值重新举办的白宫记者协会晚宴前夕，而原定于4月举行的晚宴曾因针对特朗普的刺杀未遂事件被迫推迟。",
           "url": "https://flash.jin10.com/detail/20260723102820896800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
         },
@@ -1793,7 +1978,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
         },
@@ -1862,7 +2047,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
         },
@@ -1884,7 +2069,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
         },
@@ -1917,7 +2102,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
         }
@@ -1925,7 +2110,7 @@
     },
     {
       "keyword_group": "外交部 商务部 证监会 央行",
-      "match_count": 8,
+      "match_count": 13,
       "titles": [
         {
           "title": "外交部再回应菲方蓄意挑衅",
@@ -1935,11 +2120,23 @@
             1,
             2,
             4,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时23分 ~ 10时57分]"
+          "appearance_count": 6,
+          "time_info": "[01时23分 ~ 14时06分]"
+        },
+        {
+          "title": "机构：能源价格上涨令欧洲央行担忧",
+          "url": "https://flash.jin10.com/detail/20260723135406828800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时06分"
         },
         {
           "title": "BMI：在印尼盾承压之际，印尼央行加息预期依然存在",
@@ -1948,7 +2145,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
         },
@@ -1964,6 +2161,20 @@
           "time_info": "01时23分"
         },
         {
+          "title": "商务部新闻发言人就法国“反超快时尚”法有关问题答记者问",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33637197",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时24分 ~ 14时06分]"
+        },
+        {
           "title": "欧委会对中企罚款5.5亿欧元，商务部：强烈不满",
           "url": "https://news.ifeng.com/c/8uy2iuUezNj",
           "source": "凤凰网",
@@ -1973,19 +2184,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时23分 ~ 07时07分]"
-        },
-        {
-          "title": "商务部新闻发言人就法国“反超快时尚”法有关问题答记者问",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33637197",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时24分 ~ 10时57分]"
         },
         {
           "title": "外交部长王毅在中国－东盟外长会提出四点建议",
@@ -2000,15 +2198,59 @@
           "time_info": "[01时23分 ~ 03时24分]"
         },
         {
+          "title": "俄罗斯外交部：俄罗斯外长拉夫罗夫确认俄罗斯已准备好通过政治和外交手段解决乌克兰冲突。",
+          "url": "https://flash.jin10.com/detail/20260723134559762800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时06分"
+        },
+        {
+          "title": "俄罗斯外交部：俄罗斯外长拉夫罗夫与美国国务卿鲁比奥讨论了俄美外交使团工作正常化事宜。",
+          "url": "https://flash.jin10.com/detail/20260723134532504800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时06分"
+        },
+        {
+          "title": "俄罗斯外交部：俄罗斯外长拉夫罗夫与美国国务卿鲁比奥讨论了乌克兰问题。",
+          "url": "https://flash.jin10.com/detail/20260723134444715800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时06分"
+        },
+        {
           "title": "外交部转载“中国无人机空中换电池”",
           "url": "https://www.toutiao.com/trending/7664631702300672041/",
           "source": "今日头条",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
+        },
+        {
+          "title": "英国外交部说从伊朗暂时撤出工作人员",
+          "url": "https://wallstreetcn.com/livenews/3138600",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时06分"
         },
         {
           "title": "中国央行公开市场今日净回笼4220亿元人民币",
@@ -2017,7 +2259,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
         }
