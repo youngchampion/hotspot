@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-08-08T01:02:17.616433+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-08-08T01:57:38.323515+08:00",
+  "total_titles_processed": 378,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek AI openai 机器人 小米 特斯拉 英伟达",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
-        {
-          "title": "据The Information：法律AI初创公司Harvey正洽谈融资，估值达155亿美元。",
-          "url": "https://flash.jin10.com/detail/20260808005548495800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        },
         {
           "title": "OpenAI：为高性能模型及相关业务落实更严格的安全管控，其中包括隔离测试环境",
           "url": "https://wallstreetcn.com/livenews/3146841",
@@ -25,9 +14,21 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        },
+        {
+          "title": "据The Information：法律AI初创公司Harvey正洽谈融资，估值达155亿美元。",
+          "url": "https://flash.jin10.com/detail/20260808005548495800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时02分 ~ 01时57分]"
         },
         {
           "title": "报道：英伟达拟下调Rubin Ultra的HBM配置，应对高端HBM短缺",
@@ -37,8 +38,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
+          "appearance_count": 3,
+          "time_info": "[01时01分 ~ 01时57分]"
         },
         {
           "title": "【焦点复盘】创业板指终结周线6连阴，AI硬件端持续回暖，4600亿CXO龙头创近4年新高",
@@ -48,8 +49,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
+          "appearance_count": 3,
+          "time_info": "[01时01分 ~ 01时57分]"
         },
         {
           "title": "印度要搞自主AI：模型靠中国，芯片靠美国",
@@ -59,8 +60,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
+          "appearance_count": 3,
+          "time_info": "[01时01分 ~ 01时57分]"
+        },
+        {
+          "title": "中国人能飞AI版vs实拍版",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%83%BD%E9%A3%9EAI%E7%89%88vs%E5%AE%9E%E6%8B%8D%E7%89%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时01分 ~ 01时57分]"
         },
         {
           "title": "大厂“集中兵力”抢入口 AI办公赛道突然“挤”了起来",
@@ -70,8 +83,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
+          "appearance_count": 3,
+          "time_info": "[01时01分 ~ 01时57分]"
         },
         {
           "title": "国民党推出AI发言人“郑小文”迎战民进党",
@@ -81,41 +94,32 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
+          "appearance_count": 3,
+          "time_info": "[01时01分 ~ 01时57分]"
         },
         {
           "title": "释疑｜建多少数据中心才够？美国AI基建热潮撞上“社区保卫战”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33729568",
           "source": "澎湃新闻",
           "ranks": [
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
-        },
-        {
-          "title": "中国人能飞AI版vs实拍版",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%83%BD%E9%A3%9EAI%E7%89%88vs%E5%AE%9E%E6%8B%8D%E7%89%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
+          "appearance_count": 3,
+          "time_info": "[01时01分 ~ 01时57分]"
         },
         {
           "title": "小米高管玩梗被指越界",
           "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E9%AB%98%E7%AE%A1%E7%8E%A9%E6%A2%97%E8%A2%AB%E6%8C%87%E8%B6%8A%E7%95%8C&t=31&band_rank=17&Refer=top",
           "source": "微博",
           "ranks": [
-            17
+            17,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
+          "appearance_count": 3,
+          "time_info": "[01时01分 ~ 01时57分]"
         },
         {
           "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
@@ -125,8 +129,19 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
+          "appearance_count": 3,
+          "time_info": "[01时01分 ~ 01时57分]"
+        },
+        {
+          "title": "法务AI公司Harvey洽谈按155亿美元估值融资至少5亿美元，该公司当前年化收入超过3.5亿美元。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3146852",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时57分"
         },
         {
           "title": "OpenAI：已在Astra的所有智能体应用中实施针对高风险行为和失配问题的全面监控。根据目前针对Astra模型的准备框架评估结果，无法排除其具备关键网络能力的可能性。将与相关政府机构及选定的人工智能安全组织合作，对Astra的能力进行测试。",
@@ -135,7 +150,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
         },
@@ -146,9 +161,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        },
+        {
+          "title": "为什么现在的 ai 都在卷编程？",
+          "url": "https://www.zhihu.com/question/2068569618449430292",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时57分"
         },
         {
           "title": "OpenAI：正在为更高能力模型及相关活动实施更严格的安全控制措施，包括采用隔离测试环境。",
@@ -157,9 +183,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        },
+        {
+          "title": "OpenAI：Astra是一款尚未发布的模型，无法排除Astra模型具备关键网络攻击能力",
+          "url": "https://wallstreetcn.com/livenews/3146841",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时57分"
         },
         {
           "title": "OpenAI：Astra是一款即将推出的模型，并未参与利用Hugging Face漏洞的事件。正在暂停涉及Astra、但尚未达到强化安全控制要求的内部活动。",
@@ -168,7 +205,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
         },
@@ -179,7 +216,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
         },
@@ -190,7 +227,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
         },
@@ -201,145 +238,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股 A股 港股 美债 美元 石油 战争",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "美股光模块黑马计划大幅扩产 全力押注800G、1.6T产品",
-          "url": "https://www.cls.cn/detail/2448354",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
-        },
-        {
-          "title": "非农与美伊协议落地前市场谨慎，存储芯片股领跌美股，西部数据跌13%，原油走强",
-          "url": "https://wallstreetcn.com/articles/3778821",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
-        },
-        {
-          "title": "美国7月非农意外减少 美股期指走高 加息预期降温 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2448784",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
-        },
-        {
-          "title": "韩股跌倒，美股吃饱！“受伤”的韩国散户大军重返华尔街怀抱",
-          "url": "https://www.cls.cn/detail/2448478",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
-        },
-        {
-          "title": "美股存储板块集体大跌",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%AD%98%E5%82%A8%E6%9D%BF%E5%9D%97%E9%9B%86%E4%BD%93%E5%A4%A7%E8%B7%8C",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
-        },
-        {
-          "title": "美国至8月7日当周石油钻井总数将于十分钟后公布。",
-          "url": "https://flash.jin10.com/detail/20260808005000000800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        },
-        {
-          "title": "秘鲁经济部长排除国有石油公司秘鲁国家石油公司私有化可能，此前该公司董事会近期进行了调整。",
-          "url": "https://flash.jin10.com/detail/20260808004411685800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        },
-        {
-          "title": "乌克兰石油公司设施遭遇大规模袭击",
-          "url": "https://wallstreetcn.com/livenews/3146826",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        },
-        {
-          "title": "伊朗外交部发言人：特朗普表示，美国将对伊朗采取与对委内瑞拉所做的相同做法。不过，这里存在一个小问题：在宣称获得“战争战利品”之前，必须先赢得战争，而不是陷入僵局、未能实现其宣称的（恶意）目标、武器储备逐渐减少，并在这一过程中失去信誉。",
-          "url": "https://flash.jin10.com/detail/20260808003933263800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        },
-        {
-          "title": "金十图示：2026年08月07日（周五）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260808003121656800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        },
-        {
-          "title": "金十图示：2026年08月07日（周五）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260808003029117800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        },
-        {
-          "title": "美国国务院：美国财政部今天采取措施，瓦解了一个由货币兑换机构和空壳公司组成的网络。该网络曾帮助伊朗通过国际金融体系秘密转移数亿美元资金。通过这些网络，德黑兰获取石油收入，并利用幌子公司洗钱，规避旨在遏制其破坏稳定活动的制裁。",
-          "url": "https://flash.jin10.com/detail/20260808002305574800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "01时02分"
         }
@@ -347,51 +246,77 @@
     },
     {
       "keyword_group": "特朗普 马斯克 加密货币 美联储",
-      "match_count": 11,
+      "match_count": 18,
       "titles": [
         {
-          "title": "美国总统特朗普：两名奥巴马和拜登任命的联邦上诉法院法官刚刚投票反对这个迫切需要的军事中心。该中心对于华盛顿特区以及美国国家安全本身都是必需的。这显然是对裁量权的严重滥用。",
-          "url": "https://flash.jin10.com/detail/20260808005505559800",
+          "title": "特朗普称将就上诉法院涉白宫宴会厅项目裁决提起上诉",
+          "url": "https://flash.jin10.com/detail/20260808011808390800",
           "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时02分"
+          "time_info": "01时57分"
+        },
+        {
+          "title": "哈塞特称特朗普与沃什经常讨论经济问题",
+          "url": "https://flash.jin10.com/detail/20260808011630958800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时57分"
+        },
+        {
+          "title": "美国总统特朗普：两名奥巴马和拜登任命的联邦上诉法院法官刚刚投票反对这个迫切需要的军事中心。该中心对于华盛顿特区以及美国国家安全本身都是必需的。这显然是对裁量权的严重滥用。",
+          "url": "https://flash.jin10.com/detail/20260808005505559800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时02分 ~ 01时57分]"
         },
         {
           "title": "美国总统特朗普：我们将立即向美国最高法院提出上诉。",
           "url": "https://flash.jin10.com/detail/20260808005050504800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时02分 ~ 01时57分]"
         },
         {
           "title": "美国总统特朗普：法院有关舞厅项目的裁决必须由最高法院全面推翻。",
           "url": "https://flash.jin10.com/detail/20260808005043099800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时02分 ~ 01时57分]"
         },
         {
           "title": "苹果公司、亚马逊、耐克在特朗普政府关税退款问题上遭到美国参议院民主党成员Warren的质询。 Warren要求各家公司提供消费者关税退款。",
           "url": "https://wallstreetcn.com/livenews/3146836",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时02分 ~ 01时57分]"
         },
         {
           "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
@@ -401,41 +326,66 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
+          "appearance_count": 3,
+          "time_info": "[01时01分 ~ 01时57分]"
         },
         {
           "title": "美联储9月还敢加息吗",
           "url": "https://www.toutiao.com/trending/7671302184394296882/",
           "source": "今日头条",
           "ranks": [
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
+          "appearance_count": 3,
+          "time_info": "[01时01分 ~ 01时57分]"
         },
         {
           "title": "据ABC新闻：特朗普在最高法院遭遇挫折后，仍继续推进解雇美联储理事丽莎·库克的尝试。",
           "url": "https://flash.jin10.com/detail/20260808004923983800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时02分 ~ 01时57分]"
         },
         {
           "title": "俄安全部门取缔多个与乌克兰有关的加密货币兑换点",
           "url": "https://wallstreetcn.com/livenews/3146830",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时02分 ~ 01时57分]"
+        },
+        {
+          "title": "美联储理事库克的律师：我们将对最新的借口提出挑战，并维护库克在美联储的职位和职责。",
+          "url": "https://flash.jin10.com/detail/20260808011006249800",
+          "source": "金十数据",
+          "ranks": [
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时02分"
+          "time_info": "01时57分"
+        },
+        {
+          "title": "美联储理事库克的律师：没有任何有效理由可以罢免库克理事。",
+          "url": "https://flash.jin10.com/detail/20260808010952922800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时57分"
         },
         {
           "title": "黎巴嫩总统：我与特朗普会面期间，在媒体之外进行的交流是积极的。特朗普对黎巴嫩的处境表示理解，并打开了许多大门。与特朗普会晤的成果已体现为解除对美国航空公司运营飞往黎巴嫩航线的限制。",
@@ -444,9 +394,42 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        },
+        {
+          "title": "特朗普称将就上诉法院涉白宫宴会厅项目裁决提起上诉",
+          "url": "https://wallstreetcn.com/livenews/3146844",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时57分"
+        },
+        {
+          "title": "美媒：特朗普推进罢免美联储理事库克 以“严重失职”为由正式启动罢免程序",
+          "url": "https://flash.jin10.com/detail/20260808010047168800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时57分"
+        },
+        {
+          "title": "报道：特朗普继续推进罢免美联储理事库克",
+          "url": "https://wallstreetcn.com/livenews/3146842",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时57分"
         },
         {
           "title": "伊朗敦促海湾国家说服特朗普停止军事行动",
@@ -455,7 +438,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
         },
@@ -466,7 +449,192 @@
           "ranks": [
             24
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股 A股 港股 美债 美元 石油 战争",
+      "match_count": 16,
+      "titles": [
+        {
+          "title": "美股光模块黑马计划大幅扩产 全力押注800G、1.6T产品",
+          "url": "https://www.cls.cn/detail/2448354",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时01分 ~ 01时57分]"
+        },
+        {
+          "title": "非农与美伊协议落地前市场谨慎，存储芯片股领跌美股，西部数据跌13%，原油走强",
+          "url": "https://wallstreetcn.com/articles/3778821",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时01分 ~ 01时57分]"
+        },
+        {
+          "title": "美国7月非农意外减少 美股期指走高 加息预期降温 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2448784",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时01分 ~ 01时57分]"
+        },
+        {
+          "title": "美联储在固定利率逆回购操作中总计接纳了2个对手方的14.5亿美元。",
+          "url": "https://flash.jin10.com/detail/20260808011703233800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时57分"
+        },
+        {
+          "title": "韩股跌倒，美股吃饱！“受伤”的韩国散户大军重返华尔街怀抱",
+          "url": "https://www.cls.cn/detail/2448478",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时01分 ~ 01时57分]"
+        },
+        {
+          "title": "美股存储板块集体大跌",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%AD%98%E5%82%A8%E6%9D%BF%E5%9D%97%E9%9B%86%E4%BD%93%E5%A4%A7%E8%B7%8C",
+          "source": "百度热搜",
+          "ranks": [
+            21,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时01分 ~ 01时57分]"
+        },
+        {
+          "title": "美国至8月7日当周石油钻井总数将于十分钟后公布。",
+          "url": "https://flash.jin10.com/detail/20260808005000000800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时02分 ~ 01时57分]"
+        },
+        {
+          "title": "乌克兰石油公司设施遭遇大规模袭击",
+          "url": "https://wallstreetcn.com/livenews/3146826",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时02分 ~ 01时57分]"
+        },
+        {
+          "title": "周五（8月7日），美联储隔夜逆回购协议（RRP）使用规模为14.50亿美元（交易对手2家），上个交易日报14.29亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3146853",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时57分"
+        },
+        {
+          "title": "美国8月7日当周石油钻井数 454，前值 451。",
+          "url": "https://wallstreetcn.com/livenews/3146848",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时57分"
+        },
+        {
+          "title": "秘鲁经济部长排除国有石油公司秘鲁国家石油公司私有化可能，此前该公司董事会近期进行了调整。",
+          "url": "https://flash.jin10.com/detail/20260808004411685800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        },
+        {
+          "title": "美国至8月7日当周石油钻井总数 454口，前值451口。",
+          "url": "https://flash.jin10.com/detail/20260808010128123800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时57分"
+        },
+        {
+          "title": "伊朗外交部发言人：特朗普表示，美国将对伊朗采取与对委内瑞拉所做的相同做法。不过，这里存在一个小问题：在宣称获得“战争战利品”之前，必须先赢得战争，而不是陷入僵局、未能实现其宣称的（恶意）目标、武器储备逐渐减少，并在这一过程中失去信誉。",
+          "url": "https://flash.jin10.com/detail/20260808003933263800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        },
+        {
+          "title": "金十图示：2026年08月07日（周五）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260808003121656800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        },
+        {
+          "title": "金十图示：2026年08月07日（周五）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260808003029117800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        },
+        {
+          "title": "美国国务院：美国财政部今天采取措施，瓦解了一个由货币兑换机构和空壳公司组成的网络。该网络曾帮助伊朗通过国际金融体系秘密转移数亿美元资金。通过这些网络，德黑兰获取石油收入，并利用幌子公司洗钱，规避旨在遏制其破坏稳定活动的制裁。",
+          "url": "https://flash.jin10.com/detail/20260808002305574800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
         }
@@ -474,7 +642,7 @@
     },
     {
       "keyword_group": "黄金 白银 铜 铝 稀土",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "刚果（金）正式禁止铜、钴精矿出口，全球 70% 钴供给将受影响，国际铜价应声上涨，将产生哪些影响？",
@@ -484,8 +652,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
+          "appearance_count": 3,
+          "time_info": "[01时01分 ~ 01时57分]"
         },
         {
           "title": "非农爆冷打击加息预期，美股高开，光通信概念股普涨，光模块制造商AAOI涨超12%，现货黄金突破4350",
@@ -495,8 +663,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
+          "appearance_count": 3,
+          "time_info": "[01时01分 ~ 01时57分]"
         },
         {
           "title": "中国央行连续21个月增持黄金，7月购金力度提速",
@@ -506,19 +674,42 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
+          "appearance_count": 3,
+          "time_info": "[01时01分 ~ 01时57分]"
         },
         {
           "title": "黄金",
           "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91&t=31&band_rank=13&Refer=top",
           "source": "微博",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
+          "appearance_count": 3,
+          "time_info": "[01时01分 ~ 01时57分]"
+        },
+        {
+          "title": "国际铜夜盘收跌1.11%，沪铜收跌0.80%，沪铝收跌0.13%，沪锌收跌1.54%，沪铅收跌0.29%，沪镍收涨0.52%，沪锡收跌1.51%。 氧化铝夜盘收涨0.04%，铝合金收跌0.09%。 不锈钢夜盘收涨0.21%。",
+          "url": "https://wallstreetcn.com/livenews/3146847",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时57分"
+        },
+        {
+          "title": "LME期铜收跌28美元，报14076美元/吨。 LME期铝收涨21美元，报3280美元/吨。 LME期锌收跌56美元，报3707美元/吨。 LME期铅收涨2美元，报1887美元/吨。 LME期镍收涨242美元，报17004美元/吨。 LME期锡收跌565美元，报55530美元/吨。 LME期钴收平，报56290美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3146843",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时57分"
         },
         {
           "title": "瑞银：黄金上涨行情具备支撑，金价明年有望向5000美元迈进",
@@ -527,7 +718,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
         }
@@ -544,7 +735,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
         }
