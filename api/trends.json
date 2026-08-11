@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-08-11T15:12:45.550986+08:00",
-  "total_titles_processed": 1229,
+  "generated_at": "2026-08-11T17:01:44.132828+08:00",
+  "total_titles_processed": 1384,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 美债 美元 石油 战争",
-      "match_count": 95,
+      "match_count": 103,
       "titles": [
+        {
+          "title": "“特朗普关联”石油公司擅运钻探设备上岛，格陵兰强烈警告",
+          "url": "https://news.ifeng.com/c/8vUAxbsrTSq",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时54分 ~ 17时01分]"
+        },
         {
           "title": "美股收盘：芯片股&光通信概念重挫 三大指数收低中概逆市走强",
           "url": "https://www.cls.cn/detail/2450652",
@@ -20,6 +31,19 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[06时40分 ~ 15时12分]"
+        },
+        {
+          "title": "A股又现“超级大肉签”，中一签最高赚超22万元",
+          "url": "https://www.cls.cn/detail/2450866",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时47分 ~ 17时01分]"
         },
         {
           "title": "伯克希尔 Q2 净利润 256.67 亿美元，时隔 3 年首次净买入股票，现金储备降至 3655 亿美元，如何解读？",
@@ -78,30 +102,6 @@
           "time_info": "[01时53分 ~ 07时38分]"
         },
         {
-          "title": "“特朗普关联”石油公司擅运钻探设备上岛，格陵兰强烈警告",
-          "url": "https://news.ifeng.com/c/8vUAxbsrTSq",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时54分 ~ 15时12分]"
-        },
-        {
-          "title": "A股又现“超级大肉签”，中一签最高赚超22万元",
-          "url": "https://www.cls.cn/detail/2450866",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时47分 ~ 15时12分]"
-        },
-        {
           "title": "霍尔木兹海峡重启预期降温 美国战略石油储备创40多年新低 国际油价大涨4%",
           "url": "https://www.cls.cn/detail/2450585",
           "source": "财联社热门",
@@ -156,7 +156,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时12分"
         },
@@ -178,9 +178,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时12分"
+        },
+        {
+          "title": "据半岛电视台：加沙地区因战争死亡人数已达73,387人。",
+          "url": "https://flash.jin10.com/detail/20260811164609685800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时01分"
         },
         {
           "title": "报道：英特尔拟扩大股票发售规模，筹资约200亿美元",
@@ -211,7 +222,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时12分"
         },
@@ -689,7 +700,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时12分"
         },
@@ -727,6 +738,17 @@
           "time_info": "00时08分"
         },
         {
+          "title": "布伦特原油突破90美元/桶关口，日内涨幅达2.4%；WTI原油日内涨幅达2.5%，报84.21美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3147957",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时01分"
+        },
+        {
           "title": "美股收盘：三大股指收跌 金龙指数涨1.6%",
           "url": "https://flash.jin10.com/detail/20260811040205708800",
           "source": "金十数据",
@@ -744,7 +766,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时12分"
         },
@@ -788,7 +810,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时12分"
         },
@@ -810,7 +832,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时12分"
         },
@@ -832,7 +854,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时12分"
         },
@@ -1002,6 +1024,17 @@
           "time_info": "09时54分"
         },
         {
+          "title": "在岸人民币兑美元8月11日16:30收盘报6.7457，较上一交易日下跌15点。",
+          "url": "https://flash.jin10.com/detail/20260811163141386800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时01分"
+        },
+        {
           "title": "美元兑日元涨1%，报159.32。",
           "url": "https://wallstreetcn.com/livenews/3147653",
           "source": "华尔街见闻-快讯",
@@ -1063,7 +1096,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时12分"
         },
@@ -1085,9 +1118,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时12分"
+        },
+        {
+          "title": "伊朗石油部长表示，到9月底将有9500万立方米的天然气恢复进入生产循环。（伊朗官方通讯社Shana）",
+          "url": "https://wallstreetcn.com/livenews/3147937",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时01分"
         },
         {
           "title": "报道：Anthropic与比特币挖矿公司Riot达成91亿美元算力协议",
@@ -1107,15 +1151,59 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时12分"
+        },
+        {
+          "title": "报道：新加坡数据中心运营商DayOne以保密形式提交50亿美元美国IPO申请",
+          "url": "https://wallstreetcn.com/livenews/3147933",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时01分"
+        },
+        {
+          "title": "银都股份：公司境外子公司收到美国退回关税1159.99万美元",
+          "url": "https://wallstreetcn.com/livenews/3147932",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时01分"
+        },
+        {
+          "title": "黄仁勋拉上华尔街搞5000亿美元融资",
+          "url": "https://www.toutiao.com/trending/7672626596359966262/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时00分"
+        },
+        {
+          "title": "港股收评：恒指冲高回落收跌1.1% 有色金属板块承压走弱",
+          "url": "https://flash.jin10.com/detail/20260811161522484800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时01分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek AI openai 机器人 小米 特斯拉 英伟达",
-      "match_count": 76,
+      "match_count": 84,
       "titles": [
         {
           "title": "MLCC供应告急引发抢货潮！国巨：越来越多AI客户抢签长协锁定产能",
@@ -1128,6 +1216,17 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[00时07分 ~ 13时12分]"
+        },
+        {
+          "title": "美伊协议“希望渺茫”，油价大涨，英伟达循环融资担忧拖累美股，光通信股重挫",
+          "url": "https://wallstreetcn.com/articles/3779052",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时37分 ~ 17时01分]"
         },
         {
           "title": "中签率0.0181%！宇树科技今天打新，机器人产业链迎来估值锚点",
@@ -1143,17 +1242,6 @@
           "time_info": "[00时07分 ~ 09时54分]"
         },
         {
-          "title": "美伊协议“希望渺茫”，油价大涨，英伟达循环融资担忧拖累美股，光通信股重挫",
-          "url": "https://wallstreetcn.com/articles/3779052",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时37分 ~ 15时12分]"
-        },
-        {
           "title": "Meta发布小型AI模型，一块显卡即可本地运行，扎克伯格喊话美国政府：降低对开源AI的准入门槛",
           "url": "https://wallstreetcn.com/articles/3779081",
           "source": "华尔街见闻",
@@ -1165,8 +1253,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时07分 ~ 15时12分]"
+          "appearance_count": 19,
+          "time_info": "[00时07分 ~ 17时01分]"
         },
         {
           "title": "OpenAI曝光GPT-6！传10万亿参数，8月强行发布",
@@ -1210,6 +1298,19 @@
           "time_info": "[00时07分 ~ 07时38分]"
         },
         {
+          "title": "英伟达CDS狂飙！5000亿美元表外“债务幽灵”引爆 华尔街吓坏了？",
+          "url": "https://www.cls.cn/detail/2450754",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时54分 ~ 17时01分]"
+        },
+        {
           "title": "IPO周报｜本周4只新股申购，“人形机器人第一股”宇树科技今日打新",
           "url": "https://m.thepaper.cn/newsDetail_forward_33750281",
           "source": "澎湃新闻",
@@ -1240,27 +1341,43 @@
           "time_info": "[00时07分 ~ 15时12分]"
         },
         {
-          "title": "英伟达CDS狂飙！5000亿美元表外“债务幽灵”引爆 华尔街吓坏了？",
-          "url": "https://www.cls.cn/detail/2450754",
-          "source": "财联社热门",
+          "title": "英伟达联手华尔街六大巨头，筹5000亿美元押注AI基础设施，信用违约互换创两周最大涨幅",
+          "url": "https://wallstreetcn.com/articles/3779115",
+          "source": "华尔街见闻",
           "ranks": [
-            8,
-            5
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时54分 ~ 15时12分]"
+          "appearance_count": 7,
+          "time_info": "[09时54分 ~ 17时01分]"
         },
         {
-          "title": "怎么看AI突破黎曼猜想下界",
-          "url": "https://search.bilibili.com/all?keyword=%E6%80%8E%E4%B9%88%E7%9C%8BAI%E7%AA%81%E7%A0%B4%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E4%B8%8B%E7%95%8C",
-          "source": "bilibili 热搜",
+          "title": "城市竞争进入AI答案时代",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33753662",
+          "source": "澎湃新闻",
           "ranks": [
-            1
+            11,
+            9,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时12分"
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时54分 ~ 17时01分]"
+        },
+        {
+          "title": "用AI重返那年相遇的青涩夏天",
+          "url": "https://www.douyin.com/hot/2605104",
+          "source": "抖音",
+          "ranks": [
+            9,
+            8,
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时54分 ~ 17时01分]"
         },
         {
           "title": "霍尔木兹僵局推油价大涨5%，英伟达\"循环融资\"担忧打压美股指，芯片指数跌3%，黄金续涨",
@@ -1287,16 +1404,16 @@
           "time_info": "[11时47分 ~ 15时12分]"
         },
         {
-          "title": "英伟达联手华尔街六大巨头，筹5000亿美元押注AI基础设施，信用违约互换创两周最大涨幅",
-          "url": "https://wallstreetcn.com/articles/3779115",
-          "source": "华尔街见闻",
+          "title": "怎么看AI突破黎曼猜想下界",
+          "url": "https://search.bilibili.com/all?keyword=%E6%80%8E%E4%B9%88%E7%9C%8BAI%E7%AA%81%E7%A0%B4%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E4%B8%8B%E7%95%8C",
+          "source": "bilibili 热搜",
           "ranks": [
-            7,
-            6
+            1,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时54分 ~ 15时12分]"
+          "appearance_count": 3,
+          "time_info": "[15时12分 ~ 17时01分]"
         },
         {
           "title": "私募巨头集体入局 据称英伟达将牵头5000亿美元融资大单",
@@ -1306,32 +1423,6 @@
             10,
             7,
             9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时54分 ~ 15时12分]"
-        },
-        {
-          "title": "城市竞争进入AI答案时代",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33753662",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时54分 ~ 15时12分]"
-        },
-        {
-          "title": "用AI重返那年相遇的青涩夏天",
-          "url": "https://www.douyin.com/hot/2605104",
-          "source": "抖音",
-          "ranks": [
-            9,
-            8,
-            11
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -1399,6 +1490,52 @@
           "time_info": "[04时53分 ~ 07时38分]"
         },
         {
+          "title": "给AI时代一点手搓实拍的小震撼",
+          "url": "https://www.douyin.com/hot/2605459",
+          "source": "抖音",
+          "ranks": [
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时12分 ~ 17时01分]"
+        },
+        {
+          "title": "回应“5000亿美元融资质疑”！黄仁勋：英伟达“AI工厂”正成为“投资级资产”，需求真实存在，绝非“循环融资”",
+          "url": "https://wallstreetcn.com/articles/3779130",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时12分 ~ 17时01分]"
+        },
+        {
+          "title": "黄仁勋深度解读5000亿美元融资计划：AI算力是“投资级资产”",
+          "url": "https://www.cls.cn/detail/2450953",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时12分 ~ 17时01分]"
+        },
+        {
+          "title": "AI打开了我童年记忆的百宝箱",
+          "url": "https://www.douyin.com/hot/2605425",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时12分 ~ 17时01分]"
+        },
+        {
           "title": "大摩：计划未来十年促成最高1.5万亿美元资金，用于美国创新基建计划，涵盖AI、半导体等战略领域",
           "url": "https://wallstreetcn.com/livenews/3147686",
           "source": "华尔街见闻-快讯",
@@ -1412,6 +1549,18 @@
           "time_info": "[04时53分 ~ 06时40分]"
         },
         {
+          "title": "干湿之困：AI制药如何打通“最后一公里”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33753718",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时12分 ~ 17时01分]"
+        },
+        {
           "title": "英伟达：联手高盛等华尔街巨头，建立AI算力基础设施融资平台，来撬动超过5000亿美元的第三方资本",
           "url": "https://wallstreetcn.com/livenews/3147680",
           "source": "华尔街见闻-快讯",
@@ -1423,6 +1572,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时53分 ~ 06时40分]"
+        },
+        {
+          "title": "红警蜘蛛机器人走进现实",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BA%A2%E8%AD%A6%E8%9C%98%E8%9B%9B%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B5%B0%E8%BF%9B%E7%8E%B0%E5%AE%9E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时00分 ~ 17时01分]"
         },
         {
           "title": "涉及中国AI，日本自卫队极为担心",
@@ -1544,6 +1704,17 @@
           "time_info": "[05时44分 ~ 06时40分]"
         },
         {
+          "title": "拐点已至！高盛：AI开始真正改写SaaS业绩，赢家与输家名单浮现",
+          "url": "https://wallstreetcn.com/articles/3779070",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时00分 ~ 17时01分]"
+        },
+        {
           "title": "据悉OpenAI回购70亿美元员工股份",
           "url": "https://flash.jin10.com/detail/20260811044344828800",
           "source": "金十数据",
@@ -1568,6 +1739,17 @@
           "time_info": "[05时44分 ~ 06时40分]"
         },
         {
+          "title": "每36秒上新一部！AI短剧狂飙，短剧江湖正在换主角",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33710549",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时00分 ~ 17时01分]"
+        },
+        {
           "title": "高盛研判中国AI股：近期回调已释放核心风险，建议多元布局四大主线",
           "url": "https://www.cls.cn/detail/2449895",
           "source": "财联社热门",
@@ -1577,6 +1759,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时07分 ~ 00时08分]"
+        },
+        {
+          "title": "卢伟冰称小米国内首家自研发光材料",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%A2%E4%BC%9F%E5%86%B0%E7%A7%B0%E5%B0%8F%E7%B1%B3%E5%9B%BD%E5%86%85%E9%A6%96%E5%AE%B6%E8%87%AA%E7%A0%94%E5%8F%91%E5%85%89%E6%9D%90%E6%96%99%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时00分 ~ 17时01分]"
         },
         {
           "title": "OpenAI：推出ChatGPT企业版高级席位，月租至少100美元",
@@ -1614,6 +1807,17 @@
           "time_info": "[00时07分 ~ 00时08分]"
         },
         {
+          "title": "当老板意识到AI比人工贵",
+          "url": "https://s.weibo.com/weibo?q=%E5%BD%93%E8%80%81%E6%9D%BF%E6%84%8F%E8%AF%86%E5%88%B0AI%E6%AF%94%E4%BA%BA%E5%B7%A5%E8%B4%B5&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时00分 ~ 17时01分]"
+        },
+        {
           "title": "英伟达CEO黄仁勋：相关交易将支持AI的大范围建设。 （与5000亿美元融资相关的）所有资金都是第三方资本。 对于新一轮人工智能融资计划，无人拒绝。（CNBC）",
           "url": "https://wallstreetcn.com/livenews/3147688",
           "source": "华尔街见闻-快讯",
@@ -1648,26 +1852,26 @@
           "time_info": "[01时53分 ~ 01时54分]"
         },
         {
-          "title": "给AI时代一点手搓实拍的小震撼",
-          "url": "https://www.douyin.com/hot/2605459",
-          "source": "抖音",
+          "title": "DeepSeek会偷偷给人取外号",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E4%BC%9A%E5%81%B7%E5%81%B7%E7%BB%99%E4%BA%BA%E5%8F%96%E5%A4%96%E5%8F%B7",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时00分 ~ 17时01分]"
+        },
+        {
+          "title": "腾讯启动2027校招，增加多个AI原生岗位",
+          "url": "https://wallstreetcn.com/livenews/3147962",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时12分"
-        },
-        {
-          "title": "回应“5000亿美元融资质疑”！黄仁勋：英伟达“AI工厂”正成为“投资级资产”，需求真实存在，绝非“循环融资”",
-          "url": "https://wallstreetcn.com/articles/3779130",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时12分"
+          "time_info": "17时01分"
         },
         {
           "title": "英伟达CEO黄仁勋：相关交易将支持AI的大范围建设。 （与5000亿美元融资相关的）所有资金都是第三方资本。（CNBC）",
@@ -1687,7 +1891,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时12分"
         },
@@ -1709,18 +1913,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时12分"
-        },
-        {
-          "title": "AI打开了我童年记忆的百宝箱",
-          "url": "https://www.douyin.com/hot/2605425",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时12分"
         },
@@ -1753,18 +1946,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时12分"
-        },
-        {
-          "title": "干湿之困：AI制药如何打通“最后一公里”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33753718",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时12分"
         },
@@ -1778,17 +1960,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
-        },
-        {
-          "title": "黄仁勋深度解读5000亿美元融资计划：AI算力是“投资级资产”",
-          "url": "https://www.cls.cn/detail/2450953",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时12分"
         },
         {
           "title": "微软希望在仅生产数万个当前一代Maia人工智能芯片后，大幅扩大该芯片的产能。",
@@ -1811,6 +1982,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时38分"
+        },
+        {
+          "title": "小米启动2027届校招 AI岗位需求增长50%",
+          "url": "https://wallstreetcn.com/livenews/3147954",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时01分"
         },
         {
           "title": "英伟达(NVDA.O)CEO黄仁勋：（谈5000亿美元AI基建融资计划）相关交易将支持人工智能的广泛应用。资金全部来自第三方资本。",
@@ -2006,7 +2188,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时12分"
         }
@@ -2014,7 +2196,7 @@
     },
     {
       "keyword_group": "特朗普 马斯克 加密货币 美联储",
-      "match_count": 57,
+      "match_count": 62,
       "titles": [
         {
           "title": "马斯克的新挑战：给光刻机“换束光”",
@@ -2101,6 +2283,20 @@
           "time_info": "[09时54分 ~ 15时12分]"
         },
         {
+          "title": "伊朗密集换将，特朗普提“索赔”，美伊协议“希望渺茫”？",
+          "url": "https://wallstreetcn.com/articles/3779107",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时54分 ~ 17时01分]"
+        },
+        {
           "title": "释疑｜总在开盘前喊停？从两万五千条交易数据，看特朗普投资“玄学”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33561179",
           "source": "澎湃新闻",
@@ -2126,17 +2322,37 @@
           "time_info": "[09时54分 ~ 13时12分]"
         },
         {
-          "title": "伊朗密集换将，特朗普提“索赔”，美伊协议“希望渺茫”？",
-          "url": "https://wallstreetcn.com/articles/3779107",
-          "source": "华尔街见闻",
+          "title": "外媒曝出重大消息：特朗普放弃对伊朗的头号要求",
+          "url": "https://news.ifeng.com/c/8vUFosuJumv",
+          "source": "凤凰网",
           "ranks": [
-            8,
-            7,
-            5
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时54分 ~ 15时12分]"
+          "appearance_count": 3,
+          "time_info": "[15时12分 ~ 17时01分]"
+        },
+        {
+          "title": "特朗普：美军已100%控制霍尔木兹海峡",
+          "url": "https://news.ifeng.com/c/8vUfcNGWBFb",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时54分 ~ 17时01分]"
+        },
+        {
+          "title": "马斯克母子强推中国游",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E6%AF%8D%E5%AD%90%E5%BC%BA%E6%8E%A8%E4%B8%AD%E5%9B%BD%E6%B8%B8%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时00分 ~ 17时01分]"
         },
         {
           "title": "据美国哥伦比亚广播公司（CBS）：消息人士表示，美国总统特朗普计划于当地时间周一签署一项有关儿童疫苗政策的行政命令。",
@@ -2167,7 +2383,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时12分"
         },
@@ -2181,17 +2397,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时38分"
-        },
-        {
-          "title": "外媒曝出重大消息：特朗普放弃对伊朗的头号要求",
-          "url": "https://news.ifeng.com/c/8vUFosuJumv",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时12分"
         },
         {
           "title": "美国总统特朗普：关于伊朗谈判，伊朗应对其给黎巴嫩、叙利亚、也门和加沙人民造成的损害及死亡负责。",
@@ -2222,20 +2427,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时12分"
-        },
-        {
-          "title": "特朗普：美军已100%控制霍尔木兹海峡",
-          "url": "https://news.ifeng.com/c/8vUfcNGWBFb",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时54分 ~ 15时12分]"
         },
         {
           "title": "美联储哈玛克：就业市场仍未出现任何问题迹象。",
@@ -2247,6 +2441,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
+        },
+        {
+          "title": "特朗普称美军已“100%控制”霍尔木兹海峡 | 环球市场",
+          "url": "https://www.cls.cn/detail/2450675",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时47分 ~ 17时01分]"
         },
         {
           "title": "美国总统特朗普将于当地时间周一签署关于儿童接种疫苗的行政命令。（CBS）",
@@ -2358,15 +2564,27 @@
           "time_info": "[06时40分 ~ 07时38分]"
         },
         {
-          "title": "特朗普称美军已“100%控制”霍尔木兹海峡 | 环球市场",
-          "url": "https://www.cls.cn/detail/2450675",
+          "title": "和平希望又受挫！特朗普称美军已“100%控制”霍尔木兹，并向伊朗索赔",
+          "url": "https://www.cls.cn/detail/2450709",
           "source": "财联社热门",
           "ranks": [
-            13
+            11,
+            10
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时47分 ~ 13时12分]"
+          "time_info": "[13时12分 ~ 17时01分]"
+        },
+        {
+          "title": "马斯克母子发文强烈推荐中国游",
+          "url": "https://www.toutiao.com/trending/7672030137794248730/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时00分 ~ 17时01分]"
         },
         {
           "title": "美国总统特朗普：几天前与美联储主席沃什通话。",
@@ -2379,6 +2597,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时58分 ~ 04时53分]"
+        },
+        {
+          "title": "曝特朗普上月秘密乘运输机回国",
+          "url": "https://www.toutiao.com/trending/7672053116451389486/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时00分 ~ 17时01分]"
         },
         {
           "title": "美国总统特朗普：只有美国才能控制霍尔木兹海峡。",
@@ -2465,6 +2695,17 @@
           "time_info": "[01时54分 ~ 03时01分]"
         },
         {
+          "title": "马斯克一年赚2.16万亿 平均每天59亿",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E4%B8%80%E5%B9%B4%E8%B5%9A2.16%E4%B8%87%E4%BA%BF+%E5%B9%B3%E5%9D%87%E6%AF%8F%E5%A4%A959%E4%BA%BF",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时00分 ~ 17时01分]"
+        },
+        {
           "title": "美联储哈玛克：不认为通胀会自行回落。",
           "url": "https://flash.jin10.com/detail/20260811025024737800",
           "source": "金十数据",
@@ -2474,6 +2715,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
+        },
+        {
+          "title": "美联储独立性再成市场焦点！夹在中间的沃什必须做出选择",
+          "url": "https://flash.jin10.com/detail/20260811164320782800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时01分"
         },
         {
           "title": "美联储哈玛克：目前的利率并未对经济造成实质性限制。现在是我们采取行动的时候了。",
@@ -2496,17 +2748,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
-        },
-        {
-          "title": "和平希望又受挫！特朗普称美军已“100%控制”霍尔木兹，并向伊朗索赔",
-          "url": "https://www.cls.cn/detail/2450709",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时12分"
         },
         {
           "title": "特朗普延长《琼斯法案》航运豁免90天 适用范围转向能源运输",
@@ -2677,7 +2918,7 @@
     },
     {
       "keyword_group": "黄金 白银 铜 铝 稀土",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "美股开盘三大指数下挫，纳指跌0.1%，英特尔跌约3%，霍尔木兹谈判僵局推升油价，黄金维持高位",
@@ -2689,6 +2930,18 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时07分 ~ 05时44分]"
+        },
+        {
+          "title": "【早报】美股芯片股大跌；中概股逆势走强；原油飙升、黄金收涨；A股又一波回购潮来了",
+          "url": "https://www.cls.cn/detail/2450678",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时37分 ~ 17时01分]"
         },
         {
           "title": "创业板触底回升跌0.7%，医药、消费大涨，芯片算力集体下挫、寒武纪跌超6%，港股老铺黄金大涨12%",
@@ -2715,16 +2968,15 @@
           "time_info": "[00时07分 ~ 07时38分]"
         },
         {
-          "title": "【早报】美股芯片股大跌；中概股逆势走强；原油飙升、黄金收涨；A股又一波回购潮来了",
-          "url": "https://www.cls.cn/detail/2450678",
-          "source": "财联社热门",
+          "title": "黄金明晚CPI会翻盘吗？",
+          "url": "https://flash.jin10.com/detail/20260811164627019800",
+          "source": "金十数据",
           "ranks": [
-            8,
-            1
+            2
           ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时37分 ~ 15时12分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时01分"
         },
         {
           "title": "金十图示：2026年08月11日（周二）白银ETF持仓报告",
@@ -2890,7 +3142,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时12分"
         },
@@ -2967,7 +3219,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时12分"
         },
@@ -2989,7 +3241,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时12分"
         },
@@ -3022,7 +3274,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时12分"
         }
@@ -3030,7 +3282,7 @@
     },
     {
       "keyword_group": "外交部 商务部 证监会 央行",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "外交部：百余名菲律宾公民被依法处理",
@@ -3055,8 +3307,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时53分 ~ 15时12分]"
+          "appearance_count": 17,
+          "time_info": "[01时53分 ~ 17时01分]"
         },
         {
           "title": "外交部：藏南地区是中国领土",
@@ -3145,7 +3397,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时12分"
         },
@@ -3178,7 +3430,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时12分"
         },
@@ -3225,6 +3477,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时48分"
+        },
+        {
+          "title": "印度央行行长：金砖国家就支付系统与央行数字货币互联展开讨论。",
+          "url": "https://wallstreetcn.com/livenews/3147930",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时01分"
         }
       ]
     }
