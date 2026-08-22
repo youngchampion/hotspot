@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-22T12:35:48.532898+08:00",
-  "total_titles_processed": 1033,
+  "generated_at": "2026-08-22T13:31:13.809243+08:00",
+  "total_titles_processed": 1086,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 美债 美元 石油 战争",
-      "match_count": 72,
+      "match_count": 74,
       "titles": [
         {
           "title": "伊朗总统：现在结束战争是更好的选择",
@@ -44,6 +44,20 @@
           "time_info": "[00时37分 ~ 09时21分]"
         },
         {
+          "title": "美将向联合国支付7.25亿美元拖欠会费",
+          "url": "https://www.toutiao.com/trending/7676531554176451081/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            2,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时20分 ~ 13时31分]"
+        },
+        {
           "title": "高盛前商品主管Jeff Currie：“海军换美元”走向破裂，大宗商品牛市迈向新阶段",
           "url": "https://wallstreetcn.com/articles/3779976",
           "source": "华尔街见闻",
@@ -54,8 +68,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时37分 ~ 12时35分]"
+          "appearance_count": 19,
+          "time_info": "[00时37分 ~ 13时31分]"
         },
         {
           "title": "伊朗总统：是时候结束战争了",
@@ -69,17 +83,16 @@
           "time_info": "[09时20分 ~ 12时35分]"
         },
         {
-          "title": "美将向联合国支付7.25亿美元拖欠会费",
-          "url": "https://www.toutiao.com/trending/7676531554176451081/",
-          "source": "今日头条",
+          "title": "美股收盘：三大指数周线齐跌 有色板块上演普涨浪潮",
+          "url": "https://www.cls.cn/detail/2461289",
+          "source": "财联社热门",
           "ranks": [
-            1,
-            2,
-            5
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时20分 ~ 12时35分]"
+          "appearance_count": 10,
+          "time_info": "[07时26分 ~ 13时31分]"
         },
         {
           "title": "贝森特回购难消市场疑虑，30年期美债升至5.26%，美股高开，区块链概念股普涨，金油齐涨",
@@ -105,8 +118,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时37分 ~ 12时35分]"
+          "appearance_count": 19,
+          "time_info": "[00时37分 ~ 13时31分]"
         },
         {
           "title": "担心被卷入不义的侵略战争，韩国民众反对支援中东美军",
@@ -120,16 +133,29 @@
           "time_info": "[00时37分 ~ 03时28分]"
         },
         {
-          "title": "美股收盘：三大指数周线齐跌 有色板块上演普涨浪潮",
-          "url": "https://www.cls.cn/detail/2461289",
-          "source": "财联社热门",
+          "title": "美银Hartnett：贝森特正通过“变相QE”，守住5%的30年期美债收益率“马奇诺防线\"",
+          "url": "https://wallstreetcn.com/articles/3780012",
+          "source": "华尔街见闻",
           "ranks": [
-            7,
-            6
+            8,
+            7
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[07时26分 ~ 12时35分]"
+          "time_info": "[09时20分 ~ 13时31分]"
+        },
+        {
+          "title": "18年翻了4倍！不到一代人的时间，美国40万亿美债是如何炼成的？",
+          "url": "https://wallstreetcn.com/articles/3779987",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时20分 ~ 13时31分]"
         },
         {
           "title": "美股止跌反弹，道指涨近1%，区块链概念股普涨，金油齐涨",
@@ -143,29 +169,30 @@
           "time_info": "[06时27分 ~ 07时27分]"
         },
         {
-          "title": "美银Hartnett：贝森特正通过“变相QE”，守住5%的30年期美债收益率“马奇诺防线\"",
-          "url": "https://wallstreetcn.com/articles/3780012",
-          "source": "华尔街见闻",
+          "title": "30年美债收益率再次逼近5.3% 贝森特大举干市只管用两天？",
+          "url": "https://www.cls.cn/detail/2461311",
+          "source": "财联社热门",
           "ranks": [
+            9,
             8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时56分 ~ 13时31分]"
+        },
+        {
+          "title": "这两个强国 真到了战争的边缘",
+          "url": "https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%A4%E4%B8%AA%E5%BC%BA%E5%9B%BD+%E7%9C%9F%E5%88%B0%E4%BA%86%E6%88%98%E4%BA%89%E7%9A%84%E8%BE%B9%E7%BC%98",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            12,
             7
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[09时20分 ~ 12时35分]"
-        },
-        {
-          "title": "18年翻了4倍！不到一代人的时间，美国40万亿美债是如何炼成的？",
-          "url": "https://wallstreetcn.com/articles/3779987",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时20分 ~ 12时35分]"
+          "time_info": "[10时56分 ~ 13时31分]"
         },
         {
           "title": "跌破2万亿！A股成交额创4个月新低，融资余额同步回落，哪些板块仍获加仓？",
@@ -330,31 +357,6 @@
           "time_info": "[04时29分 ~ 06时27分]"
         },
         {
-          "title": "30年美债收益率再次逼近5.3% 贝森特大举干市只管用两天？",
-          "url": "https://www.cls.cn/detail/2461311",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时56分 ~ 12时35分]"
-        },
-        {
-          "title": "这两个强国 真到了战争的边缘",
-          "url": "https://www.baidu.com/s?wd=%E8%BF%99%E4%B8%A4%E4%B8%AA%E5%BC%BA%E5%9B%BD+%E7%9C%9F%E5%88%B0%E4%BA%86%E6%88%98%E4%BA%89%E7%9A%84%E8%BE%B9%E7%BC%98",
-          "source": "百度热搜",
-          "ranks": [
-            18,
-            12,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时56分 ~ 12时35分]"
-        },
-        {
           "title": "美债回购叠加政策利好 比特币本周飙升近25% 重返8万美元附近",
           "url": "https://www.cls.cn/detail/2461169",
           "source": "财联社热门",
@@ -365,6 +367,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时28分 ~ 06时27分]"
+        },
+        {
+          "title": "以色列与土耳其到了战争边缘吗",
+          "url": "https://www.toutiao.com/trending/7676154291002327103/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时35分 ~ 13时31分]"
         },
         {
           "title": "周五（8月21日）纽约尾盘（周六北京时间04:59），离岸人民币（CNH）兑美元报6.7210元，较周四纽约尾盘涨43点，日内整体交投于6.7257-6.7180元区间。 最近三个交易日，离岸人民币累计上涨大约250点、涨幅0.37%，本周累涨0.35%。",
@@ -391,6 +405,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时32分 ~ 03时28分]"
+        },
+        {
+          "title": "贝森特扩大美债回购是做“玩火”！布鲁金斯学会：美国或重演日本式货币贬值",
+          "url": "https://wallstreetcn.com/articles/3780021",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时35分 ~ 13时31分]"
         },
         {
           "title": "融资或超千亿美元 Anthropic估值瞄准2万亿美元",
@@ -455,6 +480,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时37分 ~ 02时39分]"
+        },
+        {
+          "title": "A股千亿俱乐部大洗牌",
+          "url": "https://www.toutiao.com/trending/7675729767085129782/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时35分 ~ 13时31分]"
         },
         {
           "title": "一周热榜精选：回购计划救不了美债？经济绞杀将成美伊新战场",
@@ -527,6 +564,18 @@
           "time_info": "[09时20分 ~ 09时21分]"
         },
         {
+          "title": "加拿大总理卡尼：已暂停与美国的贸易谈判。 加拿大将对美国关税进行“对等”反击，一美元对一美元。",
+          "url": "https://wallstreetcn.com/livenews/3153312",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时35分 ~ 13时31分]"
+        },
+        {
           "title": "美股三大指数集体收涨 道指涨超500点",
           "url": "https://www.toutiao.com/trending/7676604224507052594/",
           "source": "今日头条",
@@ -536,17 +585,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时43分 ~ 11时44分]"
-        },
-        {
-          "title": "以色列与土耳其到了战争边缘吗",
-          "url": "https://www.toutiao.com/trending/7676154291002327103/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时35分"
         },
         {
           "title": "布伦特原油期货结算价为每桶94.39美元，上涨61美分，涨幅0.65%。",
@@ -582,6 +620,17 @@
           "time_info": "04时29分"
         },
         {
+          "title": "伊朗武装部队发言人：这场战争让全世界更加清楚地看到了敌人的险恶本质。",
+          "url": "https://flash.jin10.com/detail/20260822131009284800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        },
+        {
           "title": "美国拟向联合国支付7.25亿美元，偿还部分欠款",
           "url": "https://flash.jin10.com/detail/20260822010003778800",
           "source": "金十数据",
@@ -604,15 +653,15 @@
           "time_info": "04时29分"
         },
         {
-          "title": "加拿大总理卡尼：已暂停与美国的贸易谈判。 加拿大将对美国关税进行“对等”反击，一美元对一美元。",
-          "url": "https://wallstreetcn.com/livenews/3153312",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗武装部队发言人：伊朗人的地缘政治觉醒是近期战争取得的成果之一。",
+          "url": "https://flash.jin10.com/detail/20260822131003732800",
+          "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时35分"
+          "time_info": "13时31分"
         },
         {
           "title": "三星公布韩国史上最大股东回报计划，今年拟返还至多790亿美元，占自由现金流五成",
@@ -624,17 +673,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
-        },
-        {
-          "title": "贝森特扩大美债回购是做“玩火”！布鲁金斯学会：美国或重演日本式货币贬值",
-          "url": "https://wallstreetcn.com/articles/3780021",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时35分"
         },
         {
           "title": "美国国会文件显示，美国计划支付7.25亿美元用于偿还其联合国债务。",
@@ -802,17 +840,6 @@
           "time_info": "04时29分"
         },
         {
-          "title": "A股千亿俱乐部大洗牌",
-          "url": "https://www.toutiao.com/trending/7675729767085129782/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时35分"
-        },
-        {
           "title": "Merck股价上涨3.7%，报154.49美元，突破周三所创收盘历史最高152.20美元和盘中历史最高位153.50美元。 莫德纳（MRNA）一度反弹19.6%，报159.47美元，逼近8月19日飙涨超170%所创收盘位174.38美元。",
           "url": "https://wallstreetcn.com/livenews/3153120",
           "source": "华尔街见闻-快讯",
@@ -860,7 +887,7 @@
     },
     {
       "keyword_group": "DeepSeek AI openai 机器人 小米 特斯拉 英伟达",
-      "match_count": 54,
+      "match_count": 55,
       "titles": [
         {
           "title": "大手笔！OpenAI全面开源Codex Harness",
@@ -897,8 +924,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时37分 ~ 12时35分]"
+          "appearance_count": 19,
+          "time_info": "[00时37分 ~ 13时31分]"
         },
         {
           "title": "AI算力红利持续释放，中际旭创上半年净利暴增241.7%，章建平新进成为第九大股东｜财报见闻",
@@ -911,8 +938,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时37分 ~ 12时35分]"
+          "appearance_count": 19,
+          "time_info": "[00时37分 ~ 13时31分]"
+        },
+        {
+          "title": "外国网友怀疑中国农村是AI",
+          "url": "https://s.weibo.com/weibo?q=%E5%A4%96%E5%9B%BD%E7%BD%91%E5%8F%8B%E6%80%80%E7%96%91%E4%B8%AD%E5%9B%BD%E5%86%9C%E6%9D%91%E6%98%AFAI&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1,
+            4,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时20分 ~ 13时31分]"
         },
         {
           "title": "怎么评价 DeepSeek-V4-Flash-Vision-Exp 发布，多模态能力表现如何？",
@@ -926,18 +966,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时37分 ~ 05时27分]"
-        },
-        {
-          "title": "外国网友怀疑中国农村是AI",
-          "url": "https://s.weibo.com/weibo?q=%E5%A4%96%E5%9B%BD%E7%BD%91%E5%8F%8B%E6%80%80%E7%96%91%E4%B8%AD%E5%9B%BD%E5%86%9C%E6%9D%91%E6%98%AFAI&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时20分 ~ 12时35分]"
         },
         {
           "title": "因门把手安全隐患，特斯拉、吉利、小鹏、东风、小米等多家车企启动召回",
@@ -980,8 +1008,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时37分 ~ 12时35分]"
+          "appearance_count": 19,
+          "time_info": "[00时37分 ~ 13时31分]"
         },
         {
           "title": "UP主用AI自制家庭史书APP",
@@ -995,11 +1023,12 @@
             26,
             30,
             24,
-            15
+            15,
+            28
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时37分 ~ 09时21分]"
+          "appearance_count": 15,
+          "time_info": "[00时37分 ~ 13时31分]"
         },
         {
           "title": "大爷手搓AI打破日漫壁垒",
@@ -1022,8 +1051,32 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时43分 ~ 13时31分]"
+        },
+        {
+          "title": "男子AI合成奔现照片被行拘",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28359693&amp;topic_name=%E7%94%B7%E5%AD%90AI%E5%90%88%E6%88%90%E5%A5%94%E7%8E%B0%E7%85%A7%E7%89%87%E8%A2%AB%E8%A1%8C%E6%8B%98",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时43分 ~ 12时35分]"
+          "time_info": "[12时35分 ~ 13时31分]"
+        },
+        {
+          "title": "AI短片二十二分钟",
+          "url": "https://search.bilibili.com/all?keyword=AI%E7%9F%AD%E7%89%87%E4%BA%8C%E5%8D%81%E4%BA%8C%E5%88%86%E9%92%9F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            14,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时43分 ~ 13时31分]"
         },
         {
           "title": "如何看待 8 月 21 日市场监管总局公告 9 家车企（特斯拉，小米，小鹏等）因车门紧急拉手不醒目召回多款汽车？",
@@ -1100,17 +1153,6 @@
           "time_info": "[06时27分 ~ 10时56分]"
         },
         {
-          "title": "男子AI合成奔现照片被行拘",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28359693&amp;topic_name=%E7%94%B7%E5%AD%90AI%E5%90%88%E6%88%90%E5%A5%94%E7%8E%B0%E7%85%A7%E7%89%87%E8%A2%AB%E8%A1%8C%E6%8B%98",
-          "source": "贴吧",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时35分"
-        },
-        {
           "title": "中国机器人能飞",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%83%BD%E9%A3%9E",
           "source": "百度热搜",
@@ -1133,29 +1175,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时27分 ~ 09时21分]"
-        },
-        {
-          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850602&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/08/CImMRR9uvpdknKRf6Wa09.jpg/lite\" height=\"120\"/></a>",
-          "url": "https://flash.jin10.com/detail/20260822121337131800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时35分"
-        },
-        {
-          "title": "AI短片二十二分钟",
-          "url": "https://search.bilibili.com/all?keyword=AI%E7%9F%AD%E7%89%87%E4%BA%8C%E5%8D%81%E4%BA%8C%E5%88%86%E9%92%9F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时43分 ~ 12时35分]"
         },
         {
           "title": "市场消息：Anthropic在IPO申报文件中将AI行业面临的公众舆论反弹列为风险因素。",
@@ -1220,6 +1239,32 @@
           "time_info": "[10时56分 ~ 11时44分]"
         },
         {
+          "title": "第二届世界人形机器人运动会今天开幕，新增拔河、乒乓球等项目",
+          "url": "https://wallstreetcn.com/livenews/3153302",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            7,
+            19,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时56分 ~ 13时31分]"
+        },
+        {
+          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850602&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/08/CImMRR9uvpdknKRf6Wa09.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260822121337131800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时35分 ~ 13时31分]"
+        },
+        {
           "title": "报道：Anthropic的IPO招股书将把AI反弹情绪列为风险因素",
           "url": "https://wallstreetcn.com/livenews/3153241",
           "source": "华尔街见闻-快讯",
@@ -1232,17 +1277,38 @@
           "time_info": "[06时27分 ~ 07时27分]"
         },
         {
-          "title": "第二届世界人形机器人运动会今天开幕，新增拔河、乒乓球等项目",
-          "url": "https://wallstreetcn.com/livenews/3153302",
-          "source": "华尔街见闻-快讯",
+          "title": "闪电兑现“带血筹码”！城堡投资披露已出售8成“AI股神”风险敞口",
+          "url": "https://www.cls.cn/detail/2461248",
+          "source": "财联社热门",
           "ranks": [
-            6,
-            7,
-            19
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时20分 ~ 13时31分]"
+        },
+        {
+          "title": "国漫遭AI盗用,雾山五行维权",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28359699&amp;topic_name=%E5%9B%BD%E6%BC%AB%E9%81%ADAI%E7%9B%97%E7%94%A8%2C%E9%9B%BE%E5%B1%B1%E4%BA%94%E8%A1%8C%E7%BB%B4%E6%9D%83",
+          "source": "贴吧",
+          "ranks": [
+            7
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时56分 ~ 12时35分]"
+          "time_info": "[12时35分 ~ 13时31分]"
+        },
+        {
+          "title": "怎么看AI证伪YTD猜想",
+          "url": "https://search.bilibili.com/all?keyword=%E6%80%8E%E4%B9%88%E7%9C%8BAI%E8%AF%81%E4%BC%AAYTD%E7%8C%9C%E6%83%B3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时35分 ~ 13时31分]"
         },
         {
           "title": "薛之谦演唱会现机器人“替身”",
@@ -1295,17 +1361,6 @@
           "time_info": "[04时29分 ~ 05时27分]"
         },
         {
-          "title": "闪电兑现“带血筹码”！城堡投资披露已出售8成“AI股神”风险敞口",
-          "url": "https://www.cls.cn/detail/2461248",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时20分 ~ 09时21分]"
-        },
-        {
           "title": "OpenAI：未来三个月将把GPT-5.6Sol API及积分价格下调超过20%",
           "url": "https://wallstreetcn.com/livenews/3153197",
           "source": "华尔街见闻-快讯",
@@ -1316,6 +1371,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时29分 ~ 05时27分]"
+        },
+        {
+          "title": "AI算力紧缺时代 大学生买不起电脑了",
+          "url": "https://www.baidu.com/s?wd=AI%E7%AE%97%E5%8A%9B%E7%B4%A7%E7%BC%BA%E6%97%B6%E4%BB%A3+%E5%A4%A7%E5%AD%A6%E7%94%9F%E4%B9%B0%E4%B8%8D%E8%B5%B7%E7%94%B5%E8%84%91%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时30分 ~ 13时31分]"
         },
         {
           "title": "机器人跑步神似章若楠",
@@ -1351,17 +1417,6 @@
           "time_info": "03时28分"
         },
         {
-          "title": "国漫遭AI盗用,雾山五行维权",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28359699&amp;topic_name=%E5%9B%BD%E6%BC%AB%E9%81%ADAI%E7%9B%97%E7%94%A8%2C%E9%9B%BE%E5%B1%B1%E4%BA%94%E8%A1%8C%E7%BB%B4%E6%9D%83",
-          "source": "贴吧",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时35分"
-        },
-        {
           "title": "美股收盘：三大股指收涨 特斯拉创月内新高",
           "url": "https://flash.jin10.com/detail/20260822040129294800",
           "source": "金十数据",
@@ -1371,17 +1426,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
-        },
-        {
-          "title": "怎么看AI证伪YTD猜想",
-          "url": "https://search.bilibili.com/all?keyword=%E6%80%8E%E4%B9%88%E7%9C%8BAI%E8%AF%81%E4%BC%AAYTD%E7%8C%9C%E6%83%B3",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时35分"
         },
         {
           "title": "消息人士：英伟达(NVDA.O)同意支付60亿美元，以获得Poolside AI模型授权。",
@@ -1551,11 +1595,12 @@
           "ranks": [
             12,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时26分 ~ 12时35分]"
+          "appearance_count": 10,
+          "time_info": "[07时26分 ~ 13时31分]"
         },
         {
           "title": "特朗普，打光了弹药？",
@@ -1565,8 +1610,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时20分 ~ 12时35分]"
+          "appearance_count": 8,
+          "time_info": "[09时20分 ~ 13时31分]"
         },
         {
           "title": "新闻蒸馏器｜特朗普“守门人”惹争议：了解机密却未办理安全许可，已工作一年",
@@ -1578,8 +1623,19 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[02时39分 ~ 12时35分]"
+          "appearance_count": 17,
+          "time_info": "[02时39分 ~ 13时31分]"
+        },
+        {
+          "title": "顶不住了？特朗普宣布暂时豁免碎牛肉进口关税",
+          "url": "https://news.ifeng.com/c/8vmz8HPxLdH",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时20分 ~ 13时31分]"
         },
         {
           "title": "特朗普敲打韩国，李在明为何反而叫好？",
@@ -1602,17 +1658,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时27分 ~ 07时27分]"
-        },
-        {
-          "title": "顶不住了？特朗普宣布暂时豁免碎牛肉进口关税",
-          "url": "https://news.ifeng.com/c/8vmz8HPxLdH",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时20分 ~ 12时35分]"
         },
         {
           "title": "美国总统特朗普声称：霍尔木兹海峡是美国的领土。",
@@ -1910,6 +1955,18 @@
           "time_info": "[05时27分 ~ 07时27分]"
         },
         {
+          "title": "特朗普敲打韩国却被李在明反将一军",
+          "url": "https://www.toutiao.com/trending/7676039913854418950/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时35分 ~ 13时31分]"
+        },
+        {
           "title": "特朗普：美国40年没有新建汽车工厂 最喜欢的词是关税",
           "url": "https://flash.jin10.com/detail/20260822103023428800",
           "source": "金十数据",
@@ -2088,17 +2145,6 @@
           "time_info": "09时21分"
         },
         {
-          "title": "特朗普敲打韩国却被李在明反将一军",
-          "url": "https://www.toutiao.com/trending/7676039913854418950/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时35分"
-        },
-        {
           "title": "美财政部回购长债会逼着美联储扩表吗",
           "url": "https://www.toutiao.com/trending/7676475263139450377/",
           "source": "今日头条",
@@ -2116,7 +2162,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时35分"
         }
@@ -2145,8 +2191,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时20分 ~ 12时35分]"
+          "appearance_count": 8,
+          "time_info": "[09时20分 ~ 13时31分]"
         },
         {
           "title": "达利欧：美国债务危机最快三年内到来，建议卖出债券、买入黄金和比特币",
@@ -2157,8 +2203,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时20分 ~ 12时35分]"
+          "appearance_count": 8,
+          "time_info": "[09时20分 ~ 13时31分]"
         },
         {
           "title": "达利欧又双叒叕警告：美债危机临近 囤点黄金和比特币吧",
@@ -2167,11 +2213,12 @@
           "ranks": [
             13,
             7,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时26分 ~ 12时35分]"
+          "appearance_count": 10,
+          "time_info": "[07时26分 ~ 13时31分]"
         },
         {
           "title": "现货黄金重回4600美元 比特币一周狂涨逾20% | 环球市场",
@@ -2179,11 +2226,24 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时20分 ~ 12时35分]"
+          "appearance_count": 8,
+          "time_info": "[09时20分 ~ 13时31分]"
+        },
+        {
+          "title": "贝森特没救成美债却点燃“美元贬值交易”！黄金创三个月新高，比特币单周暴涨超25%",
+          "url": "https://wallstreetcn.com/articles/3780041",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时43分 ~ 13时31分]"
         },
         {
           "title": "现货黄金向上触及4630美元/盎司，日内涨2.46%。",
@@ -2195,18 +2255,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时32分"
-        },
-        {
-          "title": "贝森特没救成美债却点燃“美元贬值交易”！黄金创三个月新高，比特币单周暴涨超25%",
-          "url": "https://wallstreetcn.com/articles/3780041",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时43分 ~ 12时35分]"
         },
         {
           "title": "后黄金时代韩国何去何从",
@@ -2337,6 +2385,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时32分 ~ 03时28分]"
+        },
+        {
+          "title": "黄金冲破200日均线",
+          "url": "https://www.toutiao.com/trending/7676685078759476755/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时35分 ~ 13时31分]"
         },
         {
           "title": "Kalshi：刚刚，黄金超过美国国债，成为全球央行规模最大的储备资产。",
@@ -2504,17 +2564,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时32分"
-        },
-        {
-          "title": "黄金冲破200日均线",
-          "url": "https://www.toutiao.com/trending/7676685078759476755/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时35分"
         }
       ]
     },
@@ -2540,11 +2589,12 @@
           "ranks": [
             8,
             11,
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时37分 ~ 12时35分]"
+          "appearance_count": 19,
+          "time_info": "[00时37分 ~ 13时31分]"
         },
         {
           "title": "外交部回应朝鲜发射10余枚弹道导弹",
@@ -2563,6 +2613,20 @@
           "time_info": "[02时39分 ~ 07时27分]"
         },
         {
+          "title": "伊朗外交部：美国对伊朗实施新制裁毫无国际法依据",
+          "url": "https://wallstreetcn.com/livenews/3153305",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            4,
+            16,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时56分 ~ 13时31分]"
+        },
+        {
           "title": "阿曼国家通讯社：阿曼与伊朗两国外交部长就重启谈判的相关条件展开磋商，谈判旨在恢复霍尔木兹海峡通航。",
           "url": "https://wallstreetcn.com/livenews/3153151",
           "source": "华尔街见闻-快讯",
@@ -2572,19 +2636,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时37分"
-        },
-        {
-          "title": "伊朗外交部：美国对伊朗实施新制裁毫无国际法依据",
-          "url": "https://wallstreetcn.com/livenews/3153305",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            4,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时56分 ~ 12时35分]"
         },
         {
           "title": "消息人士：美国商务部长卢特尼克认为美国仍可争取更有利的协议，并反对降低232条款关税。",
