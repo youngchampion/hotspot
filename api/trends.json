@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-08-23T19:24:06.168318+08:00",
-  "total_titles_processed": 1173,
+  "generated_at": "2026-08-23T20:44:18.011628+08:00",
+  "total_titles_processed": 1283,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek AI openai 机器人 小米 特斯拉 英伟达",
-      "match_count": 97,
+      "match_count": 102,
       "titles": [
         {
           "title": "因存储芯片成本飙升，英伟达高端服务器被曝明年将涨价15%",
           "url": "https://wallstreetcn.com/articles/3780066",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时40分 ~ 19时24分]"
+          "appearance_count": 13,
+          "time_info": "[12时40分 ~ 20时44分]"
         },
         {
           "title": "怎么看 DeepSeek 8 月 22 日再调整定价，周末全天统一按低谷价收费？",
@@ -75,8 +76,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时28分 ~ 19时24分]"
+          "appearance_count": 17,
+          "time_info": "[07时28分 ~ 20时44分]"
         },
         {
           "title": "硅谷调研后，高盛的总结：Agent进入执行时代，AI竞争转向工作流，世界模型崛起",
@@ -94,6 +95,20 @@
           "is_new": false,
           "appearance_count": 21,
           "time_info": "[01时23分 ~ 18时27分]"
+        },
+        {
+          "title": "七年来首次配售新股！阿里800亿港元配股获超额认购，将全部投入AI建设",
+          "url": "https://wallstreetcn.com/articles/3780075",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时32分 ~ 20时44分]"
         },
         {
           "title": "从“AI股神”抄底的“带血筹码”，Citadel已卖掉80%！",
@@ -128,6 +143,25 @@
           "time_info": "[00时27分 ~ 15时35分]"
         },
         {
+          "title": "魔法原子WRC 2026首发轻工业四足机器人，物理AI驱动三大场景实景落地",
+          "url": "https://wallstreetcn.com/livenews/3153428",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            4,
+            6,
+            10,
+            12,
+            13,
+            14,
+            16,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时05分 ~ 20时44分]"
+        },
+        {
           "title": "报道：英伟达客户被告知AI相关涨价幅度超过15%",
           "url": "https://wallstreetcn.com/livenews/3153422",
           "source": "华尔街见闻-快讯",
@@ -145,6 +179,25 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[09时28分 ~ 19时24分]"
+        },
+        {
+          "title": "上纬新材消费级机器人正式开启预订，预计首批发货最早9月",
+          "url": "https://wallstreetcn.com/livenews/3153427",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            5,
+            7,
+            11,
+            13,
+            14,
+            15,
+            17,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时05分 ~ 20时44分]"
         },
         {
           "title": "怎么看彭博社发布的「美国 AI 优势正在被中国迅速缩小」？",
@@ -175,18 +228,6 @@
           "time_info": "[15时35分 ~ 19时24分]"
         },
         {
-          "title": "荣耀机器人闪电百米跑出 9 秒 32，破人类百米纪录，这一成绩的含金量如何？有哪些意义？",
-          "url": "https://www.zhihu.com/question/2074537748648801027",
-          "source": "知乎",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时05分 ~ 19时24分]"
-        },
-        {
           "title": "中国机器人打破人类百米世界纪录",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%89%93%E7%A0%B4%E4%BA%BA%E7%B1%BB%E7%99%BE%E7%B1%B3%E4%B8%96%E7%95%8C%E7%BA%AA%E5%BD%95",
           "source": "bilibili 热搜",
@@ -203,8 +244,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时27分 ~ 19时24分]"
+          "appearance_count": 26,
+          "time_info": "[00时27分 ~ 20时44分]"
         },
         {
           "title": "谷歌AI研究科学家来B站了",
@@ -239,6 +280,19 @@
           "time_info": "[00时27分 ~ 16时33分]"
         },
         {
+          "title": "荣耀机器人闪电百米跑出 9 秒 32，破人类百米纪录，这一成绩的含金量如何？有哪些意义？",
+          "url": "https://www.zhihu.com/question/2074537748648801027",
+          "source": "知乎",
+          "ranks": [
+            7,
+            6,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[11时05分 ~ 20时44分]"
+        },
+        {
           "title": "英伟达服务器传出涨价消息 涨幅“很多情况下超过15%”",
           "url": "https://www.cls.cn/detail/2461501",
           "source": "财联社热门",
@@ -249,8 +303,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时05分 ~ 19时24分]"
+          "appearance_count": 14,
+          "time_info": "[11时05分 ~ 20时44分]"
         },
         {
           "title": "又一家！美国法律AI公司放弃美国模型，转用Kimi K3",
@@ -260,21 +314,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时28分 ~ 19时24分]"
-        },
-        {
-          "title": "七年来首次配售新股！阿里800亿港元配股获超额认购，将全部投入AI建设",
-          "url": "https://wallstreetcn.com/articles/3780075",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时32分 ~ 19时24分]"
+          "appearance_count": 15,
+          "time_info": "[09时28分 ~ 20时44分]"
         },
         {
           "title": "宇树机器人100米预赛小组垫底",
@@ -287,42 +328,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时27分 ~ 09时28分]"
-        },
-        {
-          "title": "魔法原子WRC 2026首发轻工业四足机器人，物理AI驱动三大场景实景落地",
-          "url": "https://wallstreetcn.com/livenews/3153428",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            4,
-            6,
-            10,
-            12,
-            13,
-            14,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时05分 ~ 19时24分]"
-        },
-        {
-          "title": "上纬新材消费级机器人正式开启预订，预计首批发货最早9月",
-          "url": "https://wallstreetcn.com/livenews/3153427",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            5,
-            7,
-            11,
-            13,
-            14,
-            15,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时05分 ~ 19时24分]"
         },
         {
           "title": "世界人形机器人运动会",
@@ -344,11 +349,12 @@
           "ranks": [
             9,
             8,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时27分 ~ 19时24分]"
+          "appearance_count": 26,
+          "time_info": "[00时27分 ~ 20时44分]"
         },
         {
           "title": "众擎机器人发布仿人脑具身智能引擎EngineAI Awaken",
@@ -384,11 +390,12 @@
             22,
             23,
             24,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时27分 ~ 19时24分]"
+          "appearance_count": 26,
+          "time_info": "[00时27分 ~ 20时44分]"
         },
         {
           "title": "9秒39，中国机器人打破人类百米世界纪录",
@@ -417,11 +424,12 @@
             23,
             24,
             25,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时27分 ~ 19时24分]"
+          "appearance_count": 26,
+          "time_info": "[00时27分 ~ 20时44分]"
         },
         {
           "title": "100米9秒39打破人类纪录！人形机器人运动会正式开幕，宇树百米预赛小组垫底",
@@ -433,8 +441,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时28分 ~ 19时24分]"
+          "appearance_count": 15,
+          "time_info": "[09时28分 ~ 20时44分]"
         },
         {
           "title": "DeepSeek周末“打折”？API平台计费再调整 新规8月23日起执行",
@@ -479,11 +487,12 @@
             25,
             26,
             27,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时27分 ~ 19时24分]"
+          "appearance_count": 26,
+          "time_info": "[00时27分 ~ 20时44分]"
         },
         {
           "title": "9秒39！中国机器人打破博尔特百米成绩",
@@ -576,6 +585,24 @@
           "time_info": "[14时44分 ~ 19时24分]"
         },
         {
+          "title": "阿里拟配售新股，全部投入AI建设",
+          "url": "https://wallstreetcn.com/livenews/3153430",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            4,
+            8,
+            10,
+            11,
+            12,
+            14,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时32分 ~ 20时44分]"
+        },
+        {
           "title": "机器人跳拉丁有多惊艳",
           "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B7%B3%E6%8B%89%E4%B8%81%E6%9C%89%E5%A4%9A%E6%83%8A%E8%89%B3",
           "source": "百度热搜",
@@ -602,45 +629,36 @@
           "time_info": "[11时05分 ~ 14时44分]"
         },
         {
-          "title": "阿里拟配售新股，全部投入AI建设",
-          "url": "https://wallstreetcn.com/livenews/3153430",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            4,
-            8,
-            10,
-            11,
-            12,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时32分 ~ 19时24分]"
-        },
-        {
-          "title": "天工队夺人形机器人运动会首金",
-          "url": "https://www.toutiao.com/trending/7677152440151657993/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时27分 ~ 19时24分]"
-        },
-        {
-          "title": "中钨高新：子公司拟投1.9亿元实施AI高速高频PCB用高精密微型刀具技改扩能项目",
-          "url": "https://wallstreetcn.com/livenews/3153450",
+          "title": "小米：将在明天14点以图文直播形式举办玄戒芯片技术沟通会。届时，芯片负责人朱丹将带来最新进展。",
+          "url": "https://wallstreetcn.com/livenews/3153433",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            2,
-            4
+            5,
+            7,
+            8,
+            9,
+            11,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时31分 ~ 19时24分]"
+          "appearance_count": 7,
+          "time_info": "[14时44分 ~ 20时44分]"
+        },
+        {
+          "title": "小米官宣新一代玄戒芯片技术发布会",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E5%AE%98%E5%AE%A3%E6%96%B0%E4%B8%80%E4%BB%A3%E7%8E%84%E6%88%92%E8%8A%AF%E7%89%87%E6%8A%80%E6%9C%AF%E5%8F%91%E5%B8%83%E4%BC%9A%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15,
+            9,
+            19,
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时35分 ~ 20时44分]"
         },
         {
           "title": "BBC报道中国人形机器人运动会",
@@ -656,22 +674,6 @@
           "time_info": "[14时44分 ~ 17时31分]"
         },
         {
-          "title": "小米：将在明天14点以图文直播形式举办玄戒芯片技术沟通会。届时，芯片负责人朱丹将带来最新进展。",
-          "url": "https://wallstreetcn.com/livenews/3153433",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            5,
-            7,
-            8,
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时44分 ~ 19时24分]"
-        },
-        {
           "title": "陈茂波：香港特区政府全方位推动AI落地和普及应用",
           "url": "https://wallstreetcn.com/livenews/3153436",
           "source": "华尔街见闻-快讯",
@@ -680,11 +682,38 @@
             5,
             6,
             7,
-            9
+            9,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时35分 ~ 20时44分]"
+        },
+        {
+          "title": "中钨高新：子公司拟投1.9亿元实施AI高速高频PCB用高精密微型刀具技改扩能项目",
+          "url": "https://wallstreetcn.com/livenews/3153450",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            2,
+            4,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时31分 ~ 20时44分]"
+        },
+        {
+          "title": "天工队夺人形机器人运动会首金",
+          "url": "https://www.toutiao.com/trending/7677152440151657993/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            17
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[15时35分 ~ 19时24分]"
+          "time_info": "[18时27分 ~ 20时44分]"
         },
         {
           "title": "DeepSeek再次调价",
@@ -701,18 +730,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时28分 ~ 16时33分]"
-        },
-        {
-          "title": "机器人再次打破人类世界纪录",
-          "url": "https://wallstreetcn.com/livenews/3153453",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时27分 ~ 19时24分]"
         },
         {
           "title": "直击世界人形机器人运动会",
@@ -778,6 +795,19 @@
           "time_info": "[12时40分 ~ 14时44分]"
         },
         {
+          "title": "机器人再次打破人类世界纪录",
+          "url": "https://wallstreetcn.com/livenews/3153453",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            3,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时27分 ~ 20时44分]"
+        },
+        {
           "title": "怎么看 OpenCode 找了很多供应商，都找不到 DeepSeek 涨价前原厂的价格？",
           "url": "https://www.zhihu.com/question/2074077084964733784",
           "source": "知乎",
@@ -792,29 +822,15 @@
           "time_info": "[00时27分 ~ 03时25分]"
         },
         {
-          "title": "天工Omni研发人员：机器人的运动能力是其服务于人的第一步",
-          "url": "https://wallstreetcn.com/livenews/3153455",
+          "title": "报告显示中国CAD市场在AI驱动下延续增长",
+          "url": "https://wallstreetcn.com/livenews/3153472",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时24分"
-        },
-        {
-          "title": "小米官宣新一代玄戒芯片技术发布会",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E5%AE%98%E5%AE%A3%E6%96%B0%E4%B8%80%E4%BB%A3%E7%8E%84%E6%88%92%E8%8A%AF%E7%89%87%E6%8A%80%E6%9C%AF%E5%8F%91%E5%B8%83%E4%BC%9A%23&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15,
-            9,
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时35分 ~ 18时27分]"
+          "time_info": "20时44分"
         },
         {
           "title": "机器人田径100米赛跑终点撞墙",
@@ -839,15 +855,15 @@
           "time_info": "15时35分"
         },
         {
-          "title": "荣耀机器人打破400米人类纪录，获马斯克转发点赞",
-          "url": "https://wallstreetcn.com/livenews/3153454",
+          "title": "世界人形机器人运动会1500米决赛：天卓队以2分21秒64夺得第一",
+          "url": "https://wallstreetcn.com/livenews/3153471",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时24分"
+          "time_info": "20时44分"
         },
         {
           "title": "因存储芯片成本飙升，英伟达服务器被曝涨价15%",
@@ -859,6 +875,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时05分"
+        },
+        {
+          "title": "阿里巴巴拟配售 800 亿港元新股，全部投入 AI 建设，怎样解读这一操作？对市场有哪些影响？",
+          "url": "https://www.zhihu.com/question/2074867306811881229",
+          "source": "知乎",
+          "ranks": [
+            15,
+            17,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时27分 ~ 20时44分]"
         },
         {
           "title": "中国大模型把美国AI逼到墙角",
@@ -914,6 +943,30 @@
           "time_info": "[11时05分 ~ 13时32分]"
         },
         {
+          "title": "天工Omni研发人员：机器人的运动能力是其服务于人的第一步",
+          "url": "https://wallstreetcn.com/livenews/3153455",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时24分 ~ 20时44分]"
+        },
+        {
+          "title": "荣耀机器人打破400米人类纪录，获马斯克转发点赞",
+          "url": "https://wallstreetcn.com/livenews/3153454",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时24分 ~ 20时44分]"
+        },
+        {
           "title": "阿里巴巴拟配售800亿港元新股 募资全部投向AI",
           "url": "https://flash.jin10.com/detail/20260823123518396800",
           "source": "金十数据",
@@ -965,6 +1018,18 @@
           "time_info": "[09时28分 ~ 13时32分]"
         },
         {
+          "title": "明查｜NASA最新月球照？“火星奇妙夜”？均为AI生成",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33833618",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时23分 ~ 20时44分]"
+        },
+        {
           "title": "上千台中国机器人向国旗行注目礼",
           "url": "https://www.toutiao.com/trending/7676994736019754547/",
           "source": "今日头条",
@@ -1000,18 +1065,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时05分 ~ 13时32分]"
-        },
-        {
-          "title": "阿里巴巴拟配售 800 亿港元新股，全部投入 AI 建设，怎样解读这一操作？对市场有哪些影响？",
-          "url": "https://www.zhihu.com/question/2074867306811881229",
-          "source": "知乎",
-          "ranks": [
-            15,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时27分 ~ 19时24分]"
         },
         {
           "title": "舞蹈裁判与人形机器人共舞",
@@ -1105,15 +1158,15 @@
           "time_info": "[09时28分 ~ 11时05分]"
         },
         {
-          "title": "明查｜NASA最新月球照？“火星奇妙夜”？均为AI生成",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33833618",
-          "source": "澎湃新闻",
+          "title": "宇树机器人 100 米预赛小组垫底，同组第一名 100 米 9 秒 39 打破人类纪录，如何本场比赛各家机器人表现？",
+          "url": "https://www.zhihu.com/question/2074793323445711007",
+          "source": "知乎",
           "ranks": [
-            13
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时23分 ~ 19时24分]"
+          "time_info": "[20时43分 ~ 20时44分]"
         },
         {
           "title": "人形机器人的“ChatGPT时刻”何时来",
@@ -1140,6 +1193,17 @@
           "time_info": "[16时33分 ~ 17时31分]"
         },
         {
+          "title": "一群娇羞机器人向你跑来",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%80%E7%BE%A4%E5%A8%87%E7%BE%9E%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%90%91%E4%BD%A0%E8%B7%91%E6%9D%A5",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时43分 ~ 20时44分]"
+        },
+        {
           "title": "海外大佬点赞中国机器人跑出存在感",
           "url": "https://www.toutiao.com/trending/7677161554587962899/",
           "source": "今日头条",
@@ -1160,6 +1224,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时35分"
+        },
+        {
+          "title": "荣耀机器人闪电1500米跑出2分30秒22，再打破人类世界纪录",
+          "url": "https://wallstreetcn.com/livenews/3153463",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
         },
         {
           "title": "美国大厂重金投入AI收益如何",
@@ -1285,382 +1360,8 @@
       ]
     },
     {
-      "keyword_group": "特朗普 马斯克 加密货币 美联储",
-      "match_count": 29,
-      "titles": [
-        {
-          "title": "“这次对华让步，特朗普该羞得没脸见人”",
-          "url": "https://news.ifeng.com/c/8vnQpWNT85e",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            2,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时27分 ~ 16时33分]"
-        },
-        {
-          "title": "【早报】国常会最新部署，事关新一代通信网建设；中际旭创、东山精密、东方财富等发布半年报；加密货币持续走高",
-          "url": "https://www.cls.cn/detail/2461292",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时27分 ~ 16时33分]"
-        },
-        {
-          "title": "人均“十万加”，特朗普考虑出兵干预",
-          "url": "https://news.ifeng.com/c/8vnnjMt8Nty",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时27分 ~ 19时24分]"
-        },
-        {
-          "title": "特朗普披露6月投资组合“大换血”：减持Meta 买入伯克希尔等股票",
-          "url": "https://www.cls.cn/detail/2461516",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7,
-            6,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时40分 ~ 19时24分]"
-        },
-        {
-          "title": "梅洛尼谈特朗普：错付了",
-          "url": "https://news.ifeng.com/c/8vntoGTfOZC",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时27分 ~ 13时32分]"
-        },
-        {
-          "title": "特朗普：可出动美军干预债市",
-          "url": "https://www.cls.cn/detail/2461395",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时27分 ~ 19时24分]"
-        },
-        {
-          "title": "披露文件显示特朗普6月进行了逾1000笔证券交易",
-          "url": "https://wallstreetcn.com/livenews/3153431",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            3,
-            7,
-            9,
-            10,
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时32分 ~ 19时24分]"
-        },
-        {
-          "title": "特朗普：未指示贝森特干预美国债市，经济增长将自行化解债务问题",
-          "url": "https://wallstreetcn.com/articles/3780037",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时27分 ~ 05时24分]"
-        },
-        {
-          "title": "马斯克母亲：儿子发自内心喜爱中国",
-          "url": "https://www.toutiao.com/trending/7677043915983277577/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            4,
-            24,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时05分 ~ 15时35分]"
-        },
-        {
-          "title": "UP主锐评特朗普海军新政",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E9%94%90%E8%AF%84%E7%89%B9%E6%9C%97%E6%99%AE%E6%B5%B7%E5%86%9B%E6%96%B0%E6%94%BF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16,
-            15,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时32分 ~ 19时24分]"
-        },
-        {
-          "title": "释疑｜一天只过几艘船，特朗普却说海峡畅通，哪个是霍尔木兹的“真相”？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33825790",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 03时25分]"
-        },
-        {
-          "title": "马斯克妈妈在上海逛名创优品",
-          "url": "https://www.toutiao.com/trending/7676009565650780186/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时28分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-23）",
-          "url": "https://flash.jin10.com/detail/20260823184420774800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时24分"
-        },
-        {
-          "title": "特朗普减肥药“低价计划”遇冷：多数州医疗补助项目拒绝买单",
-          "url": "https://flash.jin10.com/detail/20260823041421837800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            10,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时25分 ~ 07时29分]"
-        },
-        {
-          "title": "特朗普与加拿大的贸易战可能刺痛美国经济",
-          "url": "https://flash.jin10.com/detail/20260823044205401800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            13,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时24分 ~ 09时28分]"
-        },
-        {
-          "title": "美国总统特朗普在社交平台上发布了一张霍尔木兹海峡的地图，并配文称：“美国的新领土。”",
-          "url": "https://flash.jin10.com/detail/20260823054653520800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            17,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时25分 ~ 11时05分]"
-        },
-        {
-          "title": "央视财经专访梅耶马斯克",
-          "url": "https://www.douyin.com/hot/2620042",
-          "source": "抖音",
-          "ranks": [
-            29,
-            27,
-            17,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时25分 ~ 11时05分]"
-        },
-        {
-          "title": "特朗普：加拿大“想当州却不入州” 还对我们收高关税",
-          "url": "https://flash.jin10.com/detail/20260823131131804800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            12,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时32分 ~ 15时35分]"
-        },
-        {
-          "title": "VIP・9折看懂特朗普信号！",
-          "url": "https://flash.jin10.com/detail/20260823090257820800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            13,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时28分 ~ 12时40分]"
-        },
-        {
-          "title": "美国总统特朗普：加拿大多年来也对我们的农民征收了大量关税。",
-          "url": "https://flash.jin10.com/detail/20260823130908590800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            13,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时32分 ~ 15时35分]"
-        },
-        {
-          "title": "特朗普6月调整投资组合，抛售Meta等股票、买入伯克希尔·哈撒韦",
-          "url": "https://flash.jin10.com/detail/20260823015208413800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            11,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时34分 ~ 04时25分]"
-        },
-        {
-          "title": "沃什将首次以美联储主席身份在杰克逊霍尔发表讲话",
-          "url": "https://flash.jin10.com/detail/20260823042008642800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时24分 ~ 07时29分]"
-        },
-        {
-          "title": "美国前外交官乔伊·胡德：我不相信特朗普关于美国控制霍尔木兹海峡的说法，目前各国正在采取“不同的措施”来应对那里的混乱局面。",
-          "url": "https://flash.jin10.com/detail/20260823111758268800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            15,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时40分 ~ 14时44分]"
-        },
-        {
-          "title": "伊朗安全高官员：特朗普的鲁莽行为促使各国渴望拥有核武器",
-          "url": "https://flash.jin10.com/detail/20260823032509722800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时25分 ~ 05时24分]"
-        },
-        {
-          "title": "美在建航母或改名特朗普",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9C%A8%E5%BB%BA%E8%88%AA%E6%AF%8D%E6%88%96%E6%94%B9%E5%90%8D%E7%89%B9%E6%9C%97%E6%99%AE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时32分"
-        },
-        {
-          "title": "马斯克妈妈在上海被偶遇逛名创优品",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%A6%88%E5%A6%88%E5%9C%A8%E4%B8%8A%E6%B5%B7%E8%A2%AB%E5%81%B6%E9%81%87%E9%80%9B%E5%90%8D%E5%88%9B%E4%BC%98%E5%93%81%23&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时05分"
-        },
-        {
-          "title": "加拿大硬刚特朗普 会驱逐美国大使吗",
-          "url": "https://www.toutiao.com/trending/7676777207243112484/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时32分"
-        },
-        {
-          "title": "特朗普出新招欲让美国儿童少打疫苗",
-          "url": "https://www.toutiao.com/trending/7676765143464181801/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时35分"
-        },
-        {
-          "title": "分析师：特朗普的经济孤立计划可能招致伊朗在波斯湾各地发动打击",
-          "url": "https://flash.jin10.com/detail/20260822213559990800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股 A股 港股 美债 美元 石油 战争",
-      "match_count": 24,
+      "match_count": 30,
       "titles": [
         {
           "title": "特朗普的“大麻烦”：40万亿美元债务，6.5%按揭利率与5美元柴油价格",
@@ -1672,8 +1373,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时40分 ~ 19时24分]"
+          "appearance_count": 13,
+          "time_info": "[12时40分 ~ 20时44分]"
         },
         {
           "title": "30年美债收益率再次逼近5.3% 贝森特大举干市只管用两天？",
@@ -1703,8 +1404,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[03时24分 ~ 19时24分]"
+          "appearance_count": 22,
+          "time_info": "[03时24分 ~ 20时44分]"
         },
         {
           "title": "加拿大将对价值约200亿美元的美国商品征收报复性关税",
@@ -1740,8 +1441,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时05分 ~ 19时24分]"
+          "appearance_count": 14,
+          "time_info": "[11时05分 ~ 20时44分]"
         },
         {
           "title": "美股收盘：三大指数周线齐跌 有色板块上演普涨浪潮",
@@ -1768,6 +1469,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时27分 ~ 06时25分]"
+        },
+        {
+          "title": "今日伊朗里亚尔兑美元汇率创下历史新高，达到20万托曼（合200万里亚尔）；英镑和欧元也分别突破27.2万托曼和23.4万托曼关口。",
+          "url": "https://flash.jin10.com/detail/20260823203139682800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
         },
         {
           "title": "贝森特扩大美债回购是做“玩火”！布鲁金斯学会：美国或重演日本式货币贬值",
@@ -1953,6 +1665,17 @@
           "time_info": "[16时32分 ~ 16时33分]"
         },
         {
+          "title": "伊朗总统：伊朗应摆脱“既非战争、也非和平”状态",
+          "url": "https://wallstreetcn.com/livenews/3153466",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
+        },
+        {
           "title": "美债违约的可能性有多大",
           "url": "https://www.toutiao.com/trending/7677033751519432233/",
           "source": "今日头条",
@@ -1962,6 +1685,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时05分"
+        },
+        {
+          "title": "伊朗石油部长：法尔斯省南部发现7.5万亿立方英尺天然气",
+          "url": "https://wallstreetcn.com/livenews/3153459",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
+        },
+        {
+          "title": "伊朗石油部长：法尔斯省南部发现7.5万亿立方英尺天然气",
+          "url": "https://flash.jin10.com/detail/20260823193320463800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
+        },
+        {
+          "title": "据阿曼国家通讯社：阿曼第二季度净石油收入同比增长10%，达到33亿阿曼里亚尔。",
+          "url": "https://flash.jin10.com/detail/20260823191646698800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
+        },
+        {
+          "title": "据阿曼国家通讯社：阿曼公共收入在2026年第二季度同比增长13%，达到66亿阿曼里亚尔，主要受益于石油收入的增加。阿曼公共支出在2026年第二季度同比增长9%，达到66亿里亚尔。",
+          "url": "https://flash.jin10.com/detail/20260823191638557800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
         },
         {
           "title": "Axios援引美国官员消息称，周五晚上约有1600万桶石油通过霍尔木兹海峡南部航线离开。",
@@ -1977,8 +1744,384 @@
       ]
     },
     {
+      "keyword_group": "特朗普 马斯克 加密货币 美联储",
+      "match_count": 29,
+      "titles": [
+        {
+          "title": "“这次对华让步，特朗普该羞得没脸见人”",
+          "url": "https://news.ifeng.com/c/8vnQpWNT85e",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 19,
+          "time_info": "[00时27分 ~ 16时33分]"
+        },
+        {
+          "title": "【早报】国常会最新部署，事关新一代通信网建设；中际旭创、东山精密、东方财富等发布半年报；加密货币持续走高",
+          "url": "https://www.cls.cn/detail/2461292",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 19,
+          "time_info": "[00时27分 ~ 16时33分]"
+        },
+        {
+          "title": "人均“十万加”，特朗普考虑出兵干预",
+          "url": "https://news.ifeng.com/c/8vnnjMt8Nty",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 26,
+          "time_info": "[00时27分 ~ 20时44分]"
+        },
+        {
+          "title": "特朗普披露6月投资组合“大换血”：减持Meta 买入伯克希尔等股票",
+          "url": "https://www.cls.cn/detail/2461516",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7,
+            6,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[12时40分 ~ 20时44分]"
+        },
+        {
+          "title": "梅洛尼谈特朗普：错付了",
+          "url": "https://news.ifeng.com/c/8vntoGTfOZC",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时27分 ~ 13时32分]"
+        },
+        {
+          "title": "特朗普：可出动美军干预债市",
+          "url": "https://www.cls.cn/detail/2461395",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 26,
+          "time_info": "[00时27分 ~ 20时44分]"
+        },
+        {
+          "title": "披露文件显示特朗普6月进行了逾1000笔证券交易",
+          "url": "https://wallstreetcn.com/livenews/3153431",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            3,
+            7,
+            9,
+            10,
+            11,
+            13,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时32分 ~ 20时44分]"
+        },
+        {
+          "title": "UP主锐评特朗普海军新政",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E9%94%90%E8%AF%84%E7%89%B9%E6%9C%97%E6%99%AE%E6%B5%B7%E5%86%9B%E6%96%B0%E6%94%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16,
+            15,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时32分 ~ 20时44分]"
+        },
+        {
+          "title": "特朗普：未指示贝森特干预美国债市，经济增长将自行化解债务问题",
+          "url": "https://wallstreetcn.com/articles/3780037",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时27分 ~ 05时24分]"
+        },
+        {
+          "title": "马斯克母亲：儿子发自内心喜爱中国",
+          "url": "https://www.toutiao.com/trending/7677043915983277577/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            4,
+            24,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时05分 ~ 15时35分]"
+        },
+        {
+          "title": "释疑｜一天只过几艘船，特朗普却说海峡畅通，哪个是霍尔木兹的“真相”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33825790",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时27分 ~ 03时25分]"
+        },
+        {
+          "title": "马斯克妈妈在上海逛名创优品",
+          "url": "https://www.toutiao.com/trending/7676009565650780186/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
+          "title": "特朗普减肥药“低价计划”遇冷：多数州医疗补助项目拒绝买单",
+          "url": "https://flash.jin10.com/detail/20260823041421837800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            10,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时25分 ~ 07时29分]"
+        },
+        {
+          "title": "特朗普与加拿大的贸易战可能刺痛美国经济",
+          "url": "https://flash.jin10.com/detail/20260823044205401800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            13,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时24分 ~ 09时28分]"
+        },
+        {
+          "title": "美国总统特朗普在社交平台上发布了一张霍尔木兹海峡的地图，并配文称：“美国的新领土。”",
+          "url": "https://flash.jin10.com/detail/20260823054653520800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            17,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时25分 ~ 11时05分]"
+        },
+        {
+          "title": "央视财经专访梅耶马斯克",
+          "url": "https://www.douyin.com/hot/2620042",
+          "source": "抖音",
+          "ranks": [
+            29,
+            27,
+            17,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时25分 ~ 11时05分]"
+        },
+        {
+          "title": "特朗普：加拿大“想当州却不入州” 还对我们收高关税",
+          "url": "https://flash.jin10.com/detail/20260823131131804800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            12,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时32分 ~ 15时35分]"
+        },
+        {
+          "title": "VIP・9折看懂特朗普信号！",
+          "url": "https://flash.jin10.com/detail/20260823090257820800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            13,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时28分 ~ 12时40分]"
+        },
+        {
+          "title": "美国总统特朗普：加拿大多年来也对我们的农民征收了大量关税。",
+          "url": "https://flash.jin10.com/detail/20260823130908590800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            13,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时32分 ~ 15时35分]"
+        },
+        {
+          "title": "特朗普6月调整投资组合，抛售Meta等股票、买入伯克希尔·哈撒韦",
+          "url": "https://flash.jin10.com/detail/20260823015208413800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            11,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时34分 ~ 04时25分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-23）",
+          "url": "https://flash.jin10.com/detail/20260823184420774800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时24分 ~ 20时44分]"
+        },
+        {
+          "title": "沃什将首次以美联储主席身份在杰克逊霍尔发表讲话",
+          "url": "https://flash.jin10.com/detail/20260823042008642800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时24分 ~ 07时29分]"
+        },
+        {
+          "title": "美国前外交官乔伊·胡德：我不相信特朗普关于美国控制霍尔木兹海峡的说法，目前各国正在采取“不同的措施”来应对那里的混乱局面。",
+          "url": "https://flash.jin10.com/detail/20260823111758268800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            15,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时40分 ~ 14时44分]"
+        },
+        {
+          "title": "伊朗安全高官员：特朗普的鲁莽行为促使各国渴望拥有核武器",
+          "url": "https://flash.jin10.com/detail/20260823032509722800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时25分 ~ 05时24分]"
+        },
+        {
+          "title": "美在建航母或改名特朗普",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9C%A8%E5%BB%BA%E8%88%AA%E6%AF%8D%E6%88%96%E6%94%B9%E5%90%8D%E7%89%B9%E6%9C%97%E6%99%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时32分"
+        },
+        {
+          "title": "马斯克妈妈在上海被偶遇逛名创优品",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%A6%88%E5%A6%88%E5%9C%A8%E4%B8%8A%E6%B5%B7%E8%A2%AB%E5%81%B6%E9%81%87%E9%80%9B%E5%90%8D%E5%88%9B%E4%BC%98%E5%93%81%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时05分"
+        },
+        {
+          "title": "加拿大硬刚特朗普 会驱逐美国大使吗",
+          "url": "https://www.toutiao.com/trending/7676777207243112484/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时32分"
+        },
+        {
+          "title": "特朗普出新招欲让美国儿童少打疫苗",
+          "url": "https://www.toutiao.com/trending/7676765143464181801/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时35分"
+        },
+        {
+          "title": "分析师：特朗普的经济孤立计划可能招致伊朗在波斯湾各地发动打击",
+          "url": "https://flash.jin10.com/detail/20260822213559990800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时27分"
+        }
+      ]
+    },
+    {
       "keyword_group": "黄金 白银 铜 铝 稀土",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "贝森特没救成美债却点燃“美元贬值交易”！黄金创三个月新高，比特币单周暴涨超25%",
@@ -2068,6 +2211,17 @@
           "time_info": "[00时27分 ~ 04时25分]"
         },
         {
+          "title": "达利欧：美国3年内或现债务危机，建议配置黄金降低投资风险",
+          "url": "https://news.ifeng.com/c/8vpQrJnSbny",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时43分 ~ 20时44分]"
+        },
+        {
           "title": "近期黄金为何上涨",
           "url": "https://search.bilibili.com/all?keyword=%E8%BF%91%E6%9C%9F%E9%BB%84%E9%87%91%E4%B8%BA%E4%BD%95%E4%B8%8A%E6%B6%A8",
           "source": "bilibili 热搜",
@@ -2107,6 +2261,19 @@
           "time_info": "[15时35分 ~ 19时24分]"
         },
         {
+          "title": "黄金投资者周报上新！",
+          "url": "https://flash.jin10.com/detail/20260823100904867800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            17,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时05分 ~ 20时44分]"
+        },
+        {
           "title": "十五五将建黄金大外环公路",
           "url": "https://www.douyin.com/hot/2619539",
           "source": "抖音",
@@ -2119,19 +2286,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时05分 ~ 14时44分]"
-        },
-        {
-          "title": "黄金投资者周报上新！",
-          "url": "https://flash.jin10.com/detail/20260823100904867800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            17,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时05分 ~ 13时32分]"
         },
         {
           "title": "美国贸易代表格里尔：美国提议将加拿大大部分钢铁产品关税下调至25%，将铝产品关税由50%降至25%。",
@@ -2184,11 +2338,12 @@
             1,
             2,
             3,
-            5
+            5,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时33分 ~ 19时24分]"
+          "appearance_count": 5,
+          "time_info": "[16时33分 ~ 20时44分]"
         },
         {
           "title": "智利外交部：智利将于8月31日关闭驻伊朗大使馆，但不会断绝两国外交关系。该部门表示，此项决定也是出于中东地区安全局势的“预防性”考量。",
