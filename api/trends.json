@@ -1,22 +1,262 @@
 {
-  "generated_at": "2026-08-31T06:31:17.890963+08:00",
-  "total_titles_processed": 403,
+  "generated_at": "2026-08-31T09:12:01.488533+08:00",
+  "total_titles_processed": 570,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "DeepSeek AI openai 机器人 小米 特斯拉 英伟达",
+      "match_count": 21,
+      "titles": [
+        {
+          "title": "下周重磅打新：国产AI芯片龙头，来了",
+          "url": "https://www.cls.cn/detail/2468702",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时09分 ~ 09时12分]"
+        },
+        {
+          "title": "下周重磅日程：中国PMI与美国非农，G20会议，特斯拉Cybercab，博通、智谱财报",
+          "url": "https://wallstreetcn.com/articles/3780528",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时09分 ~ 06时31分]"
+        },
+        {
+          "title": "本周重磅日程：中国PMI与美国非农，G20会议，特斯拉Cybercab，博通、智谱财报",
+          "url": "https://wallstreetcn.com/articles/3780528",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时11分 ~ 09时12分]"
+        },
+        {
+          "title": "250年历史复盘：AI资本开支泡沫离破裂还有多远",
+          "url": "https://wallstreetcn.com/articles/3780654",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时09分 ~ 09时12分]"
+        },
+        {
+          "title": "首席展望丨国联民生孔蓉：AI已迈过从“烧钱”转向“赚钱”的分水岭",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33972170",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时30分 ~ 09时12分]"
+        },
+        {
+          "title": "环球下周看点：8月非农数据重磅来袭 博通财报接棒英伟达",
+          "url": "https://www.cls.cn/detail/2468658",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时09分 ~ 06时31分]"
+        },
+        {
+          "title": "OpenAI新王Astra首测曝光，前端不存在了？",
+          "url": "https://wallstreetcn.com/articles/3780645",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时09分 ~ 06时31分]"
+        },
+        {
+          "title": "马斯克飙脏话，痛斥OpenAI CEO奥尔特曼：不值得信任的混蛋",
+          "url": "https://news.ifeng.com/c/8w0jEyIDiEs",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时09分 ~ 06时31分]"
+        },
+        {
+          "title": "特斯拉推出平价版Model3",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89%E6%8E%A8%E5%87%BA%E5%B9%B3%E4%BB%B7%E7%89%88Model3%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时11分 ~ 09时12分]"
+        },
+        {
+          "title": "AI数据中心扩张“限制性因素”浮现 马斯克：SpaceX正铸造燃气轮机叶片",
+          "url": "https://www.cls.cn/detail/2468847",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时11分 ~ 09时12分]"
+        },
+        {
+          "title": "武契奇与中国机器人“过招”",
+          "url": "https://news.ifeng.com/c/8w1sGcD68Pm",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时11分 ~ 09时12分]"
+        },
+        {
+          "title": "特斯拉推出更平价版Model3",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%96%AF%E6%8B%89%E6%8E%A8%E5%87%BA%E6%9B%B4%E5%B9%B3%E4%BB%B7%E7%89%88Model3",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时11分 ~ 09时12分]"
+        },
+        {
+          "title": "英伟达 CEO 黄仁勋称在很多任务上已实现 AGI，并认为该里程碑已无意义，如何看待？",
+          "url": "https://www.zhihu.com/question/2076323494871283253",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时11分 ~ 09时12分]"
+        },
+        {
+          "title": "如何看DeepSeek和Anthropic估值差异",
+          "url": "https://www.toutiao.com/trending/7679953424703557147/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时11分 ~ 09时12分]"
+        },
+        {
+          "title": "特斯拉开始在中国香港、澳门销售廉价版Model 3",
+          "url": "https://wallstreetcn.com/livenews/3157393",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时09分"
+        },
+        {
+          "title": "塞尔维亚：欧洲首座人形机器人量产基地正式投产，年产最高可达2万台",
+          "url": "https://wallstreetcn.com/livenews/3157391",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时09分"
+        },
+        {
+          "title": "古尔曼：苹果新任CEO面临AI时代挑战 9月迎来重大考验",
+          "url": "https://flash.jin10.com/detail/20260831054837336800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时31分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：人工智能也正在能源、数据中心和初创企业等领域创造就业机会。仅过去6个月，AI初创企业就获得了4000亿美元投资。",
+          "url": "https://flash.jin10.com/detail/20260831052241639800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时31分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：人工智能正在推动制造业回流美国，让这个在经历数十年产业外迁后重新实现工业化。人工智能正在创造新的需求，推动对老化电网和可持续能源的投资，而这些投资由市场力量驱动，而非依靠补贴。",
+          "url": "https://flash.jin10.com/detail/20260831051711776800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时31分"
+        },
+        {
+          "title": "巴克莱报告：AI公司每赚100美元近40美元流向云巨头",
+          "url": "https://wallstreetcn.com/livenews/3157373",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时09分"
+        },
+        {
+          "title": "经济日报：“词元贷”纾解AI企业融资困境",
+          "url": "https://wallstreetcn.com/livenews/3157448",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时12分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特朗普 马斯克 加密货币 美联储",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
         {
           "title": "中选之后，“特朗普交易”要反噬了？",
           "url": "https://wallstreetcn.com/articles/3780643",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时09分 ~ 06时31分]"
+          "appearance_count": 5,
+          "time_info": "[03时09分 ~ 09时12分]"
         },
         {
           "title": "据NBC新闻：美国财长贝森特和美联储主席沃什抵达阿什维尔，参加二十国集团（G20）财长峰会。知情人士透露，两人一同从安德鲁斯空军基地出发。",
@@ -28,6 +268,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时09分"
+        },
+        {
+          "title": "马斯克解决发电瓶颈！SpaceX要自产“燃气轮机叶片”",
+          "url": "https://wallstreetcn.com/articles/3780646",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时09分 ~ 09时12分]"
         },
         {
           "title": "“新美联储通讯社”：沃什目前已经陷入两难的局面，是否加息几乎完全押注在通胀数据上",
@@ -53,17 +305,6 @@
           "time_info": "[03时09分 ~ 06时31分]"
         },
         {
-          "title": "马斯克解决发电瓶颈！SpaceX要自产“燃气轮机叶片”",
-          "url": "https://wallstreetcn.com/articles/3780646",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时09分 ~ 06时31分]"
-        },
-        {
           "title": "替美国打过仗的阿富汗人家属，被特朗普扔去非洲",
           "url": "https://news.ifeng.com/c/8w1BWwoFzwl",
           "source": "凤凰网",
@@ -81,7 +322,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
         },
@@ -92,7 +333,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
         },
@@ -106,6 +347,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时09分"
+        },
+        {
+          "title": "VIP・9折看懂特朗普信号！",
+          "url": "https://flash.jin10.com/detail/20260831090006658800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时12分"
         },
         {
           "title": "博主：“特朗普交易”正一步步崩盘",
@@ -169,7 +421,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
         },
@@ -180,9 +432,31 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
+        },
+        {
+          "title": "特朗普再次抨击加拿大",
+          "url": "https://flash.jin10.com/detail/20260831083907459800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时12分"
+        },
+        {
+          "title": "美国总统特朗普周一日程一览",
+          "url": "https://flash.jin10.com/detail/20260831083143765800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时12分"
         },
         {
           "title": "特朗普敦促FCC调查媒体民调并惩罚NBC主持人",
@@ -202,164 +476,15 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek AI openai 机器人 小米 特斯拉 英伟达",
-      "match_count": 13,
-      "titles": [
-        {
-          "title": "下周重磅打新：国产AI芯片龙头，来了",
-          "url": "https://www.cls.cn/detail/2468702",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时09分 ~ 06时31分]"
-        },
-        {
-          "title": "下周重磅日程：中国PMI与美国非农，G20会议，特斯拉Cybercab，博通、智谱财报",
-          "url": "https://wallstreetcn.com/articles/3780528",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时09分 ~ 06时31分]"
-        },
-        {
-          "title": "250年历史复盘：AI资本开支泡沫离破裂还有多远",
-          "url": "https://wallstreetcn.com/articles/3780654",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时09分 ~ 06时31分]"
-        },
-        {
-          "title": "环球下周看点：8月非农数据重磅来袭 博通财报接棒英伟达",
-          "url": "https://www.cls.cn/detail/2468658",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时09分 ~ 06时31分]"
-        },
-        {
-          "title": "OpenAI新王Astra首测曝光，前端不存在了？",
-          "url": "https://wallstreetcn.com/articles/3780645",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时09分 ~ 06时31分]"
-        },
-        {
-          "title": "马斯克飙脏话，痛斥OpenAI CEO奥尔特曼：不值得信任的混蛋",
-          "url": "https://news.ifeng.com/c/8w0jEyIDiEs",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时09分 ~ 06时31分]"
-        },
-        {
-          "title": "首席展望丨国联民生孔蓉：AI已迈过从“烧钱”转向“赚钱”的分水岭",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33972170",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时30分 ~ 06时31分]"
-        },
-        {
-          "title": "特斯拉开始在中国香港、澳门销售廉价版Model 3",
-          "url": "https://wallstreetcn.com/livenews/3157393",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时09分"
-        },
-        {
-          "title": "塞尔维亚：欧洲首座人形机器人量产基地正式投产，年产最高可达2万台",
-          "url": "https://wallstreetcn.com/livenews/3157391",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时09分"
-        },
-        {
-          "title": "古尔曼：苹果新任CEO面临AI时代挑战 9月迎来重大考验",
-          "url": "https://flash.jin10.com/detail/20260831054837336800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时31分"
-        },
-        {
-          "title": "英伟达CEO黄仁勋：人工智能也正在能源、数据中心和初创企业等领域创造就业机会。仅过去6个月，AI初创企业就获得了4000亿美元投资。",
-          "url": "https://flash.jin10.com/detail/20260831052241639800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时31分"
-        },
-        {
-          "title": "英伟达CEO黄仁勋：人工智能正在推动制造业回流美国，让这个在经历数十年产业外迁后重新实现工业化。人工智能正在创造新的需求，推动对老化电网和可持续能源的投资，而这些投资由市场力量驱动，而非依靠补贴。",
-          "url": "https://flash.jin10.com/detail/20260831051711776800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时31分"
-        },
-        {
-          "title": "巴克莱报告：AI公司每赚100美元近40美元流向云巨头",
-          "url": "https://wallstreetcn.com/livenews/3157373",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时09分"
         }
       ]
     },
     {
       "keyword_group": "美股 A股 港股 美债 美元 石油 战争",
-      "match_count": 12,
+      "match_count": 20,
       "titles": [
         {
           "title": "李大霄提醒11月3日对美股风险",
@@ -379,7 +504,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
         },
@@ -390,7 +515,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
         },
@@ -401,9 +526,22 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
+        },
+        {
+          "title": "特朗普称已与委内瑞拉达成石油协议，网友：公然盗窃",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33974696",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时09分 ~ 09时12分]"
         },
         {
           "title": "装都不装了，五角大楼下场成委内瑞拉石油“股东”？",
@@ -417,16 +555,48 @@
           "time_info": "[03时09分 ~ 06时31分]"
         },
         {
-          "title": "特朗普称已与委内瑞拉达成石油协议，网友：公然盗窃",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33974696",
-          "source": "澎湃新闻",
+          "title": "港股迎全球“长钱”配置 外资6月底以来回流近千亿港元",
+          "url": "https://www.cls.cn/detail/2468688",
+          "source": "财联社热门",
           "ranks": [
-            12,
-            13
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时09分 ~ 06时31分]"
+          "appearance_count": 2,
+          "time_info": "[09时11分 ~ 09时12分]"
+        },
+        {
+          "title": "面对面丨26年前他捐出5000美元种树，如今沙子变成土壤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33976856",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时11分 ~ 09时12分]"
+        },
+        {
+          "title": "谁是A股上半年“盈利王”",
+          "url": "https://www.toutiao.com/trending/7679846103528866313/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时11分 ~ 09时12分]"
+        },
+        {
+          "title": "超3000亿外资A股持仓曝光",
+          "url": "https://s.weibo.com/weibo?q=%E8%B6%853000%E4%BA%BF%E5%A4%96%E8%B5%84A%E8%82%A1%E6%8C%81%E4%BB%93%E6%9B%9D%E5%85%89&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时11分 ~ 09时12分]"
         },
         {
           "title": "印度与乌兹别克斯坦寻求到2030年实现50亿美元双边贸易",
@@ -451,6 +621,28 @@
           "time_info": "03时09分"
         },
         {
+          "title": "A股温度计",
+          "url": "https://flash.jin10.com/detail/20260831085853819800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时12分"
+        },
+        {
+          "title": "美股期货跌幅扩大，纳斯达克100指数期货现跌0.7%。",
+          "url": "https://wallstreetcn.com/livenews/3157466",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时12分"
+        },
+        {
           "title": "德国总理默茨：德国不可能通过补贴来抵消每桶100美元的油价。但我们可以做的，例如，与我们的欧洲伙伴一道，尽一切努力帮助结束伊朗战争，并确保霍尔木兹海峡重新开放。",
           "url": "https://flash.jin10.com/detail/20260831015203888800",
           "source": "金十数据",
@@ -460,6 +652,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时09分"
+        },
+        {
+          "title": "据华尔街日报：美国将入股委内瑞拉大亨贝坦库尔的石油合资企业，持股比35%。",
+          "url": "https://flash.jin10.com/detail/20260831083741451800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时12分"
         },
         {
           "title": "德国财长将在G20会议上就伊朗战争和贸易争端施压",
@@ -479,9 +682,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
+        },
+        {
+          "title": "新经济打开布局窗口，机构竞逐港股基石投资",
+          "url": "https://wallstreetcn.com/livenews/3157454",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时12分"
         },
         {
           "title": "战争进入“第四幕” 伊朗的霍尔木兹筹码可能失灵",
@@ -497,8 +711,93 @@
       ]
     },
     {
+      "keyword_group": "黄金 白银 铜 铝 稀土",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "DRAM芯片克价超黄金",
+          "url": "https://search.bilibili.com/all?keyword=DRAM%E8%8A%AF%E7%89%87%E5%85%8B%E4%BB%B7%E8%B6%85%E9%BB%84%E9%87%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时09分 ~ 09时12分]"
+        },
+        {
+          "title": "现货白银盘初下跌1.00%，现报65.65美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260831060147302800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时31分"
+        },
+        {
+          "title": "周一开盘，现货黄金跳空低开，现报4436美元/盎司，日内跌约0.4%。",
+          "url": "https://flash.jin10.com/detail/20260831060129235800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时31分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 8月31日（周一）早盘盘初下跌2.69%报964.0元/克；<br/>上海黄金交易所白银T+D 8月31日（周一）早盘盘初下跌3.95%报16177.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260831090109657800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时12分"
+        },
+        {
+          "title": "高端铜箔，需求暴涨260%",
+          "url": "https://www.cls.cn/detail/2468518",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时09分 ~ 06时31分]"
+        },
+        {
+          "title": "美元与财政风险担忧升温 韩国散户资金涌入黄金ETF",
+          "url": "https://flash.jin10.com/detail/20260831024209777800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时09分"
+        },
+        {
+          "title": "早盘开盘，国内期货主力合约涨多跌少，SC原油涨超4%，液化石油气（LPG）、钯、聚氯乙烯（PVC）、焦煤涨超3%，碳酸锂、玻璃、低硫燃料油（LU）、氧化铝、纯碱涨超2%。跌幅方面，沪银跌超3%，沪金跌超2%，集运欧线跌近2%，沪锡、沪镍、多晶硅跌超1%。",
+          "url": "https://flash.jin10.com/detail/20260831090003820800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时12分"
+        }
+      ]
+    },
+    {
       "keyword_group": "外交部 商务部 证监会 央行",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "巴基斯坦外交部：伊斯坦布尔会议是根据《麦加联合防务协议》设立的战略政治和防务委员会的首次会议。",
@@ -529,7 +828,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
         },
@@ -551,7 +850,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
         },
@@ -565,68 +864,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时09分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金 白银 铜 铝 稀土",
-      "match_count": 5,
-      "titles": [
+        },
         {
-          "title": "现货白银盘初下跌1.00%，现报65.65美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260831060147302800",
-          "source": "金十数据",
+          "title": "美国财长贝森特：近期日元走势“基本得到控制”。 预计日本央行行长植田和男在首相高市早苗的支持下，将在货币政策上“做出正确抉择”。 （被问及日本央行是否应更激进地加息时表示）我不会告诉他们该怎么做。但我想说，我认为“安倍经济学”——这一旨在刺激通胀的计划——可能已经走到了尽头。",
+          "url": "https://wallstreetcn.com/livenews/3157447",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            30
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时31分"
-        },
-        {
-          "title": "周一开盘，现货黄金跳空低开，现报4436美元/盎司，日内跌约0.4%。",
-          "url": "https://flash.jin10.com/detail/20260831060129235800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时31分"
-        },
-        {
-          "title": "高端铜箔，需求暴涨260%",
-          "url": "https://www.cls.cn/detail/2468518",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时09分 ~ 06时31分]"
-        },
-        {
-          "title": "DRAM芯片克价超黄金",
-          "url": "https://search.bilibili.com/all?keyword=DRAM%E8%8A%AF%E7%89%87%E5%85%8B%E4%BB%B7%E8%B6%85%E9%BB%84%E9%87%91",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时09分 ~ 06时31分]"
-        },
-        {
-          "title": "美元与财政风险担忧升温 韩国散户资金涌入黄金ETF",
-          "url": "https://flash.jin10.com/detail/20260831024209777800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时09分"
+          "time_info": "09时12分"
         }
       ]
     }
