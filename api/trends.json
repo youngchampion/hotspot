@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-03T16:42:09.154124+08:00",
-  "total_titles_processed": 932,
+  "generated_at": "2026-09-03T21:22:20.073858+08:00",
+  "total_titles_processed": 1133,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 美债 美元 石油 战争",
-      "match_count": 65,
+      "match_count": 76,
       "titles": [
         {
           "title": "油价涨势暂歇缓解通胀担忧，美股终结三连跌，戴尔暴涨16%，欧债收益率创数十年新高",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时06分 ~ 16时42分]"
+          "appearance_count": 6,
+          "time_info": "[07时06分 ~ 21时22分]"
         },
         {
           "title": "美股收盘：三大指数终于止跌 博通豪迈业绩指引震惊市场",
@@ -68,17 +68,6 @@
           "time_info": "[11时33分 ~ 11时34分]"
         },
         {
-          "title": "《富爸爸穷爸爸》作者自曝负债 12 亿美元，前妻称系与其合作伙伴共同持有的债务，为啥他会深陷巨额债务？",
-          "url": "https://www.zhihu.com/question/2078539292348004218",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时41分 ~ 16时42分]"
-        },
-        {
           "title": "A股8月开户潮回落，前8个月累计新开已达去年全年92%",
           "url": "https://www.cls.cn/detail/2472767",
           "source": "财联社热门",
@@ -100,6 +89,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时33分 ~ 16时42分]"
+        },
+        {
+          "title": "美联储理事沃勒：美债收益率面临上行压力",
+          "url": "https://flash.jin10.com/detail/20260903211657298800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
         },
         {
           "title": "周三（9月2日），美联储隔夜逆回购协议（RRP）使用规模为5.25亿美元（交易对手1家），上个交易日报7.25亿美元。",
@@ -141,9 +141,21 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时42分"
+        },
+        {
+          "title": "《富爸爸穷爸爸》作者自曝负债 12 亿美元，前妻称系与其合作伙伴共同持有的债务，为啥他会深陷巨额债务？",
+          "url": "https://www.zhihu.com/question/2078539292348004218",
+          "source": "知乎",
+          "ranks": [
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时41分 ~ 21时22分]"
         },
         {
           "title": "英国8月官方储备变动 53.28亿美元，前值-2.81亿美元。",
@@ -152,7 +164,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时42分"
         },
@@ -173,11 +185,12 @@
           "source": "澎湃新闻",
           "ranks": [
             16,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时33分 ~ 16时42分]"
+          "appearance_count": 5,
+          "time_info": "[11时33分 ~ 21时22分]"
         },
         {
           "title": "美国和委内瑞拉签署石油项目协议",
@@ -185,22 +198,24 @@
           "source": "澎湃新闻",
           "ranks": [
             13,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时33分 ~ 16时42分]"
+          "appearance_count": 5,
+          "time_info": "[11时33分 ~ 21时22分]"
         },
         {
           "title": "拒绝反思,日本称战争无责",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28362183&amp;topic_name=%E6%8B%92%E7%BB%9D%E5%8F%8D%E6%80%9D%2C%E6%97%A5%E6%9C%AC%E7%A7%B0%E6%88%98%E4%BA%89%E6%97%A0%E8%B4%A3",
           "source": "贴吧",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时41分 ~ 16时42分]"
+          "appearance_count": 3,
+          "time_info": "[16时41分 ~ 21时22分]"
         },
         {
           "title": "华尔街终于能喘口气：美债收益率小幅回落 “小非农”表现低迷",
@@ -277,9 +292,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时42分"
+        },
+        {
+          "title": "报道：字节跳动获得近300亿美元贷款 规模为亚洲今年以来第二大",
+          "url": "https://wallstreetcn.com/articles/3780976",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
         },
         {
           "title": "美国财政部长贝森特：由于700亿美元的关税退款，今年的预算缺口有所扩大。",
@@ -302,6 +328,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时44分"
+        },
+        {
+          "title": "日元汇率大幅反弹 美股三大期指涨跌不一 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2473472",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
         },
         {
           "title": "博通(AVGO.O)2026财年Q4人工智能半导体营收指引为217亿美元，同比增长236%。",
@@ -335,6 +372,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
+        },
+        {
+          "title": "百亿成交股数创年内次低！A股成交额再次跌破2万亿，融资客近期动向如何？",
+          "url": "https://www.cls.cn/detail/2473298",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
         },
         {
           "title": "博通(AVGO.O)业绩公布后美股盘后下跌6%。",
@@ -398,7 +446,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时42分"
         },
@@ -464,7 +512,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时42分"
         },
@@ -478,6 +526,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
+        },
+        {
+          "title": "美债延续涨势，沃勒鸽派言论后收益率曲线陡化",
+          "url": "https://wallstreetcn.com/livenews/3159957",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
         },
         {
           "title": "美国两年期国债收益率跌约2.5个基点，美股盘前曾跌穿4.36%",
@@ -497,9 +556,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时42分"
+        },
+        {
+          "title": "曝字节获近300亿美元贷款",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E5%AD%97%E8%8A%82%E8%8E%B7%E8%BF%91300%E4%BA%BF%E7%BE%8E%E5%85%83%E8%B4%B7%E6%AC%BE%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
         },
         {
           "title": "雪佛龙一度涨约0.6%，报212.72美元，有望创收盘历史新高，该公司将投资70亿美元、将自家在委内瑞拉的石油产量翻倍。",
@@ -511,6 +581,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
+        },
+        {
+          "title": "美元兑日元跌幅扩大至2%，现报155.56。",
+          "url": "https://wallstreetcn.com/livenews/3159954",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
+        },
+        {
+          "title": "A股变盘窗口即将临近了吗",
+          "url": "https://www.toutiao.com/trending/7681239648495996422/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
         },
         {
           "title": "卡尼延长燃油税减免政策，因战争持续推高能源成本",
@@ -546,6 +638,17 @@
           "time_info": "04时44分"
         },
         {
+          "title": "美债收益率飙升背后，市场盯上一个美联储也算不准的指标",
+          "url": "https://flash.jin10.com/detail/20260903210844134800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
+        },
+        {
           "title": "周三（9月2日）纽约尾盘，ICE美元指数跌0.09%，报99.588点，日内交投区间为99.863-99.436点，北京时间21:19出现一波显著的下跌行情。 彭博美元指数跌0.17%，报1196.52点，日内交投区间为1200.13-1195.36点。",
           "url": "https://wallstreetcn.com/livenews/3159431",
           "source": "华尔街见闻-快讯",
@@ -555,6 +658,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时44分"
+        },
+        {
+          "title": "美股股指期货走高，纳指期货转涨，标普500指数期货涨0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3159951",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
         },
         {
           "title": "乌克兰国家石油天然气公司（Naftogaz）称，挪威应该公司请求扣押一艘俄罗斯船只。",
@@ -585,7 +699,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时42分"
         },
@@ -722,6 +836,17 @@
           "time_info": "07时06分"
         },
         {
+          "title": "美国7月贸易帐 -886亿美元，预期 -745亿美元，前值 -733亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3159943",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
+        },
+        {
           "title": "据知情人士透露，字节跳动已获得一笔296亿美元的贷款，规模为今年亚洲第二大。",
           "url": "https://flash.jin10.com/detail/20260903104520746800",
           "source": "金十数据",
@@ -736,8 +861,21 @@
     },
     {
       "keyword_group": "DeepSeek AI openai 机器人 小米 特斯拉 英伟达",
-      "match_count": 43,
+      "match_count": 51,
       "titles": [
+        {
+          "title": "伯克希尔CEO：巴菲特参与对Alphabet投资，AI数据中心成能源业务重大机遇",
+          "url": "https://wallstreetcn.com/articles/3780917",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时06分 ~ 21时22分]"
+        },
         {
           "title": "AI牛市挑战传统定义：指数跌20%还能算“熊市”吗？",
           "url": "https://www.cls.cn/detail/2472446",
@@ -753,16 +891,17 @@
           "time_info": "[01时43分 ~ 11时34分]"
         },
         {
-          "title": "伯克希尔CEO：巴菲特参与对Alphabet投资，AI数据中心成能源业务重大机遇",
-          "url": "https://wallstreetcn.com/articles/3780917",
+          "title": "博通电话会：未来两年AI收入将连续翻倍至2300亿美元，明年Anthropic或成最大芯片客户、算力部署将达5GW",
+          "url": "https://wallstreetcn.com/articles/3780943",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            5
+            8,
+            6,
+            4
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[07时06分 ~ 16时42分]"
+          "time_info": "[11时33分 ~ 21时22分]"
         },
         {
           "title": "自制AI剧集 长安异闻录",
@@ -844,6 +983,18 @@
           "time_info": "[01时43分 ~ 07时06分]"
         },
         {
+          "title": "RSI时代将至：谷歌、OpenAI、SSI正在发出同一个信号",
+          "url": "https://wallstreetcn.com/articles/3780960",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时41分 ~ 21时22分]"
+        },
+        {
           "title": "仿生机器人女性偏多",
           "url": "https://www.baidu.com/s?wd=%E4%BB%BF%E7%94%9F%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%A5%B3%E6%80%A7%E5%81%8F%E5%A4%9A",
           "source": "百度热搜",
@@ -855,18 +1006,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时43分 ~ 11时34分]"
-        },
-        {
-          "title": "博通电话会：未来两年AI收入将连续翻倍至2300亿美元，明年Anthropic或成最大芯片客户、算力部署将达5GW",
-          "url": "https://wallstreetcn.com/articles/3780943",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时33分 ~ 16时42分]"
         },
         {
           "title": "AI预测LPL哪些队能晋级S16",
@@ -979,17 +1118,6 @@
           "time_info": "[04时44分 ~ 07时06分]"
         },
         {
-          "title": "RSI时代将至：谷歌、OpenAI、SSI正在发出同一个信号",
-          "url": "https://wallstreetcn.com/articles/3780960",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时41分 ~ 16时42分]"
-        },
-        {
           "title": "黄仁勋G20布道“AI经济学”：算力已成国家级基建 未来几年迈向AGI",
           "url": "https://www.cls.cn/detail/2472506",
           "source": "财联社热门",
@@ -1090,6 +1218,39 @@
           "time_info": "07时06分"
         },
         {
+          "title": "黄仁勋G20放话：英伟达今年在美投入近万亿美元，AI如同水电等基础设施，每个国家都要建设",
+          "url": "https://wallstreetcn.com/articles/3780931",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
+        },
+        {
+          "title": "俄机器人飞踢找茬顾客",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28362202&amp;topic_name=%E4%BF%84%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%A3%9E%E8%B8%A2%E6%89%BE%E8%8C%AC%E9%A1%BE%E5%AE%A2",
+          "source": "贴吧",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
+        },
+        {
+          "title": "博通上季营收增86%，AI芯片收入增两倍，本季指引“瑕疵”但AI收入料三年高增，盘后巨震 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3780939",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
+        },
+        {
           "title": "OpenAI首席执行官奥尔特曼：我乐观地认为，人工智能的负面影响可以得到缓解。",
           "url": "https://flash.jin10.com/detail/20260903011637598800",
           "source": "金十数据",
@@ -1134,13 +1295,35 @@
           "time_info": "04时44分"
         },
         {
+          "title": "美联储理事沃勒：AI有望带来通胀下行",
+          "url": "https://flash.jin10.com/detail/20260903211229706800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
+        },
+        {
+          "title": "上海交大内部 PPT 曝光高校 AI 教育困局，课程迭代远落后技术发展，学生反超老师成常态，该怎样破解？",
+          "url": "https://www.zhihu.com/question/2078852068052137174",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
+        },
+        {
           "title": "AI芯片为韩国带来出口“意外之财” 分析师担忧热潮降温后恐留下增长缺口",
           "url": "https://flash.jin10.com/detail/20260903162854105800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时42分"
         },
@@ -1151,7 +1334,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时42分"
         },
@@ -1162,7 +1345,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时42分"
         },
@@ -1176,6 +1359,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
+        },
+        {
+          "title": "特斯拉无人出租车开启内部测试",
+          "url": "https://www.douyin.com/hot/2634103",
+          "source": "抖音",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
+        },
+        {
+          "title": "特斯拉Cybercab开启内部测试",
+          "url": "https://www.toutiao.com/trending/7680462063421227050/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
         },
         {
           "title": "博通CEO：我们正与OpenAI合作开发第三代XPU。",
@@ -1231,12 +1436,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
+        },
+        {
+          "title": "网络故事片创作座谈会召开：合理运用AI等新技术，使其成为创作工具和创作伙伴",
+          "url": "https://wallstreetcn.com/livenews/3159942",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
         }
       ]
     },
     {
       "keyword_group": "特朗普 马斯克 加密货币 美联储",
-      "match_count": 22,
+      "match_count": 46,
       "titles": [
         {
           "title": "特朗普：随时准备新一轮打击，不会持续太久",
@@ -1257,11 +1473,12 @@
           "ranks": [
             11,
             14,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时43分 ~ 16时42分]"
+          "appearance_count": 8,
+          "time_info": "[01时43分 ~ 21时22分]"
         },
         {
           "title": "美伊战火再起？特朗普直言不会持续太久，“戏称”要给霍尔木兹改名！",
@@ -1276,6 +1493,17 @@
           "time_info": "[11时33分 ~ 16时42分]"
         },
         {
+          "title": "金十提示：美联储理事沃勒结束发言。",
+          "url": "https://flash.jin10.com/detail/20260903211638431800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
+        },
+        {
           "title": "美军开始打击伊朗境内目标，特朗普称若伊报复将遭更猛烈打击，伊开始反击，美油盘中涨近6%",
           "url": "https://wallstreetcn.com/articles/3780851",
           "source": "华尔街见闻",
@@ -1285,6 +1513,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
+        },
+        {
+          "title": "美联储理事沃勒：通胀工作组可能对联邦公开市场委员会最有帮助。",
+          "url": "https://flash.jin10.com/detail/20260903211552757800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
+        },
+        {
+          "title": "美联储理事沃勒：通胀工作组可能是最有趣的。",
+          "url": "https://flash.jin10.com/detail/20260903211536227800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
+        },
+        {
+          "title": "美联储理事沃勒：美国正面临不可持续的结构性赤字。 为美国政府债务支付的溢价可能正在消失。 收益率上升部分原因是债务和人工智能融资需求。",
+          "url": "https://wallstreetcn.com/livenews/3159972",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
+        },
+        {
+          "title": "美联储理事沃勒：（关于数据工作组）必须警惕信任问题，需要使用人们可以验证的数据。",
+          "url": "https://flash.jin10.com/detail/20260903211528148800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
         },
         {
           "title": "马斯克G20做出了哪些预测",
@@ -1309,6 +1581,18 @@
           "time_info": "[01时43分 ~ 04时44分]"
         },
         {
+          "title": "六成跌去90%以上，曾经的热门加密货币如今怎样了?",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33993739",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时06分 ~ 21时22分]"
+        },
+        {
           "title": "众议院共和党人对特朗普贸易议程不满 聚焦牛肉和加拿大议题",
           "url": "https://flash.jin10.com/detail/20260903065651735800",
           "source": "金十数据",
@@ -1320,6 +1604,61 @@
           "time_info": "07时06分"
         },
         {
+          "title": "美联储理事沃勒：（关于资产负债表工作组的讨论）将反对任何导致准备金回归稀缺状态的建议。",
+          "url": "https://flash.jin10.com/detail/20260903211513536800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
+        },
+        {
+          "title": "美联储理事沃勒：对沟通工作组的成果并不确定。",
+          "url": "https://flash.jin10.com/detail/20260903211442016800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
+        },
+        {
+          "title": "美联储理事沃勒：预计下月CPI和PPI将“处于合理水平”。 不希望在通胀放缓过程中加息。 我认为潜在增长正在上升。 人工智能尚未体现在企业利润中。 金融环境宽松主要由股市驱动。 美国普通民众未感受到宽松环境。 当前利率水平有望引导通胀回至2%。",
+          "url": "https://wallstreetcn.com/livenews/3159965",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
+        },
+        {
+          "title": "美联储理事沃勒：去年对情景分析观点的反对声音十分强烈。",
+          "url": "https://flash.jin10.com/detail/20260903211436109800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
+        },
+        {
+          "title": "美联储理事沃勒：美联储内部对沟通问题有非常强烈的看法。",
+          "url": "https://flash.jin10.com/detail/20260903211351502800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
+        },
+        {
           "title": "美法官叫停特朗普政府关于“出生公民权”的最新行政令",
           "url": "https://flash.jin10.com/detail/20260903062712739800",
           "source": "金十数据",
@@ -1329,6 +1668,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
+        },
+        {
+          "title": "美联储理事沃勒：适当透露一些未来政策走向会更好。",
+          "url": "https://flash.jin10.com/detail/20260903211340522800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
+        },
+        {
+          "title": "【“新美联储通讯社”Nick Timiraos：美联储沃勒立场出现微妙转向】Nick Timiraos表示，美联储理事沃勒的立场自7月以来并未发生根本改变，但倾向已明显转向。此前他更偏向担忧并倾向于加息，而如今则显得相对乐观，更倾向于维持利率不变。最终将取决于8月通胀数据。",
+          "url": "https://wallstreetcn.com/livenews/3159962",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
+        },
+        {
+          "title": "美联储理事沃勒：“永不解释”是旧模式，祝它好运——那不是什么好模式。",
+          "url": "https://flash.jin10.com/detail/20260903211241195800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
         },
         {
           "title": "9月加息未成定局？美联储“三把手”：是否行动要继续看数据",
@@ -1353,6 +1725,17 @@
           "time_info": "07时06分"
         },
         {
+          "title": "美联储理事沃勒：美联储主席沃什让“完美”成为“良好”的敌人。",
+          "url": "https://flash.jin10.com/detail/20260903211159272800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
+        },
+        {
           "title": "据Politico：据消息人士称，一批共和党议员也希望今晚与特朗普及白宫工作人员讨论其增加进口外国牛肉的计划。来自农业选区的共和党议员此前警告称，这一计划将损害美国农民利益。",
           "url": "https://flash.jin10.com/detail/20260903010455812800",
           "source": "金十数据",
@@ -1362,6 +1745,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
+        },
+        {
+          "title": "美联储理事沃勒：应给通胀回落更多时间，待下一次会议再决定",
+          "url": "https://flash.jin10.com/detail/20260903211113866800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
         },
         {
           "title": "美联储9月维持利率不变的概率为37.7%",
@@ -1375,6 +1769,28 @@
           "time_info": "07时06分"
         },
         {
+          "title": "美联储理事沃勒：（关于美联储的透明度）给市场带来意外并没有任何好处。",
+          "url": "https://flash.jin10.com/detail/20260903211100927800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
+        },
+        {
+          "title": "美联储理事沃勒：对反应函数的完美性看法与美联储主席沃什截然不同。",
+          "url": "https://flash.jin10.com/detail/20260903210959480800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
+        },
+        {
           "title": "特朗普称对哈里王子和梅根·马克尔离开美国“感到高兴”",
           "url": "https://wallstreetcn.com/livenews/3159434",
           "source": "华尔街见闻-快讯",
@@ -1386,17 +1802,6 @@
           "time_info": "04时44分"
         },
         {
-          "title": "六成跌去90%以上，曾经的热门加密货币如今怎样了?",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33993739",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时06分"
-        },
-        {
           "title": "美国总统特朗普：苹果地图已将安大略湖的名称更改为“美国湖”。",
           "url": "https://flash.jin10.com/detail/20260903041133425800",
           "source": "金十数据",
@@ -1406,6 +1811,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时44分"
+        },
+        {
+          "title": "美联储理事沃勒：反应函数的具体量化可能存在缺陷，但从定性角度上看，这一点非常重要。",
+          "url": "https://flash.jin10.com/detail/20260903210923112800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
+        },
+        {
+          "title": "美联储理事沃勒：近期数据显示“通胀正在出现一些缓和迹象”",
+          "url": "https://wallstreetcn.com/livenews/3159953",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
         },
         {
           "title": "美国候任海军部长高雄：越南难民后裔，向特朗普表态将推进造船工作",
@@ -1430,6 +1857,39 @@
           "time_info": "01时43分"
         },
         {
+          "title": "美联储理事沃勒：这只是经济学基础知识，并不是一些“奇怪的建议”。",
+          "url": "https://flash.jin10.com/detail/20260903210840515800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
+        },
+        {
+          "title": "美联储理事沃勒：需要反应机制保持一致。",
+          "url": "https://flash.jin10.com/detail/20260903210835385800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
+        },
+        {
+          "title": "美联储理事沃勒：必须制定美联储的应对规则，否则无法进行预测。",
+          "url": "https://flash.jin10.com/detail/20260903210828648800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
+        },
+        {
           "title": "据华尔街日报：特朗普政府与沙特阿拉伯达成的民用核合作协议新细节引发外界对核扩散风险的担忧。",
           "url": "https://flash.jin10.com/detail/20260903055232859800",
           "source": "金十数据",
@@ -1439,6 +1899,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
+        },
+        {
+          "title": "美联储理事沃勒：别盯着镜子看。",
+          "url": "https://flash.jin10.com/detail/20260903210822992800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
+        },
+        {
+          "title": "美联储理事沃勒：我们的任务是价格稳定和充分就业，而非金融状况。",
+          "url": "https://flash.jin10.com/detail/20260903210801191800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
         },
         {
           "title": "美国总统特朗普：委内瑞拉尚未准备好进行大选。 委内瑞拉在选举日期方面尚未准备就绪。",
@@ -1488,7 +1970,7 @@
     },
     {
       "keyword_group": "黄金 白银 铜 铝 稀土",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "【早报】特朗普：随时准备打击伊朗；美股收涨，结束3连跌；原油、黄金、白银齐涨；涉及A股，重要指数调整",
@@ -1563,11 +2045,12 @@
           "source": "澎湃新闻",
           "ranks": [
             18,
-            20
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时06分 ~ 16时42分]"
+          "appearance_count": 4,
+          "time_info": "[07时06分 ~ 21时22分]"
         },
         {
           "title": "黄金卖压即将枯竭！德银：鹰派美联储冲击有限，主动资金或接棒下一轮涨势",
@@ -1614,6 +2097,28 @@
           "time_info": "01时43分"
         },
         {
+          "title": "夜盘期货开盘，沪金、沪银涨逾2%，苯乙烯、液化石油气、氧化铝涨逾1%；棕榈油、豆二等下跌。",
+          "url": "https://wallstreetcn.com/livenews/3159969",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
+        },
+        {
+          "title": "黄金看涨队伍日益壮大！RBC：年末冲向“5000大关”，有三大顺风",
+          "url": "https://www.cls.cn/detail/2473084",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
+        },
+        {
           "title": "国投白银LOF溢价率重回10%",
           "url": "https://flash.jin10.com/detail/20260903110148024800",
           "source": "金十数据",
@@ -1653,7 +2158,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时42分"
         },
@@ -1664,7 +2169,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时42分"
         },
@@ -1683,7 +2188,7 @@
     },
     {
       "keyword_group": "外交部 商务部 证监会 央行",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "外交部回应敌国条款已经失效",
@@ -1697,6 +2202,17 @@
           "time_info": "[11时33分 ~ 11时34分]"
         },
         {
+          "title": "商务部：敦促法方立即停止反超快时尚法实施",
+          "url": "https://www.cls.cn/detail/2473096",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
+        },
+        {
           "title": "卡塔尔外交部：卡塔尔首相兼外交大臣与阿拉伯埃及共和国外交、移民及侨民事务部长通电话。卡塔尔表示支持所有旨在实现解决方案的外交努力和倡议，以确保海上航行自由。",
           "url": "https://flash.jin10.com/detail/20260903012947774800",
           "source": "金十数据",
@@ -1706,6 +2222,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
+        },
+        {
+          "title": "外交部正告日本右翼势力",
+          "url": "https://www.douyin.com/hot/2634210",
+          "source": "抖音",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
         },
         {
           "title": "伊朗外交部强烈谴责美军袭击伊朗民用基础设施",
@@ -1741,6 +2268,17 @@
           "time_info": "[11时33分 ~ 11时34分]"
         },
         {
+          "title": "外交部：越南无权对西沙建设说三道四",
+          "url": "https://www.toutiao.com/trending/7681208911105507849/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
+        },
+        {
           "title": "美国商务部长：Anthropic已与特朗普政府“修复关系”",
           "url": "https://flash.jin10.com/detail/20260903041949764800",
           "source": "金十数据",
@@ -1769,7 +2307,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时42分"
         },
@@ -1791,7 +2329,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时42分"
         }
