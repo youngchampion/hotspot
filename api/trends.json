@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-08T13:53:08.258347+08:00",
-  "total_titles_processed": 767,
+  "generated_at": "2026-09-08T18:51:43.765107+08:00",
+  "total_titles_processed": 990,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek AI openai 机器人 小米 特斯拉 英伟达",
-      "match_count": 58,
+      "match_count": 73,
       "titles": [
         {
           "title": "黄仁勋：AGI已到来！OpenAI Astra背后是英伟达，40万张GPU即将上线",
@@ -28,8 +28,35 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时38分 ~ 18时51分]"
+        },
+        {
+          "title": "小米推出首款\"中折叠\"旗舰手机，10999元起售，同步披露造芯210亿投入",
+          "url": "https://wallstreetcn.com/articles/3781238",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            4,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时42分 ~ 18时51分]"
+        },
+        {
+          "title": "脱离遥控器，人形机器人全自主格斗！宇树科技又公布新进展",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34025165",
+          "source": "澎湃新闻",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[06时38分 ~ 13时53分]"
+          "time_info": "[09时01分 ~ 18时51分]"
         },
         {
           "title": "小米澎程 N70 系列增程 SUV 发布，售价 20.99 万元起，怎样看待这一定价？竞争力有多强？",
@@ -38,11 +65,12 @@
           "ranks": [
             1,
             2,
-            8
+            8,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时42分 ~ 13时53分]"
+          "appearance_count": 6,
+          "time_info": "[03时42分 ~ 18时51分]"
         },
         {
           "title": "【早报】美股休市；小米汽车最便宜车型出炉；黄金、白银收跌；2家券商，9月15日起停牌直至终止上市；“大肉签”公告，超1.6万股弃购",
@@ -67,32 +95,6 @@
           "time_info": "[03时42分 ~ 09时01分]"
         },
         {
-          "title": "脱离遥控器，人形机器人全自主格斗！宇树科技又公布新进展",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34025165",
-          "source": "澎湃新闻",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时01分 ~ 13时53分]"
-        },
-        {
-          "title": "小米推出首款\"中折叠\"旗舰手机，10999元起售，同步披露造芯210亿投入",
-          "url": "https://wallstreetcn.com/articles/3781238",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时42分 ~ 13时53分]"
-        },
-        {
           "title": "RSI真的来了！OpenAI首席科学家：我们已造出异星心智，全人类都要刹车了",
           "url": "https://wallstreetcn.com/articles/3781186",
           "source": "华尔街见闻",
@@ -102,6 +104,20 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时42分 ~ 06时38分]"
+        },
+        {
+          "title": "小米N90实车抢先深度体验",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B0%8F%E7%B1%B3N90%E5%AE%9E%E8%BD%A6%E6%8A%A2%E5%85%88%E6%B7%B1%E5%BA%A6%E4%BD%93%E9%AA%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            7,
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时42分 ~ 18时51分]"
         },
         {
           "title": "小米澎程系列4分钟锁单破万",
@@ -126,6 +142,17 @@
           "time_info": "03时42分"
         },
         {
+          "title": "特斯拉降价全国订单爆了",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89%E9%99%8D%E4%BB%B7%E5%85%A8%E5%9B%BD%E8%AE%A2%E5%8D%95%E7%88%86%E4%BA%86%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
+        },
+        {
           "title": "小米汽车最便宜车型出炉",
           "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E6%9C%80%E4%BE%BF%E5%AE%9C%E8%BD%A6%E5%9E%8B%E5%87%BA%E7%82%89",
           "source": "百度热搜",
@@ -135,6 +162,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
+        },
+        {
+          "title": "AI短剧热潮：人人都能“造剧” 降本容易掘金难 | 调查",
+          "url": "https://www.cls.cn/detail/2476778",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
+        },
+        {
+          "title": "本川智能：拟投资约20亿元建设年产150万平方米AI算力高多层、高阶HDI电路板项目",
+          "url": "https://wallstreetcn.com/livenews/3161905",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
         },
         {
           "title": "雷军发布小米迄今最贵手机",
@@ -149,17 +198,26 @@
           "time_info": "[03时42分 ~ 09时01分]"
         },
         {
-          "title": "小米N90实车抢先深度体验",
-          "url": "https://search.bilibili.com/all?keyword=%E5%B0%8F%E7%B1%B3N90%E5%AE%9E%E8%BD%A6%E6%8A%A2%E5%85%88%E6%B7%B1%E5%BA%A6%E4%BD%93%E9%AA%8C",
+          "title": "特斯拉降价有门店爆单",
+          "url": "https://www.toutiao.com/trending/7682774950050008630/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
+        },
+        {
+          "title": "DeepSeek V4.1 Flash开启内测",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4.1%20Flash",
           "source": "bilibili 热搜",
           "ranks": [
-            6,
-            7,
-            15
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时42分 ~ 13时53分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
         },
         {
           "title": "乘联分会：特斯拉在八月份出口了36,119辆中国制造的汽车。",
@@ -168,7 +226,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
         },
@@ -182,6 +240,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时38分"
+        },
+        {
+          "title": "小米上演“价格两极”",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E4%B8%8A%E6%BC%94%E2%80%9C%E4%BB%B7%E6%A0%BC%E4%B8%A4%E6%9E%81%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时52分 ~ 18时51分]"
         },
         {
           "title": "小米澎程N90探索版看点总结",
@@ -284,6 +354,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时01分 ~ 13时53分]"
+        },
+        {
+          "title": "小米澎程系列新车首测",
+          "url": "https://www.douyin.com/hot/2639883",
+          "source": "抖音",
+          "ranks": [
+            16,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时52分 ~ 18时51分]"
         },
         {
           "title": "AI偷看成人内容被抓包",
@@ -389,17 +471,6 @@
           "time_info": "[13时52分 ~ 13时53分]"
         },
         {
-          "title": "小米澎程系列新车首测",
-          "url": "https://www.douyin.com/hot/2639883",
-          "source": "抖音",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时52分 ~ 13时53分]"
-        },
-        {
           "title": "马斯克：10年内人形机器人至少10亿台",
           "url": "https://www.toutiao.com/trending/7682353365007220786/",
           "source": "今日头条",
@@ -436,17 +507,6 @@
           "time_info": "[03时42分 ~ 06时38分]"
         },
         {
-          "title": "小米上演“价格两极”",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E4%B8%8A%E6%BC%94%E2%80%9C%E4%BB%B7%E6%A0%BC%E4%B8%A4%E6%9E%81%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时52分 ~ 13时53分]"
-        },
-        {
           "title": "特斯拉Model 3/Y降价",
           "url": "https://www.toutiao.com/trending/7681940225756597803/",
           "source": "今日头条",
@@ -469,6 +529,28 @@
           "time_info": "[13时52分 ~ 13时53分]"
         },
         {
+          "title": "微信内测AI社交：有约饭等需求AI可先行代聊",
+          "url": "https://wallstreetcn.com/articles/3781242",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
+        },
+        {
+          "title": "智己启动“无方向盘”车辆测试、特斯拉Cybercab将登陆中国 线控底盘或升温",
+          "url": "https://www.cls.cn/detail/2477046",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
+        },
+        {
           "title": "GPT-6 Astra零失误通关“我不是机器人” 验证码游戏",
           "url": "https://flash.jin10.com/detail/20260908050735219800",
           "source": "金十数据",
@@ -486,7 +568,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
         },
@@ -500,6 +582,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
+        },
+        {
+          "title": "真正落地的机器人能干啥",
+          "url": "https://search.bilibili.com/all?keyword=%E7%9C%9F%E6%AD%A3%E8%90%BD%E5%9C%B0%E7%9A%84%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%83%BD%E5%B9%B2%E5%95%A5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
+        },
+        {
+          "title": "华为小米苹果折叠屏将在美团闪购首发",
+          "url": "https://wallstreetcn.com/livenews/3161896",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
+        },
+        {
+          "title": "网易有道推出免费AI 原生语音 Agent “网易叭哥说”，语音输入效率达键盘5倍",
+          "url": "https://wallstreetcn.com/livenews/3161895",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
         },
         {
           "title": "小米澎程N70锁单",
@@ -541,9 +656,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
+        },
+        {
+          "title": "小米18 Fold首次拆解",
+          "url": "https://www.douyin.com/hot/2640721",
+          "source": "抖音",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
         },
         {
           "title": "特斯拉推出「0 稀土」电机，这对中国稀土产业意味着什么？",
@@ -555,6 +681,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
+        },
+        {
+          "title": "辣椒炒肉不要辣？炒菜机器人“懵了”",
+          "url": "https://www.baidu.com/s?wd=%E8%BE%A3%E6%A4%92%E7%82%92%E8%82%89%E4%B8%8D%E8%A6%81%E8%BE%A3%EF%BC%9F%E7%82%92%E8%8F%9C%E6%9C%BA%E5%99%A8%E4%BA%BA%E2%80%9C%E6%87%B5%E4%BA%86%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
         },
         {
           "title": "美国国家运输安全委员会（NTSB）就一架波音767亚马逊(AMZN.O)Prime Air货机在迈阿密国际机场冲出跑道事故举行新闻发布会。",
@@ -574,9 +711,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
+        },
+        {
+          "title": "深度求索发布 DeepSeek V4.1 Flash 的中间版本内测，该模型体验如何?",
+          "url": "https://www.zhihu.com/question/2080678583714977593",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
         },
         {
           "title": "英国国王拟举办高规格AI会议 黄仁勋、哈萨比斯受邀",
@@ -599,6 +747,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时38分"
+        },
+        {
+          "title": "小米澎程系列 4 分钟锁单破万，从 SU7 到澎程，小米接连打造爆款，它的打法和新势力、传统车企本质区别在哪？",
+          "url": "https://www.zhihu.com/question/2080588820739788936",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
         },
         {
           "title": "华为苹果小米发布新品各自特点是什么",
@@ -632,6 +791,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时42分"
+        },
+        {
+          "title": "小米最新模型MiMoX发布",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E6%9C%80%E6%96%B0%E6%A8%A1%E5%9E%8BMiMoX%E5%8F%91%E5%B8%83",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
         },
         {
           "title": "小米18Fold正式发布",
@@ -681,7 +851,7 @@
     },
     {
       "keyword_group": "美股 A股 港股 美债 美元 石油 战争",
-      "match_count": 32,
+      "match_count": 40,
       "titles": [
         {
           "title": "盘中触及2700元！A股股价“一哥”剑指历史新高，这些高价股近期也迎修复",
@@ -696,15 +866,38 @@
           "time_info": "[03时42分 ~ 06时38分]"
         },
         {
+          "title": "沙特阿美吉赞石油设施再遭袭击，油价短线跳涨",
+          "url": "https://wallstreetcn.com/articles/3781235",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时01分 ~ 18时51分]"
+        },
+        {
           "title": "A股创新药概念午后拉升，亚太药业直线涨停，百普赛斯涨超10%，万邦医药、皓元医药涨超6%。",
           "url": "https://wallstreetcn.com/livenews/3161715",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
+        },
+        {
+          "title": "委内瑞拉民众对与特朗普的石油协议看法分裂 半数认为美国获益更多",
+          "url": "https://wallstreetcn.com/livenews/3161910",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
         },
         {
           "title": "如何看待全球最大纯电飞机 Heart X1 首飞 27 分钟电费仅用了 5 美元？电动客机能颠覆传统支线航空吗？",
@@ -731,6 +924,17 @@
           "time_info": "09时01分"
         },
         {
+          "title": "如何看待高盛预计人民币未来将持续有序升值，每年升幅约 3% 至 5%，五年后升至 5.5 元人民币兑 1 美元？",
+          "url": "https://www.zhihu.com/question/2080215608046760788",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
+        },
+        {
           "title": "美元指数7日下跌",
           "url": "https://flash.jin10.com/detail/20260908032803705800",
           "source": "金十数据",
@@ -751,17 +955,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时42分"
-        },
-        {
-          "title": "沙特阿美吉赞石油设施再遭袭击，油价短线跳涨",
-          "url": "https://wallstreetcn.com/articles/3781235",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时01分 ~ 13时53分]"
         },
         {
           "title": "如何看待「高盛预计人民币未来将持续有序升值，每年升幅约 3% 至 5%，五年后升至 5.5 元人民币兑 1 美元」？",
@@ -826,7 +1019,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
         },
@@ -840,6 +1033,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时38分"
+        },
+        {
+          "title": "A股今日0跌停",
+          "url": "https://www.toutiao.com/trending/7682638200879595563/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
+        },
+        {
+          "title": "汇丰：将2027年布伦特原油价格预测上调至每桶85美元，之前为65美元，并将2028年及以后长期假设价格上调至每桶75美元。",
+          "url": "https://flash.jin10.com/detail/20260908182236418800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
         },
         {
           "title": "美股休市，纳指期货小幅上涨，日元兑美元涨破155，海峡冲突推动油价上涨",
@@ -870,7 +1085,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
         },
@@ -897,6 +1112,17 @@
           "time_info": "03时42分"
         },
         {
+          "title": "沙特政治分析家：与胡塞武装的战争不太可能持续太久",
+          "url": "https://flash.jin10.com/detail/20260908181939399800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
+        },
+        {
           "title": "中东Abu Dhabi Murban原油期货涨4.37%，报107.81美元/桶。 布伦特11月原油期货收涨0.72美元，涨幅将近0.75%，报97美元/桶。",
           "url": "https://wallstreetcn.com/livenews/3161457",
           "source": "华尔街见闻-快讯",
@@ -908,13 +1134,24 @@
           "time_info": "03时42分"
         },
         {
+          "title": "据知情交易员透露，印度央行周二在境内外汇市场抛售美元以支撑卢比汇率。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3161890",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
+        },
+        {
           "title": "斯里兰卡锡兰石油公司高管：除WTI和西伯利亚轻质原油外，正测试撒哈拉混合油以分散炼油原料来源。",
           "url": "https://flash.jin10.com/detail/20260908131338997800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
         },
@@ -947,7 +1184,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
         },
@@ -969,7 +1206,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
         },
@@ -996,15 +1233,37 @@
           "time_info": "09时01分"
         },
         {
+          "title": "A股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
+        },
+        {
           "title": "A股午后磷肥及磷化工板块持续走高，六国化工涨停，川发龙蟒、和邦生物此前封板, 川金诺涨超10%，兴发集团、澄星股份、云天化、湖北宜化、川恒股份等跟涨。",
           "url": "https://flash.jin10.com/detail/20260908130937417800",
           "source": "金十数据",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
+        },
+        {
+          "title": "据知情交易员透露，印度央行周二在境内外汇市场抛售美元以支撑卢比汇率。",
+          "url": "https://flash.jin10.com/detail/20260908180849375800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
         },
         {
           "title": "文件显示：纬创GDS发行价为每股58.88美元。（彭博）",
@@ -1024,7 +1283,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
         },
@@ -1043,30 +1302,34 @@
     },
     {
       "keyword_group": "黄金 白银 铜 铝 稀土",
-      "match_count": 18,
+      "match_count": 23,
       "titles": [
-        {
-          "title": "铜价“爆了”",
-          "url": "https://www.baidu.com/s?wd=%E9%93%9C%E4%BB%B7%E2%80%9C%E7%88%86%E4%BA%86%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时52分 ~ 13时53分]"
-        },
         {
           "title": "美股休市，美伊冲突推升油价创六周新高，欧股涨跌互现等待CPI，伦铜创历史新高",
           "url": "https://wallstreetcn.com/articles/3781194",
           "source": "华尔街见闻",
           "ranks": [
             7,
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时38分 ~ 13时53分]"
+          "appearance_count": 5,
+          "time_info": "[06时38分 ~ 18时51分]"
+        },
+        {
+          "title": "研究生卖黄金,账户全冻结",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28362861&amp;topic_name=%E7%A0%94%E7%A9%B6%E7%94%9F%E5%8D%96%E9%BB%84%E9%87%91%2C%E8%B4%A6%E6%88%B7%E5%85%A8%E5%86%BB%E7%BB%93",
+          "source": "贴吧",
+          "ranks": [
+            17,
+            18,
+            24,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时42分 ~ 18时51分]"
         },
         {
           "title": "现货黄金周二小幅高开，现报4413.7美元/盎司。",
@@ -1078,6 +1341,41 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时38分"
+        },
+        {
+          "title": "科技、资源双线发力！8月集成电路出口同比翻倍，稀土成品油环比猛增",
+          "url": "https://www.cls.cn/detail/2476761",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
+        },
+        {
+          "title": "铜价“爆了”",
+          "url": "https://www.baidu.com/s?wd=%E9%93%9C%E4%BB%B7%E2%80%9C%E7%88%86%E4%BA%86%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            1,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时52分 ~ 18时51分]"
+        },
+        {
+          "title": "伦铜创历史新高！关税套利引发伦铜挤仓，大矿减产推升供给端压力",
+          "url": "https://wallstreetcn.com/articles/3781257",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时52分 ~ 18时51分]"
         },
         {
           "title": "中泰证券：建议关注贵金属以及受中东供给影响较高的铜、铝",
@@ -1097,7 +1395,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
         },
@@ -1108,22 +1406,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
-        },
-        {
-          "title": "研究生卖黄金,账户全冻结",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28362861&amp;topic_name=%E7%A0%94%E7%A9%B6%E7%94%9F%E5%8D%96%E9%BB%84%E9%87%91%2C%E8%B4%A6%E6%88%B7%E5%85%A8%E5%86%BB%E7%BB%93",
-          "source": "贴吧",
-          "ranks": [
-            17,
-            18,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时42分 ~ 13时53分]"
         },
         {
           "title": "伦铜创下历史新高！美国“抢铜”叠加智利供应受扰 铜市紧张格局升级",
@@ -1162,17 +1447,6 @@
           "time_info": "[09时01分 ~ 13时53分]"
         },
         {
-          "title": "伦铜创历史新高！关税套利引发伦铜挤仓，大矿减产推升供给端压力",
-          "url": "https://wallstreetcn.com/articles/3781257",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时52分 ~ 13时53分]"
-        },
-        {
           "title": "大量黄金正从美英运出",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E9%87%8F%E9%BB%84%E9%87%91%E6%AD%A3%E4%BB%8E%E7%BE%8E%E8%8B%B1%E8%BF%90%E5%87%BA%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
@@ -1182,6 +1456,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时52分 ~ 13时53分]"
+        },
+        {
+          "title": "商品大佬Jeff Currie：美财政部大搞“金融压制”，市场重返“硬资产”时代，黄金1万美元并非空谈",
+          "url": "https://wallstreetcn.com/articles/3781278",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
+        },
+        {
+          "title": "“铜博士”将比“妖镍”还贵？长达近两个世纪的商品铁律或被打破！",
+          "url": "https://www.cls.cn/detail/2476675",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
         },
         {
           "title": "现货黄金站上4430美元/盎司，日内涨0.54%。",
@@ -1228,6 +1524,17 @@
           "time_info": "03时42分"
         },
         {
+          "title": "巴西加入关键矿产竞赛 支持本土稀土项目",
+          "url": "https://flash.jin10.com/detail/20260908181646019800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
+        },
+        {
           "title": "400多克丢失黄金在墙缝中找到",
           "url": "https://www.toutiao.com/trending/7682669085549166628/",
           "source": "今日头条",
@@ -1248,12 +1555,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时42分"
+        },
+        {
+          "title": "中信建投证券董事长刘成：外资正以“真金白银”投下对中国的信任票",
+          "url": "https://wallstreetcn.com/livenews/3161869",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
         }
       ]
     },
     {
       "keyword_group": "外交部 商务部 证监会 央行",
-      "match_count": 14,
+      "match_count": 19,
       "titles": [
         {
           "title": "中金1+2获证监会批文，下周二起停牌，背后是七家机构",
@@ -1345,6 +1663,17 @@
           "time_info": "09时01分"
         },
         {
+          "title": "卡塔尔外交部：霍尔木兹海峡的开放对我们和该地区所有人至关重要。",
+          "url": "https://flash.jin10.com/detail/20260908182158635800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
+        },
+        {
           "title": "“根本性脱节” — 德银策略师称交易员错估了美欧央行加息的力度",
           "url": "https://wallstreetcn.com/livenews/3161464",
           "source": "华尔街见闻-快讯",
@@ -1354,6 +1683,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时42分"
+        },
+        {
+          "title": "卡塔尔外交部：目前本地区“不战不和”的现状不可接受。",
+          "url": "https://flash.jin10.com/detail/20260908182140013800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
+        },
+        {
+          "title": "卡塔尔外交部：卡塔尔正在与其地区伙伴合作，恢复美国与伊朗之间的谈判。",
+          "url": "https://flash.jin10.com/detail/20260908182104363800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
+        },
+        {
+          "title": "外交部：“敌国条款” 至今仍然有效",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%EF%BC%9A%E2%80%9C%E6%95%8C%E5%9B%BD%E6%9D%A1%E6%AC%BE%E2%80%9D+%E8%87%B3%E4%BB%8A%E4%BB%8D%E7%84%B6%E6%9C%89%E6%95%88",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
         },
         {
           "title": "日本第二季度GDP增速上调，支撑日本央行加息预期",
@@ -1409,12 +1771,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时42分"
+        },
+        {
+          "title": "日本央行计划在9月的会议上将利率上调至1.25%。（日本共同社）",
+          "url": "https://wallstreetcn.com/livenews/3161868",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
         }
       ]
     },
     {
       "keyword_group": "特朗普 马斯克 加密货币 美联储",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "伊朗公布一款新型导弹 特朗普威胁在美禁售加拿大庞巴迪产品 | 环球市场",
@@ -1479,11 +1852,12 @@
           "url": "https://www.zhihu.com/question/2080276423739172027",
           "source": "知乎",
           "ranks": [
-            16
+            16,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时52分 ~ 13时53分]"
+          "appearance_count": 3,
+          "time_info": "[13时52分 ~ 18时51分]"
         },
         {
           "title": "非农强劲叠加鹰派表态 瑞银预计美联储年内加息两次",
@@ -1541,6 +1915,17 @@
           "time_info": "06时38分"
         },
         {
+          "title": "特朗普两天发帖90条：新墨西哥州改名“新美国”，美加墨和格陵兰岛全变成“美国”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34027849",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
+        },
+        {
           "title": "英国唐宁街：英国首相伯纳姆今日下午与美国总统特朗普通话。 谈及经济议题，伯纳姆对美国最新就业数据向特朗普表示祝贺，同时指出英国本国经济显现增长积极信号。 伯纳姆称，政府正在为英国营造更多向好态势，相关工作已取得进展，但仍有更多任务有待完成。",
           "url": "https://wallstreetcn.com/livenews/3161453",
           "source": "华尔街见闻-快讯",
@@ -1550,6 +1935,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时42分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-09-08）",
+          "url": "https://flash.jin10.com/detail/20260908181200952800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
         }
       ]
     }
