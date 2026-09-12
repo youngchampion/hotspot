@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T12:14:17.362688+08:00",
-  "total_titles_processed": 703,
+  "generated_at": "2026-09-12T17:05:15.361614+08:00",
+  "total_titles_processed": 912,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时57分 ~ 12时14分]"
+          "appearance_count": 6,
+          "time_info": "[07时57分 ~ 17时05分]"
         },
         {
           "title": "美股收盘：三大指数止跌反弹 芯片股走强费城指数涨近2%",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时57分 ~ 12时14分]"
+          "appearance_count": 6,
+          "time_info": "[07时57分 ~ 17时05分]"
         },
         {
           "title": "仅差131亿元！A股成交额冲击2万亿关口，高换手率股盘点，这些方向活跃度高",
@@ -37,11 +37,12 @@
           "ranks": [
             8,
             9,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时15分 ~ 12时14分]"
+          "appearance_count": 8,
+          "time_info": "[02时15分 ~ 17时05分]"
         },
         {
           "title": "伊朗外交部发言人巴加埃：美国国防部长在9·11事件周年纪念日发表的有关恐怖主义的叙述存在根本矛盾。美国不能一边发动战争、实施袭击并攻击平民，一边声称自己是在打击恐怖主义并定义恐怖主义。",
@@ -143,6 +144,40 @@
           "time_info": "[07时57分 ~ 12时14分]"
         },
         {
+          "title": "IEA警告：伊朗战争拖累石油需求创疫情后最大降幅，警告未来数月恐进一步走弱",
+          "url": "https://wallstreetcn.com/articles/3781588",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时13分 ~ 17时05分]"
+        },
+        {
+          "title": "特朗普连续3天许诺：共和党赢下中期选举，将向所有美国成年人发放5000美元",
+          "url": "https://www.cls.cn/detail/2481345",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时13分 ~ 17时05分]"
+        },
+        {
+          "title": "中东豪门10亿美元入股瑞幸",
+          "url": "https://news.ifeng.com/c/8wM1lNGshI1",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时13分 ~ 17时05分]"
+        },
+        {
           "title": "霓虹博主体验特色石油浴",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363474&amp;topic_name=%E9%9C%93%E8%99%B9%E5%8D%9A%E4%B8%BB%E4%BD%93%E9%AA%8C%E7%89%B9%E8%89%B2%E7%9F%B3%E6%B2%B9%E6%B5%B4",
           "source": "贴吧",
@@ -164,39 +199,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时35分 ~ 07时58分]"
-        },
-        {
-          "title": "IEA警告：伊朗战争拖累石油需求创疫情后最大降幅，警告未来数月恐进一步走弱",
-          "url": "https://wallstreetcn.com/articles/3781588",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时13分 ~ 12时14分]"
-        },
-        {
-          "title": "特朗普连续3天许诺：共和党赢下中期选举，将向所有美国成年人发放5000美元",
-          "url": "https://www.cls.cn/detail/2481345",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时13分 ~ 12时14分]"
-        },
-        {
-          "title": "中东豪门10亿美元入股瑞幸",
-          "url": "https://news.ifeng.com/c/8wM1lNGshI1",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时13分 ~ 12时14分]"
         },
         {
           "title": "巴西央行将于9月15日进行最高10亿美元的即期美元拍卖。",
@@ -543,19 +545,8 @@
     },
     {
       "keyword_group": "DeepSeek AI openai 机器人 小米 特斯拉 英伟达",
-      "match_count": 35,
+      "match_count": 46,
       "titles": [
-        {
-          "title": "数学家为何抵制AI数学黑客松",
-          "url": "https://search.bilibili.com/all?keyword=%E6%95%B0%E5%AD%A6%E5%AE%B6%E4%B8%BA%E4%BD%95%E6%8A%B5%E5%88%B6AI%E6%95%B0%E5%AD%A6%E9%BB%91%E5%AE%A2%E6%9D%BE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时13分 ~ 12时14分]"
-        },
         {
           "title": "美企称伊朗试图利用AI大模型攻击美国军舰，详情披露",
           "url": "https://original.ifeng.com/c/8wLwf1DbPBs",
@@ -564,19 +555,45 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时13分 ~ 12时14分]"
+          "appearance_count": 4,
+          "time_info": "[12时13分 ~ 17时05分]"
         },
         {
-          "title": "陶哲轩发文称「AI 正杀死数学百年开放传统」，你如何看待这一观点？",
-          "url": "https://www.zhihu.com/question/2081393640379893635",
-          "source": "知乎",
+          "title": "学妹干不过AI,翻译专业太严峻",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363454&amp;topic_name=%E5%AD%A6%E5%A6%B9%E5%B9%B2%E4%B8%8D%E8%BF%87AI%2C%E7%BF%BB%E8%AF%91%E4%B8%93%E4%B8%9A%E5%A4%AA%E4%B8%A5%E5%B3%BB",
+          "source": "贴吧",
           "ranks": [
-            4
+            20,
+            24,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时13分 ~ 12时14分]"
+          "appearance_count": 8,
+          "time_info": "[02时15分 ~ 17时05分]"
+        },
+        {
+          "title": "陶哲轩、邓煜等菲奖得主联合抗议 AI 公司数学军备竞赛，AI 是否在毁掉数学？",
+          "url": "https://www.zhihu.com/question/2082035913132193247",
+          "source": "知乎",
+          "ranks": [
+            10,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时13分 ~ 17时05分]"
+        },
+        {
+          "title": "数学家为何抵制AI数学黑客松",
+          "url": "https://search.bilibili.com/all?keyword=%E6%95%B0%E5%AD%A6%E5%AE%B6%E4%B8%BA%E4%BD%95%E6%8A%B5%E5%88%B6AI%E6%95%B0%E5%AD%A6%E9%BB%91%E5%AE%A2%E6%9D%BE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时13分 ~ 17时05分]"
         },
         {
           "title": "特朗普驳斥AI末日论：我只担心发展的不够快",
@@ -592,16 +609,41 @@
           "time_info": "[02时15分 ~ 12时14分]"
         },
         {
-          "title": "学妹干不过AI,翻译专业太严峻",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363454&amp;topic_name=%E5%AD%A6%E5%A6%B9%E5%B9%B2%E4%B8%8D%E8%BF%87AI%2C%E7%BF%BB%E8%AF%91%E4%B8%93%E4%B8%9A%E5%A4%AA%E4%B8%A5%E5%B3%BB",
-          "source": "贴吧",
+          "title": "陶哲轩发文称「AI 正杀死数学百年开放传统」，你如何看待这一观点？",
+          "url": "https://www.zhihu.com/question/2081393640379893635",
+          "source": "知乎",
           "ranks": [
-            20,
-            24
+            4,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时13分 ~ 17时05分]"
+        },
+        {
+          "title": "高盛科技大会收官：巨头齐声看好AI，黄仁勋称供应链上下游均面临挑战",
+          "url": "https://www.cls.cn/detail/2481278",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[02时15分 ~ 12时14分]"
+          "time_info": "[07时57分 ~ 17时05分]"
+        },
+        {
+          "title": "解锁AI韩剧生存模式",
+          "url": "https://www.douyin.com/hot/2645903",
+          "source": "抖音",
+          "ranks": [
+            15,
+            17,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时57分 ~ 17时05分]"
         },
         {
           "title": "美国总统特朗普：对谷歌公司在芬兰投资建设AI中心感到不高兴。",
@@ -639,6 +681,18 @@
           "time_info": "[02时15分 ~ 07时58分]"
         },
         {
+          "title": "菲尔兹奖得主称AI与数学正严重错位",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96%E5%BE%97%E4%B8%BB%E7%A7%B0AI%E4%B8%8E%E6%95%B0%E5%AD%A6%E6%AD%A3%E4%B8%A5%E9%87%8D%E9%94%99%E4%BD%8D%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时13分 ~ 17时05分]"
+        },
+        {
           "title": "撤退信号？“大空头”平仓英伟达和Palantir看跌期权",
           "url": "https://wallstreetcn.com/articles/3781568",
           "source": "华尔街见闻",
@@ -663,17 +717,6 @@
           "time_info": "[02时15分 ~ 07时58分]"
         },
         {
-          "title": "高盛科技大会收官：巨头齐声看好AI，黄仁勋称供应链上下游均面临挑战",
-          "url": "https://www.cls.cn/detail/2481278",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时57分 ~ 12时14分]"
-        },
-        {
           "title": "民警提示用“三秒沉默法”防AI诈骗",
           "url": "https://www.toutiao.com/trending/7684197776951902246/",
           "source": "今日头条",
@@ -687,16 +730,16 @@
           "time_info": "[02时15分 ~ 07时58分]"
         },
         {
-          "title": "解锁AI韩剧生存模式",
-          "url": "https://www.douyin.com/hot/2645903",
-          "source": "抖音",
+          "title": "25位菲尔兹奖得主警告：AI正毁掉数学",
+          "url": "https://www.baidu.com/s?wd=25%E4%BD%8D%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96%E5%BE%97%E4%B8%BB%E8%AD%A6%E5%91%8A%EF%BC%9AAI%E6%AD%A3%E6%AF%81%E6%8E%89%E6%95%B0%E5%AD%A6",
+          "source": "百度热搜",
           "ranks": [
-            15,
-            17
+            23,
+            16
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[07时57分 ~ 12时14分]"
+          "time_info": "[12时13分 ~ 17时05分]"
         },
         {
           "title": "OpenAI或再推进数学七大难题",
@@ -710,6 +753,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时15分 ~ 07时58分]"
+        },
+        {
+          "title": "AirPods 5升级在哪",
+          "url": "https://search.bilibili.com/all?keyword=AirPods%205%E5%8D%87%E7%BA%A7%E5%9C%A8%E5%93%AA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时13分 ~ 17时05分]"
         },
         {
           "title": "强烈建议大家日常一定要把AI用起来",
@@ -737,20 +792,20 @@
           "time_info": "[05时35分 ~ 07时58分]"
         },
         {
-          "title": "DeepSeek 开口说话",
-          "url": "https://www.baidu.com/s?wd=DeepSeek+%E5%BC%80%E5%8F%A3%E8%AF%B4%E8%AF%9D",
-          "source": "百度热搜",
+          "title": "“AI股神”杀回来了：重建此前“爆仓仓位”，但降低杠杆",
+          "url": "https://wallstreetcn.com/articles/3781600",
+          "source": "华尔街见闻",
           "ranks": [
-            7
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时13分 ~ 12时14分]"
+          "time_info": "[17时04分 ~ 17时05分]"
         },
         {
-          "title": "菲尔兹奖得主称AI与数学正严重错位",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96%E5%BE%97%E4%B8%BB%E7%A7%B0AI%E4%B8%8E%E6%95%B0%E5%AD%A6%E6%AD%A3%E4%B8%A5%E9%87%8D%E9%94%99%E4%BD%8D%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
+          "title": "DeepSeek 开口说话",
+          "url": "https://www.baidu.com/s?wd=DeepSeek+%E5%BC%80%E5%8F%A3%E8%AF%B4%E8%AF%9D",
+          "source": "百度热搜",
           "ranks": [
             7
           ],
@@ -770,15 +825,15 @@
           "time_info": "[12时13分 ~ 12时14分]"
         },
         {
-          "title": "陶哲轩、邓煜等菲奖得主联合抗议 AI 公司数学军备竞赛，AI 是否在毁掉数学？",
-          "url": "https://www.zhihu.com/question/2082035913132193247",
-          "source": "知乎",
+          "title": "小米高管称门店客流量暴涨400％",
+          "url": "https://www.toutiao.com/trending/7684182648168759306/",
+          "source": "今日头条",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时13分 ~ 12时14分]"
+          "time_info": "[17时04分 ~ 17时05分]"
         },
         {
           "title": "Anthropic推演AI到2030年三种经济情景：最激进情形年增速达15%",
@@ -803,15 +858,15 @@
           "time_info": "[12时13分 ~ 12时14分]"
         },
         {
-          "title": "AirPods 5升级在哪",
-          "url": "https://search.bilibili.com/all?keyword=AirPods%205%E5%8D%87%E7%BA%A7%E5%9C%A8%E5%93%AA",
-          "source": "bilibili 热搜",
+          "title": "总有人说 AI 写出的作品带 AI 味，那 AI 味究竟是什么？难道 AI 就不能消除 AI 味吗？",
+          "url": "https://www.zhihu.com/question/1962431720520414281",
+          "source": "知乎",
           "ranks": [
-            21
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时13分 ~ 12时14分]"
+          "time_info": "[17时04分 ~ 17时05分]"
         },
         {
           "title": "苹果 小米",
@@ -837,15 +892,15 @@
           "time_info": "[02时15分 ~ 05时35分]"
         },
         {
-          "title": "25位菲尔兹奖得主警告：AI正毁掉数学",
-          "url": "https://www.baidu.com/s?wd=25%E4%BD%8D%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96%E5%BE%97%E4%B8%BB%E8%AD%A6%E5%91%8A%EF%BC%9AAI%E6%AD%A3%E6%AF%81%E6%8E%89%E6%95%B0%E5%AD%A6",
-          "source": "百度热搜",
+          "title": "AirPods 5首发评测",
+          "url": "https://www.douyin.com/hot/2646100",
+          "source": "抖音",
           "ranks": [
-            23
+            24
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时13分 ~ 12时14分]"
+          "time_info": "[17时04分 ~ 17时05分]"
         },
         {
           "title": "AI客服“转人工”为何这样难",
@@ -857,6 +912,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时13分 ~ 12时14分]"
+        },
+        {
+          "title": "AI抢饭碗,数学家急眼",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363786&amp;topic_name=AI%E6%8A%A2%E9%A5%AD%E7%A2%97%2C%E6%95%B0%E5%AD%A6%E5%AE%B6%E6%80%A5%E7%9C%BC",
+          "source": "贴吧",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时04分 ~ 17时05分]"
         },
         {
           "title": "沃什导师、传奇交易员Druckenmiller闭门会议：美国利率偏低，鸽派立场荒谬，AI或有盈利泡沫",
@@ -876,9 +942,31 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
+        },
+        {
+          "title": "中国移动总经理陈扬帆：适度超前建强算力基础设施，AIDC总签约规模超7GW",
+          "url": "https://wallstreetcn.com/livenews/3164296",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时05分"
+        },
+        {
+          "title": "中国移动发布AI可信计算",
+          "url": "https://wallstreetcn.com/livenews/3164295",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时05分"
         },
         {
           "title": "OpenAI证实其正在测试的AI智能体在今年5月对RubyGems发起了网络攻击",
@@ -890,6 +978,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
+        },
+        {
+          "title": "9月12日，小米澎程系列正式开启全国交付，首站落地江苏省徐州市，首批20位车主同日提车。（证券时报）",
+          "url": "https://wallstreetcn.com/livenews/3164293",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时05分"
+        },
+        {
+          "title": "中国移动发布AI可信计算",
+          "url": "https://flash.jin10.com/detail/20260912155130522800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时05分"
+        },
+        {
+          "title": "小米澎程系列正式开启全国交付 首站落地徐州",
+          "url": "https://flash.jin10.com/detail/20260912154358688800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时05分"
+        },
+        {
+          "title": "江苏雷利：已进入多家国内外机器人本体、模组厂商和灵巧手企业供应链",
+          "url": "https://flash.jin10.com/detail/20260912154203203800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时05分"
         },
         {
           "title": "【报道：高盛、美银等争夺管理Anthropic员工IPO巨额财富】华尔街各大银行正竞相争取管理 Anthropic PBC 员工在公司首次公开募股（IPO）后预期积累的财富。Anthropic已要求各机构提交财富管理业务方案，并披露费用、服务及其他运营细节。这家AI公司的上市预计将为员工创造巨额财富，有专家表示，期待此次IPO催生新一批百万富翁是“非常合理的”。",
@@ -909,7 +1041,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
         },
@@ -920,7 +1052,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
         },
@@ -950,18 +1082,19 @@
     },
     {
       "keyword_group": "特朗普 马斯克 加密货币 美联储",
-      "match_count": 24,
+      "match_count": 30,
       "titles": [
         {
           "title": "美国8月CPI报告改变美联储加息叙事：从“加不加”到“加几次”",
           "url": "https://www.cls.cn/detail/2481229",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时15分 ~ 12时14分]"
+          "appearance_count": 8,
+          "time_info": "[02时15分 ~ 17时05分]"
         },
         {
           "title": "下周美联储加息与否，今晚CPI一锤定音？",
@@ -974,6 +1107,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时15分 ~ 12时14分]"
+        },
+        {
+          "title": "“新美联储通讯社”：美联储下周势将加息，一旦开启“很少只加一次”",
+          "url": "https://wallstreetcn.com/articles/3781605",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时13分 ~ 17时05分]"
         },
         {
           "title": "美研究员发出“末日警告”，特朗普：一点不担心",
@@ -999,15 +1144,26 @@
           "time_info": "[02时15分 ~ 12时14分]"
         },
         {
-          "title": "“新美联储通讯社”：美联储下周势将加息，一旦开启“很少只加一次”",
-          "url": "https://wallstreetcn.com/articles/3781605",
+          "title": "高盛也“改口”了：下周美联储会加息！",
+          "url": "https://wallstreetcn.com/articles/3781616",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时13分 ~ 12时14分]"
+          "time_info": "[17时04分 ~ 17时05分]"
+        },
+        {
+          "title": "美国总统特朗普：（关于伊朗）一切都会顺利解决。",
+          "url": "https://flash.jin10.com/detail/20260912170116295800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时05分"
         },
         {
           "title": "油价逼近110+贝森特“帮倒忙”+特朗普“发钱”=“股债双杀”！",
@@ -1069,6 +1225,29 @@
           "time_info": "02时15分"
         },
         {
+          "title": "特朗普还没退场，共和党已经开始抢他的“王位”",
+          "url": "https://original.ifeng.com/c/8wLsgamcRm3",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时13分 ~ 17时05分]"
+        },
+        {
+          "title": "特朗普：如果能重来，我还是会打伊朗！",
+          "url": "https://wallstreetcn.com/articles/3781579",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时13分 ~ 17时05分]"
+        },
+        {
           "title": "特朗普提名的“首席医生”披露持仓：香烟、快餐、碳酸饮料全都有",
           "url": "https://www.cls.cn/detail/2481260",
           "source": "财联社热门",
@@ -1093,15 +1272,15 @@
           "time_info": "[02时15分 ~ 07时58分]"
         },
         {
-          "title": "特朗普还没退场，共和党已经开始抢他的“王位”",
-          "url": "https://original.ifeng.com/c/8wLsgamcRm3",
+          "title": "纽约举办“9·11”纪念活动：特朗普缺席，4位前总统出席",
+          "url": "https://original.ifeng.com/c/8wM2pkaSs1S",
           "source": "凤凰网",
           "ranks": [
-            7
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时13分 ~ 12时14分]"
+          "time_info": "[17时04分 ~ 17时05分]"
         },
         {
           "title": "特朗普盟友：美低估中国科技先进",
@@ -1115,15 +1294,15 @@
           "time_info": "[12时13分 ~ 12时14分]"
         },
         {
-          "title": "特朗普：如果能重来，我还是会打伊朗！",
-          "url": "https://wallstreetcn.com/articles/3781579",
-          "source": "华尔街见闻",
+          "title": "邵永灵：特朗普混成2022年的拜登",
+          "url": "https://www.toutiao.com/trending/7684503900929396266/",
+          "source": "今日头条",
           "ranks": [
-            10
+            23
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时13分 ~ 12时14分]"
+          "time_info": "[17时04分 ~ 17时05分]"
         },
         {
           "title": "前妻曝马斯克居高临下心理操控自己",
@@ -1135,6 +1314,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时13分 ~ 12时14分]"
+        },
+        {
+          "title": "华泰证券：美联储加息成为“必选项”",
+          "url": "https://www.toutiao.com/trending/7683736420344381483/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时04分 ~ 17时05分]"
         },
         {
           "title": "三菱日联预计美联储本月加息25基点，10月将按兵不动",
@@ -1154,7 +1344,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
         },
@@ -1176,7 +1366,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
         },
@@ -1187,7 +1377,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
         },
@@ -1214,6 +1404,17 @@
           "time_info": "07时58分"
         },
         {
+          "title": "机构：美联储加息“从根本上并无必要”，经济整体稳定",
+          "url": "https://flash.jin10.com/detail/20260912145144517800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时05分"
+        },
+        {
           "title": "美联储9月会否加息",
           "url": "https://www.toutiao.com/trending/7684243512283368996/",
           "source": "今日头条",
@@ -1228,7 +1429,7 @@
     },
     {
       "keyword_group": "外交部 商务部 证监会 央行",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "证监会连开罚单！2名证券从业人员、1名百万粉丝财经博主编造虚假信息被罚",
@@ -1238,8 +1439,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时15分 ~ 12时14分]"
+          "appearance_count": 8,
+          "time_info": "[02时15分 ~ 17时05分]"
         },
         {
           "title": "商务部就美国中情局高官公开表示对中国开展间谍活动答记者问",
@@ -1249,8 +1450,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时57分 ~ 12时14分]"
+          "appearance_count": 6,
+          "time_info": "[07时57分 ~ 17时05分]"
         },
         {
           "title": "中方上调日本公民赴华签证费用，外交部：根据对等原则作出安排",
@@ -1390,6 +1591,17 @@
           "time_info": "05时35分"
         },
         {
+          "title": "国家外汇局局长朱鹤新会见香港证监会主席黄天祐、行政总裁梁凤仪",
+          "url": "https://wallstreetcn.com/livenews/3164285",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时05分"
+        },
+        {
           "title": "沙特外交部声明称，东西输油管道遭来自伊拉克的无人机袭击。 应伊拉克总理请求，现阶段选择不采取报复行动。 保留采取一切必要措施维护其主权、安全、设施、公民及居民的权利。",
           "url": "https://wallstreetcn.com/livenews/3164129",
           "source": "华尔街见闻-快讯",
@@ -1419,6 +1631,18 @@
           "time_info": "[02时15分 ~ 07时58分]"
         },
         {
+          "title": "【早报】美联储下周加息概率，飙至90%；美股、黄金齐涨；国常会最新部署！进一步完善算力基础设施",
+          "url": "https://www.cls.cn/detail/2481328",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时13分 ~ 17时05分]"
+        },
+        {
           "title": "美国8月CPI巩固加息预期，但美股仍大幅高开，存储高开低走，10年期美债收益率回落，现货黄金站上4400美元",
           "url": "https://wallstreetcn.com/articles/3781549",
           "source": "华尔街见闻",
@@ -1441,26 +1665,16 @@
           "time_info": "[02时15分 ~ 05时35分]"
         },
         {
-          "title": "【早报】美联储下周加息概率，飙至90%；美股、黄金齐涨；国常会最新部署！进一步完善算力基础设施",
-          "url": "https://www.cls.cn/detail/2481328",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时13分 ~ 12时14分]"
-        },
-        {
           "title": "知名黄金珠宝品牌千叶珠宝疑暴雷，创始人夫妇失联，大量员工称遭欠薪，具体情况如何？",
           "url": "https://www.zhihu.com/question/2081684942476375940",
           "source": "知乎",
           "ranks": [
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时13分 ~ 12时14分]"
+          "appearance_count": 4,
+          "time_info": "[12时13分 ~ 17时05分]"
         },
         {
           "title": "国际金价在美国CPI数据发布日涨约0.7%，一度突破4400美元，本周纽约铜跌1.8%",
