@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-14T08:57:19.706554+08:00",
-  "total_titles_processed": 605,
+  "generated_at": "2026-09-14T13:58:23.570478+08:00",
+  "total_titles_processed": 811,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek AI openai 机器人 小米 特斯拉 英伟达",
-      "match_count": 35,
+      "match_count": 52,
       "titles": [
         {
           "title": "死敌罕见联手！马斯克、Altman支持Dario Amodei“全球放缓AI”呼吁",
@@ -37,11 +37,12 @@
           "ranks": [
             2,
             3,
-            6
+            6,
+            28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时00分 ~ 08时57分]"
+          "appearance_count": 7,
+          "time_info": "[02时00分 ~ 13时58分]"
         },
         {
           "title": "Altman“放话”：OpenAI今年不会IPO，如果AI威胁人类生存，宁愿毁掉IPO",
@@ -68,6 +69,19 @@
           "time_info": "[02时00分 ~ 07时00分]"
         },
         {
+          "title": "我们距离RSI还有多远？来自AI一线的观点",
+          "url": "https://wallstreetcn.com/articles/3781652",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时00分 ~ 13时58分]"
+        },
+        {
           "title": "AI会有数学创新能力吗",
           "url": "https://search.bilibili.com/all?keyword=AI%E4%BC%9A%E6%9C%89%E6%95%B0%E5%AD%A6%E5%88%9B%E6%96%B0%E8%83%BD%E5%8A%9B%E5%90%97",
           "source": "bilibili 热搜",
@@ -80,6 +94,30 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时00分 ~ 08时57分]"
+        },
+        {
+          "title": "AI抢饭碗,数学家急眼",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363786&amp;topic_name=AI%E6%8A%A2%E9%A5%AD%E7%A2%97%2C%E6%95%B0%E5%AD%A6%E5%AE%B6%E6%80%A5%E7%9C%BC",
+          "source": "贴吧",
+          "ranks": [
+            20,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时00分 ~ 13时58分]"
+        },
+        {
+          "title": "【早报】AI巨头呼吁，放缓前沿模型研发；沙特输油管道中断，油价大幅拉升；两场重磅发布会，今日举行",
+          "url": "https://www.cls.cn/detail/2481806",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时57分 ~ 13时58分]"
         },
         {
           "title": "【早报】我国词元消耗量今年将达到10亿亿；英伟达拟斥资100亿美元参投Anthropic IPO",
@@ -106,38 +144,37 @@
           "time_info": "[02时00分 ~ 08时57分]"
         },
         {
-          "title": "我们距离RSI还有多远？来自AI一线的观点",
-          "url": "https://wallstreetcn.com/articles/3781652",
-          "source": "华尔街见闻",
+          "title": "AI短片人生反悔局",
+          "url": "https://search.bilibili.com/all?keyword=AI%E7%9F%AD%E7%89%87%E4%BA%BA%E7%94%9F%E5%8F%8D%E6%82%94%E5%B1%80",
+          "source": "bilibili 热搜",
           "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时00分 ~ 08时57分]"
-        },
-        {
-          "title": "AI抢饭碗,数学家急眼",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28363786&amp;topic_name=AI%E6%8A%A2%E9%A5%AD%E7%A2%97%2C%E6%95%B0%E5%AD%A6%E5%AE%B6%E6%80%A5%E7%9C%BC",
-          "source": "贴吧",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时00分 ~ 08时57分]"
-        },
-        {
-          "title": "【早报】AI巨头呼吁，放缓前沿模型研发；沙特输油管道中断，油价大幅拉升；两场重磅发布会，今日举行",
-          "url": "https://www.cls.cn/detail/2481806",
-          "source": "财联社热门",
-          "ranks": [
-            3
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时57分"
+          "time_info": "13时58分"
+        },
+        {
+          "title": "欧盟官员Albuquerque：难以全面评估AI风险。 AI风险只会持续增加。 做好准备是应对AI的最佳方式。",
+          "url": "https://wallstreetcn.com/livenews/3164600",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
+          "title": "Anthropic CEO谈放缓AI研发：这个行业撒谎太久了，AI风险是真实的，但也无需“把一切都关掉”",
+          "url": "https://wallstreetcn.com/articles/3781672",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
         },
         {
           "title": "AI巨头按下“IPO暂停键”",
@@ -236,6 +273,18 @@
           "time_info": "[02时01分 ~ 04时42分]"
         },
         {
+          "title": "Anthropic CEO呼吁减速：要是路走错了，AI毁灭人类概率不止10%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34060452",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时57分 ~ 13时58分]"
+        },
+        {
           "title": "美国众议院议长约翰逊：AI监管不能仓促推进。 任何立法前应先与AI领袖会面。 特朗普提出的5000美元支票方案不会增加债务。",
           "url": "https://wallstreetcn.com/livenews/3164429",
           "source": "华尔街见闻-快讯",
@@ -287,9 +336,31 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
+        },
+        {
+          "title": "25位菲尔兹奖得主联名愤怒，OpenAI退出赞助：AI正在激怒整个数学界",
+          "url": "https://wallstreetcn.com/articles/3781657",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
+          "title": "AI行业大佬齐呼“放慢脚步”？特朗普淡化担忧：赢AI竞赛者赢天下！",
+          "url": "https://www.cls.cn/detail/2481830",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
         },
         {
           "title": "微软董事长兼首席执行官纳德拉：我们还需要加快AI发展，并扩大AI带来的收益，使其能够广泛惠及不同国家、社区和企业。这需要建立一个前沿生态系统，让闭源模型和开源模型都能够蓬勃发展。",
@@ -303,6 +374,17 @@
           "time_info": "04时42分"
         },
         {
+          "title": "9月14日投资避雷针：超声电子、金安国纪双双澄清 产品通过英伟达认证为不实信息",
+          "url": "https://www.cls.cn/detail/2481837",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
           "title": "微软董事长兼首席执行官纳德拉：任何对超级智能的追求，都必须建立在一项核心原则之上，即如果我们打造的AI不能帮助人类，并且无法受到人类控制，那么这种AI就不值得继续发展。",
           "url": "https://flash.jin10.com/detail/20260914033938695800",
           "source": "金十数据",
@@ -314,15 +396,37 @@
           "time_info": "04时42分"
         },
         {
-          "title": "Anthropic CEO呼吁减速：要是路走错了，AI毁灭人类概率不止10%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34060452",
-          "source": "澎湃新闻",
+          "title": "AI正在疯狂收割数学难题",
+          "url": "https://www.toutiao.com/trending/7685225766430182939/",
+          "source": "今日头条",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时57分"
+          "time_info": "13时58分"
+        },
+        {
+          "title": "“AI领头羊”放慢节奏影响几何？分析师：芯片股短期承压，长期影响不大！",
+          "url": "https://www.cls.cn/detail/2481919",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
+          "title": "富士通将于11月开始在全球销售日本制造的AI芯片",
+          "url": "https://flash.jin10.com/detail/20260914133302850800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
         },
         {
           "title": "马斯克确认特斯拉将直播电动跑车Roadster的发布会活动。",
@@ -336,13 +440,46 @@
           "time_info": "02时01分"
         },
         {
+          "title": "OpenAI CEO Sam Altman：世界应该相信美国AI公司会负责任地行事。 欢迎建立一致的安全要求框架。 转向关注安全的人工智能开发需要新的工具。",
+          "url": "https://wallstreetcn.com/livenews/3164583",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
+          "title": "IDC：二季度全球家用清洁机器人市场出货量同比增长21.5%",
+          "url": "https://wallstreetcn.com/livenews/3164582",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
+          "title": "贾跃亭要一口气发布9款机器人",
+          "url": "https://www.baidu.com/s?wd=%E8%B4%BE%E8%B7%83%E4%BA%AD%E8%A6%81%E4%B8%80%E5%8F%A3%E6%B0%94%E5%8F%91%E5%B8%839%E6%AC%BE%E6%9C%BA%E5%99%A8%E4%BA%BA",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
           "title": "不少网友痴迷看单集几分钟、充满反转与爽点的 AI 短剧，你会看 AI 短剧成瘾吗？看多了会有哪些影响？",
           "url": "https://www.zhihu.com/question/2082371529283559488",
           "source": "知乎",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
         },
@@ -369,15 +506,37 @@
           "time_info": "07时00分"
         },
         {
+          "title": "阿里云宣布，DeepSeek-V4.1-Flash正式上线千问AI平台，相关API服务与Token Plan同步开放。",
+          "url": "https://wallstreetcn.com/livenews/3164576",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
           "title": "AI真正改变的是什么",
           "url": "https://www.toutiao.com/trending/7685036114163273270/",
           "source": "今日头条",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
+        },
+        {
+          "title": "OpenAI：我们支持“放缓”开发人工智能的想法",
+          "url": "https://flash.jin10.com/detail/20260914132146659800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
         },
         {
           "title": "乌克兰计划用机器人替换前线3成兵力",
@@ -386,7 +545,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
         },
@@ -397,7 +556,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
         },
@@ -411,12 +570,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
+        },
+        {
+          "title": "AI巨头齐喊刹车，科技叙事要崩？路在何方？",
+          "url": "https://flash.jin10.com/detail/20260914131059680800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
+          "title": "美巨头呼吁AI刹车 特朗普先想到中国",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%B7%A8%E5%A4%B4%E5%91%BC%E5%90%81AI%E5%88%B9%E8%BD%A6+%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%88%E6%83%B3%E5%88%B0%E4%B8%AD%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
+          "title": "A股机器人概念股震荡走强，万讯自控20cm涨停，科森科技此前封板，奇精机械、浙江荣泰、北自科技、江苏北人涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3164556",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
         }
       ]
     },
     {
       "keyword_group": "特朗普 马斯克 加密货币 美联储",
-      "match_count": 35,
+      "match_count": 44,
       "titles": [
         {
           "title": "“超级周”来袭：美联储会加息吗？霍尔木兹能达成协议吗？",
@@ -470,7 +662,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
         },
@@ -485,6 +677,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时00分 ~ 08时57分]"
+        },
+        {
+          "title": "特朗普在英阿主权争端中偏向阿根廷？阿方表态",
+          "url": "https://original.ifeng.com/c/8wPLgfuiHXV",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
         },
         {
           "title": "特朗普宣布取消美国对爱尔兰威士忌征收的关税",
@@ -510,13 +713,24 @@
           "time_info": "[06时59分 ~ 08时57分]"
         },
         {
+          "title": "一张表看懂！华尔街“彻底信了”：美联储本周加息",
+          "url": "https://www.cls.cn/detail/2481857",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
           "title": "猎鹰火箭完成第700次飞行，马斯克对SpaceX(SPCX.O)项目团队表示祝贺。",
           "url": "https://flash.jin10.com/detail/20260914083505961800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
         },
@@ -530,6 +744,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
+        },
+        {
+          "title": "新加坡交易所准备向美国机构提供加密货币永续期货。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3164596",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
         },
         {
           "title": "特朗普称已要求乌克兰停止袭击俄柴油燃料设施",
@@ -581,6 +806,29 @@
           "time_info": "[02时00分 ~ 04时42分]"
         },
         {
+          "title": "事关中企，特朗普“口头接受”",
+          "url": "https://news.ifeng.com/c/8wP2USEga22",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时57分 ~ 13时58分]"
+        },
+        {
+          "title": "美联储加息概率飙至90%",
+          "url": "https://www.douyin.com/hot/2648413",
+          "source": "抖音",
+          "ranks": [
+            7,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时57分 ~ 13时58分]"
+        },
+        {
           "title": "特朗普：发现加拿大是最难打交道的国家。 加拿大迫切希望达成协议。",
           "url": "https://wallstreetcn.com/livenews/3164463",
           "source": "华尔街见闻-快讯",
@@ -591,6 +839,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时00分 ~ 08时57分]"
+        },
+        {
+          "title": "特朗普称，考虑解密更多“9·11事件”档案",
+          "url": "https://news.ifeng.com/c/8wPBaUnCmNI",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时57分 ~ 13时58分]"
         },
         {
           "title": "特朗普（被问及人工智能行业是否应放缓时表示）：谁赢得人工智能，谁就赢得未来。 我们可以设置保护措施，但有些声音过于消极。",
@@ -641,26 +900,37 @@
           "time_info": "[02时01分 ~ 04时42分]"
         },
         {
-          "title": "事关中企，特朗普“口头接受”",
-          "url": "https://news.ifeng.com/c/8wP2USEga22",
-          "source": "凤凰网",
+          "title": "法巴银行：预计美联储2026年9月至2027年1月加息三次",
+          "url": "https://flash.jin10.com/detail/20260914133921432800",
+          "source": "金十数据",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时57分"
+          "time_info": "13时58分"
         },
         {
-          "title": "美联储加息概率飙至90%",
-          "url": "https://www.douyin.com/hot/2648413",
-          "source": "抖音",
+          "title": "一片“连续加息”声中，特朗普要求美联储降息：美国应拥有全球最低利率",
+          "url": "https://wallstreetcn.com/articles/3781667",
+          "source": "华尔街见闻",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时57分"
+          "time_info": "13时58分"
+        },
+        {
+          "title": "多家投行集体改口：市场正“绑架”美联储？",
+          "url": "https://flash.jin10.com/detail/20260914133843773800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
         },
         {
           "title": "特朗普称考虑解密更多“9·11”事件档案",
@@ -672,17 +942,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时00分"
-        },
-        {
-          "title": "特朗普称，考虑解密更多“9·11事件”档案",
-          "url": "https://news.ifeng.com/c/8wPBaUnCmNI",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时57分"
         },
         {
           "title": "特朗普为“爱尔兰统一”言论辩护，称只是“相当常规的评论”",
@@ -713,9 +972,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
+        },
+        {
+          "title": "特朗普：可以接受中国车企在美建厂",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%8F%AF%E4%BB%A5%E6%8E%A5%E5%8F%97%E4%B8%AD%E5%9B%BD%E8%BD%A6%E4%BC%81%E5%9C%A8%E7%BE%8E%E5%BB%BA%E5%8E%82",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
         },
         {
           "title": "中金：从维护美联储信誉的角度，美联储9月最好是加息",
@@ -724,7 +994,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
         },
@@ -749,6 +1019,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时00分"
+        },
+        {
+          "title": "汇丰：预计美联储将在2026年9月和12月分别加息25个基点，而此前预测为政策保持不变。",
+          "url": "https://flash.jin10.com/detail/20260914133030878800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
         },
         {
           "title": "美国总统特朗普：大部分柴油都来自俄罗斯。俄罗斯的工厂遭到了乌克兰的打击。我已经请求泽连斯基不要袭击那些柴油厂和炼油厂。",
@@ -782,6 +1063,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时00分"
+        },
+        {
+          "title": "英国突遭解体危机，三地独立阵营首次联手，特朗普也发声！",
+          "url": "https://flash.jin10.com/detail/20260914132140299800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
         },
         {
           "title": ".特朗普暗示不排除留在伊朗并取走原油，类比委内瑞拉",
@@ -820,7 +1112,7 @@
     },
     {
       "keyword_group": "美股 A股 港股 美债 美元 石油 战争",
-      "match_count": 26,
+      "match_count": 31,
       "titles": [
         {
           "title": "A股调整临近尾声？投资主线有哪些？十大券商策略来了",
@@ -831,8 +1123,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时00分 ~ 08时57分]"
+          "appearance_count": 7,
+          "time_info": "[02时00分 ~ 13时58分]"
         },
         {
           "title": "与沙特是否处于战争状态？伊朗总统回应",
@@ -851,11 +1143,46 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            9
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时00分 ~ 13时58分]"
+        },
+        {
+          "title": "机构：上周美债收益率上涨是由油价推动",
+          "url": "https://flash.jin10.com/detail/20260914134129721800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
+          "title": "中信建投：加息“靴子”将落地，A股或迎反攻行情",
+          "url": "https://wallstreetcn.com/articles/3781648",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[02时00分 ~ 08时57分]"
+          "time_info": "[02时00分 ~ 13时58分]"
+        },
+        {
+          "title": "A股小金属板块走高，东方钽业涨停，金钛股份、云南锗业、宜安科技、东方锆业、长裕集团跟涨。",
+          "url": "https://flash.jin10.com/detail/20260914134120134800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
         },
         {
           "title": "美国居民净财富二季度飙升12.5万亿美元，创历史最大增幅",
@@ -869,13 +1196,24 @@
           "time_info": "02时01分"
         },
         {
+          "title": "A股PCB概念午后持续走高，澳弘电子、嘉立创走出2连板，此前满坤科技、超声电子、宝鼎科技、中京电子等多股涨停，泰金新能、威尔高均涨超10%。",
+          "url": "https://wallstreetcn.com/livenews/3164598",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
           "title": "中信证券：维持对港股红利策略的推荐",
           "url": "https://flash.jin10.com/detail/20260914083142775800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
         },
@@ -885,18 +1223,6 @@
           "source": "澎湃新闻",
           "ranks": [
             8,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时00分 ~ 07时00分]"
-        },
-        {
-          "title": "中信建投：加息“靴子”将落地，A股或迎反攻行情",
-          "url": "https://wallstreetcn.com/articles/3781648",
-          "source": "华尔街见闻",
-          "ranks": [
             9,
             10
           ],
@@ -928,6 +1254,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时00分 ~ 08时57分]"
+        },
+        {
+          "title": "特朗普盯上伊朗石油：就像在委内瑞拉那样",
+          "url": "https://news.ifeng.com/c/8wPCZU6JFfM",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时57分 ~ 13时58分]"
         },
         {
           "title": "特朗普：石油公司给我打电话，说他们想去北海。 如果英国开放北海石油，他们就能变得富有。 英国若不开放北海，就会“破产”。",
@@ -1008,20 +1345,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
         },
         {
-          "title": "特朗普盯上伊朗石油：就像在委内瑞拉那样",
-          "url": "https://news.ifeng.com/c/8wPCZU6JFfM",
-          "source": "凤凰网",
+          "title": "A股",
+          "url": "https://www.douyin.com/hot/2649077",
+          "source": "抖音",
           "ranks": [
-            7
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时57分"
+          "time_info": "13时58分"
         },
         {
           "title": "中金：上调4Q26布伦特油价中枢预测至85美元/桶",
@@ -1030,7 +1367,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
         },
@@ -1044,6 +1381,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时00分"
+        },
+        {
+          "title": "A股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
         },
         {
           "title": "伊朗布什尔省官员：尽管遭美国封锁，布什尔省出口商品超23亿美元",
@@ -1085,7 +1433,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
         },
@@ -1096,7 +1444,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
         },
@@ -1126,7 +1474,7 @@
     },
     {
       "keyword_group": "外交部 商务部 证监会 央行",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "环球下周看点：央行决议与中东局势牵动市场 美联储加息悬念待揭晓",
@@ -1153,6 +1501,17 @@
           "time_info": "04时42分"
         },
         {
+          "title": "分析师：债券收益率上升与欧洲央行政策考量日益相关",
+          "url": "https://flash.jin10.com/detail/20260914134013321800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
           "title": "本周重要事件与数据预告：超级央行周来袭、中国M2/社零公布",
           "url": "https://flash.jin10.com/detail/20260914064959654800",
           "source": "金十数据",
@@ -1170,7 +1529,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
         },
@@ -1181,7 +1540,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
         },
@@ -1195,12 +1554,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
+        },
+        {
+          "title": "中方 9 月 14 日起上调日本公民赴华签证规费，外交部称依据对等原则安排，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2081779888046995214",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
         }
       ]
     },
     {
       "keyword_group": "黄金 白银 铜 铝 稀土",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
         {
           "title": "央视同事忆敬一丹：她是大姐，也是电视黄金时代的同行者",
@@ -1209,11 +1579,12 @@
           "ranks": [
             3,
             4,
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时00分 ~ 08时57分]"
+          "appearance_count": 7,
+          "time_info": "[02时00分 ~ 13时58分]"
         },
         {
           "title": "金十图示：2026年09月14日（周一）黄金ETF持仓报告",
@@ -1227,13 +1598,46 @@
           "time_info": "07时00分"
         },
         {
+          "title": "男子网络卖金却寄黄铜骗200多万被抓",
+          "url": "https://www.toutiao.com/trending/7685224129494041114/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
+          "title": "出租屋花盆里搜出1930克黄金",
+          "url": "https://www.baidu.com/s?wd=%E5%87%BA%E7%A7%9F%E5%B1%8B%E8%8A%B1%E7%9B%86%E9%87%8C%E6%90%9C%E5%87%BA1930%E5%85%8B%E9%BB%84%E9%87%91",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
+          "title": "黄金",
+          "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
           "title": "中信建投：加息预期充分定价 黄金有望触底回升",
           "url": "https://flash.jin10.com/detail/20260914075726593800",
           "source": "金十数据",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
         }
