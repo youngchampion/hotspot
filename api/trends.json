@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-09-22T00:51:52.473730+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-09-22T04:52:40.405281+08:00",
+  "total_titles_processed": 420,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 美债 美元 石油 战争",
-      "match_count": 15,
+      "match_count": 33,
       "titles": [
+        {
+          "title": "莫斯科遭“最大规模袭击”，乌克兰“击中俄罗斯重要石油工业设施”，全球“炼油危机”加剧",
+          "url": "https://wallstreetcn.com/articles/3782171",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时51分 ~ 04时52分]"
+        },
         {
           "title": "金十图示：2026年09月21日（周一）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260922003147816800",
@@ -19,26 +30,26 @@
           "time_info": "00时51分"
         },
         {
-          "title": "美元刚加完息为何就大幅贬值",
-          "url": "https://www.toutiao.com/trending/7687989318362615359/",
-          "source": "今日头条",
+          "title": "金十图示：2026年09月21日（周一）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260922040545379800",
+          "source": "金十数据",
           "ranks": [
-            4
+            3
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时51分"
+          "time_info": "04时52分"
         },
         {
-          "title": "莫斯科遭“最大规模袭击”，乌克兰“击中俄罗斯重要石油工业设施”，全球“炼油危机”加剧",
-          "url": "https://wallstreetcn.com/articles/3782171",
-          "source": "华尔街见闻",
+          "title": "纳指ETF收涨将近2.9%，与新兴市场ETF领跑美股大类资产类ETF，布油基金跌2.8%",
+          "url": "https://wallstreetcn.com/livenews/3168494",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            3
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时51分"
+          "time_info": "04时52分"
         },
         {
           "title": "金十图示：2026年09月21日（周一）热门中概股行情一览（美股盘中）",
@@ -52,26 +63,84 @@
           "time_info": "00时51分"
         },
         {
+          "title": "金十图示：2026年09月21日（周一）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260922040524971800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时52分"
+        },
+        {
           "title": "市场聚焦中美对话，美股高开，科技股普涨，英特尔涨超9%，油价四连跌",
           "url": "https://wallstreetcn.com/articles/3782211",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时51分"
+          "appearance_count": 2,
+          "time_info": "[00时51分 ~ 04时52分]"
         },
         {
           "title": "油价回落提振风险偏好 美股期指走高 纳指期货涨1% | 今夜看点",
           "url": "https://www.cls.cn/detail/2489316",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时51分 ~ 04时52分]"
+        },
+        {
+          "title": "美元刚加完息为何就大幅贬值",
+          "url": "https://www.toutiao.com/trending/7687989318362615359/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时51分 ~ 04时52分]"
+        },
+        {
+          "title": "AMD总市值首次突破1万亿美元",
+          "url": "https://www.baidu.com/s?wd=AMD%E6%80%BB%E5%B8%82%E5%80%BC%E9%A6%96%E6%AC%A1%E7%AA%81%E7%A0%B41%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时51分 ~ 04时52分]"
+        },
+        {
+          "title": "特朗普回应中美元首会晤",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时51分 ~ 04时52分]"
+        },
+        {
+          "title": "美股收盘：纳指创收盘新高，Meta大涨11%",
+          "url": "https://flash.jin10.com/detail/20260922040317429800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时51分"
+          "time_info": "04时52分"
         },
         {
           "title": "WTI原油回落至91美元/桶下方，日内跌4.49%。",
@@ -85,6 +154,28 @@
           "time_info": "00时51分"
         },
         {
+          "title": "周一（9月21日），美股行业ETF多数收涨，半导体ETF涨4.02%，网络股指数ETF涨3.02%，全球科技股指数ETF涨2.97%，科技行业ETF涨2.89%，可选消费ETF涨1.3%，日常消费品ETF跌0.41%，区域银行ETF跌0.48%，能源业ETF跌2.3%。",
+          "url": "https://wallstreetcn.com/livenews/3168489",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时52分"
+        },
+        {
+          "title": "周一（9月21日），彭博电动汽车价格回报指数涨0.25%，报3265.91点，亚太时段呈现出V形走势，美股时段呈现出V形走势、但整体上延续亚太午盘以来持续走高的表现。",
+          "url": "https://wallstreetcn.com/livenews/3168488",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时52分"
+        },
+        {
           "title": "布伦特原油回落至96美元/桶下方，日内跌3.71%。",
           "url": "https://flash.jin10.com/detail/20260922001350556800",
           "source": "金十数据",
@@ -96,15 +187,26 @@
           "time_info": "00时51分"
         },
         {
-          "title": "AMD总市值首次突破1万亿美元",
-          "url": "https://www.baidu.com/s?wd=AMD%E6%80%BB%E5%B8%82%E5%80%BC%E9%A6%96%E6%AC%A1%E7%AA%81%E7%A0%B41%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83",
-          "source": "百度热搜",
+          "title": "AMD收涨9.9%，市值首次收于1万亿美元整数位心理关口上方。 英特尔收涨12%，创5月份以来最大单日涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3168486",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时52分"
+        },
+        {
+          "title": "成交总金额约8亿元！1600亿A股存储龙头回购计划实施完毕|盘后公告集锦",
+          "url": "https://www.cls.cn/detail/2489295",
+          "source": "财联社热门",
           "ranks": [
             13
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时51分"
+          "time_info": "04时52分"
         },
         {
           "title": "匈牙利MOL公司：与乌克兰国家石油天然气公司（Naftogaz）签署的旨在为乌克兰建立燃料储备的战略存储意向书，符合国际合作的框架。",
@@ -118,6 +220,17 @@
           "time_info": "00时51分"
         },
         {
+          "title": "长端美债收益率下跌",
+          "url": "https://wallstreetcn.com/livenews/3168479",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时52分"
+        },
+        {
           "title": "一艘液化石油气运输船在霍尔木兹海峡遇袭",
           "url": "https://wallstreetcn.com/livenews/3168400",
           "source": "华尔街见闻-快讯",
@@ -127,6 +240,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时51分"
+        },
+        {
+          "title": "利比亚国家石油公司（NOC）发表声明称，周一，一伙武装分子关闭了通往扎维耶港的沙拉拉原油管道上的7号阀门，导致沙拉拉油田产量急剧下降。",
+          "url": "https://flash.jin10.com/detail/20260922033211453800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时52分"
+        },
+        {
+          "title": "特朗普政府拟拨款50亿美元用于重建中东能源设施",
+          "url": "https://flash.jin10.com/detail/20260922033005045800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时52分"
+        },
+        {
+          "title": "利比亚国家石油公司：由于Sharara油田大幅减产，通往Zawiya出口枢纽的输油管线关闭。 如果问题持续，将持续暂停Sharara油田的产量和出口。",
+          "url": "https://wallstreetcn.com/livenews/3168475",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时52分"
         },
         {
           "title": "匈牙利石油天然气集团：在此阶段，本集团无需让匈牙利政府参与准备工作。",
@@ -140,6 +286,28 @@
           "time_info": "00时51分"
         },
         {
+          "title": "据华尔街日报：特朗普政府提议投入50亿美元，启动投资基金以重建海湾能源设施。",
+          "url": "https://flash.jin10.com/detail/20260922031412335800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时52分"
+        },
+        {
+          "title": "周一（9月21日）纽约尾盘，美元兑日元涨0.33%，报157.40日元，日内交投区间为156.58-157.53日元，整体持续走低走高、北京时间09:26刷新日低，不断逼近200日均线（该技术指标目前报158.42日元）——此前在9月3日跌破该技术指标，50日均线已经下移至158.97日元。 欧元兑日元涨0.17%，英镑兑日元涨0.17%，日元兑离岸人民币跌0.38%。",
+          "url": "https://wallstreetcn.com/livenews/3168472",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时52分"
+        },
+        {
           "title": "匈牙利石油天然气集团：与乌克兰Naftogaz签署的关于为乌克兰建立燃料储备设施的意向书，符合国际合作框架。我们与乌克兰合作伙伴达成一致，认为这个想法值得探索，但我们仍处于项目的初期阶段。",
           "url": "https://flash.jin10.com/detail/20260921234309817800",
           "source": "金十数据",
@@ -149,6 +317,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时51分"
+        },
+        {
+          "title": "美元指数21日上涨",
+          "url": "https://flash.jin10.com/detail/20260922030929876800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时52分"
+        },
+        {
+          "title": "周一（9月21日）纽约尾盘，ICE美元指数涨0.19%，报100.411点，日内交投区间为100.179-100.451点，整体持续走高，北京时间100:00、200:00先后出现一波V形反转行情，20:06刷新日低。 彭博美元指数涨0.10%，报1204.30点，日内交投区间为1202.26-1204.81点。",
+          "url": "https://wallstreetcn.com/livenews/3168470",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时52分"
         },
         {
           "title": "加拿大央行行长Macklem提出，存在加息推迟太久的风险。 央行称，（与美国的）贸易战可能会造成四季度增速低于1%。 高油价意味着通胀可能会上扬。 到目前为止，尚未看到更高的油价正在向其他商品和服务扩散的证据。 最近的天然气价格与油价相比更加一致，油价几乎比之前高出40美元。 如果通胀压力得到控制，不希望加息以抑制增长。 越来越多的证据表明，许多加拿大企业已开始适应美国关税政策。 预计未来几年劳动力增长将接近零。",
@@ -162,22 +352,44 @@
           "time_info": "00时51分"
         },
         {
-          "title": "特朗普回应中美元首会晤",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
+          "title": "摩根大通与卡塔尔投资局拟建立200亿美元投资伙伴关系",
+          "url": "https://wallstreetcn.com/livenews/3168467",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时52分"
+        },
+        {
+          "title": "报道：特朗普政府提议拨款50亿美元，启动海湾能源设施重建投资基金",
+          "url": "https://wallstreetcn.com/livenews/3168465",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             30
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时51分"
+          "time_info": "04时52分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek AI openai 机器人 小米 特斯拉 英伟达",
-      "match_count": 12,
+      "match_count": 16,
       "titles": [
+        {
+          "title": "美财长：中美将在深圳继续讨论AI问题",
+          "url": "https://news.ifeng.com/c/8wbmzYhjlJY",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时51分 ~ 04时52分]"
+        },
         {
           "title": "特斯拉人形机器人“量产”更近一步，一图看懂A股人形机器人产业链",
           "url": "https://www.cls.cn/detail/2488949",
@@ -190,37 +402,62 @@
           "time_info": "00时51分"
         },
         {
-          "title": "美财长：中美将在深圳继续讨论AI问题",
-          "url": "https://news.ifeng.com/c/8wbmzYhjlJY",
-          "source": "凤凰网",
+          "title": "独家｜产业链人士：特斯拉机器人团队在长三角审厂，多家企业已获订单",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34113571",
+          "source": "澎湃新闻",
           "ranks": [
-            2
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时51分"
+          "appearance_count": 2,
+          "time_info": "[00时51分 ~ 04时52分]"
         },
         {
           "title": "AI在哥德巴赫猜想上有何新进展",
           "url": "https://search.bilibili.com/all?keyword=AI%E5%9C%A8%E5%93%A5%E5%BE%B7%E5%B7%B4%E8%B5%AB%E7%8C%9C%E6%83%B3%E4%B8%8A%E6%9C%89%E4%BD%95%E6%96%B0%E8%BF%9B%E5%B1%95",
           "source": "bilibili 热搜",
           "ranks": [
-            4
+            4,
+            25
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时51分"
+          "appearance_count": 2,
+          "time_info": "[00时51分 ~ 04时52分]"
         },
         {
-          "title": "独家｜产业链人士：特斯拉机器人团队在长三角审厂，多家企业已获订单",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34113571",
-          "source": "澎湃新闻",
+          "title": "如何看待多个模型公司声明放缓AI发展",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%A4%9A%E4%B8%AA%E6%A8%A1%E5%9E%8B%E5%85%AC%E5%8F%B8%E5%A3%B0%E6%98%8E%E6%94%BE%E7%BC%93AI%E5%8F%91%E5%B1%95",
+          "source": "bilibili 热搜",
           "ranks": [
-            5
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时51分"
+          "appearance_count": 2,
+          "time_info": "[00时51分 ~ 04时52分]"
+        },
+        {
+          "title": "众擎T800机器人一脚踢翻人类拳手",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%97%E6%93%8ET800%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%80%E8%84%9A%E8%B8%A2%E7%BF%BB%E4%BA%BA%E7%B1%BB%E6%8B%B3%E6%89%8B",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时51分 ~ 04时52分]"
+        },
+        {
+          "title": "难绷,小米高粱成印度传统食物",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28364921&amp;topic_name=%E9%9A%BE%E7%BB%B7%2C%E5%B0%8F%E7%B1%B3%E9%AB%98%E7%B2%B1%E6%88%90%E5%8D%B0%E5%BA%A6%E4%BC%A0%E7%BB%9F%E9%A3%9F%E7%89%A9",
+          "source": "贴吧",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时51分 ~ 04时52分]"
         },
         {
           "title": "OpenAI与Anthropic带来高昂成本，迫使初创企业转向开源模型",
@@ -256,17 +493,6 @@
           "time_info": "00时51分"
         },
         {
-          "title": "如何看待多个模型公司声明放缓AI发展",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%A4%9A%E4%B8%AA%E6%A8%A1%E5%9E%8B%E5%85%AC%E5%8F%B8%E5%A3%B0%E6%98%8E%E6%94%BE%E7%BC%93AI%E5%8F%91%E5%B1%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时51分"
-        },
-        {
           "title": "【SpacexAI推出Grok 4.7，速度是同类产品的两倍，价格仅为其一半】SpaceXAI：SpaceXAI发布Grok 4.7，速度翻倍，价格仅为同类模型的一半。Grok 4.7定价为每百万输入Token 2美元，每百万输出Token 6美元。Grok 4.7现已通过Cursor、Grok Build、API、第三方调用框架以及各大云平台全面开放使用。",
           "url": "https://wallstreetcn.com/livenews/3168406",
           "source": "华尔街见闻-快讯",
@@ -278,15 +504,37 @@
           "time_info": "00时51分"
         },
         {
-          "title": "众擎T800机器人一脚踢翻人类拳手",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%97%E6%93%8ET800%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%80%E8%84%9A%E8%B8%A2%E7%BF%BB%E4%BA%BA%E7%B1%BB%E6%8B%B3%E6%89%8B",
-          "source": "百度热搜",
+          "title": "去年全球人形机器人销量达7000台 今年出货量预计突破9万台",
+          "url": "https://www.cls.cn/detail/2489019",
+          "source": "财联社热门",
           "ranks": [
-            14
+            12
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时51分"
+          "time_info": "04时52分"
+        },
+        {
+          "title": "AI短剧征集倒计时：申报者想讲钟馗、科幻、历史，更想“定义标准”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34114249",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时52分"
+        },
+        {
+          "title": "小米汽车仅公布首批和首销月数据",
+          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E4%BB%85%E5%85%AC%E5%B8%83%E9%A6%96%E6%89%B9%E5%92%8C%E9%A6%96%E9%94%80%E6%9C%88%E6%95%B0%E6%8D%AE&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时52分"
         },
         {
           "title": "SpaceXAI推出Grok 4.7",
@@ -300,21 +548,21 @@
           "time_info": "00时51分"
         },
         {
-          "title": "难绷,小米高粱成印度传统食物",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28364921&amp;topic_name=%E9%9A%BE%E7%BB%B7%2C%E5%B0%8F%E7%B1%B3%E9%AB%98%E7%B2%B1%E6%88%90%E5%8D%B0%E5%BA%A6%E4%BC%A0%E7%BB%9F%E9%A3%9F%E7%89%A9",
-          "source": "贴吧",
+          "title": "OpenAI被曝开发新功能",
+          "url": "https://www.baidu.com/s?wd=OpenAI%E8%A2%AB%E6%9B%9D%E5%BC%80%E5%8F%91%E6%96%B0%E5%8A%9F%E8%83%BD",
+          "source": "百度热搜",
           "ranks": [
-            30
+            27
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时51分"
+          "time_info": "04时52分"
         }
       ]
     },
     {
       "keyword_group": "特朗普 马斯克 加密货币 美联储",
-      "match_count": 6,
+      "match_count": 11,
       "titles": [
         {
           "title": "特朗普政府誓要搞垮国际刑事法院，“正酝酿全面制裁”",
@@ -324,8 +572,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时51分"
+          "appearance_count": 2,
+          "time_info": "[00时51分 ~ 04时52分]"
         },
         {
           "title": "据两名美国高级官员向 News 12 记者透露，特朗普曾考虑在周末下令对也门胡塞武装发动袭击，但目前已决定暂不采取行动。",
@@ -361,6 +609,17 @@
           "time_info": "00时51分"
         },
         {
+          "title": "美国总统特朗普：目前身处纽约，正在前往纽约市市长官邸。这些年来，我在那里度过了许多时光，结识过一些杰出的市长、一些平庸的市长，还有一些糟糕的市长。这次受纽约市长曼达尼的邀请，去看看它如今是什么样子，应该会很有意思。我对此充满期待。",
+          "url": "https://flash.jin10.com/detail/20260922035709598800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时52分"
+        },
+        {
           "title": "马斯克：7天后，首艘载有Starlink V3卫星的星舰将进入轨道，这些卫星将投入实际运行。",
           "url": "https://flash.jin10.com/detail/20260922001615746800",
           "source": "金十数据",
@@ -372,6 +631,39 @@
           "time_info": "00时51分"
         },
         {
+          "title": "特朗普施压泽连斯基：停止袭击俄罗斯炼厂，“都是柴油、柴油、柴油”",
+          "url": "https://wallstreetcn.com/articles/3782225",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时52分"
+        },
+        {
+          "title": "美国总统特朗普：我们一如既往地会提起上诉，因为那些只写负面报道的假新闻人士和媒体，他们利用来源不明的“消息人士”撰写虚假且诽谤性的报道，危害我们国家安全，绝不应被允许进入世界上最重要的办公室。",
+          "url": "https://flash.jin10.com/detail/20260922034438716800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时52分"
+        },
+        {
+          "title": "美国总统特朗普：不出所料，假新闻网站CNN、Politico、以及MSNOW已提起诉讼，要求获得进入白宫及接近总统先生的权限。",
+          "url": "https://flash.jin10.com/detail/20260922034253480800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时52分"
+        },
+        {
           "title": "特朗普：谁赢得人工智能，谁就赢得胜利",
           "url": "https://flash.jin10.com/detail/20260921235042565800",
           "source": "金十数据",
@@ -381,12 +673,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时51分"
+        },
+        {
+          "title": "特朗普登上美国总统的专车前往纽约市市长官邸，他将在那里与纽约市市长会面。",
+          "url": "https://wallstreetcn.com/livenews/3168477",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时52分"
         }
       ]
     },
     {
       "keyword_group": "外交部 商务部 证监会 央行",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "加拿大央行行长麦克勒姆：不确定性的新纪元不会很快消失。",
@@ -404,11 +707,12 @@
           "url": "https://wallstreetcn.com/articles/3782205",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时51分"
+          "appearance_count": 2,
+          "time_info": "[00时51分 ~ 04时52分]"
         },
         {
           "title": "路透调查：全部32位分析师预计，墨西哥央行将于9月24日将关键利率维持在6.50%不变。",
@@ -433,6 +737,17 @@
           "time_info": "00时51分"
         },
         {
+          "title": "据伊朗塔斯尼姆通讯社：卡塔尔外交部发言人表示，卡塔尔正致力于促成华盛顿与德黑兰之间达成协议，哪怕只是短期协议。",
+          "url": "https://flash.jin10.com/detail/20260922030710682800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时52分"
+        },
+        {
           "title": "伊朗外交部长阿拉格齐：以色列游说集团在掌控美国对伊政策方面，正变得愈发肆无忌惮。 该游说集团的“扩音器”宣称，美国的政策必须确保：只要以色列受到任何轻微的冒犯，美国就必须为此付出代价。 华盛顿是时候挣脱这些枷锁了。",
           "url": "https://wallstreetcn.com/livenews/3168389",
           "source": "华尔街见闻-快讯",
@@ -447,7 +762,7 @@
     },
     {
       "keyword_group": "黄金 白银 铜 铝 稀土",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "中国队已夺23金10银5铜",
@@ -457,8 +772,19 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时51分 ~ 04时52分]"
+        },
+        {
+          "title": "伊朗男篮赢中国获铜牌全队免服兵役",
+          "url": "https://www.toutiao.com/trending/7687041430028124187/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时51分"
+          "time_info": "04时52分"
         }
       ]
     }
