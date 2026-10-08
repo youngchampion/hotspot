@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-08T15:06:12.395184+08:00",
-  "total_titles_processed": 684,
+  "generated_at": "2026-10-08T23:46:37.351477+08:00",
+  "total_titles_processed": 929,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股 A股 港股 美债 美元 石油 战争",
-      "match_count": 44,
+      "match_count": 58,
       "titles": [
         {
           "title": "国庆假期后A股市场怎么走？十大券商策略来了",
@@ -24,11 +24,12 @@
           "url": "https://original.ifeng.com/c/8x3QDBdlBfp",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时05分 ~ 15时06分]"
+          "appearance_count": 3,
+          "time_info": "[15时05分 ~ 23时46分]"
         },
         {
           "title": "美债重启抛售、收益率创2002年来新高，美股高位承压，早盘道指跌超1%，布油盘中涨2%",
@@ -40,6 +41,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
+        },
+        {
+          "title": "多家A股公司三季度业绩报喜，东岳硅材净利最高预增逾190倍",
+          "url": "https://www.cls.cn/detail/2499581",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
         },
         {
           "title": "中金：节后A股或迎“开门红”，建议关注两条主线",
@@ -81,9 +93,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时06分"
+        },
+        {
+          "title": "中东冲突再升级：沙特机场遇袭、波斯湾油轮中弹，特朗普拟对伊朗再动手，布油站上102美元",
+          "url": "https://wallstreetcn.com/articles/3783182",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
         },
         {
           "title": "美国半导体公司Wolfspeed(WOLF.N)股价盘后上涨27%，此前宣布获得15亿美元贷款承诺。",
@@ -106,6 +129,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
+        },
+        {
+          "title": "真主党收到伊朗提供的2亿美元援助黎巴嫩民众",
+          "url": "https://wallstreetcn.com/livenews/3175731",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
+        },
+        {
+          "title": "债券风暴笼罩：10年期拍卖拯救美债， 欧债“深陷泥潭”",
+          "url": "https://wallstreetcn.com/articles/3783136",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时05分 ~ 23时46分]"
         },
         {
           "title": "美股收盘：标普指数从历史高位小幅回落 美债收益率高企令市场承压",
@@ -148,17 +194,6 @@
           "source": "今日头条",
           "ranks": [
             9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时05分 ~ 15时06分]"
-        },
-        {
-          "title": "债券风暴笼罩：10年期拍卖拯救美债， 欧债“深陷泥潭”",
-          "url": "https://wallstreetcn.com/articles/3783136",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -271,7 +306,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时06分"
         },
@@ -282,9 +317,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时06分"
+        },
+        {
+          "title": "Boehly Group将按100亿美元面值买入LukOil的股票。 美国将从与俄罗斯石油公司LuiOil（海外）资产相关的交易中获得大约15%的股份。 根据相关协议，美国将LukOil新实体掌控其董事会。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3175729",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
         },
         {
           "title": "余承东称华为将不得不涨价，存储元器件大涨使每部手机增超两百美元成本，会对消费者及手机市场有多大影响？",
@@ -296,6 +342,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
+        },
+        {
+          "title": "油价持续飙涨引爆通胀忧虑，美股低开，光通信板块走低、Coherent跌超4%，美债收益率走高",
+          "url": "https://wallstreetcn.com/articles/3783173",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
         },
         {
           "title": "Levi Strauss三季度净营收16.1亿美元，分析师预期16.2亿美元。 三季度调整后每股收益（EPS）为0.48美元，分析师预期0.36美元。 三季度调整后EBIT为2.49亿美元，分析师预期1.94亿美元。 预计全年调整后EPS将为1.54-1.56美元，公司原本预计1.46-1.52美元。",
@@ -342,6 +399,28 @@
           "time_info": "04时34分"
         },
         {
+          "title": "CIA前高官涉欺诈致美政府损失近2亿美元，家中查获约300根金条",
+          "url": "https://news.ifeng.com/c/8x3wjWOHspN",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
+        },
+        {
+          "title": "WTI原油日内涨幅达5.5%，报93.17美元/桶；布伦特原油日内涨幅达5.5%，报105.71美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3175724",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
+        },
+        {
           "title": "金十图示：2026年10月07日（周三）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20261008040637832800",
           "source": "金十数据",
@@ -359,9 +438,31 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时06分"
+        },
+        {
+          "title": "据纽约时报：美国将在卢克石油交易的新实体中控制董事会。",
+          "url": "https://flash.jin10.com/detail/20261008232115747800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
+        },
+        {
+          "title": "A股CPO概念震荡走弱 相关传言或仅是“政策猜想”",
+          "url": "https://www.cls.cn/detail/2499291",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
         },
         {
           "title": "金十图示：2026年10月07日（周三）热门中概股行情一览（美股收盘）",
@@ -373,6 +474,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
+        },
+        {
+          "title": "据纽约时报：美国将在卢克石油资产交易中获得约15%的股份。",
+          "url": "https://flash.jin10.com/detail/20261008232001394800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
         },
         {
           "title": "美股收盘：三大股指收跌 美光涨4%",
@@ -397,6 +509,28 @@
           "time_info": "04时34分"
         },
         {
+          "title": "Anthropic承诺三年内投入1.5亿美元支持“创世纪使命”",
+          "url": "https://wallstreetcn.com/livenews/3175719",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
+        },
+        {
+          "title": "A股节后“开门红”为何爽约",
+          "url": "https://www.toutiao.com/trending/7694230880406998570/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
+        },
+        {
           "title": "周三（10月7日）纽约尾盘，美元兑日元跌0.04%，报158.04日元，日内交投区间为158.51-157.85日元，北京时间16:00前后出现一波V形反转行情。 欧元兑日元跌0.58%，英镑兑日元跌0.51%，日元兑离岸人民币涨0.05%",
           "url": "https://wallstreetcn.com/livenews/3174981",
           "source": "华尔街见闻-快讯",
@@ -414,9 +548,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时06分"
+        },
+        {
+          "title": "据纽约时报：美俄石油交易的大部分所有权将归于中东基金。",
+          "url": "https://flash.jin10.com/detail/20261008231546533800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
         },
         {
           "title": "美元指数涨0.4%，一度逼近10月5日顶部102.535",
@@ -463,6 +608,17 @@
           "time_info": "04时34分"
         },
         {
+          "title": "美国五角大楼在2028财年针对云实验室领域承诺2亿美元。 针对量子计算激励宣布3.5亿美元。 美国国防部与PsiQuantum签署1.5亿美元有条件的贷款（协议）。",
+          "url": "https://wallstreetcn.com/livenews/3175713",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
+        },
+        {
           "title": "巴西国家石油公司（Petrobras）在巴西石油监管机构举行的拍卖中获得坎波斯盆地8个区块。",
           "url": "https://flash.jin10.com/detail/20261008033922930800",
           "source": "金十数据",
@@ -498,8 +654,295 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek AI openai 机器人 小米 特斯拉 英伟达",
+      "match_count": 25,
+      "titles": [
+        {
+          "title": "人形机器人进驻爱仕达百家终端：从门店上岗到产业实践",
+          "url": "https://www.cls.cn/detail/2495303",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时34分 ~ 23时46分]"
+        },
+        {
+          "title": "数学大爆炸！OpenAI 一夜攻克722个数学难题，准黎曼猜想已被证明",
+          "url": "https://wallstreetcn.com/articles/3783101",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时34分 ~ 08时48分]"
+        },
+        {
+          "title": "标普500创出新高，但几乎只有AI交易在涨",
+          "url": "https://wallstreetcn.com/articles/3783091",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时34分 ~ 08时48分]"
+        },
+        {
+          "title": "吧友教AI写文,焚诀大公开",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366390&amp;topic_name=%E5%90%A7%E5%8F%8B%E6%95%99AI%E5%86%99%E6%96%87%2C%E7%84%9A%E8%AF%80%E5%A4%A7%E5%85%AC%E5%BC%80",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            8,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时34分 ~ 23时46分]"
+        },
+        {
+          "title": "“特斯拉劲敌”Rivian从德国大众汽车集团获得10亿美元定期贷款，将于2036年10月7日到期。 这笔贷款与现存合资公司协议有关。",
+          "url": "https://wallstreetcn.com/livenews/3174995",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时34分"
+        },
+        {
+          "title": "Claude拿下概率论「圣杯」，AI跨过菲尔兹奖终点线",
+          "url": "https://wallstreetcn.com/articles/3783107",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时34分 ~ 15时06分]"
+        },
+        {
+          "title": "AI公开的722篇论文会影响数学吗",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%85%AC%E5%BC%80%E7%9A%84722%E7%AF%87%E8%AE%BA%E6%96%87%E4%BC%9A%E5%BD%B1%E5%93%8D%E6%95%B0%E5%AD%A6%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时34分 ~ 08时48分]"
+        },
+        {
+          "title": "Haiku5.5测试表现速览",
+          "url": "https://search.bilibili.com/all?keyword=Haiku5.5%E6%B5%8B%E8%AF%95%E8%A1%A8%E7%8E%B0%E9%80%9F%E8%A7%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时05分 ~ 15时06分]"
+        },
+        {
+          "title": "OpenAI的722篇论文含金量如何",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E7%9A%84722%E7%AF%87%E8%AE%BA%E6%96%87%E5%90%AB%E9%87%91%E9%87%8F%E5%A6%82%E4%BD%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时05分 ~ 15时06分]"
+        },
+        {
+          "title": "Claude 发布 Haiku5.5，跑分暴涨并降价 75%，这意味着什么？",
+          "url": "https://www.zhihu.com/question/2091366502272447177",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时05分 ~ 15时06分]"
+        },
+        {
+          "title": "Claude Haiku5.5发布",
+          "url": "https://search.bilibili.com/all?keyword=Claude%20Haiku5.5%E5%8F%91%E5%B8%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时05分 ~ 15时06分]"
+        },
+        {
+          "title": "苏姿丰：AI芯片需求非常旺盛 AMD将持续大幅扩产",
+          "url": "https://www.cls.cn/detail/2498239",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时34分"
+        },
+        {
+          "title": "如何评价字节 Seed 团队发现 DeepSeek 性能漂移？",
+          "url": "https://www.zhihu.com/question/2091513666864682278",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
+        },
+        {
+          "title": "OpenAI全面上线GPT-6",
+          "url": "https://www.baidu.com/s?wd=OpenAI%E5%85%A8%E9%9D%A2%E4%B8%8A%E7%BA%BFGPT-6",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时48分"
+        },
+        {
+          "title": "网传喀纳斯棕熊索食系AI编造",
+          "url": "https://www.toutiao.com/trending/7694098908959621163/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
+        },
+        {
+          "title": "如何看待 OpenAI 公开 722 份数学手稿，宣布解决包含「准黎曼猜想」的数百个数学问题？",
+          "url": "https://www.zhihu.com/question/2091064625987170716",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时34分"
+        },
+        {
+          "title": "AI算力订单暴增至500亿美元！英伟达支持的Lambda拟融资40亿美元冲刺IPO",
+          "url": "https://www.cls.cn/detail/2498406",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时34分"
+        },
+        {
+          "title": "策略师：AI泡沫恐引发标普500指数自2008年以来最严重的崩盘",
+          "url": "https://flash.jin10.com/detail/20261008143018186800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时06分"
+        },
+        {
+          "title": "AI短片生化危机爆发夜前传",
+          "url": "https://search.bilibili.com/all?keyword=AI%E7%9F%AD%E7%89%87%E7%94%9F%E5%8C%96%E5%8D%B1%E6%9C%BA%E7%88%86%E5%8F%91%E5%A4%9C%E5%89%8D%E4%BC%A0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时34分"
+        },
+        {
+          "title": "AI历史剧火了也遭举报",
+          "url": "https://s.weibo.com/weibo?q=AI%E5%8E%86%E5%8F%B2%E5%89%A7%E7%81%AB%E4%BA%86%E4%B9%9F%E9%81%AD%E4%B8%BE%E6%8A%A5&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
+        },
+        {
+          "title": "迅销（Fast Retailing）预计2027全财年营业利润8300亿日元，市场预期8334.1亿日元。 预计2027全财年净利润5600亿日元，市场预期5785.6亿日元。 预计2027全财年销售额4.45万亿日元，市场预期4.43万亿日元。 预计2027全财年股息900日元，市场预期701.92日元。 第四季度营业利润1287.4亿日元，市场预期1295.9亿日元。 第四季度净利润1164.4亿日元，市场预期904.2亿日元。 第四季度销售额8982.1亿日元，市场预期9109.8亿日元。",
+          "url": "https://wallstreetcn.com/livenews/3175223",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时06分"
+        },
+        {
+          "title": "高盛指出AI料将颠覆传统银行业职业发展路径 中层管理者面临风险",
+          "url": "https://wallstreetcn.com/livenews/3175220",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时06分"
+        },
+        {
+          "title": "OpenAI：GPT-6 在面对越狱攻击时表现出更强的抵御能力",
+          "url": "https://wallstreetcn.com/livenews/3174974",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时34分"
+        },
+        {
+          "title": "美国情报主管、AI主管Jay Clayton：美国正与20-25家AI公司对话。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3174973",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时34分"
+        },
+        {
+          "title": "英伟达将资助量子计算、医疗保健、能源的发展",
+          "url": "https://wallstreetcn.com/livenews/3175704",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特朗普 马斯克 加密货币 美联储",
-      "match_count": 22,
+      "match_count": 25,
       "titles": [
         {
           "title": "美联储会议纪要：全体19名决策者支持9月加息，“大多数”预计年内还加1次，但暗示10月不急",
@@ -507,11 +950,12 @@
           "source": "华尔街见闻",
           "ranks": [
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时48分 ~ 15时06分]"
+          "appearance_count": 4,
+          "time_info": "[08时48分 ~ 23时46分]"
         },
         {
           "title": "美联储会议纪要：多数官员预计年底前再加息一次，但未透露具体时间",
@@ -542,9 +986,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时06分"
+        },
+        {
+          "title": "美联储沃勒：进一步加息仍有必要 但无需连续采取行动",
+          "url": "https://www.cls.cn/detail/2499740",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
         },
         {
           "title": "新闻交易员：美联储鹰派共识背后藏着一脚刹车",
@@ -569,6 +1024,18 @@
           "time_info": "[08时48分 ~ 15时06分]"
         },
         {
+          "title": "特朗普称对伊朗军事行动 “必须收尾了”，媒体爆料美军制定“中选前打击方案”，油价应声上涨",
+          "url": "https://wallstreetcn.com/articles/3783137",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时05分 ~ 23时46分]"
+        },
+        {
           "title": "日方爆料：高市早苗请求特朗普，劝金正恩同意与她会谈",
           "url": "https://news.ifeng.com/c/8x2Kis6OnpU",
           "source": "凤凰网",
@@ -578,17 +1045,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时34分 ~ 08时48分]"
-        },
-        {
-          "title": "特朗普称对伊朗军事行动 “必须收尾了”，媒体爆料美军制定“中选前打击方案”，油价应声上涨",
-          "url": "https://wallstreetcn.com/articles/3783137",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时05分 ~ 15时06分]"
         },
         {
           "title": "美媒：特朗普将向马斯克、黄仁勋等科技领袖颁发国家奖章",
@@ -636,6 +1092,17 @@
           "time_info": "08时48分"
         },
         {
+          "title": "美联储：众多日常用品通胀完全由关税导致",
+          "url": "https://wallstreetcn.com/livenews/3175725",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
+        },
+        {
           "title": "特朗普将向马斯克颁发科学成就奖",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E5%90%91%E9%A9%AC%E6%96%AF%E5%85%8B%E9%A2%81%E5%8F%91%E7%A7%91%E5%AD%A6%E6%88%90%E5%B0%B1%E5%A5%96",
           "source": "百度热搜",
@@ -645,6 +1112,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时48分"
+        },
+        {
+          "title": "马斯克疑似呛声印度首富，惊动印度政府",
+          "url": "https://news.ifeng.com/c/8x3u0LAshUK",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
         },
         {
           "title": "美军奉命准备重启对伊朗重大行动：特朗普权衡时机，行动或赶在美以选举前",
@@ -748,59 +1226,35 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek AI openai 机器人 小米 特斯拉 英伟达",
-      "match_count": 21,
+      "keyword_group": "外交部 商务部 证监会 央行",
+      "match_count": 16,
       "titles": [
         {
-          "title": "人形机器人进驻爱仕达百家终端：从门店上岗到产业实践",
-          "url": "https://www.cls.cn/detail/2495303",
-          "source": "财联社热门",
+          "title": "日本央行大阪分行行长：该地区的大型企业和出口商正受益于日元疲软，而规模较小、以服务为主的企业则更容易受到日元疲软不利影响的冲击。",
+          "url": "https://flash.jin10.com/detail/20261008143805369800",
+          "source": "金十数据",
           "ranks": [
-            5
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时34分 ~ 15时06分]"
+          "appearance_count": 1,
+          "time_info": "15时06分"
         },
         {
-          "title": "数学大爆炸！OpenAI 一夜攻克722个数学难题，准黎曼猜想已被证明",
-          "url": "https://wallstreetcn.com/articles/3783101",
-          "source": "华尔街见闻",
+          "title": "央行系统性阐述汇率立场！人民币汇率不预设目标，重点防范短期破坏性超调",
+          "url": "https://www.cls.cn/detail/2499625",
+          "source": "财联社热门",
           "ranks": [
             2
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时34分 ~ 08时48分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
         },
         {
-          "title": "标普500创出新高，但几乎只有AI交易在涨",
-          "url": "https://wallstreetcn.com/articles/3783091",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时34分 ~ 08时48分]"
-        },
-        {
-          "title": "吧友教AI写文,焚诀大公开",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366390&amp;topic_name=%E5%90%A7%E5%8F%8B%E6%95%99AI%E5%86%99%E6%96%87%2C%E7%84%9A%E8%AF%80%E5%A4%A7%E5%85%AC%E5%BC%80",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时34分 ~ 15时06分]"
-        },
-        {
-          "title": "“特斯拉劲敌”Rivian从德国大众汽车集团获得10亿美元定期贷款，将于2036年10月7日到期。 这笔贷款与现存合资公司协议有关。",
-          "url": "https://wallstreetcn.com/livenews/3174995",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗外交部：与阿曼关于海峡航道的磋商进展顺利",
+          "url": "https://flash.jin10.com/detail/20261008042128598800",
+          "source": "金十数据",
           "ranks": [
             3
           ],
@@ -809,183 +1263,147 @@
           "time_info": "04时34分"
         },
         {
-          "title": "Claude拿下概率论「圣杯」，AI跨过菲尔兹奖终点线",
-          "url": "https://wallstreetcn.com/articles/3783107",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时34分 ~ 15时06分]"
-        },
-        {
-          "title": "AI公开的722篇论文会影响数学吗",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%85%AC%E5%BC%80%E7%9A%84722%E7%AF%87%E8%AE%BA%E6%96%87%E4%BC%9A%E5%BD%B1%E5%93%8D%E6%95%B0%E5%AD%A6%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时34分 ~ 08时48分]"
-        },
-        {
-          "title": "Haiku5.5测试表现速览",
-          "url": "https://search.bilibili.com/all?keyword=Haiku5.5%E6%B5%8B%E8%AF%95%E8%A1%A8%E7%8E%B0%E9%80%9F%E8%A7%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时05分 ~ 15时06分]"
-        },
-        {
-          "title": "OpenAI的722篇论文含金量如何",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E7%9A%84722%E7%AF%87%E8%AE%BA%E6%96%87%E5%90%AB%E9%87%91%E9%87%8F%E5%A6%82%E4%BD%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时05分 ~ 15时06分]"
-        },
-        {
-          "title": "Claude 发布 Haiku5.5，跑分暴涨并降价 75%，这意味着什么？",
-          "url": "https://www.zhihu.com/question/2091366502272447177",
+          "title": "央行发布关于人民币汇率的政策立场，称中国没有必要，也无意通过汇率贬值获取贸易竞争优势，如何解读？",
+          "url": "https://www.zhihu.com/question/2091589191394185302",
           "source": "知乎",
           "ranks": [
-            12
+            4
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时05分 ~ 15时06分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
         },
         {
-          "title": "Claude Haiku5.5发布",
-          "url": "https://search.bilibili.com/all?keyword=Claude%20Haiku5.5%E5%8F%91%E5%B8%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时05分 ~ 15时06分]"
-        },
-        {
-          "title": "苏姿丰：AI芯片需求非常旺盛 AMD将持续大幅扩产",
-          "url": "https://www.cls.cn/detail/2498239",
-          "source": "财联社热门",
+          "title": "爱泼斯坦案举报人上吊自杀！生前曾指证美商务部长",
+          "url": "https://news.ifeng.com/c/8x40Qjebkim",
+          "source": "凤凰网",
           "ranks": [
             7
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时34分"
+          "time_info": "23时46分"
         },
         {
-          "title": "OpenAI全面上线GPT-6",
-          "url": "https://www.baidu.com/s?wd=OpenAI%E5%85%A8%E9%9D%A2%E4%B8%8A%E7%BA%BFGPT-6",
-          "source": "百度热搜",
+          "title": "波兰央行警告通胀风险，必要时或实施四年来首次加息",
+          "url": "https://flash.jin10.com/detail/20261008233122630800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
+        },
+        {
+          "title": "欧洲央行管委穆兰：欧洲央行面临通胀冲击。 欧元区的通货膨胀100%是能源驱动，尚未出现第二轮效应。 利率上升正在影响所有国家。 地缘政治冲击也正在传导为金融冲击。",
+          "url": "https://wallstreetcn.com/livenews/3175238",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时48分"
+          "time_info": "15时06分"
         },
         {
-          "title": "如何看待 OpenAI 公开 722 份数学手稿，宣布解决包含「准黎曼猜想」的数百个数学问题？",
-          "url": "https://www.zhihu.com/question/2091064625987170716",
-          "source": "知乎",
+          "title": "央行阐明人民币汇率政策立场：中国从不搞竞争性货币贬值",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34212989",
+          "source": "澎湃新闻",
           "ranks": [
             12
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时34分"
+          "time_info": "23时46分"
         },
         {
-          "title": "AI算力订单暴增至500亿美元！英伟达支持的Lambda拟融资40亿美元冲刺IPO",
-          "url": "https://www.cls.cn/detail/2498406",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时34分"
-        },
-        {
-          "title": "策略师：AI泡沫恐引发标普500指数自2008年以来最严重的崩盘",
-          "url": "https://flash.jin10.com/detail/20261008143018186800",
-          "source": "金十数据",
+          "title": "外交部回应直呼高市早苗名字",
+          "url": "https://www.toutiao.com/trending/7693342745545130025/",
+          "source": "今日头条",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
+          "time_info": "23时46分"
+        },
+        {
+          "title": "欧洲央行管委SJEIJPEN：能源冲击相当持久。",
+          "url": "https://wallstreetcn.com/livenews/3175233",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
           "time_info": "15时06分"
         },
         {
-          "title": "AI短片生化危机爆发夜前传",
-          "url": "https://search.bilibili.com/all?keyword=AI%E7%9F%AD%E7%89%87%E7%94%9F%E5%8C%96%E5%8D%B1%E6%9C%BA%E7%88%86%E5%8F%91%E5%A4%9C%E5%89%8D%E4%BC%A0",
-          "source": "bilibili 热搜",
+          "title": "乌克兰外交部发言人：（就韩国决定召回大使表示）外交应优于情绪。乌克兰愿意恢复建设性对话。",
+          "url": "https://flash.jin10.com/detail/20261008231850629800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
+        },
+        {
+          "title": "泰国央行行长：预计今年出口将增长17%至18%。",
+          "url": "https://flash.jin10.com/detail/20261008142822618800",
+          "source": "金十数据",
           "ranks": [
             15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时34分"
-        },
-        {
-          "title": "迅销（Fast Retailing）预计2027全财年营业利润8300亿日元，市场预期8334.1亿日元。 预计2027全财年净利润5600亿日元，市场预期5785.6亿日元。 预计2027全财年销售额4.45万亿日元，市场预期4.43万亿日元。 预计2027全财年股息900日元，市场预期701.92日元。 第四季度营业利润1287.4亿日元，市场预期1295.9亿日元。 第四季度净利润1164.4亿日元，市场预期904.2亿日元。 第四季度销售额8982.1亿日元，市场预期9109.8亿日元。",
-          "url": "https://wallstreetcn.com/livenews/3175223",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
           "time_info": "15时06分"
         },
         {
-          "title": "高盛指出AI料将颠覆传统银行业职业发展路径 中层管理者面临风险",
-          "url": "https://wallstreetcn.com/livenews/3175220",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗外交部发言人巴加埃：今天与巴基斯坦大使伊姆兰·艾哈迈德·西迪基进行了富有成果的会谈。伊朗与巴基斯坦的关系建立在深厚的历史共同点和持久的友好纽带之上。",
+          "url": "https://flash.jin10.com/detail/20261008035958235800",
+          "source": "金十数据",
           "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时06分"
-        },
-        {
-          "title": "OpenAI：GPT-6 在面对越狱攻击时表现出更强的抵御能力",
-          "url": "https://wallstreetcn.com/livenews/3174974",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
         },
         {
-          "title": "美国情报主管、AI主管Jay Clayton：美国正与20-25家AI公司对话。（CNBC）",
-          "url": "https://wallstreetcn.com/livenews/3174973",
-          "source": "华尔街见闻-快讯",
+          "title": "泰国央行行长：不急于加息。",
+          "url": "https://flash.jin10.com/detail/20261008142651003800",
+          "source": "金十数据",
           "ranks": [
-            24
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时34分"
+          "time_info": "15时06分"
+        },
+        {
+          "title": "泰国央行行长：利率无法解决结构性问题。",
+          "url": "https://flash.jin10.com/detail/20261008142356704800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时06分"
+        },
+        {
+          "title": "报道：施纳贝尔出任欧洲央行职位的提名期限已定，拉加德去留仍不明朗",
+          "url": "https://wallstreetcn.com/livenews/3175702",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
         }
       ]
     },
@@ -1080,7 +1498,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时06分"
         },
@@ -1091,7 +1509,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时06分"
         },
@@ -1113,101 +1531,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时06分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "外交部 商务部 证监会 央行",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "日本央行大阪分行行长：该地区的大型企业和出口商正受益于日元疲软，而规模较小、以服务为主的企业则更容易受到日元疲软不利影响的冲击。",
-          "url": "https://flash.jin10.com/detail/20261008143805369800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时06分"
-        },
-        {
-          "title": "伊朗外交部：与阿曼关于海峡航道的磋商进展顺利",
-          "url": "https://flash.jin10.com/detail/20261008042128598800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时34分"
-        },
-        {
-          "title": "欧洲央行管委穆兰：欧洲央行面临通胀冲击。 欧元区的通货膨胀100%是能源驱动，尚未出现第二轮效应。 利率上升正在影响所有国家。 地缘政治冲击也正在传导为金融冲击。",
-          "url": "https://wallstreetcn.com/livenews/3175238",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时06分"
-        },
-        {
-          "title": "欧洲央行管委SJEIJPEN：能源冲击相当持久。",
-          "url": "https://wallstreetcn.com/livenews/3175233",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时06分"
-        },
-        {
-          "title": "泰国央行行长：预计今年出口将增长17%至18%。",
-          "url": "https://flash.jin10.com/detail/20261008142822618800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时06分"
-        },
-        {
-          "title": "伊朗外交部发言人巴加埃：今天与巴基斯坦大使伊姆兰·艾哈迈德·西迪基进行了富有成果的会谈。伊朗与巴基斯坦的关系建立在深厚的历史共同点和持久的友好纽带之上。",
-          "url": "https://flash.jin10.com/detail/20261008035958235800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时34分"
-        },
-        {
-          "title": "泰国央行行长：不急于加息。",
-          "url": "https://flash.jin10.com/detail/20261008142651003800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时06分"
-        },
-        {
-          "title": "泰国央行行长：利率无法解决结构性问题。",
-          "url": "https://flash.jin10.com/detail/20261008142356704800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "15时06分"
         }
