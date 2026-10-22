@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-10-22T06:12:51.756606+08:00",
-  "total_titles_processed": 397,
+  "generated_at": "2026-10-22T09:21:30.045195+08:00",
+  "total_titles_processed": 563,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek AI openai 机器人 小米 特斯拉 英伟达",
-      "match_count": 45,
+      "match_count": 59,
       "titles": [
         {
-          "title": "人民日报评特斯拉能飞：不必妄自菲薄",
-          "url": "https://www.toutiao.com/trending/7698981088210849318/",
-          "source": "今日头条",
+          "title": "黄仁勋GTC柏林演讲：AI工厂部署最快缩至14天 智能体与物理AI加速落地",
+          "url": "https://www.cls.cn/detail/2511348",
+          "source": "财联社热门",
           "ranks": [
-            1
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时29分 ~ 06时12分]"
+          "appearance_count": 3,
+          "time_info": "[02时29分 ~ 09时21分]"
         },
         {
           "title": "低价共享AI付费权益靠谱吗",
@@ -25,17 +26,6 @@
           "ranks": [
             2,
             1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时29分 ~ 06时12分]"
-        },
-        {
-          "title": "黄仁勋GTC柏林演讲：AI工厂部署最快缩至14天 智能体与物理AI加速落地",
-          "url": "https://www.cls.cn/detail/2511348",
-          "source": "财联社热门",
-          "ranks": [
-            2
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -70,9 +60,32 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
+        },
+        {
+          "title": "人民日报评特斯拉能飞：不必妄自菲薄",
+          "url": "https://www.toutiao.com/trending/7698981088210849318/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时29分 ~ 09时21分]"
+        },
+        {
+          "title": "强劲季报提振AI交易，纳指反弹超1%，绩优SpaceX涨近8%、Meta盘后走高，原油高位震荡",
+          "url": "https://wallstreetcn.com/articles/3784116",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
         },
         {
           "title": "特斯拉(TSLA.O)高管：公司正为FSD自建地图。",
@@ -81,7 +94,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
         },
@@ -92,9 +105,32 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
+        },
+        {
+          "title": "英伟达GTC柏林：电信基站有望变身AI算力节点，黄仁勋力推欧洲全行业拥抱AI",
+          "url": "https://wallstreetcn.com/articles/3784122",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时29分 ~ 09时21分]"
+        },
+        {
+          "title": "Meta Q3营收与Q4指引双超预期，上调AI资本开支下限，拟发行无投票权新股｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3784152",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
         },
         {
           "title": "特斯拉(TSLA.O)高管：下月将在达拉斯推出Cybercab。",
@@ -103,9 +139,31 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
+        },
+        {
+          "title": "宇树机器人展示举起汽车救人",
+          "url": "https://s.weibo.com/weibo?q=%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%B1%95%E7%A4%BA%E4%B8%BE%E8%B5%B7%E6%B1%BD%E8%BD%A6%E6%95%91%E4%BA%BA&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
+        },
+        {
+          "title": "揭秘DeepSeek开源推理框架",
+          "url": "https://search.bilibili.com/all?keyword=%E6%8F%AD%E7%A7%98DeepSeek%E5%BC%80%E6%BA%90%E6%8E%A8%E7%90%86%E6%A1%86%E6%9E%B6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
         },
         {
           "title": "OpenAI：更新后的使用政策要求，模型路由器和AI网关在提供访问权限前，必须获得OpenAI的审核和批准。",
@@ -114,7 +172,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
         },
@@ -129,6 +187,54 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时29分 ~ 06时12分]"
+        },
+        {
+          "title": "宇树发布功夫传奇机器人",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%87%E6%A0%91%E5%8F%91%E5%B8%83%E5%8A%9F%E5%A4%AB%E4%BC%A0%E5%A5%87%E6%9C%BA%E5%99%A8%E4%BA%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时29分 ~ 09时21分]"
+        },
+        {
+          "title": "揭秘机器人数据采集行业内幕",
+          "url": "https://search.bilibili.com/all?keyword=%E6%8F%AD%E7%A7%98%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%95%B0%E6%8D%AE%E9%87%87%E9%9B%86%E8%A1%8C%E4%B8%9A%E5%86%85%E5%B9%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16,
+            20,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时29分 ~ 09时21分]"
+        },
+        {
+          "title": "外网评最烂AI命名榜,DS夺冠",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367763&amp;topic_name=%E5%A4%96%E7%BD%91%E8%AF%84%E6%9C%80%E7%83%82AI%E5%91%BD%E5%90%8D%E6%A6%9C%2CDS%E5%A4%BA%E5%86%A0",
+          "source": "贴吧",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时29分 ~ 09时21分]"
+        },
+        {
+          "title": "特斯拉Roadster是怎么飞起来的",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%96%AF%E6%8B%89Roadster%E6%98%AF%E6%80%8E%E4%B9%88%E9%A3%9E%E8%B5%B7%E6%9D%A5%E7%9A%84",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时29分 ~ 09时21分]"
         },
         {
           "title": "强劲季报提振AI交易，美股开盘走高，SpaceX涨幅扩大至10%，英伟达涨约2%，油价再度走高",
@@ -153,17 +259,6 @@
           "time_info": "[02时29分 ~ 06时12分]"
         },
         {
-          "title": "英伟达GTC柏林：电信基站有望变身AI算力节点，黄仁勋力推欧洲全行业拥抱AI",
-          "url": "https://wallstreetcn.com/articles/3784122",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时29分 ~ 06时12分]"
-        },
-        {
           "title": "超微电脑业绩远超预期，“AI交易”应声反弹，“服务器巨头”戴尔、慧与科技大涨",
           "url": "https://wallstreetcn.com/articles/3784079",
           "source": "华尔街见闻",
@@ -175,15 +270,16 @@
           "time_info": "[02时29分 ~ 06时12分]"
         },
         {
-          "title": "宇树发布功夫传奇机器人",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AE%87%E6%A0%91%E5%8F%91%E5%B8%83%E5%8A%9F%E5%A4%AB%E4%BC%A0%E5%A5%87%E6%9C%BA%E5%99%A8%E4%BA%BA",
+          "title": "张益唐的数学难题被AI化为习题",
+          "url": "https://search.bilibili.com/all?keyword=%E5%BC%A0%E7%9B%8A%E5%94%90%E7%9A%84%E6%95%B0%E5%AD%A6%E9%9A%BE%E9%A2%98%E8%A2%ABAI%E5%8C%96%E4%B8%BA%E4%B9%A0%E9%A2%98",
           "source": "bilibili 热搜",
           "ranks": [
-            9
+            8,
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时29分 ~ 06时12分]"
+          "time_info": "[06时12分 ~ 09时21分]"
         },
         {
           "title": "网友高铁偶遇自称 114 岁老人，能熟练使用智能手机，年龄真实性如何？横跨民国到 AI 时代的人生会是怎样的？",
@@ -232,18 +328,6 @@
           "time_info": "[02时29分 ~ 06时12分]"
         },
         {
-          "title": "揭秘机器人数据采集行业内幕",
-          "url": "https://search.bilibili.com/all?keyword=%E6%8F%AD%E7%A7%98%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%95%B0%E6%8D%AE%E9%87%87%E9%9B%86%E8%A1%8C%E4%B8%9A%E5%86%85%E5%B9%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时29分 ~ 06时12分]"
-        },
-        {
           "title": "腾讯姚顺雨想把DeepSeek卷到加班",
           "url": "https://www.toutiao.com/trending/7697961005829668883/",
           "source": "今日头条",
@@ -267,36 +351,13 @@
           "time_info": "[02时29分 ~ 06时12分]"
         },
         {
-          "title": "外网评最烂AI命名榜,DS夺冠",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367763&amp;topic_name=%E5%A4%96%E7%BD%91%E8%AF%84%E6%9C%80%E7%83%82AI%E5%91%BD%E5%90%8D%E6%A6%9C%2CDS%E5%A4%BA%E5%86%A0",
-          "source": "贴吧",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时29分 ~ 06时12分]"
-        },
-        {
-          "title": "特斯拉Roadster是怎么飞起来的",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%96%AF%E6%8B%89Roadster%E6%98%AF%E6%80%8E%E4%B9%88%E9%A3%9E%E8%B5%B7%E6%9D%A5%E7%9A%84",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时29分 ~ 06时12分]"
-        },
-        {
           "title": "OpenAI：正致力于推出安全识别码（Safety IDs），用户可在调查过程中提供该识别码，以帮助区分不同的终端用户。",
           "url": "https://flash.jin10.com/detail/20261022055128917800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
         },
@@ -307,9 +368,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
+        },
+        {
+          "title": "AI发现PHP严重漏洞！全球75%网站面临威胁，欧洲多国政府网站紧急下线",
+          "url": "https://wallstreetcn.com/articles/3784140",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
         },
         {
           "title": "特斯拉(TSLA.O)首席财务官：能源业务毛利率从20.4%升至33.1%，主要得益于关税退款和保修费用调整。",
@@ -318,7 +390,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
         },
@@ -329,18 +401,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时12分"
-        },
-        {
-          "title": "张益唐的数学难题被AI化为习题",
-          "url": "https://search.bilibili.com/all?keyword=%E5%BC%A0%E7%9B%8A%E5%94%90%E7%9A%84%E6%95%B0%E5%AD%A6%E9%9A%BE%E9%A2%98%E8%A2%ABAI%E5%8C%96%E4%B8%BA%E4%B9%A0%E9%A2%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
         },
@@ -351,7 +412,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
         },
@@ -362,9 +423,31 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
+        },
+        {
+          "title": "传字节阿里腾讯花 350 亿美元订购英伟达工作站 GPU，大厂为何转向采购该显卡？",
+          "url": "https://www.zhihu.com/question/2096010997483967669",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
+        },
+        {
+          "title": "特斯拉电话会：2030年目标年产约500万辆车，Optimus机器人明年底商业化，2027年Megapack几乎售罄",
+          "url": "https://wallstreetcn.com/articles/3784155",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
         },
         {
           "title": "特斯拉(TSLA.O)首席财务官：特斯拉最大的需求驱动力是自动驾驶能力。",
@@ -373,7 +456,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
         },
@@ -384,9 +467,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
+        },
+        {
+          "title": "贝森特淡化AI泡沫风险：称不存在“系统性问题”，全球最聪明的人仍看好AI",
+          "url": "https://flash.jin10.com/detail/20261022090122039800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
         },
         {
           "title": "马斯克：不会针对特斯拉与SpaceX（潜在的）合并事宜透露更多信息。",
@@ -395,9 +489,42 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
+        },
+        {
+          "title": "SpaceX与特斯拉的潜在合并交易据悉可能有意在特朗普任期结束前完成。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3183039",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
+        },
+        {
+          "title": "多款 3A 老游戏被 AI 光速反编译并移植网页端，将对游戏行业带来哪些冲击？",
+          "url": "https://www.zhihu.com/question/2094620721343481537",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
+        },
+        {
+          "title": "特斯拉Q3财报出炉：加码AI和机器人汽车主业承压，资本支出远逊预期！",
+          "url": "https://www.cls.cn/detail/2511667",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
         },
         {
           "title": "马斯克：预计到2027年年底将化解与Optimus相关的那些问题。 特斯拉已经在美国加州Fremont工厂高产生产线启动Optimus的“早期产品”（的生产活动）。",
@@ -406,7 +533,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
         },
@@ -417,7 +544,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
         },
@@ -428,7 +555,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
         },
@@ -439,7 +566,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
         },
@@ -450,7 +577,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
         },
@@ -461,7 +588,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
         },
@@ -472,7 +599,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
         },
@@ -483,9 +610,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
+        },
+        {
+          "title": "特斯拉分析师电话会议要点总结",
+          "url": "https://wallstreetcn.com/livenews/3183029",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
         },
         {
           "title": "周鸿祎谈美国“封杀”DeepSeek",
@@ -499,6 +637,17 @@
           "time_info": "02时29分"
         },
         {
+          "title": "纳指期货跌幅扩大至超过0.5%，标普股指期货跌0.3%，道指期货跌0.2%。 当前（美股盘后），IBM跌超3.4%，特斯拉跌超2.9%，NBIS跌超2.4%，英特尔跌1.6%，闪迪跌1.5%，SK海力士ADR跌1.4%，AMD、美光、希捷科技至少跌约1%，Pinterest涨0.1%，奈飞涨0.2%，Meta涨2%。",
+          "url": "https://wallstreetcn.com/livenews/3183019",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
+        },
+        {
           "title": "华尔街大佬：AI确定已是大泡沫",
           "url": "https://www.toutiao.com/trending/7699032278101397028/",
           "source": "今日头条",
@@ -508,13 +657,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时29分"
+        },
+        {
+          "title": "晨星公司的塞思·戈德斯坦：下调资本支出表明特斯拉正采取一种资本密集度更低的路径。 此举是明智的，因为这将“使特斯拉能够依靠自身资金进行融资，而无需举债或发行新股”。",
+          "url": "https://wallstreetcn.com/livenews/3183017",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
         }
       ]
     },
     {
       "keyword_group": "美股 A股 港股 美债 美元 石油 战争",
-      "match_count": 22,
+      "match_count": 28,
       "titles": [
+        {
+          "title": "【早报】科技股火力全开，纳指领涨美股；中办、国办发文！事关人工智能；泽连斯基：愿在保留至少75%领土控制权的基础上达成和平协议",
+          "url": "https://www.cls.cn/detail/2511640",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
+        },
         {
           "title": "美国财政部于回购操作中接受47.51亿美元2028-36年到期国债。",
           "url": "https://wallstreetcn.com/livenews/3182899",
@@ -527,15 +698,48 @@
           "time_info": "02时29分"
         },
         {
+          "title": "美股收盘：芯片、存储、光集体走强 纳指升超1%领涨三大指数",
+          "url": "https://www.cls.cn/detail/2511618",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
+        },
+        {
+          "title": "金十数据整理：A股盘前市场要闻速递（2026-10-22）",
+          "url": "https://flash.jin10.com/detail/20261022090641083800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
+        },
+        {
           "title": "纽约银日内涨幅达0.5%，报58.1美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3183000",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
+        },
+        {
+          "title": "金十数据整理：每日港股市场要闻速递（2026-10-22）",
+          "url": "https://flash.jin10.com/detail/20261022090505469800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
         },
         {
           "title": "科威特石油公司首席执行官：原油出口已恢复至战前水平。 目前已有客户前往海湾地区提货。",
@@ -560,6 +764,17 @@
           "time_info": "02时29分"
         },
         {
+          "title": "A股温度计",
+          "url": "https://flash.jin10.com/detail/20261022090357300800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
+        },
+        {
           "title": "A股又一次冲高回落究竟谁在砸盘",
           "url": "https://www.toutiao.com/trending/7699114217592327743/",
           "source": "今日头条",
@@ -569,6 +784,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时29分"
+        },
+        {
+          "title": "美国增兵1万人、以色列酝酿新一轮打击、伊朗发出战争警告，中东火药桶一触即发？",
+          "url": "https://wallstreetcn.com/articles/3784121",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
         },
         {
           "title": "科威特石油公司CEO：每天的产量远远超过200万桶。",
@@ -731,7 +957,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
         },
@@ -742,7 +968,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
         },
@@ -753,91 +979,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普 马斯克 加密货币 美联储",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "泽连斯基和特朗普，彻底决裂了？",
-          "url": "https://news.ifeng.com/c/8xPKsnXuGn8",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时29分 ~ 06时12分]"
-        },
-        {
-          "title": "鲁比奥：“星链”限速这事就是马斯克干的",
-          "url": "https://news.ifeng.com/c/8xPPPxsGdI0",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时29分 ~ 06时12分]"
-        },
-        {
-          "title": "美联储10月维持利率不变的概率为83.9%",
-          "url": "https://flash.jin10.com/detail/20261022060708698800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时12分"
-        },
-        {
-          "title": "马斯克、黄仁勋接力托举 科技题材携手走高 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2511452",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时29分 ~ 06时12分]"
-        },
-        {
-          "title": "真圣人?马斯克撒钱送股票",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367825&amp;topic_name=%E7%9C%9F%E5%9C%A3%E4%BA%BA%3F%E9%A9%AC%E6%96%AF%E5%85%8B%E6%92%92%E9%92%B1%E9%80%81%E8%82%A1%E7%A5%A8",
-          "source": "贴吧",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时29分 ~ 06时12分]"
-        },
-        {
-          "title": "马斯克：预计明年6月前推出测试芯片，2028年三季度前实现量产。",
-          "url": "https://wallstreetcn.com/livenews/3182993",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时12分"
-        },
-        {
-          "title": "美国前国务卿希拉里：十年后回看，我们正实时目睹我当年所警告的一切，以及所有证据所证实的一切：特朗普对普京的忠诚，远超他对自由、民主，乃至美国国家安全的承诺。",
-          "url": "https://flash.jin10.com/detail/20261022052906788800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "06时12分"
         }
@@ -845,19 +987,53 @@
     },
     {
       "keyword_group": "黄金 白银 铜 铝 稀土",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "商品期货开盘，沪镍、苯乙烯主力合约涨超2%，不锈钢、沪铝、铝合金、乙二醇涨超1%。烧碱、液化气跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3183054",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
+        },
         {
           "title": "日本关键稀土元素储备即将耗尽，外交部：中方依法依规对日实施出口管制",
           "url": "https://m.thepaper.cn/newsDetail_forward_34299680",
           "source": "澎湃新闻",
           "ranks": [
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时29分 ~ 06时12分]"
+          "appearance_count": 3,
+          "time_info": "[02时29分 ~ 09时21分]"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 10月22日（周四）早盘盘初下跌0.24%报884.02元/克；<br/>上海黄金交易所白银T+D 10月22日（周四）早盘盘初下跌0.35%报13863.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20261022090015990800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
+        },
+        {
+          "title": "早盘开盘，国内期货主力合约涨跌不一，多晶硅跌超3%，碳酸锂、烧碱、液化石油气（LPG）跌超2%，集运欧线跌近2%，钯、聚丙烯月均、氧化铝跌超1%。涨幅方面，沪镍涨近3%，苯乙烯（EB）涨超2%，不锈钢（SS）涨近2%。",
+          "url": "https://flash.jin10.com/detail/20261022090002202800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
         },
         {
           "title": "伦铜下跌，受累于库存增长；伦镍走高",
@@ -888,7 +1064,91 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普 马斯克 加密货币 美联储",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "鲁比奥：“星链”限速这事就是马斯克干的",
+          "url": "https://news.ifeng.com/c/8xPPPxsGdI0",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时29分 ~ 09时21分]"
+        },
+        {
+          "title": "泽连斯基和特朗普，彻底决裂了？",
+          "url": "https://news.ifeng.com/c/8xPKsnXuGn8",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时29分 ~ 06时12分]"
+        },
+        {
+          "title": "美联储10月维持利率不变的概率为83.9%",
+          "url": "https://flash.jin10.com/detail/20261022060708698800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时12分"
+        },
+        {
+          "title": "马斯克、黄仁勋接力托举 科技题材携手走高 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2511452",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时29分 ~ 09时21分]"
+        },
+        {
+          "title": "真圣人?马斯克撒钱送股票",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367825&amp;topic_name=%E7%9C%9F%E5%9C%A3%E4%BA%BA%3F%E9%A9%AC%E6%96%AF%E5%85%8B%E6%92%92%E9%92%B1%E9%80%81%E8%82%A1%E7%A5%A8",
+          "source": "贴吧",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时29分 ~ 09时21分]"
+        },
+        {
+          "title": "马斯克：预计明年6月前推出测试芯片，2028年三季度前实现量产。",
+          "url": "https://wallstreetcn.com/livenews/3182993",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时12分"
+        },
+        {
+          "title": "美国前国务卿希拉里：十年后回看，我们正实时目睹我当年所警告的一切，以及所有证据所证实的一切：特朗普对普京的忠诚，远超他对自由、民主，乃至美国国家安全的承诺。",
+          "url": "https://flash.jin10.com/detail/20261022052906788800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
         }
@@ -896,7 +1156,7 @@
     },
     {
       "keyword_group": "外交部 商务部 证监会 央行",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
         {
           "title": "调查显示逾八成受访者预计日本央行下一次加息将在12月份",
@@ -905,9 +1165,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
+        },
+        {
+          "title": "韩国央行维持利率在3%不变，符合预期。",
+          "url": "https://wallstreetcn.com/livenews/3183048",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
         },
         {
           "title": "匈牙利前央行行长因央行资金损失调查被拘留",
@@ -919,6 +1190,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时29分"
+        },
+        {
+          "title": "韩国央行如期维持利率不变",
+          "url": "https://flash.jin10.com/detail/20261022085031054800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
+        },
+        {
+          "title": "韩国至10月22日央行利率决定 3%，预期3.00%，前值3.00%。",
+          "url": "https://flash.jin10.com/detail/20261022085006635800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
         },
         {
           "title": "中国和吉布提外交部长发布关于维护非洲之角和平稳定及红海和亚丁湾航道安全的联合新闻公报",
