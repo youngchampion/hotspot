@@ -1,12 +1,35 @@
 {
-  "generated_at": "2026-10-28T07:39:03.265478+08:00",
-  "total_titles_processed": 442,
+  "generated_at": "2026-10-28T12:42:02.533722+08:00",
+  "total_titles_processed": 666,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek AI openai 机器人 小米 特斯拉 英伟达",
-      "match_count": 31,
+      "match_count": 40,
       "titles": [
+        {
+          "title": "美联储决议前夕，AI热情驱动科技股反弹，CoreWeave涨8%，油价续跌，金价涨1%",
+          "url": "https://wallstreetcn.com/articles/3784535",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时38分 ~ 12时42分]"
+        },
+        {
+          "title": "美股收盘：AI反弹行情延续 费城半导体指数大涨3.6% 纳指涨超1%",
+          "url": "https://www.cls.cn/detail/2517192",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时38分 ~ 12时42分]"
+        },
         {
           "title": "张坤还是笃信科技：独管产品十大重仓半数押注全球AI半导体",
           "url": "https://www.cls.cn/detail/2516819",
@@ -20,15 +43,17 @@
           "time_info": "[03时54分 ~ 07时39分]"
         },
         {
-          "title": "美联储决议前夕，AI热情驱动科技股反弹，CoreWeave涨8%，油价续跌，金价涨1%",
-          "url": "https://wallstreetcn.com/articles/3784535",
+          "title": "“这种模式我们见过！”大空头交易员详解：为何做空AI新贵CoreWeave",
+          "url": "https://wallstreetcn.com/articles/3784579",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            8,
+            3,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时38分 ~ 07时39分]"
+          "appearance_count": 6,
+          "time_info": "[03时54分 ~ 12时42分]"
         },
         {
           "title": "17岁AI研究员被曝获700万年薪邀约",
@@ -42,16 +67,26 @@
           "time_info": "[03时54分 ~ 03时55分]"
         },
         {
-          "title": "“这种模式我们见过！”大空头交易员详解：为何做空AI新贵CoreWeave",
-          "url": "https://wallstreetcn.com/articles/3784579",
-          "source": "华尔街见闻",
+          "title": "DeepSeek 新版模型单周调用量登顶全球首位，环比暴增 801%，该模型为什么能实现登顶？意味着什么？",
+          "url": "https://www.zhihu.com/question/2098096577525172086",
+          "source": "知乎",
           "ranks": [
-            8,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时41分 ~ 12时42分]"
+        },
+        {
+          "title": "罗翔用AI做了个视频",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BD%97%E7%BF%94%E7%94%A8AI%E5%81%9A%E4%BA%86%E4%B8%AA%E8%A7%86%E9%A2%91",
+          "source": "bilibili 热搜",
+          "ranks": [
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时54分 ~ 07时39分]"
+          "appearance_count": 2,
+          "time_info": "[12时41分 ~ 12时42分]"
         },
         {
           "title": "Anthropic IPO重燃AI情绪，美股指反弹，芯片指数涨近3%，美债、油价齐回落",
@@ -88,17 +123,6 @@
           "time_info": "[03时54分 ~ 03时55分]"
         },
         {
-          "title": "美股收盘：AI反弹行情延续 费城半导体指数大涨3.6% 纳指涨超1%",
-          "url": "https://www.cls.cn/detail/2517192",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时38分 ~ 07时39分]"
-        },
-        {
           "title": "美股费城半导体指数日内涨4.00%，英伟达涨1.13%，博通涨4.61%，美光涨3.52%，英特尔涨4.05%，AMD涨6.03%，高通涨2.02%，台积电涨3.33%，阿斯麦涨3.38%。标普目前涨约0.8%，纳指涨1.4%，纳斯达克100指数涨1.5%。",
           "url": "https://wallstreetcn.com/livenews/3187895",
           "source": "华尔街见闻-快讯",
@@ -108,6 +132,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时55分"
+        },
+        {
+          "title": "AI被当真人,大肥鱼遭网恋哥骚扰",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368128&amp;topic_name=AI%E8%A2%AB%E5%BD%93%E7%9C%9F%E4%BA%BA%2C%E5%A4%A7%E8%82%A5%E9%B1%BC%E9%81%AD%E7%BD%91%E6%81%8B%E5%93%A5%E9%AA%9A%E6%89%B0",
+          "source": "贴吧",
+          "ranks": [
+            17,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时54分 ~ 12时42分]"
         },
         {
           "title": "AI概念股有望延续反弹 红利龙头业绩强劲 | 今夜看点",
@@ -146,15 +182,16 @@
           "time_info": "[03时54分 ~ 07时39分]"
         },
         {
-          "title": "AI被当真人,大肥鱼遭网恋哥骚扰",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368128&amp;topic_name=AI%E8%A2%AB%E5%BD%93%E7%9C%9F%E4%BA%BA%2C%E5%A4%A7%E8%82%A5%E9%B1%BC%E9%81%AD%E7%BD%91%E6%81%8B%E5%93%A5%E9%AA%9A%E6%89%B0",
-          "source": "贴吧",
+          "title": "DeepSeek七款工具同题实测",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E4%B8%83%E6%AC%BE%E5%B7%A5%E5%85%B7%E5%90%8C%E9%A2%98%E5%AE%9E%E6%B5%8B",
+          "source": "bilibili 热搜",
           "ranks": [
-            17
+            20,
+            30
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[03时54分 ~ 07时39分]"
+          "time_info": "[07时38分 ~ 12时42分]"
         },
         {
           "title": "为什么 OpenAi 和 Anthropic 不用自己的顶级 AI 去炒股？就像幻方量化一样？",
@@ -212,6 +249,28 @@
           "time_info": "[03时54分 ~ 03时55分]"
         },
         {
+          "title": "2026胡润百富榜出炉，每10位上榜者就有1位靠AI",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34309375",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时41分 ~ 12时42分]"
+        },
+        {
+          "title": "融资能力无敌！Anthropic手握1317亿美元现金，超英伟达苹果总和",
+          "url": "https://www.cls.cn/detail/2517255",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时41分 ~ 12时42分]"
+        },
+        {
           "title": "报道：台积电拟上调先进封装价格10%-20%，英伟达、AMD成本承压",
           "url": "https://wallstreetcn.com/articles/3784544",
           "source": "华尔街见闻",
@@ -245,6 +304,17 @@
           "time_info": "[03时54分 ~ 03时55分]"
         },
         {
+          "title": "马斯克称机器人所需内存将超过其他任何领域 存储产业趋势明确",
+          "url": "https://www.cls.cn/detail/2517245",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时41分 ~ 12时42分]"
+        },
+        {
           "title": "打了马赛克的二维码被 AI 完整复原，原理是什么？什么样的遮挡才真的防 AI 破解？",
           "url": "https://www.zhihu.com/question/2097626035961455067",
           "source": "知乎",
@@ -254,6 +324,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时54分 ~ 03时55分]"
+        },
+        {
+          "title": "男子借助AI买彩票中508万",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%80%9F%E5%8A%A9AI%E4%B9%B0%E5%BD%A9%E7%A5%A8%E4%B8%AD508%E4%B8%87",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时41分 ~ 12时42分]"
         },
         {
           "title": "OpenAI 10 月 26 日宣布证明所有维度局部光滑猜想，一举推平调和分析四大猜想，如何理解这一事件？",
@@ -289,17 +370,6 @@
           "time_info": "[03时54分 ~ 03时55分]"
         },
         {
-          "title": "DeepSeek七款工具同题实测",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E4%B8%83%E6%AC%BE%E5%B7%A5%E5%85%B7%E5%90%8C%E9%A2%98%E5%AE%9E%E6%B5%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时38分 ~ 07时39分]"
-        },
-        {
           "title": "胡润百富榜每10位上榜者就有1位靠AI",
           "url": "https://www.baidu.com/s?wd=%E8%83%A1%E6%B6%A6%E7%99%BE%E5%AF%8C%E6%A6%9C%E6%AF%8F10%E4%BD%8D%E4%B8%8A%E6%A6%9C%E8%80%85%E5%B0%B1%E6%9C%891%E4%BD%8D%E9%9D%A0AI",
           "source": "百度热搜",
@@ -322,13 +392,35 @@
           "time_info": "[07时38分 ~ 07时39分]"
         },
         {
+          "title": "10月28日午间收评：创业板指半日涨3%，机器人概念股集体爆发",
+          "url": "https://wallstreetcn.com/livenews/3188096",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时42分"
+        },
+        {
+          "title": "创业板指涨超3%，沪指涨0.72%，深成指涨2.03%，机器人、半导体芯片、算力硬件、AI漫剧等方向涨幅居前，沪深京三市上涨个股近4500只。",
+          "url": "https://wallstreetcn.com/livenews/3188089",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时42分"
+        },
+        {
           "title": "物理AI迎落地拐点，产业链公司抢抓机遇",
           "url": "https://wallstreetcn.com/livenews/3187946",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时39分"
         },
@@ -350,16 +442,39 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时39分"
+        },
+        {
+          "title": "微信输入法上线“AI录音笔”功能",
+          "url": "https://flash.jin10.com/detail/20261028113907515800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时42分"
         }
       ]
     },
     {
       "keyword_group": "美股 A股 港股 美债 美元 石油 战争",
-      "match_count": 27,
+      "match_count": 36,
       "titles": [
+        {
+          "title": "【早报】深夜发力，美股半导体指数大涨超3%；国际油价，继续回落；PCB产业链上市公司集中披露三季报",
+          "url": "https://www.cls.cn/detail/2517219",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时38分 ~ 12时42分]"
+        },
         {
           "title": "Anthropic正式提交IPO申请！股票代码“ANT”，上半年净亏807亿美元，警示人类“生存危机”",
           "url": "https://wallstreetcn.com/articles/3784495",
@@ -383,15 +498,16 @@
           "time_info": "[03时54分 ~ 03时55分]"
         },
         {
-          "title": "【早报】深夜发力，美股半导体指数大涨超3%；国际油价，继续回落；PCB产业链上市公司集中披露三季报",
-          "url": "https://www.cls.cn/detail/2517219",
+          "title": "伊朗最高领袖重申结束战争须满足伊方条件 博索纳罗之子被曝赴美“流亡” | 环球市场",
+          "url": "https://www.cls.cn/detail/2517209",
           "source": "财联社热门",
           "ranks": [
-            3
+            9,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时38分 ~ 07时39分]"
+          "appearance_count": 4,
+          "time_info": "[07时38分 ~ 12时42分]"
         },
         {
           "title": "SK海力士(SKHY.O)美股盘后涨1.4%。",
@@ -400,7 +516,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时39分"
         },
@@ -427,15 +543,37 @@
           "time_info": "03时55分"
         },
         {
-          "title": "伊朗最高领袖重申结束战争须满足伊方条件 博索纳罗之子被曝赴美“流亡” | 环球市场",
-          "url": "https://www.cls.cn/detail/2517209",
-          "source": "财联社热门",
+          "title": "韩元兑美元日内下跌1.1%，为一个月来最大跌幅。",
+          "url": "https://wallstreetcn.com/livenews/3188110",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时42分"
+        },
+        {
+          "title": "渣打集团第三季度除税前利润22.5亿美元，同比+27%，预估20.9亿美元。 第三季度经营收入57.8亿美元，同比+13%，预估56.3亿美元。 第三季度普通股一级资本充足率13.8％，预估13.8％。 第三季度经营支出34.1亿美元，同比+8.5%。 第三季度净息差2.03％，预估2.01％。",
+          "url": "https://wallstreetcn.com/livenews/3188109",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时42分"
+        },
+        {
+          "title": "A股午盘：全市场近4500股上涨",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E5%8D%88%E7%9B%98%EF%BC%9A%E5%85%A8%E5%B8%82%E5%9C%BA%E8%BF%914500%E8%82%A1%E4%B8%8A%E6%B6%A8",
+          "source": "百度热搜",
+          "ranks": [
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时38分 ~ 07时39分]"
+          "time_info": "[12时41分 ~ 12时42分]"
         },
         {
           "title": "A股千元股只剩贵州茅台意味着什么",
@@ -449,13 +587,24 @@
           "time_info": "[03时54分 ~ 03时55分]"
         },
         {
+          "title": "渣打集团：第三季度除税前溢利为23亿美元，增加29%",
+          "url": "https://flash.jin10.com/detail/20261028120750674800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时42分"
+        },
+        {
           "title": "年内117家公司港股IPO募资逾3900亿港元",
           "url": "https://wallstreetcn.com/livenews/3187958",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时39分"
         },
@@ -504,6 +653,17 @@
           "time_info": "03时55分"
         },
         {
+          "title": "港股午评：恒生指数涨0.43%，恒生科技指数涨1.8%",
+          "url": "https://flash.jin10.com/detail/20261028120521873800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时42分"
+        },
+        {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.6670元，较周一夜盘收盘涨25点。成交量440.50亿美元。",
           "url": "https://wallstreetcn.com/livenews/3187883",
           "source": "华尔街见闻-快讯",
@@ -526,15 +686,37 @@
           "time_info": "03时55分"
         },
         {
+          "title": "特朗普拟放宽油气行业甲烷管制！声称可省450亿美元、增产2.1亿桶石油",
+          "url": "https://flash.jin10.com/detail/20261028115718533800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时42分"
+        },
+        {
           "title": "周二，以色列谢克尔兑美元涨0.82%，报3.0557谢克尔，北京时间22:31曾达到2.9910谢克尔，最近三个交易日累计上扬1.78%。 据新华社报道，关于以色列议会选举的最新出口民调结果显示，总理内塔尼亚胡所属阵营未获议会多数席位。",
           "url": "https://wallstreetcn.com/livenews/3187950",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时39分"
+        },
+        {
+          "title": "摩根大通：将波音(BA.N)目标价从290美元下调至240美元。",
+          "url": "https://flash.jin10.com/detail/20261028115523074800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时42分"
         },
         {
           "title": "WTI 12月原油期货收跌1.86美元，跌幅1.83%，报99.90美元/桶。 布伦特12月原油期货收跌1.93美元，跌幅1.67%，报113.88美元/桶。",
@@ -576,7 +758,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时39分"
         },
@@ -598,7 +780,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时39分"
         },
@@ -631,9 +813,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时39分"
+        },
+        {
+          "title": "韩元兑美元走弱，报1,339.2。",
+          "url": "https://flash.jin10.com/detail/20261028114714742800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时42分"
         },
         {
           "title": "一名美国官员表示，委内瑞拉第二大私营石油生产商NABEP已向美国交付首批100万桶免费原油，这批委内瑞拉原油将运往西特戈以及埃克森美孚炼油厂。",
@@ -642,7 +835,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时39分"
         },
@@ -656,6 +849,146 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时55分"
+        },
+        {
+          "title": "A股CPO概念股震荡走强，共进股份触及涨停，杰普特涨超15%，仕佳光子、炬光科技、新易盛、天孚通信、中际旭创均涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3188060",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普 马斯克 加密货币 美联储",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "今夜不加息？美联储决议日来袭：华尔街紧盯沃什表态！",
+          "url": "https://www.cls.cn/detail/2517294",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时41分 ~ 12时42分]"
+        },
+        {
+          "title": "特朗普：委内瑞拉或成为美国第51个州",
+          "url": "https://news.ifeng.com/c/8xaJYjqF2cZ",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时41分 ~ 12时42分]"
+        },
+        {
+          "title": "美国总统特朗普：委内瑞拉可能成为美国第51个州。",
+          "url": "https://flash.jin10.com/detail/20261028034833070800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时55分"
+        },
+        {
+          "title": "美联储本周有望按下加息暂停键，鹰派警报却未解除！",
+          "url": "https://flash.jin10.com/detail/20261028121526181800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时42分"
+        },
+        {
+          "title": "美国两位主教与特朗普同框后，懊悔了",
+          "url": "https://news.ifeng.com/c/8xZRUzsoyDA",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时54分 ~ 07时39分]"
+        },
+        {
+          "title": "美国消费者信心10月意外大幅反弹 中期选举前特朗普仍难摆脱高物价困局",
+          "url": "https://www.cls.cn/detail/2517100",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时38分 ~ 12时42分]"
+        },
+        {
+          "title": "美国亚裔选民对共和党信任度下滑，特朗普经济支持率骤降",
+          "url": "https://flash.jin10.com/detail/20261028120743833800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时42分"
+        },
+        {
+          "title": "据CNN：博索纳罗盟友称特朗普政府已发出庇护信号。",
+          "url": "https://flash.jin10.com/detail/20261028025934496800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时55分"
+        },
+        {
+          "title": "金十整理：“还加息吗”？9月会议以来，美联储官员都怎么说？",
+          "url": "https://flash.jin10.com/detail/20261028115407129800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时42分"
+        },
+        {
+          "title": "特朗普的夫人：俄乌奥列什基停火提前生效，范围已扩大",
+          "url": "https://wallstreetcn.com/livenews/3187874",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时55分"
+        },
+        {
+          "title": "美联储10月料按兵不动，机构分歧集中在终端利率",
+          "url": "https://flash.jin10.com/detail/20261028114820549800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时42分"
         }
       ]
     },
@@ -721,24 +1054,24 @@
           "time_info": "[03时54分 ~ 07时39分]"
         },
         {
-          "title": "外交部回应姆巴佩涉华不当言论",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E5%A7%86%E5%B7%B4%E4%BD%A9%E6%B6%89%E5%8D%8E%E4%B8%8D%E5%BD%93%E8%A8%80%E8%AE%BA%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时54分 ~ 07时39分]"
-        },
-        {
           "title": "受贿4.36亿余元，证监会原党委委员王会民一审被判死缓",
           "url": "https://m.thepaper.cn/newsDetail_forward_34343115",
           "source": "澎湃新闻",
           "ranks": [
             9,
             11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时54分 ~ 12时42分]"
+        },
+        {
+          "title": "外交部回应姆巴佩涉华不当言论",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E5%A7%86%E5%B7%B4%E4%BD%A9%E6%B6%89%E5%8D%8E%E4%B8%8D%E5%BD%93%E8%A8%80%E8%AE%BA%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7,
+            29
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -758,70 +1091,8 @@
       ]
     },
     {
-      "keyword_group": "特朗普 马斯克 加密货币 美联储",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "美国总统特朗普：委内瑞拉可能成为美国第51个州。",
-          "url": "https://flash.jin10.com/detail/20261028034833070800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时55分"
-        },
-        {
-          "title": "美国两位主教与特朗普同框后，懊悔了",
-          "url": "https://news.ifeng.com/c/8xZRUzsoyDA",
-          "source": "凤凰网",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时54分 ~ 07时39分]"
-        },
-        {
-          "title": "美国消费者信心10月意外大幅反弹 中期选举前特朗普仍难摆脱高物价困局",
-          "url": "https://www.cls.cn/detail/2517100",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时38分 ~ 07时39分]"
-        },
-        {
-          "title": "据CNN：博索纳罗盟友称特朗普政府已发出庇护信号。",
-          "url": "https://flash.jin10.com/detail/20261028025934496800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时55分"
-        },
-        {
-          "title": "特朗普的夫人：俄乌奥列什基停火提前生效，范围已扩大",
-          "url": "https://wallstreetcn.com/livenews/3187874",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时55分"
-        }
-      ]
-    },
-    {
       "keyword_group": "黄金 白银 铜 铝 稀土",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "黄金跌至4000美元之际 欧洲最大资管喊话：最糟糕的时期已经过去",
@@ -840,11 +1111,23 @@
           "url": "https://wallstreetcn.com/articles/3784585",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时38分 ~ 07时39分]"
+          "appearance_count": 4,
+          "time_info": "[07时38分 ~ 12时42分]"
+        },
+        {
+          "title": "金十图示：2026年10月28日（周三）白银ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20261028121104895800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时42分"
         },
         {
           "title": "白银遭遇史诗级洗盘",
@@ -856,6 +1139,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时54分 ~ 03时55分]"
+        },
+        {
+          "title": "金十图示：2026年10月28日（周三）黄金ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20261028120733769800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时42分"
         },
         {
           "title": "LME期铜收涨147美元，报14474美元/吨。 LME期铝收涨46美元，报3087美元/吨。 LME期锌收涨28美元，报3842美元/吨。 LME期铅收涨10美元，报1933美元/吨。 LME期镍收涨68美元，报15629美元/吨。 LME期锡收涨444美元，报51461美元/吨。 LME期钴收平，报34620美元/吨。",
