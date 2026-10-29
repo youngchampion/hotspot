@@ -1,11 +1,283 @@
 {
-  "generated_at": "2026-10-30T00:44:04.032545+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-10-30T05:38:48.406194+08:00",
+  "total_titles_processed": 423,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "美股 A股 港股 美债 美元 石油 战争",
+      "match_count": 24,
+      "titles": [
+        {
+          "title": "美联储按兵不动，美股指三连涨，甲骨文大涨11%，盘后谷歌大跌10%、微软走强",
+          "url": "https://wallstreetcn.com/articles/3784634",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 05时38分]"
+        },
+        {
+          "title": "微软花式挑战历史新高 美股“三连涨”后面临严峻考验 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2519683",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 05时38分]"
+        },
+        {
+          "title": "欧盟专员约根森：我们并不担忧石油、天然气的供应安全，而是民众在支付账单方面面临困难。 欧盟成员国重申承诺，加速投放4260万桶石油储备。 未来几个月释放的石油储备中有一半将是柴油。",
+          "url": "https://wallstreetcn.com/livenews/3190665",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时44分"
+        },
+        {
+          "title": "欧盟委员约根森：未来几个月释放的石油库存中有一半将是柴油。",
+          "url": "https://flash.jin10.com/detail/20261030003834272800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时44分"
+        },
+        {
+          "title": "欧盟委员约根森：我们预计石油和天然气供应安全无虞，但民众却难以支付账单。",
+          "url": "https://flash.jin10.com/detail/20261030003733513800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时44分"
+        },
+        {
+          "title": "普京：俄不希望与欧洲发生战争，但已做好准备",
+          "url": "https://wallstreetcn.com/livenews/3190697",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时38分"
+        },
+        {
+          "title": "欧盟委员约根森：欧盟成员国已重申致力于加快释放4260万桶石油。",
+          "url": "https://flash.jin10.com/detail/20261030003719826800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时44分"
+        },
+        {
+          "title": "A股双创指数均跌超4%，算力硬件集体调整，四大行总市值突破10万亿元，恒科指跌近3%，科网股普跌",
+          "url": "https://wallstreetcn.com/articles/3784738",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 05时38分]"
+        },
+        {
+          "title": "A股回购增持潮起：产业资本加速入场，稳市信号不断增强",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34353480",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 00时44分]"
+        },
+        {
+          "title": "金十图示：2026年10月29日（周四）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20261030003216705800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时44分"
+        },
+        {
+          "title": "亚马逊首席执行官：AWS积压订单达5780亿美元，同比增长三位数。 有信心AWS将带来比此前预期更多的收入。",
+          "url": "https://wallstreetcn.com/livenews/3190772",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时38分"
+        },
+        {
+          "title": "中国麻将在美国爆火，套装卖到 400 美元仍排队抢购，这股风潮是怎么来的？麻将为什么有这样的出海潜力？",
+          "url": "https://www.zhihu.com/question/2098435655415984511",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时38分"
+        },
+        {
+          "title": "美国农业部（USDA）：有意采购价值至多4.725亿美元的美国农产品。 将购买0.41亿美元的美国猪肉，1.655亿美元的美国乳制品。",
+          "url": "https://wallstreetcn.com/livenews/3190658",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时44分"
+        },
+        {
+          "title": "金十图示：2026年10月29日（周四）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20261030003019452800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时44分"
+        },
+        {
+          "title": "亚马逊(AMZN.O)CEO：AWS积压订单达5780亿美元，同比增长三位数。",
+          "url": "https://flash.jin10.com/detail/20261030050622443800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时38分"
+        },
+        {
+          "title": "闪迪（SNDK）美股盘后转涨，涨幅达到3%。",
+          "url": "https://wallstreetcn.com/livenews/3190759",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时38分"
+        },
+        {
+          "title": "惠普（HPQ）美股盘后跌5.8%，惠与（HPE）也跌3.5%。",
+          "url": "https://wallstreetcn.com/livenews/3190757",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时38分"
+        },
+        {
+          "title": "星巴克预计2027财年调整后每股收益（EPS）将为3.15-3.25美元，分析师预期3.13美元。",
+          "url": "https://wallstreetcn.com/livenews/3190755",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时38分"
+        },
+        {
+          "title": "Roblox预计四季度收入14.7亿-15.8亿美元，分析师预期15.6亿美元。 预计四季度预定18.9亿20亿美元，分析师预期19.9亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3190754",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时38分"
+        },
+        {
+          "title": "加密货币交易所Coinbase三季度总收入12.2亿美元，分析师预期12.2亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3190753",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时38分"
+        },
+        {
+          "title": "美国投资公司协会（ICI）：截至10月28日当周，货币市场基金总规模减少432.9亿美元，降至7.9万亿美元。",
+          "url": "https://flash.jin10.com/detail/20261030044011754800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时38分"
+        },
+        {
+          "title": "Pinterest预计四季度营收14.3亿-14.8亿美元，分析师预期15.2亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3190751",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时38分"
+        },
+        {
+          "title": "闪迪第一财季营收110.3亿美元，分析师预期106.9亿美元。 第一财季数据中心收入48亿美元，消费者收入3.97亿美元，EDGE营收58.3亿美元。 第一财季调整后毛利润率85.1%，分析师预期84.5%。 第一财季调整后每股收益（EPS）为49.51美元，分析师预期46.36美元。 第一财季末PRO为889亿美元。 公司将按8-1拆股。 预计第二财季营收122亿-126亿美元，分析师预期121亿美元。 预计第二财季调整后EPS为55-57美元，分析师52.72美元。 闪迪（SNDK）美股盘后跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3190750",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时38分"
+        },
+        {
+          "title": "谷歌母公司Alphabet（谷歌A）收跌13%，市值蒸发4790亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3190748",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时38分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek AI openai 机器人 小米 特斯拉 英伟达",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "沃什：明年起削减议息会议次数，不预判12月决策，AI投资同样受利率影响（附全文）",
@@ -15,30 +287,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 00时44分]"
-        },
-        {
-          "title": "AI完成有限单群分类定理证明",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%AE%8C%E6%88%90%E6%9C%89%E9%99%90%E5%8D%95%E7%BE%A4%E5%88%86%E7%B1%BB%E5%AE%9A%E7%90%86%E8%AF%81%E6%98%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 00时44分]"
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 05时38分]"
         },
         {
           "title": "谷歌大跌！Q3业绩不及预期，自由现金流大幅下降，AI投入回报质疑加剧｜财报见闻",
           "url": "https://wallstreetcn.com/articles/3784714",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 00时44分]"
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 05时38分]"
         },
         {
           "title": "如何评价 AI 短剧《大明, 李景隆的别样人生》？",
@@ -52,15 +314,39 @@
           "time_info": "[00时43分 ~ 00时44分]"
         },
         {
+          "title": "AI完成有限单群分类定理证明",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%AE%8C%E6%88%90%E6%9C%89%E9%99%90%E5%8D%95%E7%BE%A4%E5%88%86%E7%B1%BB%E5%AE%9A%E7%90%86%E8%AF%81%E6%98%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 05时38分]"
+        },
+        {
+          "title": "Reddit首席执行官：谷歌的AI概览和AI模式是搜索流量下降的最大因素。",
+          "url": "https://wallstreetcn.com/livenews/3190773",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时38分"
+        },
+        {
           "title": "谷歌电话会：承认AI搜索变现偏低，TPU库存拖累自由现金流转负，明年是“收获年”但资本开支也将大增",
           "url": "https://wallstreetcn.com/articles/3784718",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 00时44分]"
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 05时38分]"
         },
         {
           "title": "王腾感谢小米和雷总",
@@ -70,19 +356,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 00时44分]"
-        },
-        {
-          "title": "AI投资回报向好：微软上季Azure收入超预期增48%，资本支出未“失控”，盘后跳涨｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3784713",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 00时44分]"
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 05时38分]"
         },
         {
           "title": "华为制药军团表态，其公司定位是医药行业的 AI 赋能者，而不是跟大家抢着做药，意味着什么？背后有哪些考量？",
@@ -92,8 +367,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 00时44分]"
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 05时38分]"
         },
         {
           "title": "【明日主题前瞻】字节跳动旗下即梦短剧工作室上线，AI短剧行业规模有望延续高速扩容",
@@ -103,8 +378,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 00时44分]"
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 05时38分]"
         },
         {
           "title": "男子用AI工具搜集配方自制“听话水”，因犯制造毒品罪获刑",
@@ -114,15 +389,27 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 00时44分]"
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 05时38分]"
         },
         {
           "title": "AI模特“攻占”双十一：AI标注“隐形”真假难辨，生成图价格不到实拍图四分之一",
           "url": "https://m.thepaper.cn/newsDetail_forward_34352856",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 05时38分]"
+        },
+        {
+          "title": "AI投资回报向好：微软上季Azure收入超预期增48%，资本支出未“失控”，盘后跳涨｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3784713",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -146,7 +433,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时44分"
         },
@@ -157,7 +444,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时44分"
         },
@@ -168,7 +455,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时44分"
         },
@@ -179,7 +466,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时44分"
         },
@@ -190,7 +477,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时44分"
         },
@@ -201,7 +488,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时44分"
         },
@@ -212,7 +499,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时44分"
         },
@@ -223,7 +510,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时44分"
         },
@@ -234,7 +521,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时44分"
         },
@@ -245,134 +532,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时44分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股 A股 港股 美债 美元 石油 战争",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "美联储按兵不动，美股指三连涨，甲骨文大涨11%，盘后谷歌大跌10%、微软走强",
-          "url": "https://wallstreetcn.com/articles/3784634",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 00时44分]"
-        },
-        {
-          "title": "微软花式挑战历史新高 美股“三连涨”后面临严峻考验 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2519683",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 00时44分]"
-        },
-        {
-          "title": "欧盟专员约根森：我们并不担忧石油、天然气的供应安全，而是民众在支付账单方面面临困难。 欧盟成员国重申承诺，加速投放4260万桶石油储备。 未来几个月释放的石油储备中有一半将是柴油。",
-          "url": "https://wallstreetcn.com/livenews/3190665",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时44分"
-        },
-        {
-          "title": "欧盟委员约根森：未来几个月释放的石油库存中有一半将是柴油。",
-          "url": "https://flash.jin10.com/detail/20261030003834272800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时44分"
-        },
-        {
-          "title": "欧盟委员约根森：我们预计石油和天然气供应安全无虞，但民众却难以支付账单。",
-          "url": "https://flash.jin10.com/detail/20261030003733513800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时44分"
-        },
-        {
-          "title": "欧盟委员约根森：欧盟成员国已重申致力于加快释放4260万桶石油。",
-          "url": "https://flash.jin10.com/detail/20261030003719826800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时44分"
-        },
-        {
-          "title": "A股双创指数均跌超4%，算力硬件集体调整，四大行总市值突破10万亿元，恒科指跌近3%，科网股普跌",
-          "url": "https://wallstreetcn.com/articles/3784738",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 00时44分]"
-        },
-        {
-          "title": "A股回购增持潮起：产业资本加速入场，稳市信号不断增强",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34353480",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 00时44分]"
-        },
-        {
-          "title": "金十图示：2026年10月29日（周四）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20261030003216705800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时44分"
-        },
-        {
-          "title": "美国农业部（USDA）：有意采购价值至多4.725亿美元的美国农产品。 将购买0.41亿美元的美国猪肉，1.655亿美元的美国乳制品。",
-          "url": "https://wallstreetcn.com/livenews/3190658",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时44分"
-        },
-        {
-          "title": "金十图示：2026年10月29日（周四）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20261030003019452800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "00时44分"
         }
@@ -389,7 +549,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时44分"
         },
@@ -401,8 +561,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 00时44分]"
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 05时38分]"
         },
         {
           "title": "三丽鸥联名反华剧,外交部表态",
@@ -412,19 +572,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 00时44分]"
-        },
-        {
-          "title": "欧洲央行行长拉加德将于明年2月卸任 任期提前近九个月结束",
-          "url": "https://www.cls.cn/detail/2519526",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 00时44分]"
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 05时38分]"
         },
         {
           "title": "外交部：日本国内始终存在一股势力，企图通过文化产品丑化抹黑中国",
@@ -432,6 +581,17 @@
           "source": "澎湃新闻",
           "ranks": [
             14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 05时38分]"
+        },
+        {
+          "title": "欧洲央行行长拉加德将于明年2月卸任 任期提前近九个月结束",
+          "url": "https://www.cls.cn/detail/2519526",
+          "source": "财联社热门",
+          "ranks": [
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -455,7 +615,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时44分"
         },
@@ -466,7 +626,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时44分"
         },
@@ -477,7 +637,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时44分"
         },
@@ -488,7 +648,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时44分"
         }
@@ -496,7 +656,7 @@
     },
     {
       "keyword_group": "特朗普 马斯克 加密货币 美联储",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "马杜罗案主审法官去世，新任法官与特朗普“很不对付”",
@@ -506,19 +666,54 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 00时44分]"
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 05时38分]"
         },
         {
           "title": "美联储等来的仍是“热数据”：美国9月关键通胀指标升温",
           "url": "https://www.cls.cn/detail/2519805",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 00时44分]"
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 05时38分]"
+        },
+        {
+          "title": "得州保守派领袖答凤凰：油价上涨不怪特朗普，警惕“穆斯林危机”",
+          "url": "https://original.ifeng.com/c/8xcGu6PqBfo",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 05时38分]"
+        },
+        {
+          "title": "美联储宣布维持利率不变",
+          "url": "https://www.douyin.com/hot/2718490",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 05时38分]"
+        },
+        {
+          "title": "美联储10月如期按兵不动，两人投反对票支持加息（附声明全文）",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34356992",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 05时38分]"
         },
         {
           "title": "美联储如期按兵不动，重现分歧但鹰派减少，库克等两票委支持加息",
@@ -532,44 +727,33 @@
           "time_info": "[00时43分 ~ 00时44分]"
         },
         {
-          "title": "得州保守派领袖答凤凰：油价上涨不怪特朗普，警惕“穆斯林危机”",
-          "url": "https://original.ifeng.com/c/8xcGu6PqBfo",
-          "source": "凤凰网",
+          "title": "合并尚未敲定，代码先被看中？华尔街押注马斯克将再选“X”",
+          "url": "https://www.cls.cn/detail/2519874",
+          "source": "财联社热门",
           "ranks": [
-            9
+            13
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 00时44分]"
-        },
-        {
-          "title": "美联储宣布维持利率不变",
-          "url": "https://www.douyin.com/hot/2718490",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 00时44分]"
-        },
-        {
-          "title": "美联储10月如期按兵不动，两人投反对票支持加息（附声明全文）",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34356992",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 00时44分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时38分"
         }
       ]
     },
     {
       "keyword_group": "黄金 白银 铜 铝 稀土",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "周四（10月29日）纽约尾盘，现货黄金跌1.13%，报4201.15美元/盎司，整体持续走低，交投于4068.92-4005.47美元区间。 现货白银跌3.4%，报52.1440美元/盎司。 COMEX铜期货跌1.12%，报6.5965美元/磅。",
+          "url": "https://wallstreetcn.com/livenews/3190766",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时38分"
+        },
         {
           "title": "蒙古国南部一铜矿发生岩崩事故致15人受伤",
           "url": "https://wallstreetcn.com/livenews/3190640",
@@ -577,7 +761,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时44分"
         }
