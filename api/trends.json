@@ -1,862 +1,248 @@
 {
-  "generated_at": "2026-11-02T15:27:07.306435+08:00",
-  "total_titles_processed": 765,
+  "generated_at": "2026-11-03T01:59:16.132058+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek AI openai 机器人 小米 特斯拉 英伟达",
-      "match_count": 50,
+      "match_count": 20,
       "titles": [
         {
-          "title": "【早报】事关股市，重磅会议今日召开；英伟达披露下一代CPO技术；美国已进入冬令时",
-          "url": "https://www.cls.cn/detail/2521932",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时32分 ~ 15时27分]"
-        },
-        {
-          "title": "AI的“火” PCB三季报接住了",
-          "url": "https://www.cls.cn/detail/2521696",
-          "source": "财联社热门",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 08时33分]"
-        },
-        {
-          "title": "赛博鱼塘!大肥鱼AI涌入鲸鱼吧",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368798&amp;topic_name=%E8%B5%9B%E5%8D%9A%E9%B1%BC%E5%A1%98%21%E5%A4%A7%E8%82%A5%E9%B1%BCAI%E6%B6%8C%E5%85%A5%E9%B2%B8%E9%B1%BC%E5%90%A7",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时38分 ~ 15时27分]"
-        },
-        {
-          "title": "为何 AI 短剧好像放弃了清宫戏，而更倾向于唐 / 宋 / 架空朝代？跟观众偏好、技术、选题、价值观有啥关系吗？",
-          "url": "https://www.zhihu.com/question/2100281204884731770",
-          "source": "知乎",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时32分 ~ 15时27分]"
-        },
-        {
-          "title": "普通人不配?AI巨头嫌内存浪费",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368792&amp;topic_name=%E6%99%AE%E9%80%9A%E4%BA%BA%E4%B8%8D%E9%85%8D%3FAI%E5%B7%A8%E5%A4%B4%E5%AB%8C%E5%86%85%E5%AD%98%E6%B5%AA%E8%B4%B9",
-          "source": "贴吧",
-          "ranks": [
-            1,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时38分 ~ 15时27分]"
-        },
-        {
-          "title": "首届CMG世界机器人登泰山大赛",
-          "url": "https://www.douyin.com/hot/2724740",
-          "source": "抖音",
+          "title": "DeepSeek Harness入驻B站",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E5%85%A5%E9%A9%BBB%E7%AB%99",
+          "source": "bilibili 热搜",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时26分 ~ 15时27分]"
-        },
-        {
-          "title": "DeepSeek Agent小白教程",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Agent%E5%B0%8F%E7%99%BD%E6%95%99%E7%A8%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时26分 ~ 15时27分]"
-        },
-        {
-          "title": "一生难愈：高盛发现被AI取代的工人通常再就业困难，且往往落入AI的下一个猎场",
-          "url": "https://wallstreetcn.com/articles/3784943",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时38分 ~ 15时27分]"
-        },
-        {
-          "title": "如何评价 2026 年 10 月小米汽车交付量超过 50000 台？",
-          "url": "https://www.zhihu.com/question/2100160196362384887",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时38分"
-        },
-        {
-          "title": "吧友拿十六进制撩AI,回复亮了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368713&amp;topic_name=%E5%90%A7%E5%8F%8B%E6%8B%BF%E5%8D%81%E5%85%AD%E8%BF%9B%E5%88%B6%E6%92%A9AI%2C%E5%9B%9E%E5%A4%8D%E4%BA%AE%E4%BA%86",
-          "source": "贴吧",
-          "ranks": [
-            11,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时38分 ~ 15时27分]"
-        },
-        {
-          "title": "美股AI暴跌,万亿市值蒸发",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368651&amp;topic_name=%E7%BE%8E%E8%82%A1AI%E6%9A%B4%E8%B7%8C%2C%E4%B8%87%E4%BA%BF%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%91",
-          "source": "贴吧",
-          "ranks": [
-            17,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时38分 ~ 15时27分]"
-        },
-        {
-          "title": "12个AI预测BLG对阵HLE",
-          "url": "https://search.bilibili.com/all?keyword=12%E4%B8%AAAI%E9%A2%84%E6%B5%8BBLG%E5%AF%B9%E9%98%B5HLE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时38分 ~ 15时27分]"
-        },
-        {
-          "title": "香港证监会公布首份AI准备情况调查",
-          "url": "https://wallstreetcn.com/livenews/3192324",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时27分"
-        },
-        {
-          "title": "奥尔特曼谈AI：能效大幅提升但使用量激增，需能源行业协同应对",
-          "url": "https://flash.jin10.com/detail/20261102152226848800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时27分"
-        },
-        {
-          "title": "江苏多地物业引入巡逻机器人「一台抵 5 个保安」，这会成为未来趋势吗？",
-          "url": "https://www.zhihu.com/question/2099653516453328673",
-          "source": "知乎",
-          "ranks": [
-            15,
-            14,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 08时33分]"
-        },
-        {
-          "title": "90天暴增近1万亿！AI表外负债悄然突破4.1万亿美元",
-          "url": "https://wallstreetcn.com/articles/3784949",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时00分 ~ 15时27分]"
-        },
-        {
-          "title": "下一届美国国会怎么管AI？中期选举前，数据中心扩张已经暴露三大现实矛盾",
-          "url": "https://flash.jin10.com/detail/20261102152057569800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时27分"
-        },
-        {
-          "title": "AI“完美风暴”剧本：债市“吹响号角”，财报“雪上加霜”，中选“最后一击”？",
-          "url": "https://wallstreetcn.com/articles/3784930",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 08时33分]"
-        },
-        {
-          "title": "AI短片克劳德的救赎",
-          "url": "https://search.bilibili.com/all?keyword=AI%E7%9F%AD%E7%89%87%E5%85%8B%E5%8A%B3%E5%BE%B7%E7%9A%84%E6%95%91%E8%B5%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 08时33分]"
-        },
-        {
-          "title": "AI带着真金白银来了！CXO分化复苏潮下，谁在狂揽“湿实验”订单？",
-          "url": "https://www.cls.cn/detail/2521722",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 08时33分]"
-        },
-        {
-          "title": "媒体：AI模特长着三条腿？如此试衣，怎能让消费者“合身”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34381747",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            17,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 08时33分]"
-        },
-        {
-          "title": "环球下周看点：AI热潮遇考验 美国中期选举、非农与苹果财报接连来袭",
-          "url": "https://www.cls.cn/detail/2521662",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 08时33分]"
-        },
-        {
-          "title": "AI给数学教育带来什么？沃尔夫数学奖得主：终结乏味的数学教学方式",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34381316",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            18,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 08时33分]"
-        },
-        {
-          "title": "DeepSeek亮出“超级智能体”架构",
-          "url": "https://www.toutiao.com/trending/7703258129567321638/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时32分 ~ 08时33分]"
-        },
-        {
-          "title": "数据局座谈会要求摸清“用数需求” 物理AI爆发前数采环节或先行",
-          "url": "https://www.cls.cn/detail/2522219",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时26分 ~ 15时27分]"
+          "time_info": "[01时58分 ~ 01时59分]"
         },
         {
           "title": "不到10元，AI眼镜秒变“偷拍神器”！一张遮光贴就能撕开隐私红线？",
           "url": "https://m.thepaper.cn/newsDetail_forward_34248283",
           "source": "澎湃新闻",
           "ranks": [
-            7
+            3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时26分 ~ 15时27分]"
-        },
-        {
-          "title": "机器人爬泰山参赛选手大赏",
-          "url": "https://www.douyin.com/hot/2724864",
-          "source": "抖音",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时26分 ~ 15时27分]"
-        },
-        {
-          "title": "怎么看百度搜索降价千次 4.9 元，这是针对 DeepSeek 搜索的千次 5 元吗？",
-          "url": "https://www.zhihu.com/question/2099967799934313950",
-          "source": "知乎",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 05时00分]"
-        },
-        {
-          "title": "美中期选战即将来袭：选情远比民调复杂，地方博弈牵动AI算力命运",
-          "url": "https://www.cls.cn/detail/2522308",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时26分 ~ 15时27分]"
-        },
-        {
-          "title": "红果日活 1.68 亿，AI 短剧一集可能只赚一块钱，对此你怎么看？AI 短剧为何不赚钱？",
-          "url": "https://www.zhihu.com/question/2098854103598239840",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时26分 ~ 15时27分]"
+          "time_info": "[01时58分 ~ 01时59分]"
         },
         {
           "title": "期中“烤”｜“拒绝数据中心会输给中国”？美国社区挑战特朗普AI雄心",
           "url": "https://m.thepaper.cn/newsDetail_forward_34375606",
           "source": "澎湃新闻",
           "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时58分 ~ 01时59分]"
+        },
+        {
+          "title": "AI攻破困扰化学界50年难题",
+          "url": "https://search.bilibili.com/all?keyword=AI%E6%94%BB%E7%A0%B4%E5%9B%B0%E6%89%B0%E5%8C%96%E5%AD%A6%E7%95%8C50%E5%B9%B4%E9%9A%BE%E9%A2%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时58分 ~ 01时59分]"
+        },
+        {
+          "title": "受AI支出质疑影响，Meta考虑通过潜在债券发行筹集至少200亿美元",
+          "url": "https://wallstreetcn.com/livenews/3192775",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时59分"
+        },
+        {
+          "title": "以色列反对党领袖亚伊尔·拉皮德（Yair Lapid）：以色列总理内塔尼亚胡及其亲信竭尽全力质疑选举结果，只有一个原因：他们输了。现在，他们无所不用其极，编造阴谋论，质疑民主选举的结果，而这些结果已经由他们自己任命的辛贝特（以色列国家安全总局）局长和法官苏尔伯格（Sulberg）签署确认。这是企图摧毁以色列民主制度，我们绝不能允许这种事情发生。",
+          "url": "https://flash.jin10.com/detail/20261103014336382800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时59分"
+        },
+        {
+          "title": "AI时代数学该何去何从",
+          "url": "https://search.bilibili.com/all?keyword=AI%E6%97%B6%E4%BB%A3%E6%95%B0%E5%AD%A6%E8%AF%A5%E4%BD%95%E5%8E%BB%E4%BD%95%E4%BB%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时58分 ~ 01时59分]"
+        },
+        {
+          "title": "【焦点复盘】大金融板块做多提振人气，科创50放量涨超3%，AI应用端现大面积涨停",
+          "url": "https://www.cls.cn/detail/2522637",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时58分 ~ 01时59分]"
+        },
+        {
+          "title": "【每日收评】三大指数均涨超1%，全市场逾百股涨停，AI漫剧概念再度爆发",
+          "url": "https://www.cls.cn/detail/2522567",
+          "source": "财联社热门",
+          "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时26分 ~ 15时27分]"
+          "time_info": "[01时58分 ~ 01时59分]"
         },
         {
-          "title": "英伟达披露下一代CPO技术 光引擎绕开有机基板 原型样品已就位",
-          "url": "https://www.cls.cn/detail/2521558",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 05时00分]"
-        },
-        {
-          "title": "【午报】创业板指半日涨超3%，全市场超4700只个股飘红，AI漫剧概念涨幅居前",
-          "url": "https://www.cls.cn/detail/2522235",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时26分 ~ 15时27分]"
-        },
-        {
-          "title": "11月2日投资避雷针：上周五纳指收跌2.9% AI交易遭重挫 英特尔跌28%",
-          "url": "https://www.cls.cn/detail/2521961",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时26分 ~ 15时27分]"
-        },
-        {
-          "title": "双十一AI暗战：电商想提升交易 消费者要全网比价",
-          "url": "https://www.cls.cn/detail/2521706",
-          "source": "财联社热门",
+          "title": "DeepSeek Agent小白教程",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Agent%E5%B0%8F%E7%99%BD%E6%95%99%E7%A8%8B",
+          "source": "bilibili 热搜",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时32分 ~ 08时33分]"
+          "time_info": "[01时58分 ~ 01时59分]"
         },
         {
-          "title": "机器人加入乐队会改变音乐吗",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8A%A0%E5%85%A5%E4%B9%90%E9%98%9F%E4%BC%9A%E6%94%B9%E5%8F%98%E9%9F%B3%E4%B9%90%E5%90%97",
-          "source": "bilibili 热搜",
+          "title": "赛博鱼塘!大肥鱼AI涌入鲸鱼吧",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368798&amp;topic_name=%E8%B5%9B%E5%8D%9A%E9%B1%BC%E5%A1%98%21%E5%A4%A7%E8%82%A5%E9%B1%BCAI%E6%B6%8C%E5%85%A5%E9%B2%B8%E9%B1%BC%E5%90%A7",
+          "source": "贴吧",
           "ranks": [
-            14
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时26分 ~ 15时27分]"
+          "time_info": "[01时58分 ~ 01时59分]"
         },
         {
-          "title": "春晚同款宇树机器人亮相登泰山大赛",
-          "url": "https://www.toutiao.com/trending/7702791582835310618/",
-          "source": "今日头条",
+          "title": "普通人不配?AI巨头嫌内存浪费",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368792&amp;topic_name=%E6%99%AE%E9%80%9A%E4%BA%BA%E4%B8%8D%E9%85%8D%3FAI%E5%B7%A8%E5%A4%B4%E5%AB%8C%E5%86%85%E5%AD%98%E6%B5%AA%E8%B4%B9",
+          "source": "贴吧",
           "ranks": [
-            16
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时26分 ~ 15时27分]"
+          "time_info": "[01时58分 ~ 01时59分]"
         },
         {
-          "title": "KTV靠AI“发癫”续命",
-          "url": "https://www.baidu.com/s?wd=KTV%E9%9D%A0AI%E2%80%9C%E5%8F%91%E7%99%AB%E2%80%9D%E7%BB%AD%E5%91%BD",
+          "title": "宇树机器人被担架抬下山",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%A2%AB%E6%8B%85%E6%9E%B6%E6%8A%AC%E4%B8%8B%E5%B1%B1",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时58分 ~ 01时59分]"
+        },
+        {
+          "title": "雷军送周云杰小米车模",
+          "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E9%80%81%E5%91%A8%E4%BA%91%E6%9D%B0%E5%B0%8F%E7%B1%B3%E8%BD%A6%E6%A8%A1",
           "source": "百度热搜",
           "ranks": [
             25
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时26分 ~ 15时27分]"
+          "time_info": "[01时58分 ~ 01时59分]"
         },
         {
-          "title": "若AI破解世界难题 数学家还剩什么",
-          "url": "https://www.toutiao.com/trending/7703251675905003062/",
-          "source": "今日头条",
+          "title": "吧友拿十六进制撩AI,回复亮了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368713&amp;topic_name=%E5%90%A7%E5%8F%8B%E6%8B%BF%E5%8D%81%E5%85%AD%E8%BF%9B%E5%88%B6%E6%92%A9AI%2C%E5%9B%9E%E5%A4%8D%E4%BA%AE%E4%BA%86",
+          "source": "贴吧",
           "ranks": [
             27
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时32分 ~ 08时33分]"
+          "time_info": "[01时58分 ~ 01时59分]"
         },
         {
-          "title": "沙特民防部门表示，艾卜哈（Abha）和海米斯穆谢特（Khamis Mushait）地区的危险已经解除。",
-          "url": "https://flash.jin10.com/detail/20261101232850087800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时38分"
-        },
-        {
-          "title": "阿里云推出专业投资者AI工作台Qovest，一句话输出能持续更新的研究报告",
-          "url": "https://wallstreetcn.com/livenews/3192311",
+          "title": "CrowdStrike与戴尔科技宣布，为搭载英伟达技术的戴尔AI工厂推出集成式AI安全方案。",
+          "url": "https://wallstreetcn.com/livenews/3192767",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时27分"
-        },
-        {
-          "title": "沙特民防部门提醒艾卜哈（Abha）和海米斯穆谢特（Khamis Mushait）地区居民注意潜在危险。",
-          "url": "https://flash.jin10.com/detail/20261101232107429800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时38分"
-        },
-        {
-          "title": "香港证监会公布首份AI准备情况调查",
-          "url": "https://flash.jin10.com/detail/20261102151746981800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时27分"
-        },
-        {
-          "title": "A股收盘：创业板指反弹涨1.87%，AI漫剧概念全线爆发",
-          "url": "https://wallstreetcn.com/livenews/3192308",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时27分"
-        },
-        {
-          "title": "AI算力产业链维持高景气度",
-          "url": "https://wallstreetcn.com/livenews/3192117",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时33分"
-        },
-        {
-          "title": "硅基流动赴港IPO备案申请状态显示为“已接收”，拟冲刺“AI Token工厂第一股”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34376118",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时38分"
-        },
-        {
-          "title": "奥特曼称 OpenAI 内部新模型让他兴奋到两晚没睡，这意味着什么？",
-          "url": "https://www.zhihu.com/question/2099437165495300675",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时38分"
-        },
-        {
-          "title": "OpenAI奥特曼：人工智能将改变全球能源的充裕程度与效率。 能源是人工智能领域目前面临的挑战之一。",
-          "url": "https://wallstreetcn.com/livenews/3192280",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时27分"
-        },
-        {
-          "title": "A股收评：创业板指全天强势收涨1.87% 影视院线、AI应用板块强势领涨",
-          "url": "https://flash.jin10.com/detail/20261102150543744800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时27分"
-        },
-        {
-          "title": "A股AI漫剧概念文投控股午后直线涨停，上演“地天板”，走出9天5板，成交超7亿元，该股早盘以跌停价开盘。",
-          "url": "https://wallstreetcn.com/livenews/3192269",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时27分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普 马斯克 加密货币 美联储",
-      "match_count": 22,
-      "titles": [
-        {
-          "title": "特朗普：支持马斯克执掌CNN",
-          "url": "https://news.ifeng.com/c/8xhClkTmeKf",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 08时33分]"
-        },
-        {
-          "title": "谁能阻止科技股下跌？野村：中选没有用，只有美联储！",
-          "url": "https://wallstreetcn.com/articles/3784939",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 08时33分]"
-        },
-        {
-          "title": "特朗普称将邀请泽连斯基参加G20",
-          "url": "https://news.ifeng.com/c/8xhUYqF4JRG",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 08时33分]"
-        },
-        {
-          "title": "美国一公务机在居民区坠毁致 9 死，距特朗普的海湖庄园仅七八公里，具体情况如何？可能是什么原因？",
-          "url": "https://www.zhihu.com/question/2100501083466326367",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时26分 ~ 15时27分]"
-        },
-        {
-          "title": "消息人士透露：特朗普正计划在美国中期选举之后恢复对伊朗的打击，打击最快可能会发生在11月4日",
-          "url": "https://www.cls.cn/detail/2521560",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 05时00分]"
-        },
-        {
-          "title": "美伊局势追踪：伊朗提出“两日重启计划”，特朗普暗示和谈顺利！",
-          "url": "https://www.cls.cn/detail/2521947",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时26分 ~ 15时27分]"
-        },
-        {
-          "title": "据福克斯新闻：特朗普表示，关于伊朗还有一些事情尚未确定。",
-          "url": "https://flash.jin10.com/detail/20261102000011058800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时38分"
-        },
-        {
-          "title": "美国总统特朗普：刚刚与以色列总理内塔尼亚胡进行了良好交谈，谈及了伊朗问题。",
-          "url": "https://flash.jin10.com/detail/20261102044428335800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时00分"
-        },
-        {
-          "title": "美国总统特朗普：（关于加拿大）我们有一个非常好的协议构想。非常接近达成协议。",
-          "url": "https://flash.jin10.com/detail/20261102044304116800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时00分"
-        },
-        {
-          "title": "特朗普称若民主党赢得国会多数席位，自己或将成为“否决先生”",
-          "url": "https://flash.jin10.com/detail/20261101235923003800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时38分"
-        },
-        {
-          "title": "中期选举对特朗普有多重要",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%E5%AF%B9%E7%89%B9%E6%9C%97%E6%99%AE%E6%9C%89%E5%A4%9A%E9%87%8D%E8%A6%81",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27,
-            22,
-            13,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时38分 ~ 15时27分]"
-        },
-        {
-          "title": "柬埔寨电诈园区转到非洲，主要从事网恋、加密货币及虚假投资诈骗，为什么会转移地点？海外出行需要注意什么？",
-          "url": "https://www.zhihu.com/question/2100488722936328450",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时26分 ~ 15时27分]"
-        },
-        {
-          "title": "白宫国家经济委员会主任哈塞特：即使民主党掌控国会，政府仍能做很多事。 希望特朗普政府能与掌控国会的任何一方合作。",
-          "url": "https://wallstreetcn.com/livenews/3192083",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 05时00分]"
-        },
-        {
-          "title": "特朗普万圣节扮“特朗普”：有钱人花9个小时打扮，我只有10分钟",
-          "url": "https://news.ifeng.com/c/8xixkoq17yj",
-          "source": "凤凰网",
           "ranks": [
             9
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时26分 ~ 15时27分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时59分"
         },
         {
-          "title": "一图世界·期中“烤”｜特朗普会成“跛脚鸭”吗？先看懂这些问题",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34383514",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时26分 ~ 15时27分]"
-        },
-        {
-          "title": "你认为特朗普和共和党能赢下今年的中期选举吗？",
-          "url": "https://www.zhihu.com/question/2008641759798894962",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时26分 ~ 15时27分]"
-        },
-        {
-          "title": "美飞机坠毁地点在特朗普私宅附近",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E9%A3%9E%E6%9C%BA%E5%9D%A0%E6%AF%81%E5%9C%B0%E7%82%B9%E5%9C%A8%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%81%E5%AE%85%E9%99%84%E8%BF%91",
-          "source": "百度热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时26分 ~ 15时27分]"
-        },
-        {
-          "title": "特朗普称不希望以总理干扰美伊谈判",
-          "url": "https://flash.jin10.com/detail/20261102035057462800",
+          "title": "CrowdStrike(CRWD.O)与戴尔(DELL.N)宣布为搭载英伟达(NVDA.O)的戴尔AI工厂提供集成AI安全方案。",
+          "url": "https://flash.jin10.com/detail/20261103010653034800",
           "source": "金十数据",
           "ranks": [
-            13
+            17
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时00分"
+          "time_info": "01时59分"
         },
         {
-          "title": "伊朗消息人士：不对特朗普抱有幻想 已做好坚决反击准备",
-          "url": "https://flash.jin10.com/detail/20261102034608511800",
+          "title": "意大利交通部：特斯拉(TSLA.O)1月至10月在意大利的新车注册量同比增长20.69%。",
+          "url": "https://flash.jin10.com/detail/20261103010256904800",
           "source": "金十数据",
           "ranks": [
-            14
+            19
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时00分"
+          "time_info": "01时59分"
         },
         {
-          "title": "美国白宫国家经济委员会主任哈塞特：希望特朗普政府能与掌控国会的任何一方合作。",
-          "url": "https://flash.jin10.com/detail/20261101214013598800",
+          "title": "意大利交通部：特斯拉(TSLA.O)10月在意大利的新车注册量同比增长94.14%。",
+          "url": "https://flash.jin10.com/detail/20261103010129913800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时59分"
+        },
+        {
+          "title": "据葡萄牙汽车协会（ACAP）：葡萄牙10月特斯拉(TSLA.O)汽车新注册量同比增长186.1%，1至10月增长62.5%。",
+          "url": "https://flash.jin10.com/detail/20261103004351550800",
           "source": "金十数据",
           "ranks": [
             26
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时38分"
-        },
-        {
-          "title": "内塔尼亚胡敦促特朗普中期选举后立即打击伊朗",
-          "url": "https://flash.jin10.com/detail/20261102020722377800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时00分"
-        },
-        {
-          "title": "特朗普称不希望以总理干扰美伊谈判",
-          "url": "https://wallstreetcn.com/livenews/3192103",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时33分"
+          "time_info": "01时59分"
         }
       ]
     },
     {
       "keyword_group": "美股 A股 港股 美债 美元 石油 战争",
-      "match_count": 20,
+      "match_count": 18,
       "titles": [
         {
-          "title": "暗藏风险？11家A股公司三季报有董事拒投“赞成票”",
-          "url": "https://www.cls.cn/detail/2521638",
+          "title": "多家A股公司拟出手回购、增持，协创数据拟增持最高10亿元",
+          "url": "https://www.cls.cn/detail/2522799",
           "source": "财联社热门",
           "ranks": [
-            5
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 08时33分]"
-        },
-        {
-          "title": "A股迎利好！金融监管部门将开座谈会",
-          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E8%BF%8E%E5%88%A9%E5%A5%BD%EF%BC%81%E9%87%91%E8%9E%8D%E7%9B%91%E7%AE%A1%E9%83%A8%E9%97%A8%E5%B0%86%E5%BC%80%E5%BA%A7%E8%B0%88%E4%BC%9A",
-          "source": "百度热搜",
-          "ranks": [
-            1,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 08时33分]"
+          "appearance_count": 2,
+          "time_info": "[01时58分 ~ 01时59分]"
         },
         {
           "title": "金融监管部门将召开座谈会，A股将迎哪些利好？",
@@ -867,388 +253,465 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时26分 ~ 15时27分]"
+          "time_info": "[01时58分 ~ 01时59分]"
         },
         {
-          "title": "BP完成嘉实多业务出售，获得60亿美元用于偿还债务",
-          "url": "https://flash.jin10.com/detail/20261102152344268800",
+          "title": "Meta考虑发行至少200亿美元债券 首次进军欧元债市场",
+          "url": "https://flash.jin10.com/detail/20261103014618818800",
           "source": "金十数据",
           "ranks": [
-            1
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时27分"
+          "time_info": "01时59分"
         },
         {
-          "title": "币安：在赔付63亿美元被盗资产的大部分资金后，出现用户集中提取资金的情况。 初始阶段提现已恢复。 提现量激增后有所下降，提现量如预期般趋于稳定。 充值量依然可观。 市场状况稳定。 净流出资金约36.4亿美元。 在11月1日UTC时间06:00至15:30期间，我们处理了46.49亿美元的提款和10.1亿美元的存款。",
-          "url": "https://wallstreetcn.com/livenews/3192095",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时00分"
-        },
-        {
-          "title": "币安黑客攻击事件后出现35亿美元资金流出",
-          "url": "https://wallstreetcn.com/livenews/3192094",
-          "source": "华尔街见闻-快讯",
+          "title": "市场消息：Meta Platforms(META.O)计划发行至少200亿美元的美元和欧元债券。",
+          "url": "https://flash.jin10.com/detail/20261103014103803800",
+          "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时00分"
+          "time_info": "01时59分"
         },
         {
-          "title": "Anthropic 账面亏损 807 亿美元却冲刺 2 万亿 IPO，背后的原因是什么？",
-          "url": "https://www.zhihu.com/question/2099683580964352612",
-          "source": "知乎",
+          "title": "A股将迎千亿级增量资金",
+          "url": "https://www.toutiao.com/trending/7703570400688475689/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时58分 ~ 01时59分]"
+        },
+        {
+          "title": "油价回落提振情绪，美股全线上涨，WTI原油日内下跌6%，金价徘徊3900美元关口",
+          "url": "https://wallstreetcn.com/articles/3784983",
+          "source": "华尔街见闻",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时38分 ~ 05时00分]"
+          "time_info": "[01时58分 ~ 01时59分]"
         },
         {
-          "title": "券商：A股已具备跟随海外反弹的条件",
-          "url": "https://www.toutiao.com/trending/7703410692304879670/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时26分 ~ 15时27分]"
-        },
-        {
-          "title": "A股创业板指涨1.87% 全市超百股涨停",
-          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E5%88%9B%E4%B8%9A%E6%9D%BF%E6%8C%87%E6%B6%A81.87%25+%E5%85%A8%E5%B8%82%E8%B6%85%E7%99%BE%E8%82%A1%E6%B6%A8%E5%81%9C",
+          "title": "A股再迎奇迹日",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E5%86%8D%E8%BF%8E%E5%A5%87%E8%BF%B9%E6%97%A5",
           "source": "百度热搜",
           "ranks": [
-            9
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时26分 ~ 15时27分]"
+          "time_info": "[01时58分 ~ 01时59分]"
         },
         {
-          "title": "A股农历924重大利好来了",
-          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%86%9C%E5%8E%86924%E9%87%8D%E5%A4%A7%E5%88%A9%E5%A5%BD%E6%9D%A5%E4%BA%86%23&t=31&band_rank=10&Refer=top",
+          "title": "A股将迎千亿级增量资金",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E5%B0%86%E8%BF%8E%E5%8D%83%E4%BA%BF%E7%BA%A7%E5%A2%9E%E9%87%8F%E8%B5%84%E9%87%91",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时58分 ~ 01时59分]"
+        },
+        {
+          "title": "傅成玉被查，中国石油化工集团有限公司党组：坚决拥护党中央决定",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34388478",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时58分 ~ 01时59分]"
+        },
+        {
+          "title": "美股",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=20&Refer=top",
           "source": "微博",
           "ranks": [
-            10
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时26分 ~ 15时27分]"
+          "time_info": "[01时58分 ~ 01时59分]"
         },
         {
-          "title": "据半岛电视台：胡塞武装旗下媒体称，也门荷台达省巴杰勒区石油公司遭空袭，致3人受伤。",
-          "url": "https://flash.jin10.com/detail/20261102082900937800",
+          "title": "黑石和加拿大养老基金将投资31亿美元，收购三菱持有的LNG Canada股份",
+          "url": "https://wallstreetcn.com/livenews/3192771",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时59分"
+        },
+        {
+          "title": "金十图示：2026年11月02日（周一）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20261103013209321800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时33分"
+          "time_info": "01时59分"
         },
         {
-          "title": "港股阅文集团(00772.HK)单边走强，午后涨超15%。",
-          "url": "https://flash.jin10.com/detail/20261102151958770800",
+          "title": "金十图示：2026年11月02日（周一）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20261103013111993800",
           "source": "金十数据",
           "ranks": [
-            9
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时27分"
+          "time_info": "01时59分"
         },
         {
-          "title": "中信证券：看好中期选举之后美股科技反弹的可能",
-          "url": "https://flash.jin10.com/detail/20261102081553918800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时33分"
-        },
-        {
-          "title": "伊朗外长：地区国家应防止新一轮战争爆发。",
-          "url": "https://flash.jin10.com/detail/20261102035910064800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时00分"
-        },
-        {
-          "title": "周一亚市盘初，美股期货小幅走高，标普500指数期货涨0.3%，纳斯达克100指数期货涨0.4%。",
-          "url": "https://wallstreetcn.com/livenews/3192114",
+          "title": "纽约期金日内涨2%，现报3976.90美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3192752",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时33分"
-        },
-        {
-          "title": "阿布扎比国家石油公司：全球能源供应缓冲已被大幅削弱",
-          "url": "https://flash.jin10.com/detail/20261102150946020800",
-          "source": "金十数据",
-          "ranks": [
-            19
+            22
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时27分"
+          "time_info": "01时59分"
         },
         {
-          "title": "A股市场调整已较充分，机构建议均衡配置弹性资产与防御底仓",
-          "url": "https://wallstreetcn.com/livenews/3192110",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时33分"
-        },
-        {
-          "title": "海湾国家担忧美以再袭伊朗将引发更大规模地区战争",
-          "url": "https://flash.jin10.com/detail/20261102022118697800",
+          "title": "布伦特原油跌破104美元/桶，日内跌6.89%。",
+          "url": "https://flash.jin10.com/detail/20261103005311116800",
           "source": "金十数据",
           "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时00分"
-        },
-        {
-          "title": "Anthropic打算在纳斯达克上市前，在日本出售35亿美元股份。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3192277",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
+            24
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时27分"
+          "time_info": "01时59分"
         },
         {
-          "title": "阿联酋ADNOC首席执行官：霍尔木兹海峡中断以来，全球库存已消耗近10亿桶。 全球供应缓冲已大幅消耗。 部分市场柴油库存处于35年来同期低点。 中断后，航运和物流成本占每桶原油成本的30%以上。 物流和航运成本已从伊朗战争前的5%升至每桶成本的30%。 这一新现实意味着需在消费市场附近扩大战略储备和灵活炼油产能。",
-          "url": "https://wallstreetcn.com/livenews/3192276",
+          "title": "摆脱OPEC配额限制，阿联酋称石油出口已上升",
+          "url": "https://wallstreetcn.com/livenews/3192748",
           "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时27分"
+          "time_info": "01时59分"
+        },
+        {
+          "title": "布伦特原油日内跌幅达7.0%，报105.32美元/桶；WTI原油跌破97美元/桶关口，报96.98美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3192747",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时59分"
+        },
+        {
+          "title": "哈萨克斯坦能源部称暂停通过Atyrau-Samara输油管道向俄罗斯供应石油，此前一架无人机发动袭击。",
+          "url": "https://wallstreetcn.com/livenews/3192746",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "外交部 商务部 证监会 央行",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "央行明日开展证券、基金、保险公司互换便利操作，申报额度超1000亿元、远超前两次",
+          "url": "https://wallstreetcn.com/articles/3784992",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时58分 ~ 01时59分]"
+        },
+        {
+          "title": "外交部：中方多位特使特代分赴中东等地劝和促谈",
+          "url": "https://news.ifeng.com/c/8xj3iqbyEbD",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时58分 ~ 01时59分]"
+        },
+        {
+          "title": "央行出手！明日启动第三次证券、基金、保险公司互换便利操作招标 申请额度超1000亿",
+          "url": "https://www.cls.cn/detail/2522657",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时58分 ~ 01时59分]"
+        },
+        {
+          "title": "朝鲜是全球最大加密货币交易所遭攻击的幕后黑手？外交部回应",
+          "url": "https://news.ifeng.com/c/8xj4MmP2Iyf",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时58分 ~ 01时59分]"
+        },
+        {
+          "title": "证监会最新部署，哪些增量资金买入了？",
+          "url": "https://www.cls.cn/detail/2522935",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时58分 ~ 01时59分]"
+        },
+        {
+          "title": "央行优化股票回购增持再贷款利率从1.25%降至1%，参会人员：将进一步提振市场、稳定信心",
+          "url": "https://www.cls.cn/detail/2522955",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时58分 ~ 01时59分]"
+        },
+        {
+          "title": "央行出手稳市场！将开展第三次证券、基金、保险公司互换便利操作，明日接受申报",
+          "url": "https://wallstreetcn.com/articles/3784988",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时58分 ~ 01时59分]"
+        },
+        {
+          "title": "央行：再贷款利率由1.25%降至1%",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A1%8C%EF%BC%9A%E5%86%8D%E8%B4%B7%E6%AC%BE%E5%88%A9%E7%8E%87%E7%94%B11.25%25%E9%99%8D%E8%87%B31%25",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时58分 ~ 01时59分]"
+        },
+        {
+          "title": "中国证监会有关部门负责人就近期稳市场稳预期相关工作答记者问",
+          "url": "https://www.cls.cn/detail/2522918",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时58分 ~ 01时59分]"
+        },
+        {
+          "title": "证监会稳市再加码：拟优化护盘式回购、鼓励18只主动ETF加快建仓",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34389816",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时58分 ~ 01时59分]"
+        },
+        {
+          "title": "央行将于11月3日开展证券、基金、保险公司互换便利操作",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34388320",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时58分 ~ 01时59分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普 马斯克 加密货币 美联储",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "美国一公务机在居民区坠毁致 9 死，距特朗普的海湖庄园仅七八公里，具体情况如何？可能是什么原因？",
+          "url": "https://www.zhihu.com/question/2100501083466326367",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时58分 ~ 01时59分]"
+        },
+        {
+          "title": "特朗普：没了结伊朗的唯一原因是想“做个好人”",
+          "url": "https://original.ifeng.com/c/8xjCj7c9hdI",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时58分 ~ 01时59分]"
+        },
+        {
+          "title": "一图世界·期中“烤”｜特朗普会成“跛脚鸭”吗？先看懂这些问题",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34383514",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时58分 ~ 01时59分]"
+        },
+        {
+          "title": "与前两次打击前夕类似！特朗普“打谈并举”，海湾国家“忧虑重重”",
+          "url": "https://wallstreetcn.com/articles/3784957",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时58分 ~ 01时59分]"
+        },
+        {
+          "title": "中期选举对特朗普有多重要",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%E5%AF%B9%E7%89%B9%E6%9C%97%E6%99%AE%E6%9C%89%E5%A4%9A%E9%87%8D%E8%A6%81",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时58分 ~ 01时59分]"
+        },
+        {
+          "title": "美国加州州长纽森：明天，我们将对美国历史上最腐败的总统作出裁决。（纽森所指为当地时间11月3日美国中期选举，意在呼吁选民通过投票表达对特朗普执政表现的不满。）",
+          "url": "https://flash.jin10.com/detail/20261103012342776800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时59分"
+        },
+        {
+          "title": "美国贸易代表格里尔：总统特朗普认定卢旺达和南非政府正在采取不符合《非洲增长与机会法案》资格标准的行为。 其打算根据《非洲增长与机会法案》，暂停南非和卢旺达对美国市场的免税准入资格。",
+          "url": "https://wallstreetcn.com/livenews/3192762",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时59分"
+        },
+        {
+          "title": "美国贸易代表格里尔：美国总统特朗普认定卢旺达和南非政府正在从事不符合《非洲增长与机会法案》资格标准的行为。",
+          "url": "https://flash.jin10.com/detail/20261103005326107800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时59分"
         }
       ]
     },
     {
       "keyword_group": "黄金 白银 铜 铝 稀土",
-      "match_count": 8,
+      "match_count": 5,
       "titles": [
         {
-          "title": "“黄金平替”全球爆单，出口大增",
-          "url": "https://www.cls.cn/detail/2521676",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 08时33分]"
-        },
-        {
-          "title": "现货黄金跌至一年低点，白银跌破 50 美元，贵金属这波大跌是什么原因？",
-          "url": "https://www.zhihu.com/question/2099792854877058324",
-          "source": "知乎",
-          "ranks": [
-            16,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 05时00分]"
-        },
-        {
-          "title": "5克小型黄金饰品又香了",
-          "url": "https://s.weibo.com/weibo?q=%235%E5%85%8B%E5%B0%8F%E5%9E%8B%E9%BB%84%E9%87%91%E9%A5%B0%E5%93%81%E5%8F%88%E9%A6%99%E4%BA%86%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时26分 ~ 15时27分]"
-        },
-        {
-          "title": "黄金底层逻辑变了吗",
-          "url": "https://www.toutiao.com/trending/7703208507763330601/",
+          "title": "黄金价格暴跌背后的全球资本巨变",
+          "url": "https://www.toutiao.com/trending/7703560216603790867/",
           "source": "今日头条",
           "ranks": [
-            29
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时38分 ~ 05时00分]"
+          "time_info": "[01时58分 ~ 01时59分]"
         },
         {
-          "title": "金价震荡下的“黄金生意”",
-          "url": "https://www.toutiao.com/trending/7703392010274606634/",
+          "title": "黄金突然上涨了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E7%AA%81%E7%84%B6%E4%B8%8A%E6%B6%A8%E4%BA%86%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时58分 ~ 01时59分]"
+        },
+        {
+          "title": "暴跌三成后谁在偷偷抄底黄金",
+          "url": "https://www.toutiao.com/trending/7703407618089291300/",
           "source": "今日头条",
           "ranks": [
             30
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时26分 ~ 15时27分]"
+          "time_info": "[01时58分 ~ 01时59分]"
         },
         {
-          "title": "印尼9月铝出口量环比下降37%",
-          "url": "https://flash.jin10.com/detail/20261102152051685800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时27分"
-        },
-        {
-          "title": "男子提前买30g黄金当过年礼物",
-          "url": "https://www.toutiao.com/trending/7702575920556671019/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时00分"
-        },
-        {
-          "title": "一周之内黄金价格经历了什么",
-          "url": "https://www.toutiao.com/trending/7703167704085040667/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时38分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "外交部 商务部 证监会 央行",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "央行证监会将召开座谈会",
-          "url": "https://www.douyin.com/hot/2724231",
-          "source": "抖音",
-          "ranks": [
-            10,
-            11,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时38分 ~ 08时33分]"
-        },
-        {
-          "title": "央行、金融监管总局、证监会召开座谈会，研究推动支持资本市场工具使用，这次含金量和 9.24 比能到几成？",
-          "url": "https://www.zhihu.com/question/2100255430828103026",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时26分 ~ 15时27分]"
-        },
-        {
-          "title": "奥精医疗：涉嫌定期报告等财务数据虚假记载 证监会决定对公司立案",
-          "url": "https://wallstreetcn.com/livenews/3192080",
+          "title": "国际铜夜盘收涨0.82%，沪铜收涨0.73%，沪铝收涨0.26%，沪锌收涨0.9%，沪铅收跌0.99%，沪镍收涨1.23%，沪锡收涨1.2%。 氧化铝夜盘收涨0.61%，铝合金收涨0.57%。 不锈钢夜盘收涨2.78%。",
+          "url": "https://wallstreetcn.com/livenews/3192764",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 05时00分]"
-        },
-        {
-          "title": "央行证监会召集各大银行开会",
-          "url": "https://www.toutiao.com/trending/7703126736388702250/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时26分 ~ 15时27分]"
-        },
-        {
-          "title": "央行证监会将研究支持资本市场工具",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A1%8C%E8%AF%81%E7%9B%91%E4%BC%9A%E5%B0%86%E7%A0%94%E7%A9%B6%E6%94%AF%E6%8C%81%E8%B5%84%E6%9C%AC%E5%B8%82%E5%9C%BA%E5%B7%A5%E5%85%B7",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 05时00分]"
-        },
-        {
-          "title": "科威特外交部：对袭击卡塔尔天然气运输公司旗下液化天然气运输船“迈达号”（Al Maayeda）的行为表示强烈谴责。此类袭击严重威胁海上航行安全以及全球能源供应。我们强调，必须遵守国际法规则，保障海上航行自由以及船舶和船员的安全。外交部警告称，袭击能源运输船可能引发环境和经济风险，并对地区安全与稳定造成严重影响。科方同时强调，有必要查明事件真相，确定责任方并追究其责任。",
-          "url": "https://flash.jin10.com/detail/20261101222914210800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时38分"
-        },
-        {
-          "title": "日本央行：日本央行行长植田和男行长计划于11月30日在日本中部名古屋发表演讲并举行新闻发布会。",
-          "url": "https://flash.jin10.com/detail/20261102150921242800",
-          "source": "金十数据",
-          "ranks": [
-            20
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时27分"
+          "time_info": "01时59分"
         },
         {
-          "title": "央行将开股票回购增持再贷款座谈会",
-          "url": "https://s.weibo.com/weibo?q=%E5%A4%AE%E8%A1%8C%E5%B0%86%E5%BC%80%E8%82%A1%E7%A5%A8%E5%9B%9E%E8%B4%AD%E5%A2%9E%E6%8C%81%E5%86%8D%E8%B4%B7%E6%AC%BE%E5%BA%A7%E8%B0%88%E4%BC%9A&t=31&band_rank=29&Refer=top",
-          "source": "微博",
+          "title": "现货黄金突破3970美元/盎司，日内涨2.40%。",
+          "url": "https://flash.jin10.com/detail/20261103004110340800",
+          "source": "金十数据",
           "ranks": [
-            29
+            28
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时38分"
+          "time_info": "01时59分"
         }
       ]
     }
